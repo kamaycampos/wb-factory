@@ -45,7 +45,7 @@ That's it. After that, these words run your factory:
 | anything else | Ask for a theme week, a series, a new style. It's your studio. |
 
 ## Your control panel
-Your factory has its own website at `https://YOUR-GITHUB-NAME.github.io/YOUR-REPO/`. It shows every clip, where it came from, how it's doing, what's next, your look and your voice. Everything on it is one tap from being changed, and it updates itself every 20 minutes.
+Your factory has its own website at `https://kamaycampos.github.io/wb-factory/`. It shows every clip, where it came from, how it's doing, what's next, your look and your voice. Everything on it is one tap from being changed, and it updates itself every 20 minutes.
 
 ## Two ways to run it
 - **Studio mode** (day one): the machine makes and schedules your clips, and you post them from your board with one tap.

@@ -18,7 +18,7 @@ import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-REPO = os.environ.get("GITHUB_REPOSITORY", "YOUR-GITHUB-NAME/YOUR-REPO")
+REPO = os.environ.get("GITHUB_REPOSITORY", "kamaycampos/wb-factory")
 TAG = "media"
 LIMIT = int(sys.argv[sys.argv.index("--limit") + 1]) if "--limit" in sys.argv else 40
 DRY = "--dry" in sys.argv

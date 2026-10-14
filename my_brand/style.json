@@ -1,7 +1,7 @@
 {
  "_help": "Your clips' look. Delete any line to keep the house default. Type `style` in Claude to change it by talking.",
- "accent_color": "#FFE500",
- "text_color": "white",
+ "accent_color": "#E9B949",
+ "text_color": "#FFF6DD",
  "shadow": "heavy",
  "uppercase": true,
  "hook_seconds": 4.5,
@@ -10,5 +10,9 @@
  "caption_y": 1050,
  "hook_bottom": 930,
  "accent_captions": true,
- "font_file": ""
+ "font_file": "",
+ "_look": "WB Jungle Gold (custom, 14 Oct 2026): deep jungle-green hook card, gold bar and gold key word, warm cream text - organic, earthy, premium.",
+ "hook_card_color": "#0F3B27",
+ "hook_bar_color": "#E9B949",
+ "hook_text_color": "#FFF6DD"
 }

@@ -14,7 +14,7 @@ import os
 import subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = "YOUR-GITHUB-NAME/YOUR-REPO"
+REPO = "kamaycampos/wb-factory"
 GH = os.path.expanduser("~/Kamay/bin/gh")
 now = dt.datetime.utcnow()
 # The machine writes posted_at and scheduled_at in Kamay's own clock (New York),

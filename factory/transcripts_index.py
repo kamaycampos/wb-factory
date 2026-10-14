@@ -4,7 +4,7 @@
     python factory/transcripts_index.py mark    # record every transcript that now exists
 """
 import json, os, subprocess, sys
-R = os.environ.get("GITHUB_REPOSITORY", "YOUR-GITHUB-NAME/YOUR-REPO")
+R = os.environ.get("GITHUB_REPOSITORY", "kamaycampos/wb-factory")
 sh = lambda *a: subprocess.run(list(a), capture_output=True, text=True)
 sh("gh", "release", "download", "sources", "-R", R, "-p", "sources_index.json", "-D", "/tmp", "--clobber")
 # A brand-new copy has no sources release or index yet - that is "nothing to

@@ -29,7 +29,7 @@ You are running a member's copy of **The Affiliate Factory**. It is a clip machi
 7. **Make the weekly work automatic.** Create a scheduled routine on their Claude account (Claude Code routines / scheduled tasks), weekly, Monday morning their time, on this repository. Its prompt: `plan, then report`. From then on clips are chosen every week without them. If routines are not available on their plan, tell them the one sentence that replaces it: say `plan` once a week.
 
 ### Their control panel
-Their website at `https://YOUR-GITHUB-NAME.github.io/YOUR-REPO/` is the member's control room. It is rebuilt every 20 minutes by `panel/build_panel.py`. It has six rooms:
+Their website at `https://kamaycampos.github.io/wb-factory/` is the member's control room. It is rebuilt every 20 minutes by `panel/build_panel.py`. It has six rooms:
 - **Home**: totals, what is up next, and their best clips
 - **Clips**: every clip with its status per platform, numbers, source and timestamps, and its caption
 - **Sources**: the episodes they clip from
@@ -61,7 +61,7 @@ Follow `factory/PLANNING.md` exactly. **A new factory starts with an empty month
 Brand folders are `KT_<ONEWORD>`, one per episode. Never use `AR_`. Push to a `claude/plans-<date>` branch. The repo merges plans and builds the clips by itself.
 
 ### `clips`: what got made
-Read `state/manifest.json` and `factory/reports/latest.md`. List each new clip with its hook, length and status. Point them to their board at `https://YOUR-GITHUB-NAME.github.io/YOUR-REPO/`, where every clip has its caption ready to copy.
+Read `state/manifest.json` and `factory/reports/latest.md`. List each new clip with its hook, length and status. Point them to their board at `https://kamaycampos.github.io/wb-factory/`, where every clip has its caption ready to copy.
 
 ### `post`: switch on autopilot (optional, any time)
 Walk them through `SETUP_POSTING.md` (for Instagram + Facebook follow `SETUP_META.md` step by step, doing every "Claude" step yourself), one platform at a time, in the order Instagram + Facebook first (one Meta setup covers both), then YouTube, then TikTok. When Instagram + Facebook are connected, also switch on **comment → DM**:

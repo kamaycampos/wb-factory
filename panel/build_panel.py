@@ -25,7 +25,7 @@ from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, "docs")
-REPO = os.environ.get("GITHUB_REPOSITORY") or "YOUR-GITHUB-NAME/YOUR-REPO"
+REPO = os.environ.get("GITHUB_REPOSITORY") or "kamaycampos/wb-factory"
 
 
 def load(rel, default):

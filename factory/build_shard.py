@@ -27,7 +27,7 @@ mp4 = R.fetch_source(vid)
 # up to date or it refuses to render at all (19 Sept: both stopped every clip).
 srt = os.path.join(R.K, "transcripts", f"{vid}.srt")
 if not os.path.exists(srt):
-    R.sh("gh", "release", "download", "sources", "-R", os.environ.get("GITHUB_REPOSITORY", "YOUR-GITHUB-NAME/YOUR-REPO"),
+    R.sh("gh", "release", "download", "sources", "-R", os.environ.get("GITHUB_REPOSITORY", "kamaycampos/wb-factory"),
          "-p", f"{vid}.srt.enc", "-D", "/tmp", "--clobber")
     for kname in ("TRANSCRIPT_KEY", "FACTORY_KEY"):          # new key first, old transcripts fall back
         if R.sh("openssl", "enc", "-d", "-aes-256-cbc", "-pbkdf2", "-pass", f"env:{kname}",

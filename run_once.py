@@ -69,7 +69,7 @@ def tiktok_failed(status):
 
 
 def _repo():
-    return os.environ.get("GH_REPO", "YOUR-GITHUB-NAME/YOUR-REPO")
+    return os.environ.get("GH_REPO", "kamaycampos/wb-factory")
 
 
 def posted_log():
@@ -122,7 +122,7 @@ def main():
     # And at GitHub Releases instead of the Railway media route. Release assets
     # have no folders, so a clip's path becomes its filename with a separator
     # that survives a URL untouched.
-    owner = os.environ["GH_REPO"]                # e.g. YOUR-GITHUB-NAME/YOUR-REPO
+    owner = os.environ["GH_REPO"]                # e.g. kamaycampos/wb-factory
     tag = os.environ.get("MEDIA_TAG", "media")
 
     def media_url(rel):

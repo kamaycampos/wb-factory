@@ -12,7 +12,7 @@ differ, but the length cannot.
 """
 import datetime, json, os, re, subprocess, urllib.parse, urllib.request
 
-R = os.environ.get("GITHUB_REPOSITORY", "YOUR-GITHUB-NAME/YOUR-REPO")
+R = os.environ.get("GITHUB_REPOSITORY", "kamaycampos/wb-factory")
 STATE = os.path.join(os.environ.get("KT_DATA", "state"))
 sh = lambda *a, **k: subprocess.run(list(a), capture_output=True, text=True, **k)
 

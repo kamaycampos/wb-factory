@@ -6,7 +6,7 @@ does not open with TRANSCRIPT_KEY is re-encrypted with it. Runs in tmark (single
 writer), where both keys exist.
 """
 import json, os, subprocess
-R = os.environ.get("GITHUB_REPOSITORY", "YOUR-GITHUB-NAME/YOUR-REPO")
+R = os.environ.get("GITHUB_REPOSITORY", "kamaycampos/wb-factory")
 sh = lambda *a: subprocess.run(list(a), capture_output=True, text=True)
 assets = [a["name"] for a in json.loads(sh("gh", "release", "view", "sources", "-R", R, "--json", "assets").stdout)["assets"]
           if a["name"].endswith(".srt.enc")]

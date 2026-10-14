@@ -9,7 +9,7 @@ blocks, and lists next candidate episodes if the month's list is running out.
 import json, os, re, subprocess, sys, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
-BASE = "https://github.com/YOUR-GITHUB-NAME/YOUR-REPO/releases/download/sources/"
+BASE = "https://github.com/kamaycampos/wb-factory/releases/download/sources/"
 MAX = int(sys.argv[sys.argv.index("--max") + 1]) if "--max" in sys.argv else 4
 # WHOSE MACHINE IS THIS RUN FOR. Two accounts, two lists, two sets of plans, and
 # a source is never allowed to serve both (factory/pipeline/kt_fence.py).

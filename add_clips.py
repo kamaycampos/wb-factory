@@ -39,7 +39,7 @@ POST = os.path.join(HOME, "POST_TODAY")
 SERIES = os.path.join(HOME, "kt_series.json")
 STATE = os.path.join(HERE, "state", "manifest.json")
 GH = os.path.join(HOME, "bin", "gh")
-REPO = "YOUR-GITHUB-NAME/YOUR-REPO"
+REPO = "kamaycampos/wb-factory"
 TAG = "media"
 
 
