@@ -1,0 +1,33 @@
+# ONE-OFF (15 Oct 2026): move every transcript from the old TRANSCRIPT_KEY to
+# TRANSCRIPT_KEY_NEW, whose copy also lives on the owner's Mac so `plan` can read
+# transcripts. Deleted after it runs once.
+name: rekey-once
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: factory
+  cancel-in-progress: false
+jobs:
+  rekey:
+    runs-on: ubuntu-24.04
+    env:
+      GH_TOKEN: ${{ github.token }}
+      OLD: ${{ secrets.TRANSCRIPT_KEY }}
+      NEW: ${{ secrets.TRANSCRIPT_KEY_NEW }}
+    steps:
+      - name: Re-encrypt transcripts
+        run: |
+          set -e
+          n=0; bad=0
+          for a in $(gh release view sources -R "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep '\.srt\.enc$'); do
+            gh release download sources -R "$GITHUB_REPOSITORY" -p "$a" -D /tmp --clobber
+            if openssl enc -d -aes-256-cbc -pbkdf2 -pass env:NEW -in "/tmp/$a" -out /tmp/t.srt 2>/dev/null && head -c 1 /tmp/t.srt | grep -q '[0-9]'; then continue; fi
+            if ! openssl enc -d -aes-256-cbc -pbkdf2 -pass env:OLD -in "/tmp/$a" -out /tmp/t.srt 2>/dev/null; then echo "cannot open $a"; bad=$((bad+1)); continue; fi
+            openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:NEW -in /tmp/t.srt -out "/tmp/$a"
+            gh release upload sources "/tmp/$a" --clobber -R "$GITHUB_REPOSITORY"; n=$((n+1))
+          done
+          rm -f /tmp/t.srt
+          echo "re-keyed $n transcript(s), $bad could not be opened"
+          [ "$bad" = 0 ]
