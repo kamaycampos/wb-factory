@@ -21,7 +21,9 @@ jobs:
         run: |
           set -e
           n=0; bad=0
-          for a in $(gh release view sources -R "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' | grep '\.srt\.enc$'); do
+          gh release view sources -R "$GITHUB_REPOSITORY" --json assets -q '.assets[].name' > /tmp/assets.txt
+          echo "assets listed: $(wc -l < /tmp/assets.txt), transcripts: $(grep -c 'srt.enc$' /tmp/assets.txt)"
+          for a in $(grep 'srt\.enc$' /tmp/assets.txt); do
             gh release download sources -R "$GITHUB_REPOSITORY" -p "$a" -D /tmp --clobber
             if openssl enc -d -aes-256-cbc -pbkdf2 -pass env:NEW -in "/tmp/$a" -out /tmp/t.srt 2>/dev/null && head -c 1 /tmp/t.srt | grep -q '[0-9]'; then continue; fi
             if ! openssl enc -d -aes-256-cbc -pbkdf2 -pass env:OLD -in "/tmp/$a" -out /tmp/t.srt 2>/dev/null; then echo "cannot open $a"; bad=$((bad+1)); continue; fi
