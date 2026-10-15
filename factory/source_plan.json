@@ -1,4 +1,71 @@
 {
  "note": "Your month's episodes. Your Claude fills this in (append only).",
- "episodes": []
+ "episodes": [
+  {
+   "id": "v5ic3lf",
+   "title": "The 10 Foods You Should Never Eat",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5ic489",
+   "title": "The 10 Foods You Should Never Eat Part 2",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5j5wdm",
+   "title": "The Truth About The Synthetic Ingredients In Your Vitamins",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5j1oyl",
+   "title": "The Dark Side Of Vitamins And Supplements",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5hbogs",
+   "title": "The Toxic Truth About Our Food Supply",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5j6eqp",
+   "title": "Pay Attention To The Chemicals In Your Water",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5isd6d",
+   "title": "What Caused America's Health Crisis?",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5kln4y",
+   "title": "Lower Blood Pressure By Avoiding These Foods",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5k35fh",
+   "title": "The Truth About Cholesterol And Your Health Problems",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5kwynq",
+   "title": "What Nutritional Deficiencies Cause Heart Problems?",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  },
+  {
+   "id": "v5ixx3h",
+   "title": "How Your Nutritional Supplements Are Harming You (Ep. 57)",
+   "lane": "health",
+   "why": "WB lane: Kevin's health and food truth, 1080p (15 Oct 2026)"
+  }
+ ]
 }
