@@ -11,6 +11,21 @@ on the second-chance backlog, hit the account's usage limit, and pushed nothing.
 each plan passes `check_plan.py`**, to the same branch - the merge job takes each push - so a run that is
 cut off still keeps the plans it finished.
 
+## THIS FACTORY IS WB ORGANICS - READ THIS FIRST (16 Oct 2026, Kamay)
+The text below was written for Kamay's KT money account. Here, `my_brand/BRAND.md` is the brand
+and it OVERRIDES every lane, skip and keyword rule below:
+- **Lane:** 70% health and food truth (what is really in food and vitamins, natural ways to feel well,
+  how the food and drug industry works), 20% brain and self-image (energy, focus, habits), 10% Kevin's story.
+  Health and food are THE lane here, not a skip. Still skip politics, aliens, religion arguments.
+- **Never a cure or treatment claim in our own words** (hooks, captions). Kevin's own words in the clip
+  are his; our text describes, it never promises ("what 100 healthy 90-year-olds ate", never "cures X").
+- **Keyword:** HEALTH. Voice: calm teacher, warm, plain words.
+- **Pace: ONE clip a day.** Plan only when the prep's QUEUE shows under 10 clips; then plan 1-2 episodes
+  (6-9 clips each). Queue 10 or more: report the queue and stop at once.
+- **Ignore "NEWEST UPLOADS"** unless that episode is about health, food or the body (Kevin's newest are
+  usually money). The month list (`factory/source_plan.json`) is WB's health list: plan from it first.
+- Push only to `claude/plans-<YYYY-MM-DD>`, exactly as below.
+
 ## Procedure
 1. `pip install -q opencv-python-headless pillow numpy 2>/dev/null` (so the hook lint can load).
 2. `python factory/routine_prep.py --max 4`. This prints the queue depth, downloads and decrypts the next unplanned episodes' transcripts into `work/`, and writes 30-second reading blocks for each.
