@@ -33,7 +33,11 @@
    "hook": "Why your mom yelled at you",
    "bytes": 56230109,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-16T20:15",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
