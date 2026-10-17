@@ -25,6 +25,8 @@ env:
   KT_LOCK_REPO: ${{ github.repository }}       # this copy's own posting record
   FACTORY_KEY: ${{ secrets.FACTORY_KEY }}
   TRANSCRIPT_KEY: ${{ secrets.TRANSCRIPT_KEY }}
+  PIXABAY_KEY: ${{ secrets.PIXABAY_KEY }}          # cinematic openers (kt_opener.py)
+  OPENER_LIVE: ${{ vars.OPENER_LIVE }}             # "on" after Kamay approves the first automatic one
   GH_TOKEN: ${{ github.token }}
 jobs:
   stock:
