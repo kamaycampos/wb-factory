@@ -11,19 +11,39 @@ on the second-chance backlog, hit the account's usage limit, and pushed nothing.
 each plan passes `check_plan.py`**, to the same branch - the merge job takes each push - so a run that is
 cut off still keeps the plans it finished.
 
-## THIS FACTORY IS WB ORGANICS - READ THIS FIRST (16 Oct 2026, Kamay)
+## THIS FACTORY IS WB ORGANICS - READ THIS FIRST (rewritten 17 Oct 2026, Kamay)
 The text below was written for Kamay's KT money account. Here, `my_brand/BRAND.md` is the brand
-and it OVERRIDES every lane, skip and keyword rule below:
-- **Lane:** 70% health and food truth (what is really in food and vitamins, natural ways to feel well,
-  how the food and drug industry works), 20% brain and self-image (energy, focus, habits), 10% Kevin's story.
-  Health and food are THE lane here, not a skip. Still skip politics, aliens, religion arguments.
-- **Never a cure or treatment claim in our own words** (hooks, captions). Kevin's own words in the clip
-  are his; our text describes, it never promises ("what 100 healthy 90-year-olds ate", never "cures X").
+and it OVERRIDES every lane, skip and keyword rule below.
+
+**THE WB LAW (Kamay, 17 Oct 2026): "high quality, valuable health related information, not claims,
+just information, give value."** Clip 2 ("Why your mom yelled at you") broke all of it: a parenting
+story on a health brand, opening on "You're not stupid". TikTok took it down. Every WB clip answers
+YES to all four, or it is not planned:
+1. **Is it health information?** Food, water, vitamins, ingredients, the body, sleep, energy, how the
+   food and drug industry works. Not parenting, not money, not Kevin's legal story, not self-image
+   (those belong to KT). The hook names the subject (`my_brand/lane.json` topic words; code checks).
+2. **Does the viewer learn something they can USE?** Read a label, swap an oil, filter water, ask a
+   question at the store. "A fact was stated" is not value (RULES.md #19). Prefer the clip where Kevin
+   explains WHY and WHAT TO DO over the one where he only accuses.
+3. **Is our text information, not a claim?** Hooks ask or name (`What's really in your tap water`,
+   `What 100 healthy 90-year-olds ate`, `How to read your vitamin label`). Never state harm or cure as
+   fact in our words (`Trans fats are scarring your arteries`, `Your oil lowers testosterone` are
+   refused). Kevin's opinions stay his in the caption: "Kevin Trudeau says...", "his view:".
+4. **Are the first seconds clean?** No insult, curse or shock word in the opening (stupid, idiot, kill,
+   hell...: `lane.json` harsh_words, code checks start_words, hook and the first 8s of transcript).
+   Skip moments that would read as medical advice to stop a medication, or anything about vaccines,
+   cancer cures, hydrogen peroxide or "one minute cure" products: platforms remove them.
+
+`python factory/check_plan.py` enforces 1, 3 and 4 (and the KT hook rules: start with How / Why / What /
+The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 2026: 11 of 13 hooks
+("Pork sits in you 48 hours") were refused by the factory AFTER planning - 0 clips built that day.
+
 - **Keyword:** HEALTH. Voice: calm teacher, warm, plain words.
-- **Pace: ONE clip a day.** Plan only when the prep's QUEUE shows under 10 clips; then plan 1-2 episodes
-  (6-9 clips each). Queue 10 or more: report the queue and stop at once.
+- **Pace: 4-6 clips a day (THE CADENCE RULE, Kamay 17 Oct; same as KT).** Plan when the prep's QUEUE
+  shows under 12 clips (two days): plan 2-3 episodes, 6-9 clips each. 12 or more: report and stop.
 - **Ignore "NEWEST UPLOADS"** unless that episode is about health, food or the body (Kevin's newest are
   usually money). The month list (`factory/source_plan.json`) is WB's health list: plan from it first.
+  When it runs out, append health/food episodes from the candidates, 1080p first.
 - Push only to `claude/plans-<YYYY-MM-DD>`, exactly as below.
 
 ## Procedure

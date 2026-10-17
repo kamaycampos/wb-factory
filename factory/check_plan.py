@@ -112,6 +112,71 @@ def recent_hooks(n=40):
     return [c["hook"] for c in sorted(posted, key=lambda c: c["posted_at"])[-n:]]
 
 
+# THE BRAND'S LANE, IN CODE (17 Oct 2026). WB's second post was a parenting story
+# ("Why your mom yelled at you") on a health brand, opening on "You're not stupid".
+# TikTok took it down. Kamay: "we are supposed to post high quality valuable health
+# related information, not claims, just information." A brand that writes
+# my_brand/lane.json gets three refusals: the clip must be ON the lane (a topic word in
+# the hook or caption), our own words never claim (no cure / treat / heal / kills in the
+# hook or caption), and nothing harsh in the opening seconds (start_words, hook, or the
+# first 8s of the transcript when it is in work/). A brand without the file is untouched.
+def _lane():
+    p = os.path.join(os.path.dirname(HERE), "my_brand", "lane.json")
+    try:
+        return json.load(open(p))
+    except Exception:
+        return None
+
+
+def _words(xs):
+    return re.compile(r"\b(" + "|".join(re.escape(x) for x in xs) + r")\b", re.I) if xs else None
+
+
+def _opening_text(src, t0, secs=8.0):
+    """The transcript's words in the clip's first seconds, if the .srt is in work/."""
+    vid = re.sub(r"\.mp4$", "", str(src))
+    p = os.path.join(os.path.dirname(HERE), "work", vid + ".srt")
+    if not os.path.exists(p):
+        return ""
+    def sec(t):
+        h, m, s = t.replace(",", ".").split(":")
+        return int(h) * 3600 + int(m) * 60 + float(s)
+    out = []
+    for block in open(p, encoding="utf-8", errors="ignore").read().split("\n\n"):
+        m = re.search(r"(\d+:\d+:\d+[,.]\d+)\s*-->\s*(\d+:\d+:\d+[,.]\d+)\s*\n(.*)", block, re.S)
+        if m and sec(m.group(2)) > t0 - 1 and sec(m.group(1)) < t0 + secs:
+            out.append(m.group(3).replace("\n", " "))
+    return " ".join(out)
+
+
+def lane_problems(p, c):
+    L = _lane()
+    if not L:
+        return []
+    errs, s = [], c.get("slug", "?")
+    hook, cap = " ".join(c.get("hook") or []), c.get("caption", "")
+    body = cap.split("#")[0]
+    topic, claim, harsh = (_words(L.get(k)) for k in ("topic_words", "claim_words", "harsh_words"))
+    # The HOOK must name the subject: the mom clip's caption said "eating dirt" and
+    # would have passed a caption test. Every good WB hook so far names it (water,
+    # supplements, healthy 90-year-olds).
+    if topic and not topic.search(hook):
+        errs.append(f"{s}: OFF THE {L.get('name', '').upper()} LANE - the hook names nothing from "
+                    f"my_brand/lane.json topic_words (food, water, vitamins, the body...)")
+    for where, txt in (("hook", hook), ("caption", body)):
+        m = claim and claim.search(txt)
+        if m:
+            errs.append(f"{s}: {where} makes a claim ('{m.group(0)}') - share the information, never "
+                        f"a cure/treat/heal/kill claim in our own words")
+    opening = " ".join([str(c.get("start_words") or ""), hook,
+                        _opening_text(p.get("source"), float(c.get("in") or 0))])
+    m = harsh and harsh.search(opening)
+    if m:
+        errs.append(f"{s}: harsh word in the first seconds ('{m.group(0)}') - platforms flag it and "
+                    f"it is not the brand; open on a different sentence")
+    return errs
+
+
 bad = 0
 tired = overexposed(recent_hooks())
 if tired:
@@ -173,6 +238,7 @@ for path in sys.argv[1:]:
         # a filler word or a pointer back is the wind-up BEFORE the line; open on the line.
         if fam == "KT" and WIND_UP.match(str(c.get("start_words") or "").strip()):
             errs.append(f"{s}: opens on a wind-up ('{c.get('start_words')}') - start on the sharpest line itself (FIRST_3_SECONDS.md)")
+        errs += lane_problems(p, c)
     print(f"{name}: {'OK' if not errs else 'PROBLEMS'} ({len(slugs)} clips)")
     for e in errs: print("   -", e)
     bad += bool(errs)
