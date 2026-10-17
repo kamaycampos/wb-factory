@@ -12,7 +12,7 @@ edges, compliance, `my_brand/lane.json` or `my_brand/BRAND.md`. Every order carr
 - **2 posts ever** (15 + 16 Oct). Clip 2 (parenting story, opened on "You're not stupid") was taken down
   by TikTok. 17 Oct: 0 of 13 planned clips built (11 hooks refused, 2 caption timing). Fixed the same day.
 - **Supply is the wall.** Kevin's catalogue has 145 health/food episodes but only **14 at 1080p (5.6 h)**;
-  114 are 360p (21 h). At 5 posts a day the 1080p health material lasts about **2 weeks**. The editor's
+  114 are 360p (21 h). At 1 post a day the 1080p material lasts ~2 months; at 5 a day (after the warm-up) about **2 weeks**. The editor's
   cinematic format (Kevin's voice over HD visuals) is what unlocks the other 21 hours.
 
 ### Orders
@@ -26,5 +26,5 @@ edges, compliance, `my_brand/lane.json` or `my_brand/BRAND.md`. Every order carr
   stopping medication, anything that reads as medical advice. Platforms remove them; one removal costs
   the young account more than ten good posts earn.
 - **Keyword:** HEALTH on clips that make someone want the guide/product; a question on the rest.
-- **Posting:** 5 a day, 08:30 / 11:30 / 14:30 / 17:30 / 20:30 NY (set 17 Oct). Re-time once there are
-  20+ posts of WB's own data; until then KT's hours are the best guess.
+- **Posting: 1 a day at 20:00 NY while the new accounts build trust** (Kamay's warm-up, review 29 Oct).
+  So every clip must be the best one available: one great post a day beats five average ones here.

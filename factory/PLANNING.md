@@ -39,8 +39,10 @@ The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 202
 ("Pork sits in you 48 hours") were refused by the factory AFTER planning - 0 clips built that day.
 
 - **Keyword:** HEALTH. Voice: calm teacher, warm, plain words.
-- **Pace: 4-6 clips a day (THE CADENCE RULE, Kamay 17 Oct; same as KT).** Plan when the prep's QUEUE
-  shows under 12 clips (two days): plan 2-3 episodes, 6-9 clips each. 12 or more: report and stop.
+- **Pace: ONE clip a day while the accounts build trust (Kamay, 15-17 Oct 2026).** WB's accounts are
+  days old: one post a day, every day, at 20:00 NY (IG + YT automatic, TikTok to Kamay's inbox, he posts
+  TikTok and Facebook by hand). Going to 4-6 a day is Kamay's call after the warm-up (review 29 Oct).
+  Plan when the prep's QUEUE shows under 10 clips: plan 1-2 episodes. 10 or more: report and stop.
 - **Ignore "NEWEST UPLOADS"** unless that episode is about health, food or the body (Kevin's newest are
   usually money). The month list (`factory/source_plan.json`) is WB's health list: plan from it first.
   When it runs out, append health/food episodes from the candidates, 1080p first.
