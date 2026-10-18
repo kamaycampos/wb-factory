@@ -1,0 +1,22 @@
+{
+ "source": "v5hbogs.mp4",
+ "brand": "KT_BLACKPLASTICR2",
+ "test": false,
+ "note": "2026-10-18 - re-cut by HQ chat: ends on 'shows that it gets in your body.' (was 'like breast' + uncaptioned 'Cancer, cancer, cancer' = UNCAPTIONED SPEECH fail and a TikTok-removal risk).",
+ "clips": [
+  {
+   "slug": "WHATS-LEACHING-INTO-YOUR-FOOD",
+   "in": 98.16,
+   "out": 179.44,
+   "start_words": "Black colored plastic used in",
+   "end_words": "it gets in your body",
+   "hook": [
+    "What's leaching into",
+    "your food"
+   ],
+   "caption": "Kevin Trudeau points to research on black plastic: the kind used in takeout containers, kitchen utensils, and the trays under your grocery store meat and sushi.\n\nThat black color often comes from recycled electronics plastic, carrying flame retardants never meant to touch food. Testing has found tiny plastic particles turning up in brain and fat tissue.\n\nKevin's advice: skip the black plastic. Ask for paper, choose glass or stainless for leftovers, and move food off black trays before you store or reheat it.\n\n#kevintrudeau #foodsafety #realfood #readthelabel #wbdaily #healthtruth",
+   "opener": "black plastic takeout container",
+   "retry_of": "ep_v5hbogs/WHATS-LEACHING-INTO-YOUR-FOOD"
+  }
+ ]
+}
