@@ -57,7 +57,8 @@
    "hook": "The real vitamin E you're missing",
    "bytes": 37528627,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-17T22:03"
   }
  ]
 }
