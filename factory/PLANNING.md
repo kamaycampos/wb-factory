@@ -42,7 +42,13 @@ The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 202
 - **Pace: ONE clip a day while the accounts build trust (Kamay, 15-17 Oct 2026).** WB's accounts are
   days old: one post a day, every day, at 20:00 NY (IG + YT automatic, TikTok to Kamay's inbox, he posts
   TikTok and Facebook by hand). Going to 4-6 a day is Kamay's call after the warm-up (review 29 Oct).
-  Plan when the prep's QUEUE shows under 10 clips: plan 1-2 episodes. 10 or more: report and stop.
+  Plan when the prep's QUEUE shows under 10 clips: plan 2 episodes and **at least 4 clips in total, 6-8 when the
+  material allows** (18 Oct 2026: a run planned 1 clip per episode, both failed caption timing, and the day's post
+  never happened - about half of all cuts fail a gate, so one post a day needs 3-4 candidates). Fewer than 4: say
+  why in the report. 10 or more queued: report and stop.
+- **The whole clip is checked, not just the opening** (18 Oct): TikTok removed 2 WB clips that said "stupid" and
+  "hell". A harsh word anywhere in the cut refuses it; cancer/vaccine/tumor spoken inside is a warning - prefer
+  a cut without them.
 - **Ignore "NEWEST UPLOADS"** unless that episode is about health, food or the body (Kevin's newest are
   usually money). The month list (`factory/source_plan.json`) is WB's health list: plan from it first.
   When it runs out, append health/food episodes from the candidates, 1080p first.

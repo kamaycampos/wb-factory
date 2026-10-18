@@ -1,5 +1,5 @@
 {
-  "note": "WB lane, enforced by factory/check_plan.py (17 Oct 2026, Kamay). WB posts high-quality, valuable HEALTH INFORMATION - not claims. Clip 2 ('Why your mom yelled at you') was a parenting story that opened on 'You're not stupid' and TikTok took it down. Never again.",
+  "note": "WB lane, enforced by factory/check_plan.py (17 Oct 2026, Kamay). WB posts high-quality, valuable HEALTH INFORMATION - not claims. Clip 2 ('Why your mom yelled at you') was a parenting story that opened on 'You're not stupid' and TikTok took it down. Never again. 18 Oct: clip 3 (vitamin E, ended on 'What the hell are we making?') was also removed by TikTok: harsh words and TikTok-removal words are now checked across the WHOLE clip.",
   "name": "health",
   "topic_words": [
     "food",
@@ -158,16 +158,24 @@
     "damn",
     "shit",
     "crap",
-    "kill",
-    "killed",
-    "killing",
-    "die",
-    "dying",
-    "suicide",
     "ugly",
     "fat ass",
     "loser",
     "losers",
     "sucks"
+  ],
+  "tiktok_removal_words": [
+    "cancer",
+    "cancers",
+    "vaccine",
+    "vaccines",
+    "vaccinated",
+    "chemo",
+    "chemotherapy",
+    "tumor",
+    "tumors",
+    "covid",
+    "autism",
+    "suicide"
   ]
 }

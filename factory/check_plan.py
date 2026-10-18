@@ -174,6 +174,25 @@ def lane_problems(p, c):
     if m:
         errs.append(f"{s}: harsh word in the first seconds ('{m.group(0)}') - platforms flag it and "
                     f"it is not the brand; open on a different sentence")
+    # THE WHOLE CLIP, NOT ONLY THE OPENING (18 Oct 2026). WB's vitamin E clip ended on
+    # "What the hell are we making?" and TikTok removed it - the 2nd removal in a row.
+    # Harsh words anywhere, and the words TikTok removes health videos for, refuse the cut:
+    # move an edge so they fall outside, or pick another moment.
+    t0, t1 = float(c.get("in") or 0), float(c.get("out") or 0)
+    whole = _opening_text(p.get("source"), t0, max(0.0, t1 - t0))
+    risky = _words(L.get("tiktok_removal_words"))
+    hit = harsh and (harsh.search(whole) or harsh.search(hook + " " + body))
+    if hit and not m:
+        errs.append(f"{s}: harsh word inside the clip ('{hit.group(0)}') - TikTok removed 2 WB clips "
+                    f"with one ('stupid', 'hell'); move an edge so it falls outside, or choose another moment")
+    # Words TikTok is known to remove health videos for: a WARNING (no removal has been
+    # traced to one yet). Prefer a cut without them; in the hook or caption it is an error.
+    rk = risky and risky.search(hook + " " + body)
+    if rk:
+        errs.append(f"{s}: '{rk.group(0)}' in our own hook/caption - TikTok removes health posts for it")
+    rk = risky and risky.search(whole)
+    if rk:
+        print(f"   ~ {s}: '{rk.group(0)}' is spoken inside the clip - TikTok may remove it; prefer a cut without it")
     return errs
 
 
