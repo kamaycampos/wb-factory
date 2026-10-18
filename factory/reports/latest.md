@@ -1,7 +1,7 @@
 ## ep_v5hbogs: 0 of 1 clip(s) passed every gate
 
 
-## 2026-10-18 22:08
+## 2026-10-18 22:29
   note KT_BLACKPLASTIC/WHATS-LEACHING-INTO-YOUR-FOOD: ending kept on the planner's words 'in the body like breast' (introduces, does not claim)
 ep_v5hbogs__s0 (KT_BLACKPLASTIC): 1 of 1 passed pre-render gates
 
@@ -12,7 +12,7 @@ RENDER ep_v5hbogs__s0
 ## ep_v5hbogs_r2: 1 of 1 clip(s) passed every gate
 
 
-## 2026-10-18 22:08
+## 2026-10-18 22:26
 ep_v5hbogs_r2__s0 (KT_BLACKPLASTICR2): 1 of 1 passed pre-render gates
 
 RENDER ep_v5hbogs_r2__s0
@@ -26,12 +26,12 @@ TEST MODE - passing clips NOT uploaded or queued: KT_BLACKPLASTICR2
 ## ep_v5isd6d: 0 of 1 clip(s) passed every gate
 
 
-## 2026-10-18 22:12
+## 2026-10-18 22:27
   note KT_FOODSHIFT/WHY-YOUR-FOOD-CHANGED-AFTER-1967: ending kept on the planner's words 'blood work like this' (cuts mid-sentence)
 ep_v5isd6d__s0 (KT_FOODSHIFT): 1 of 1 passed pre-render gates
 
 RENDER ep_v5isd6d__s0
-  FAIL 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_127s.mp4: [FAIL] 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_127s.mp4           14 captions vs the sound  median +0.56s  worst-10% 0.85s  | words captioned 99%
+  FAIL 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_127s.mp4: [FAIL] 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_127s.mp4           6 captions vs the sound  median +0.77s  worst-10% 0.90s  | words captioned 100%
 
 
 ## UPLOAD
