@@ -1,0 +1,25 @@
+{
+ "clips": {
+  "ep_v5hbogs_r2/WHATS-LEACHING-INTO-YOUR-FOOD": {
+   "plan": "ep_v5hbogs_r2",
+   "source": "v5hbogs.mp4",
+   "brand": "KT_BLACKPLASTICR2",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHATS-LEACHING-INTO-YOUR-FOOD_68s.mp4` - ends mid-thought on \"gets in your\""
+   ],
+   "slug": "WHATS-LEACHING-INTO-YOUR-FOOD",
+   "in": 98.16,
+   "out": 179.44,
+   "start_words": "Black colored plastic used in",
+   "end_words": "it gets in your body",
+   "hook": [
+    "What's leaching into",
+    "your food"
+   ]
+  }
+ },
+ "attempts": {
+  "ep_v5isd6d": 1
+ }
+}
