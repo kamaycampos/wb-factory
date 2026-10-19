@@ -1,0 +1,12 @@
+{"source": "v5isd6d.mp4", "brand": "KT_FOODSHIFTR2", "test": false,
+ "note": "2026-10-19 - re-cut by weekly agent: edges moved ~3-5s later/earlier to re-time captions (was 'captions vs the sound' worst-10% 0.81s fail).",
+ "clips": [
+  {"slug": "WHY-YOUR-FOOD-CHANGED-AFTER-1967",
+   "in": 49.16, "out": 122.0,
+   "start_words": "Something magical happened in",
+   "end_words": "it's like a 20-year-old",
+   "hook": ["Why your food", "changed after 1967"],
+   "caption": "Kevin Trudeau says something shifted in American food around 1967: frozen dinners took over the freezer aisle, and processed meals became the everyday norm almost overnight.\n\nHis own story: a full round of tests, from a circulatory check to a heart scan, every one of them from head to toe. The doctor's words: no plaque buildup, like looking at someone decades younger.\n\nKevin's take: it isn't luck, it's what and how you eat every day.\n\nNext grocery run, count how many items in your cart were packaged before you could just reheat them, and swap one for something closer to how it grew.\n\n#kevintrudeau #realfood #processedfood #wbdaily #healthtruth #readthelabel",
+   "opener": "vintage frozen dinner tray",
+   "retry_of": "ep_v5isd6d/WHY-YOUR-FOOD-CHANGED-AFTER-1967"}
+ ]}
