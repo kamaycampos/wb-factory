@@ -17,6 +17,60 @@
     "Why your food",
     "changed after 1967"
    ]
+  },
+  "ep_v5isd6d_r2/WHY-YOUR-FOOD-CHANGED-AFTER-1967": {
+   "plan": "ep_v5isd6d_r2",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_FOODSHIFTR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_63s.mp4` - opens mid-sentence on \"something magical\""
+   ],
+   "slug": "WHY-YOUR-FOOD-CHANGED-AFTER-1967",
+   "in": 49.16,
+   "out": 122.0,
+   "start_words": "Something magical happened in",
+   "end_words": "it's like a 20-year-old",
+   "hook": [
+    "Why your food",
+    "changed after 1967"
+   ]
+  },
+  "ep_v5k35fh/WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING": {
+   "plan": "ep_v5k35fh",
+   "source": "v5k35fh.mp4",
+   "brand": "KT_CHOLESTEROL",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_139s.mp4` - phrase scrambled around \"artery if the artery\""
+   ],
+   "slug": "WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING",
+   "in": 905.0,
+   "out": 1044.0,
+   "start_words": "The LDL cholesterol is",
+   "end_words": "you're in big trouble",
+   "hook": [
+    "What your cholesterol",
+    "is really doing"
+   ]
+  },
+  "ep_v5kln4y/WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY": {
+   "plan": "ep_v5kln4y",
+   "source": "v5kln4y.mp4",
+   "brand": "KT_PRESSURE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_48s.mp4` - ends mid-thought on \"And it says,\""
+   ],
+   "slug": "WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY",
+   "in": 287.64,
+   "out": 334.44,
+   "start_words": "you think you're eating",
+   "end_words": "avoid chemicals in food packaging",
+   "hook": [
+    "Why your vegan",
+    "food isn't healthy"
+   ]
   }
  },
  "attempts": {
