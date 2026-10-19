@@ -140,30 +140,10 @@ function clipCard(c) {
     </div></article>`;
 }
 
-// READY FOR TIKTOK (19 Oct 2026). TikTok's inbox takes no description, so every clip there
-// needs its caption copied from here - and "Your best" ranks by views, so the NEWEST clip,
-// the one just sent to the inbox, was the first to fall off the home page. Kamay: "the last
-// two videos the descriptions didnt came to our dashboard". Newest first, text on the card.
-function tiktokCard(c) {
-  return `<article class="card">
-    ${c.thumb ? `<img src="${c.thumb}" alt="" loading="lazy">` : '<div class="noimg"></div>'}
-    <div class="meta">
-      <div class="hook">${esc(c.hook)}</div>
-      <div class="small">Sent to your TikTok inbox ${esc(when(c.posted))}</div>
-      <pre style="max-height:none;font-family:inherit;font-size:14px">${esc(c.caption)}</pre>
-      <div class="row"><button data-copy="${esc(c.caption)}" data-label="Description copied. Paste it in TikTok">Copy description</button>
-        <a href="${esc(c.media)}" target="_blank" rel="noopener" download>Download video</a></div>
-    </div></article>`;
-}
-
 const rooms = {
   Home() {
     const s = D.summary, next = D.clips.filter(c => !c.posted && !c.retired).sort((a,b) => (a.scheduled||'~').localeCompare(b.scheduled||'~')).slice(0, 4);
     const top = D.clips.filter(c => c.posted).map(c => [c, (c.views.instagram||0)+(c.views.youtube||0)+(c.views.tiktok||0)]).sort((a,b) => b[1]-a[1]).slice(0, 4).map(x => x[0]);
-    const weekAgo = new Date(Date.now() - 7 * 864e5 - 4 * 36e5).toISOString().slice(0, 16);
-    const tiktok = D.clips.filter(c => c.posted && c.posted !== 'yes' && c.posted >= weekAgo && !c.tiktok_done
-      && /inbox|draft|uploaded|processing/i.test((c.status || {}).tiktok || ''))
-      .sort((a,b) => b.posted.localeCompare(a.posted));
     const skipNote = s.skip == null ? 'appears once Instagram reports' : (s.skip <= 40 ? 'under the 40% target' : 'target: under 40%');
     return `<section class="tiles">
       <div class="tile"><span class="label">Clips made</span><b>${fmt(s.made)}</b><small>${fmt(s.pending)} waiting to post</small></div>
@@ -173,9 +153,6 @@ const rooms = {
       <div class="tile"><span class="label">TikTok followers</span><b>${fmt(s.followers)}</b><small>updated every 6 hours</small></div>
     </section>
     ${D.clips.length ? `
-    ${tiktok.length ? `<section style="display:grid;gap:14px"><h2>Ready for <span class="gold">TikTok</span> · ${tiktok.length}</h2>
-      <p class="small">In your TikTok inbox. Copy the description, open TikTok, paste it, tap Post.</p>
-      <div class="grid">${tiktok.map(tiktokCard).join('')}</div></section>` : ''}
     <section style="display:grid;gap:14px"><h2>Up <span class="gold">next</span></h2>
       ${next.length ? `<div class="grid">${next.map(clipCard).join('')}</div>` : '<p class="small">Nothing waiting. Type <b>plan</b> in Claude to choose this week\'s clips.</p>'}</section>
     ${top.length ? `<section style="display:grid;gap:14px"><h2>Your <span class="gold">best</span></h2><div class="grid">${top.map(clipCard).join('')}</div></section>` : ''}`
