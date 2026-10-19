@@ -102,7 +102,11 @@
    "hook": "Why your blood pressure reading lies",
    "bytes": 35172610,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-20T20:03",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
