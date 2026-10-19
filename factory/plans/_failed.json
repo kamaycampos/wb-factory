@@ -1,6 +1,25 @@
 {
- "clips": {},
+ "clips": {
+  "ep_v5isd6d/WHY-YOUR-FOOD-CHANGED-AFTER-1967": {
+   "plan": "ep_v5isd6d",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_FOODSHIFT",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_127s.mp4: [FAIL] 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_127s.mp4           14 captions vs the sound  median -0.00s  worst-10% 0.81s  | words captioned 99%"
+   ],
+   "slug": "WHY-YOUR-FOOD-CHANGED-AFTER-1967",
+   "in": 45.8,
+   "out": 176.12,
+   "start_words": "If you were born after",
+   "end_words": "blood work like this",
+   "hook": [
+    "Why your food",
+    "changed after 1967"
+   ]
+  }
+ },
  "attempts": {
-  "ep_v5isd6d": 1
+  "ep_v5isd6d": 2
  }
 }
