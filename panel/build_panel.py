@@ -112,6 +112,7 @@ def clip_rows():
             "status": c.get("status") or {}, "links": c.get("links") or {},
             "scheduled": c.get("scheduled_at"), "posted": live or None,
             "done": bool(c.get("done")), "retired": bool(c.get("retired")),
+            "tiktok_done": bool(c.get("tiktok_done")),
             "keyword": c.get("cta_keyword", ""),
             "views": {"instagram": ig.get("views"),
                       "youtube": (mm.get("youtube") or {}).get("views"),
