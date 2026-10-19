@@ -77,12 +77,24 @@
    "caption": "Kevin Trudeau points to research on black plastic: the kind used in takeout containers, kitchen utensils, and the trays under your grocery store meat and sushi.\n\nThat black color often comes from recycled electronics plastic, carrying flame retardants never meant to touch food. Testing has found tiny plastic particles turning up in brain and fat tissue.\n\nKevin's advice: skip the black plastic. Ask for paper, choose glass or stainless for leftovers, and move food off black trays before you store or reheat it.\n\n#kevintrudeau #foodsafety #realfood #readthelabel #wbdaily #healthtruth",
    "hook": "What's leaching into your food",
    "bytes": 43832661,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-10-19T07:35",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DerKhmnDslD/",
+    "youtube": "https://youtube.com/shorts/Q23WWVMg7Dc"
+   },
+   "caption_at_post": "Kevin Trudeau points to research on black plastic: the kind used in takeout containers, kitchen utensils, and the trays under your grocery store meat and sushi.\n\nThat black color often comes from recycled electronics plastic, carrying flame retardants never meant to touch food. Testing has found tiny plastic particles turning up in brain and fat tissue.\n\nKevin's advice: skip the black plastic. Ask for paper, choose glass or stainless for leftovers, and move food off black trays before you store or reheat it.\n\n#kevintrudeau #foodsafety #realfood #readthelabel #wbdaily #healthtruth",
+   "posted_at": "2026-10-19T07:39"
   }
  ]
 }
