@@ -99,5 +99,45 @@
     "caption": "Kevin Trudeau says most blood pressure checks get the number wrong before they even start.\n\nHis point: articles he's read show the majority of these tests are done with the arm in the wrong position, which gives a falsely high reading. So the first question isn't what your number means, it's whether the test was done right.\n\nHis own habit: he keeps a blood pressure cuff at home and checks it himself from time to time, instead of relying on one office visit.\n\nComment HEALTH and we'll send you what a correct test actually looks like.\n\n#kevintrudeau #bloodpressure #healthtruth #wbdaily #readthelabel #naturalhealth"
    }
   ]
+ },
+ "ep_v5isd6d_r3": {
+  "source": "v5isd6d.mp4",
+  "brand": "KT_FOODSHIFTR3",
+  "note": "2026-10-20 - re-cut by weekly agent: start moved to the real sentence boundary ('Twenty-five years ago I said', was mid-sentence on 'something magical' - the r2 fail) and a second clip added from the same episode's water-filtration passage.",
+  "clips": []
+ },
+ "ep_v5k35fh_r2": {
+  "source": "v5k35fh.mp4",
+  "brand": "KT_CHOLESTEROLR2",
+  "note": "2026-10-20 - re-cut by weekly agent: end moved earlier, off the scrambled phrase around 'artery if the artery' (the original fail), onto the 'bad rap' punchline that already pays the clip's point.",
+  "clips": [
+   {
+    "slug": "WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING",
+    "in": 905.32,
+    "out": 1017.93,
+    "hook": [
+     "What your cholesterol",
+     "is really doing"
+    ],
+    "caption": "Kevin Trudeau's view on cholesterol goes against what most people assume.\n\nHis explanation: LDL cholesterol doesn't attack your arteries on its own. It responds to damage that's already there, patching small tears in the artery wall so it can't rupture. That's his answer to a real puzzle: some people with very high cholesterol counts have wide-open arteries, and some with low counts still get blockages.\n\nHis take: the number alone never told the whole story. What's happening to the artery does.\n\nWhat do you think matters more, the count or the damage?\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth"
+   }
+  ]
+ },
+ "ep_v5kln4y_r2": {
+  "source": "v5kln4y.mp4",
+  "brand": "KT_PRESSURER2",
+  "note": "2026-10-20 - re-cut by weekly agent: end moved earlier, off the dangling 'And it says' lead-in into the breast-cancer segment (the original fail), onto the 'chemicals in the food' sentence that already closes the point.",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY",
+    "in": 287.67,
+    "out": 329.43,
+    "hook": [
+     "Why your vegan",
+     "food isn't healthy"
+    ],
+    "caption": "Kevin Trudeau points out that \"vegan\" doesn't automatically mean healthy.\n\nA vegan pizza, vegan chips, and vegan frozen dinners can be just as ultra-processed as anything else in the store. By his estimate, a lot of what plant-based eaters put in their cart falls into that category.\n\nHis point: whole fruits and vegetables are genuinely good for you. The ultra-processed versions built around them are a different thing entirely.\n\nNext grocery trip, flip the package over before the word \"vegan\" decides it for you, and see how many ingredients you don't recognize.\n\n#kevintrudeau #realfood #veganfood #readthelabel #wbdaily #healthtruth"
+   }
+  ]
  }
 }

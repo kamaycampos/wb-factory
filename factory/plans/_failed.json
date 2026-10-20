@@ -71,6 +71,42 @@
     "Why your vegan",
     "food isn't healthy"
    ]
+  },
+  "ep_v5isd6d_r3/WHY-YOUR-FOOD-CHANGED-AFTER-1967": {
+   "plan": "ep_v5isd6d_r3",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_FOODSHIFTR3",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_71s.mp4` - ends mid-thought on \"old I\"; phrase scrambled around \"said this I said\"; sentence starts with no stop: \"screwed Because\""
+   ],
+   "slug": "WHY-YOUR-FOOD-CHANGED-AFTER-1967",
+   "in": 45.8,
+   "out": 122.0,
+   "start_words": "Twenty-five years ago I said",
+   "end_words": "it's like a 20-year-old",
+   "hook": [
+    "Why your food",
+    "changed after 1967"
+   ]
+  },
+  "ep_v5isd6d_r3/WHATS-REALLY-IN-YOUR-WATER": {
+   "plan": "ep_v5isd6d_r3",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_FOODSHIFTR3",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHATS-REALLY-IN-YOUR-WATER_101s.mp4` - word repeated after one: \"blah blah blah.\"; word repeated: \"blah blah\"; word repeated: \"blah blah.\""
+   ],
+   "slug": "WHATS-REALLY-IN-YOUR-WATER",
+   "in": 488.44,
+   "out": 590.44,
+   "start_words": "The chemicals in the food",
+   "end_words": "I don't want chemicals and contaminants",
+   "hook": [
+    "What's really in",
+    "your water"
+   ]
   }
  },
  "attempts": {
