@@ -1,0 +1,19 @@
+{"source": "v5isd6d.mp4", "brand": "KT_FOODSHIFTR3", "test": false,
+ "note": "2026-10-20 - re-cut by weekly agent: start moved to the real sentence boundary ('Twenty-five years ago I said', was mid-sentence on 'something magical' - the r2 fail) and a second clip added from the same episode's water-filtration passage.",
+ "clips": [
+  {"slug": "WHY-YOUR-FOOD-CHANGED-AFTER-1967",
+   "in": 45.8, "out": 122.0,
+   "start_words": "Twenty-five years ago I said",
+   "end_words": "it's like a 20-year-old",
+   "hook": ["Why your food", "changed after 1967"],
+   "caption": "Twenty-five years ago, Kevin Trudeau said food in America was about to change. He was right: after 1967, frozen dinners took over the freezer aisle and processed meals became the everyday norm almost overnight.\n\nHis own story: a full round of tests, from a circulatory check to a blood panel. The doctor came back stunned, every result inside the optimal range, the numbers of someone decades younger.\n\nKevin's take: it isn't luck, it's what and how you eat every day.\n\nNext grocery run, count how many items in your cart were packaged before you could just reheat them.\n\n#kevintrudeau #realfood #processedfood #wbdaily #healthtruth #readthelabel",
+   "opener": "vintage frozen dinner tray",
+   "retry_of": "ep_v5isd6d_r2/WHY-YOUR-FOOD-CHANGED-AFTER-1967"},
+  {"slug": "WHATS-REALLY-IN-YOUR-WATER",
+   "in": 488.44, "out": 590.44,
+   "start_words": "The chemicals in the food",
+   "end_words": "I don't want chemicals and contaminants",
+   "hook": ["What's really in", "your water"],
+   "caption": "Kevin Trudeau points to three places toxins build up before they ever reach your plate: the food, the water and the air.\n\nHis own fix for water: a whole-house filtration system that runs through a pre-filter, granular activated charcoal and an ultraviolet light stage, plus a separate filter on the shower.\n\nHis rule for what he actually drinks: no fluoride, no added chemicals, just filtered or spring water.\n\nComment HEALTH and we'll send you what a real home filtration setup looks like.\n\n#kevintrudeau #waterfilter #cleanwater #wbdaily #readthelabel #healthtruth",
+   "opener": "tap water pouring glass"}
+ ]}

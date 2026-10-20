@@ -1,0 +1,12 @@
+{"source": "v5kln4y.mp4", "brand": "KT_PRESSURER2", "test": false,
+ "note": "2026-10-20 - re-cut by weekly agent: end moved earlier, off the dangling 'And it says' lead-in into the breast-cancer segment (the original fail), onto the 'chemicals in the food' sentence that already closes the point.",
+ "clips": [
+  {"slug": "WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY",
+   "in": 287.64, "out": 328.92,
+   "start_words": "you think you're eating",
+   "end_words": "the chemicals in the food",
+   "hook": ["Why your vegan", "food isn't healthy"],
+   "caption": "Kevin Trudeau points out that \"vegan\" doesn't automatically mean healthy.\n\nA vegan pizza, vegan chips, and vegan frozen dinners can be just as ultra-processed as anything else in the store. By his estimate, a lot of what plant-based eaters put in their cart falls into that category.\n\nHis point: whole fruits and vegetables are genuinely good for you. The ultra-processed versions built around them are a different thing entirely.\n\nNext grocery trip, flip the package over before the word \"vegan\" decides it for you, and see how many ingredients you don't recognize.\n\n#kevintrudeau #realfood #veganfood #readthelabel #wbdaily #healthtruth",
+   "opener": "vegan frozen meals shelf",
+   "retry_of": "ep_v5kln4y/WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY"}
+ ]}
