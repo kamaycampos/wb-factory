@@ -114,7 +114,11 @@
    "hook": "What your cholesterol is really doing",
    "bytes": 78086047,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-21T19:51",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_PRESSURER2/01_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_42s.mp4",
@@ -122,7 +126,11 @@
    "hook": "Why your vegan food isn't healthy",
    "bytes": 28142851,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-22T19:21",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
