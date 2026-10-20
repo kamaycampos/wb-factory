@@ -59,18 +59,8 @@ The growth strategist rewrites it daily from the real numbers (skip rate, views,
 orders on topic priority, hook shape, offer clips and what to skip come before your own taste. It
 never overrides a gate, the edges, the fence or the brand's compliance. If it is missing, carry on.
 
-## THE CINEMATIC OPENER: name the shot for EVERY clip (17 Oct 2026, Kamay approved)
-Every clip opens on 3 seconds of a 4K moving shot that IS the hook's subject, with Kevin's voice
-already running under it, then crossfades into Kevin. You choose the shot; the factory finds it on
-Pixabay (free, commercial use) and builds it. Add to each clip:
-  `"opener": "<2-6 plain lowercase words>"`, e.g. "tap water pouring glass", "grocery store aisle", "vitamin capsules macro", "fresh vegetables market", "olive oil pouring", "farm field sunrise".
-- **The picture of the hook's noun**, concrete and filmable: an object, a place, an action. Not an idea
-  ("success", "freedom"), not a person's, brand's or film's name (`check_plan.py` refuses those).
-- **Cinematic beats literal-but-ugly**: prefer night, golden hour, slow motion, macro, aerial, dramatic sky.
-  For "What Michael Jordan missed the most" the winner was a torn net against a storm sky, not a game.
-- Same opener words twice in one day only when the subject is truly the same.
-- If nothing filmable fits the hook, leave the field off: the clip opens on Kevin as before.
-- Podcast-screen episodes (Kevin in one panel of a stream layout) are framed on his panel automatically.
+## NO CINEMATIC OPENER (20 Oct 2026, Kamay: stock shots looked cheap, views dropped)
+Do NOT add an `"opener"` field. Every WB clip opens on the speaker. The switch (`OPENER_LIVE`) is off.
 
 ## Procedure
 1. `pip install -q opencv-python-headless pillow numpy 2>/dev/null` (so the hook lint can load).
