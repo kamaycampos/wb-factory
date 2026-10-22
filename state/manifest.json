@@ -149,12 +149,24 @@
    "caption": "Kevin Trudeau points out that \"vegan\" doesn't automatically mean healthy.\n\nA vegan pizza, vegan chips, and vegan frozen dinners can be just as ultra-processed as anything else in the store. By his estimate, a lot of what plant-based eaters put in their cart falls into that category.\n\nHis point: whole fruits and vegetables are genuinely good for you. The ultra-processed versions built around them are a different thing entirely.\n\nNext grocery trip, flip the package over before the word \"vegan\" decides it for you, and see how many ingredients you don't recognize.\n\n#kevintrudeau #realfood #veganfood #readthelabel #wbdaily #healthtruth",
    "hook": "Why your vegan food isn't healthy",
    "bytes": 28142851,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-10-22T19:21",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "instagram": "https://www.instagram.com/reel/De0KPNaDc_y/",
+    "youtube": "https://youtube.com/shorts/W_ActjUywm0"
+   },
+   "caption_at_post": "Kevin Trudeau points out that \"vegan\" doesn't automatically mean healthy.\n\nA vegan pizza, vegan chips, and vegan frozen dinners can be just as ultra-processed as anything else in the store. By his estimate, a lot of what plant-based eaters put in their cart falls into that category.\n\nHis point: whole fruits and vegetables are genuinely good for you. The ultra-processed versions built around them are a different thing entirely.\n\nNext grocery trip, flip the package over before the word \"vegan\" decides it for you, and see how many ingredients you don't recognize.\n\n#kevintrudeau #realfood #veganfood #readthelabel #wbdaily #healthtruth",
+   "posted_at": "2026-10-22T19:28"
   },
   {
    "file": "KT_NUTRIENTFIX/01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4",
