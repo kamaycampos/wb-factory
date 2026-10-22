@@ -162,7 +162,11 @@
    "hook": "How to check your fish oil",
    "bytes": 27440077,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-23T20:11",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_NUTRIENTFIX/02_WHATS-STEALING-YOUR-SLEEP_66s.mp4",
@@ -170,7 +174,11 @@
    "hook": "What's stealing your sleep at night",
    "bytes": 41876650,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-24T20:17",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
