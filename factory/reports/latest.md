@@ -1,57 +1,42 @@
-## ep_v5isd6d_r3: 2 of 2 clip(s) passed every gate
+## ep_v5kwynq: 4 of 4 clip(s) passed every gate
 
 
-## 2026-10-20 17:27
-  note KT_FOODSHIFTR3/WHY-YOUR-FOOD-CHANGED-AFTER-1967: ending kept on the planner's words 'it's like a 20-year-old' (cuts mid-sentence)
-ep_v5isd6d_r3__s0 (KT_FOODSHIFTR3): 2 of 2 passed pre-render gates
+## 2026-10-22 17:19
+  note KT_NUTRIENTFIX/HOW-KEVINS-BREATHING-TRICK-WORKS: ending kept on the planner's words 'to reduce blood pressure' (cuts mid-sentence)
+ep_v5kwynq__s1 (KT_NUTRIENTFIX): 2 of 2 passed pre-render gates
 
-RENDER ep_v5isd6d_r3__s0
-  RETIME 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_71s.mp4: captions +0.56s off throughout - re-rendering once
-  PASS 01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_71s.mp4  01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_71s.mp4            46 captions vs the sound (word-refe
-       FIRST 5s : Twenty-five years ago, I said this. I said, "Look," and it goes on to say, "If you were born after 1967, | LAST  8s : You got nothing. It is like the minimus plaque buildup because that is unheard of. It is like a 20-year-old.
-  PASS 02_WHATS-REALLY-IN-YOUR-WATER_101s.mp4  02_WHATS-REALLY-IN-YOUR-WATER_101s.mp4                 10 captions vs the sound  median +0
-       FIRST 5s : The chemicals in the food, the chemicals in the water, the chemicals in the air, the pharmaceuticals. | LAST  8s : It's just another type of media that the water passes through and gets rid of stuff. For my drinking water, I don't want fluoride. I don't want chemicals and co
-TEST MODE - passing clips NOT uploaded or queued: KT_FOODSHIFTR3
-
-
-- **NOT QUEUED** `01_WHY-YOUR-FOOD-CHANGED-AFTER-1967_71s.mp4` - ends mid-thought on "old I"; phrase scrambled around "said this I said"; sentence starts with no stop: "screwed Because"
-
-- **NOT QUEUED** `02_WHATS-REALLY-IN-YOUR-WATER_101s.mp4` - word repeated after one: "blah blah blah."; word repeated: "blah blah"; word repeated: "blah blah."
-
-## ep_v5k35fh_r2: 1 of 1 clip(s) passed every gate
+RENDER ep_v5kwynq__s1
+  PASS 01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4  01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4                  9 captions vs the sound  median +0.
+       FIRST 5s : Omega 3s. There's a whole host of different companies out there that sell Omega 3s. Some are better. | LAST  8s : But omega-3s, that's the nutrient, by the way, that reduces aggression by up to 30%.
+  PASS 02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4  02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4            5 captions vs the sound  median +0.
+       FIRST 5s : Coming out through the nose, how to put your attention two inches below your belly button. You breathe in through the nose. | LAST  8s : It has been driven all over the world, and probably a hundred different tests, maybe more, to reduce blood pressure.
+TEST MODE - passing clips NOT uploaded or queued: KT_NUTRIENTFIX
 
 
-## 2026-10-20 16:52
-  note KT_CHOLESTEROLR2/WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING: ending kept on the planner's words 'but I'm doing a good job' (next line completes it)
-ep_v5k35fh_r2__s0 (KT_CHOLESTEROLR2): 1 of 1 passed pre-render gates
 
-RENDER ep_v5k35fh_r2__s0
-  PASS 01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4  01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4      31 captions vs the sound  median -0
-       FIRST 5s : The LDL cholesterol is so good for you. | LAST  8s : Amazing, amazing lifesaver. Well, thank you very much. Yes, I am. And I get a bad rap, but I'm doing a good job.
-TEST MODE - passing clips NOT uploaded or queued: KT_CHOLESTEROLR2
+## 2026-10-22 17:03
+ep_v5kwynq__s0 (KT_NUTRIENTFIX): 2 of 2 passed pre-render gates
+
+RENDER ep_v5kwynq__s0
+  PASS 01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4  01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4              26 captions vs the sound (word-refe
+       FIRST 5s : Epsom salts. And there's one that I think is excellent. I have it in my house. | LAST  8s : I don't sell any of this. I don't make any commission on this, but this is something that I take.
+  PASS 02_WHATS-STEALING-YOUR-SLEEP_66s.mp4  02_WHATS-STEALING-YOUR-SLEEP_66s.mp4                   17 captions vs the sound  median +0
+       FIRST 5s : You need to have pitch blackness, and nobody has it in their room. | LAST  8s : A big round unit can go under your bed. That's also very helpful. So these are the things that are going to help with sleep.
+TEST MODE - passing clips NOT uploaded or queued: KT_NUTRIENTFIX
 
 
-## ep_v5kln4y_r2: 1 of 1 clip(s) passed every gate
+- **NOT QUEUED** `02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4` - opens mid-sentence on "out through the"; ends mid-thought on "pressure and then"
 
-
-## 2026-10-20 16:43
-  note KT_PRESSURER2/WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY: ending kept on the planner's words 'the chemicals in the food' (cuts mid-sentence)
-ep_v5kln4y_r2__s0 (KT_PRESSURER2): 1 of 1 passed pre-render gates
-
-RENDER ep_v5kln4y_r2__s0
-  PASS 01_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_42s.mp4  01_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_42s.mp4            10 captions vs the sound  median +0
-       FIRST 5s : You think you're eating really healthy? You're in the worst shape because it's like 80% of what you're eating. | LAST  8s : I mean, it's just mind-boggling. So, outdoor processed foods is one of the biggest causes. The chemicals in the food.
-TEST MODE - passing clips NOT uploaded or queued: KT_PRESSURER2
-
+- **NOT QUEUED** `01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4` - word repeated after one: "this but this"
 
 ## UPLOAD
 2 clip(s) to add:
-   KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4  (78 MB)
-   KT_PRESSURER2/01_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_42s.mp4  (28 MB)
-      + 01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s__story.mp4
-      + 01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s__yt59.mp4
-   added KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4
-   added KT_PRESSURER2/01_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_42s.mp4
+   KT_NUTRIENTFIX/01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4  (27 MB)
+   KT_NUTRIENTFIX/02_WHATS-STEALING-YOUR-SLEEP_66s.mp4  (42 MB)
+   added KT_NUTRIENTFIX/01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4
+      + 02_WHATS-STEALING-YOUR-SLEEP_66s__story.mp4
+      + 02_WHATS-STEALING-YOUR-SLEEP_66s__yt59.mp4
+   added KT_NUTRIENTFIX/02_WHATS-STEALING-YOUR-SLEEP_66s.mp4
 
-manifest now holds 7 clips
+manifest now holds 9 clips
 commit and push state/manifest.json to let the machine see them

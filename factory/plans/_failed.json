@@ -107,6 +107,42 @@
     "What's really in",
     "your water"
    ]
+  },
+  "ep_v5kwynq/HOW-YOUR-SKIN-ABSORBS-MINERALS": {
+   "plan": "ep_v5kwynq",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_NUTRIENTFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4` - word repeated after one: \"this but this\""
+   ],
+   "slug": "HOW-YOUR-SKIN-ABSORBS-MINERALS",
+   "in": 150.0,
+   "out": 191.0,
+   "start_words": "Epsom salts",
+   "end_words": "something that I take",
+   "hook": [
+    "How your skin",
+    "absorbs minerals"
+   ]
+  },
+  "ep_v5kwynq/HOW-KEVINS-BREATHING-TRICK-WORKS": {
+   "plan": "ep_v5kwynq",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_NUTRIENTFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4` - opens mid-sentence on \"out through the\"; ends mid-thought on \"pressure and then\""
+   ],
+   "slug": "HOW-KEVINS-BREATHING-TRICK-WORKS",
+   "in": 610.0,
+   "out": 675.0,
+   "start_words": "How to put your attention",
+   "end_words": "to reduce blood pressure",
+   "hook": [
+    "How Kevin's breathing",
+    "trick works"
+   ]
   }
  },
  "attempts": {
