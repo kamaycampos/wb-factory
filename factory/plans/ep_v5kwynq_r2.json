@@ -1,0 +1,20 @@
+{"source": "v5kwynq.mp4", "brand": "KT_NUTRIENTFIXR2", "test": false,
+ "note": "2026-10-23 - re-cut by weekly agent: 2 clips from 'What Nutritional Deficiencies Cause Heart Problems?' (Rumble v5kwynq) that failed a gate on the first pass.",
+ "clips": [
+  {"slug": "HOW-YOUR-SKIN-ABSORBS-MINERALS",
+   "in": 150.0, "out": 191.0,
+   "start_words": "Epsom salts",
+   "end_words": "I don't make any commission on this",
+   "hook": ["How your skin", "absorbs minerals"],
+   "caption": "Kevin Trudeau says a magnesium deficiency from ultra-processed food is one of the most common nutrient gaps around - and one of his own fixes is as simple as bath time.\n\nHis routine: a couple of cups of Epsom salt bath soak, like the one he calls Dead Sea Soak, in warm water before bed. He says the skin absorbs the magnesium right along with the muscles relaxing.\n\nHe's quick to add he doesn't sell it and makes no commission on it - he says it's simply part of his own night routine.\n\nComment HEALTH and we'll send you what a real magnesium routine looks like.\n\n#kevintrudeau #magnesium #wbdaily #healthtruth #naturalsleep #readthelabel",
+   "cta_kind": "offer",
+   "retry_of": "ep_v5kwynq/HOW-YOUR-SKIN-ABSORBS-MINERALS"},
+  {"slug": "HOW-KEVIN-LOWERS-BLOOD-PRESSURE",
+   "in": 613.0, "out": 675.0,
+   "start_words": "You breathe in through the nose",
+   "end_words": "to reduce blood pressure",
+   "hook": ["How Kevin lowers", "blood pressure"],
+   "caption": "Kevin Trudeau says there's a simple nose-breathing pattern he's taught for years at his own seminars and partner calls: breathe in through the nose, let the stomach rise, then breathe out through the nose and let it fall.\n\nHis instruction: run that cycle for just 10 breaths, a few times a day, and he says you'll see your blood pressure come down.\n\nHe pairs it with Transcendental Meditation, which he says has been studied in roughly a hundred trials worldwide for the same effect.\n\nComment HEALTH and we'll send you the full technique, step by step.\n\n#kevintrudeau #breathing #wbdaily #healthtruth #naturalcalm #meditation",
+   "cta_kind": "offer",
+   "retry_of": "ep_v5kwynq/HOW-KEVINS-BREATHING-TRICK-WORKS"}
+ ]}
