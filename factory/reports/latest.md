@@ -1,42 +1,46 @@
-## ep_v5kwynq: 4 of 4 clip(s) passed every gate
+## ep_v5ixx3h: 2 of 3 clip(s) passed every gate
 
 
-## 2026-10-22 17:19
-  note KT_NUTRIENTFIX/HOW-KEVINS-BREATHING-TRICK-WORKS: ending kept on the planner's words 'to reduce blood pressure' (cuts mid-sentence)
-ep_v5kwynq__s1 (KT_NUTRIENTFIX): 2 of 2 passed pre-render gates
+## 2026-10-23 17:03
+ep_v5ixx3h__s1 (KT_LABELTRUTH): 1 of 1 passed pre-render gates
 
-RENDER ep_v5kwynq__s1
-  PASS 01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4  01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4                  9 captions vs the sound  median +0.
-       FIRST 5s : Omega 3s. There's a whole host of different companies out there that sell Omega 3s. Some are better. | LAST  8s : But omega-3s, that's the nutrient, by the way, that reduces aggression by up to 30%.
-  PASS 02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4  02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4            5 captions vs the sound  median +0.
-       FIRST 5s : Coming out through the nose, how to put your attention two inches below your belly button. You breathe in through the nose. | LAST  8s : It has been driven all over the world, and probably a hundred different tests, maybe more, to reduce blood pressure.
-TEST MODE - passing clips NOT uploaded or queued: KT_NUTRIENTFIX
+RENDER ep_v5ixx3h__s1
+  FAIL 01_WHY-YOUR-FOOD-HAS-NO-FLAVOR_140s.mp4: [FAIL] 01_WHY-YOUR-FOOD-HAS-NO-FLAVOR_140s.mp4                8 captions vs the sound  median +0.51s  worst-10% 1.82s  | words captioned 98%
 
 
 
-## 2026-10-22 17:03
-ep_v5kwynq__s0 (KT_NUTRIENTFIX): 2 of 2 passed pre-render gates
+## 2026-10-23 17:13
+  note KT_LABELTRUTH/WHATS-COATING-YOUR-SUPPLEMENT: ending kept on the planner's words 'Don't buy anything from that company ever again' (cuts mid-sentence)
+ep_v5ixx3h__s0 (KT_LABELTRUTH): 2 of 2 passed pre-render gates
 
-RENDER ep_v5kwynq__s0
-  PASS 01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4  01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4              26 captions vs the sound (word-refe
-       FIRST 5s : Epsom salts. And there's one that I think is excellent. I have it in my house. | LAST  8s : I don't sell any of this. I don't make any commission on this, but this is something that I take.
-  PASS 02_WHATS-STEALING-YOUR-SLEEP_66s.mp4  02_WHATS-STEALING-YOUR-SLEEP_66s.mp4                   17 captions vs the sound  median +0
-       FIRST 5s : You need to have pitch blackness, and nobody has it in their room. | LAST  8s : A big round unit can go under your bed. That's also very helpful. So these are the things that are going to help with sleep.
-TEST MODE - passing clips NOT uploaded or queued: KT_NUTRIENTFIX
+RENDER ep_v5ixx3h__s0
+  PASS 01_WHATS-COATING-YOUR-SUPPLEMENT_106s.mp4  01_WHATS-COATING-YOUR-SUPPLEMENT_106s.mp4              22 captions vs the sound  median +0
+       FIRST 5s : There was an example of a family of four. | LAST  8s : Any organic cellulose capsule, throw it away, don't buy anything from that company ever again.
+  PASS 02_WHY-WHOLE-FRUIT-BEATS-JUICE_44s.mp4  02_WHY-WHOLE-FRUIT-BEATS-JUICE_44s.mp4                 25 captions vs the sound (word-refe
+       FIRST 5s : Eating an orange is better than drinking orange juice because when you eat the orange, the fiber | LAST  8s : Just saying. So the food has to be whole food concentrates.
+TEST MODE - passing clips NOT uploaded or queued: KT_LABELTRUTH
 
 
-- **NOT QUEUED** `02_HOW-KEVINS-BREATHING-TRICK-WORKS_67s.mp4` - opens mid-sentence on "out through the"; ends mid-thought on "pressure and then"
+- **NOT QUEUED** `01_WHATS-COATING-YOUR-SUPPLEMENT_106s.mp4` - the spoken word was on screen in only 8 of 12 moments
 
-- **NOT QUEUED** `01_HOW-YOUR-SKIN-ABSORBS-MINERALS_40s.mp4` - word repeated after one: "this but this"
+- **NOT QUEUED** `02_WHY-WHOLE-FRUIT-BEATS-JUICE_44s.mp4` - opens mid-sentence on "eating an orange"; ends mid-thought on "whole food concentrates"; word repeated: "in in"
+
+## ep_v5kwynq_r2: 1 of 2 clip(s) passed every gate
+
+
+## 2026-10-23 17:04
+  note KT_NUTRIENTFIXR2/HOW-YOUR-SKIN-ABSORBS-MINERALS: ending kept on the planner's words 'I don't make any commission on this' (cuts mid-sentence)
+  note KT_NUTRIENTFIXR2/HOW-KEVIN-LOWERS-BLOOD-PRESSURE: ending kept on the planner's words 'to reduce blood pressure' (cuts mid-sentence)
+ep_v5kwynq_r2__s0 (KT_NUTRIENTFIXR2): 2 of 2 passed pre-render gates
+
+RENDER ep_v5kwynq_r2__s0
+  FAIL 01_HOW-YOUR-SKIN-ABSORBS-MINERALS_39s.mp4: ends off the planned words: plan ends 'I don't make any commission on this', clip ends 'this i dont make any commi'
+  PASS 02_HOW-KEVIN-LOWERS-BLOOD-PRESSURE_64s.mp4  02_HOW-KEVIN-LOWERS-BLOOD-PRESSURE_64s.mp4             7 captions vs the sound  median -0.
+       FIRST 5s : You breathe in through the nose, your stomach goes out a little bit, you exhale through the nose, the stomach comes in. | LAST  8s : It has been driven all over the world, and probably a hundred different tests, maybe more, to reduce blood pressure.
+TEST MODE - passing clips NOT uploaded or queued: KT_NUTRIENTFIXR2
+
+
+- **NOT QUEUED** `02_HOW-KEVIN-LOWERS-BLOOD-PRESSURE_64s.mp4` - ends mid-thought on "pressure and then"; phrase scrambled around "Meditation TM Transcendental Meditation"; phrase scrambled around "Transcendental Meditation TM Transcendental"
 
 ## UPLOAD
-2 clip(s) to add:
-   KT_NUTRIENTFIX/01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4  (27 MB)
-   KT_NUTRIENTFIX/02_WHATS-STEALING-YOUR-SLEEP_66s.mp4  (42 MB)
-   added KT_NUTRIENTFIX/01_HOW-TO-CHECK-YOUR-FISH-OIL_41s.mp4
-      + 02_WHATS-STEALING-YOUR-SLEEP_66s__story.mp4
-      + 02_WHATS-STEALING-YOUR-SLEEP_66s__yt59.mp4
-   added KT_NUTRIENTFIX/02_WHATS-STEALING-YOUR-SLEEP_66s.mp4
-
-manifest now holds 9 clips
-commit and push state/manifest.json to let the machine see them
+nothing new to add

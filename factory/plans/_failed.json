@@ -143,6 +143,96 @@
     "How Kevin's breathing",
     "trick works"
    ]
+  },
+  "ep_v5ixx3h/WHATS-COATING-YOUR-SUPPLEMENT": {
+   "plan": "ep_v5ixx3h",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHATS-COATING-YOUR-SUPPLEMENT_106s.mp4` - the spoken word was on screen in only 8 of 12 moments"
+   ],
+   "slug": "WHATS-COATING-YOUR-SUPPLEMENT",
+   "in": 1397.0,
+   "out": 1502.0,
+   "start_words": "There was an example of",
+   "end_words": "Don't buy anything from that company ever again",
+   "hook": [
+    "What's really coating",
+    "your supplement"
+   ]
+  },
+  "ep_v5ixx3h/WHY-WHOLE-FRUIT-BEATS-JUICE": {
+   "plan": "ep_v5ixx3h",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-WHOLE-FRUIT-BEATS-JUICE_44s.mp4` - opens mid-sentence on \"eating an orange\"; ends mid-thought on \"whole food concentrates\"; word repeated: \"in in\""
+   ],
+   "slug": "WHY-WHOLE-FRUIT-BEATS-JUICE",
+   "in": 1983.0,
+   "out": 2027.0,
+   "start_words": "eating an orange is better",
+   "end_words": "the food has to be whole food concentrates",
+   "hook": [
+    "What your orange juice",
+    "is missing"
+   ]
+  },
+  "ep_v5ixx3h/WHY-YOUR-FOOD-HAS-NO-FLAVOR": {
+   "plan": "ep_v5ixx3h",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTH",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-YOUR-FOOD-HAS-NO-FLAVOR_140s.mp4: [FAIL] 01_WHY-YOUR-FOOD-HAS-NO-FLAVOR_140s.mp4                8 captions vs the sound  median +0.51s  worst-10% 1.82s  | words captioned 98%"
+   ],
+   "slug": "WHY-YOUR-FOOD-HAS-NO-FLAVOR",
+   "in": 3529.0,
+   "out": 3669.0,
+   "start_words": "Today the onions are grown",
+   "end_words": "no nutritional value in our soil anymore",
+   "hook": [
+    "Why your food",
+    "has no flavor"
+   ]
+  },
+  "ep_v5kwynq_r2/HOW-YOUR-SKIN-ABSORBS-MINERALS": {
+   "plan": "ep_v5kwynq_r2",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_NUTRIENTFIXR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_HOW-YOUR-SKIN-ABSORBS-MINERALS_39s.mp4: ends off the planned words: plan ends 'I don't make any commission on this', clip ends 'this i dont make any commi'"
+   ],
+   "slug": "HOW-YOUR-SKIN-ABSORBS-MINERALS",
+   "in": 150.0,
+   "out": 191.0,
+   "start_words": "Epsom salts",
+   "end_words": "I don't make any commission on this",
+   "hook": [
+    "How your skin",
+    "absorbs minerals"
+   ]
+  },
+  "ep_v5kwynq_r2/HOW-KEVIN-LOWERS-BLOOD-PRESSURE": {
+   "plan": "ep_v5kwynq_r2",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_NUTRIENTFIXR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `02_HOW-KEVIN-LOWERS-BLOOD-PRESSURE_64s.mp4` - ends mid-thought on \"pressure and then\"; phrase scrambled around \"Meditation TM Transcendental Meditation\"; phrase scrambled around \"Transcendental Meditation TM Transcendental\""
+   ],
+   "slug": "HOW-KEVIN-LOWERS-BLOOD-PRESSURE",
+   "in": 613.0,
+   "out": 675.0,
+   "start_words": "You breathe in through the nose",
+   "end_words": "to reduce blood pressure",
+   "hook": [
+    "How Kevin lowers",
+    "blood pressure"
+   ]
   }
  },
  "attempts": {
