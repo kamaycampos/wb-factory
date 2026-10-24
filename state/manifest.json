@@ -234,7 +234,11 @@
    "hook": "Why your vitamin pill wastes money",
    "bytes": 29455158,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-27T19:28",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
