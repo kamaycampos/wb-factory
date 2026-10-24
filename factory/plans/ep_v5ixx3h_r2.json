@@ -1,0 +1,28 @@
+{
+ "source": "v5ixx3h.mp4",
+ "brand": "KT_LABELTRUTHR2",
+ "test": false,
+ "note": "2026-10-24 - re-cut by weekly agent: both edges moved to different sentence boundaries to re-time captions (was 'captions vs the sound' / only 8 of 12 moments on screen). WHY-WHOLE-FRUIT-BEATS-JUICE skipped - its word-repeat defect sits in the middle of the teaching, no safe edge to move.",
+ "clips": [
+  {
+   "slug": "WHY-YOUR-VITAMIN-PILL-WASTES-MONEY",
+   "in": 1388.0,
+   "out": 1434.0,
+   "start_words": "You take a one a day",
+   "end_words": "because of the way it's made",
+   "hook": ["Why your vitamin", "pill wastes money"],
+   "caption": "Kevin Trudeau tells a story about a family who moved off their septic tank. When workers opened it up, they found thousands of undigested vitamin pills sitting at the bottom.\n\nHis test for your own pills: drop one in a glass of water overnight. If it hasn't dissolved by morning, your body isn't absorbing it either, you're just paying for it to pass straight through.\n\nKevin Trudeau's view: a pill-form supplement that won't dissolve in water is money flushed away.\n\nComment HEALTH and we'll send you what to look for instead.\n\n#kevintrudeau #vitamins #readthelabel #wbdaily #healthtruth #supplements",
+   "retry_of": "ep_v5ixx3h/WHATS-COATING-YOUR-SUPPLEMENT"
+  },
+  {
+   "slug": "WHY-YOUR-FOOD-HAS-NO-FLAVOR",
+   "in": 3534.0,
+   "out": 3672.0,
+   "start_words": "You can cut them all",
+   "end_words": "food that has flavor or taste anymore",
+   "hook": ["Why your food", "has no flavor"],
+   "caption": "Kevin Trudeau says you can cut a modern onion all day and never cry, and eat a whole garlic clove without tasting much of anything.\n\nHis explanation: our soil has been drained of nutrients by decades of the same crops grown on the same land, heavy chemical fertilization, and the 1930s Dust Bowl, when 12 feet of topsoil blew clean away across the country.\n\nThat topsoil held most of the minerals food is supposed to carry.\n\nKevin Trudeau's point: we don't produce food with real flavor anymore, because we don't produce food with real nutrients anymore. Ever notice vegetables don't taste like they used to?\n\n#kevintrudeau #foodtruth #soilhealth #wbdaily #healthtruth #realfood",
+   "retry_of": "ep_v5ixx3h/WHY-YOUR-FOOD-HAS-NO-FLAVOR"
+  }
+ ]
+}
