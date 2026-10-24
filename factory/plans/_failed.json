@@ -233,6 +233,78 @@
     "How Kevin lowers",
     "blood pressure"
    ]
+  },
+  "ep_v6uxtgp/WHAT-MERCURY-DOES-TO-YOUR-BRAIN": {
+   "plan": "ep_v6uxtgp",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINWATCH",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-MERCURY-DOES-TO-YOUR-BRAIN_56s.mp4: ends off the planned words: plan ends 'that vapor crosses the blood', clip ends 'into the brain into the brain'"
+   ],
+   "slug": "WHAT-MERCURY-DOES-TO-YOUR-BRAIN",
+   "in": 463.76,
+   "out": 525.52,
+   "start_words": "our first exposures are from",
+   "end_words": "that vapor crosses the blood",
+   "hook": [
+    "What mercury does",
+    "to your brain"
+   ]
+  },
+  "ep_v6uxtgp/WHY-ALUMINUM-FALLS-IN-YOUR-FOOD": {
+   "plan": "ep_v6uxtgp",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINWATCH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-ALUMINUM-FALLS-IN-YOUR-FOOD_65s.mp4` - ends mid-thought on \"into your body\"; word repeated: \"the the\""
+   ],
+   "slug": "WHY-ALUMINUM-FALLS-IN-YOUR-FOOD",
+   "in": 622.16,
+   "out": 693.52,
+   "start_words": "Aluminum is falling down into",
+   "end_words": "absorbed into your body",
+   "hook": [
+    "Why aluminum falls",
+    "in your food"
+   ]
+  },
+  "ep_v6uxtgp/WHY-YOUR-HORMONES-STOP-WORKING": {
+   "plan": "ep_v6uxtgp",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINWATCH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-HORMONES-STOP-WORKING_51s.mp4` - opens mid-sentence on \"number one cause\""
+   ],
+   "slug": "WHY-YOUR-HORMONES-STOP-WORKING",
+   "in": 1290.4,
+   "out": 1345.52,
+   "start_words": "The number one cause is",
+   "end_words": "you will not feel better",
+   "hook": [
+    "Why your hormones",
+    "stop working"
+   ]
+  },
+  "ep_v6uxtgp/WHATS-SPRAYED-ON-YOUR-PRODUCE": {
+   "plan": "ep_v6uxtgp",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINWATCH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHATS-SPRAYED-ON-YOUR-PRODUCE_41s.mp4` - word repeated after one: \"grass-fed 100% grass-fed\""
+   ],
+   "slug": "WHATS-SPRAYED-ON-YOUR-PRODUCE",
+   "in": 2671.68,
+   "out": 2720.08,
+   "start_words": "The apple is an apple",
+   "end_words": "our grandparents grew up on",
+   "hook": [
+    "What's sprayed on",
+    "your produce"
+   ]
   }
  },
  "attempts": {
