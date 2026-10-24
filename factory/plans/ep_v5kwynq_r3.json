@@ -1,0 +1,18 @@
+{
+ "source": "v5kwynq.mp4",
+ "brand": "KT_NUTRIENTFIXR3",
+ "test": false,
+ "note": "2026-10-24 - re-cut by weekly agent, last chance: out moved 150.0-191.0 -> 150.0-194.0 (same start/end words), giving the render a few extra seconds of buffer so 'commission' finishes before the cut (was 'ends off the planned words: ...clip ends this i dont make any commi'). HOW-KEVIN-LOWERS-BLOOD-PRESSURE not retried - its last chance: the only version with enough content to clear the 40s minimum must include 'Transcendental Meditation, TM, Transcendental Meditation', which keeps tripping the scrambled-phrase gate, and the breathing-only portion alone runs about 12-20s, far under 40s.",
+ "clips": [
+  {
+   "slug": "HOW-YOUR-SKIN-ABSORBS-MINERALS",
+   "in": 150.0,
+   "out": 194.0,
+   "start_words": "Epsom salts",
+   "end_words": "I don't make any commission on this",
+   "hook": ["How your skin", "absorbs minerals"],
+   "caption": "Kevin Trudeau's own trick for a magnesium deficiency, which he says can drive up blood pressure: an Epsom salt bath.\n\nEpsom salt isn't table salt, it's magnesium. A couple of cups in a warm bath at night, and he says the body absorbs the magnesium straight through the skin while you soak.\n\nHe's quick to say he has no stake in any brand of it: no sale, no commission, just something he personally uses before bed.\n\nComment HEALTH and we'll send you the one he keeps in his own house.\n\n#kevintrudeau #magnesium #epsomsalt #wbdaily #healthtruth #bloodpressure",
+   "retry_of": "ep_v5kwynq_r2/HOW-YOUR-SKIN-ABSORBS-MINERALS"
+  }
+ ]
+}
