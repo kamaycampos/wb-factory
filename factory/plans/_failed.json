@@ -238,7 +238,7 @@
    "plan": "ep_v6uxtgp",
    "source": "v6uxtgp.mp4",
    "brand": "KT_TOXINWATCH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "FAIL 01_WHAT-MERCURY-DOES-TO-YOUR-BRAIN_56s.mp4: ends off the planned words: plan ends 'that vapor crosses the blood', clip ends 'into the brain into the brain'"
    ],
@@ -256,7 +256,7 @@
    "plan": "ep_v6uxtgp",
    "source": "v6uxtgp.mp4",
    "brand": "KT_TOXINWATCH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `02_WHY-ALUMINUM-FALLS-IN-YOUR-FOOD_65s.mp4` - ends mid-thought on \"into your body\"; word repeated: \"the the\""
    ],
@@ -274,7 +274,7 @@
    "plan": "ep_v6uxtgp",
    "source": "v6uxtgp.mp4",
    "brand": "KT_TOXINWATCH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `01_WHY-YOUR-HORMONES-STOP-WORKING_51s.mp4` - opens mid-sentence on \"number one cause\""
    ],
@@ -292,7 +292,7 @@
    "plan": "ep_v6uxtgp",
    "source": "v6uxtgp.mp4",
    "brand": "KT_TOXINWATCH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `01_WHATS-SPRAYED-ON-YOUR-PRODUCE_41s.mp4` - word repeated after one: \"grass-fed 100% grass-fed\""
    ],
@@ -305,9 +305,28 @@
     "What's sprayed on",
     "your produce"
    ]
+  },
+  "ep_v5ixx3h_r2/WHY-YOUR-FOOD-HAS-NO-FLAVOR": {
+   "plan": "ep_v5ixx3h_r2",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTHR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `02_WHY-YOUR-FOOD-HAS-NO-FLAVOR_139s.mp4` - phrase scrambled around \"an onion like an\""
+   ],
+   "slug": "WHY-YOUR-FOOD-HAS-NO-FLAVOR",
+   "in": 3534.0,
+   "out": 3672.0,
+   "start_words": "You can cut them all",
+   "end_words": "food that has flavor or taste anymore",
+   "hook": [
+    "Why your food",
+    "has no flavor"
+   ]
   }
  },
  "attempts": {
-  "ep_v5isd6d": 2
+  "ep_v5isd6d": 2,
+  "ep_v5kwynq_r3": 1
  }
 }
