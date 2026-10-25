@@ -1,0 +1,12 @@
+{"source": "v5isd6d.mp4", "brand": "KT_FOODSHIFTR4", "test": false,
+ "note": "2026-10-25 - re-cut by weekly agent: the r3 cut (tries 1) ran the end edge through a 'blah, blah, blah' filler moment inside the clip range, which the whole-clip harsh/repeat scan refused. Shortened the end to stop right after 'chemicals and contaminants', before the filler, keeping the same start and the whole-house filtration story intact.",
+ "clips": [
+  {"slug": "WHATS-REALLY-IN-YOUR-WATER",
+   "in": 488.44, "out": 563.88,
+   "start_words": "The chemicals in the food",
+   "end_words": "chemicals and contaminants",
+   "hook": ["How to filter", "your tap water"],
+   "caption": "Kevin Trudeau points to three places toxins build up before they ever reach your plate: the food, the water and the air.\n\nHis own fix for water: a whole-house filtration system that runs through a pre-filter, then granular activated charcoal, then an ultraviolet light stage for bacteria and viruses.\n\nBy the time it reaches a glass, he says that process has pulled out a long list of chemicals and contaminants most tap water carries straight through.\n\nComment HEALTH and we'll send you what a real home filtration setup looks like.\n\n#kevintrudeau #waterfilter #cleanwater #wbdaily #readthelabel #healthtruth",
+   "retry_of": "ep_v5isd6d_r3/WHATS-REALLY-IN-YOUR-WATER",
+   "cta_kind": "offer"}
+ ]}
