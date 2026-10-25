@@ -202,7 +202,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "chunk 1/1 failed 403: {\"code\":50001,\"message\":\"missing or invalid request id\"}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "scheduled_at": "2026-10-24T20:17",
    "cta_keyword": "HEALTH",
@@ -215,7 +215,7 @@
    },
    "caption_at_post": "Kevin Trudeau says the room you sleep in matters as much as what you eat.\n\nHis own setup: pitch-black darkness, no stray lights left on from a smoke detector or a charger, and a black silk mask over the eyes when the room can't go fully dark.\n\nHis reasoning: real darkness lets the body make more melatonin, and a silk mask does the same job when blackout isn't possible.\n\nWhat's the one light in your bedroom you've never covered?\n\n#kevintrudeau #sleephygiene #wbdaily #healthtruth #naturalsleep #readthelabel",
    "posted_at": "2026-10-24T20:26",
-   "tiktok_retry": true
+   "tiktok_tries": 1
   },
   {
    "file": "KT_TOXINWATCH/02_WHATS-IN-YOUR-BRAIN-RIGHT-NOW_49s.mp4",
