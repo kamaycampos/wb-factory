@@ -323,10 +323,28 @@
     "Why your food",
     "has no flavor"
    ]
+  },
+  "ep_v5kwynq_r3/HOW-YOUR-SKIN-ABSORBS-MINERALS": {
+   "plan": "ep_v5kwynq_r3",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_NUTRIENTFIXR3",
+   "tries": 3,
+   "why": [
+    "FAIL 01_HOW-YOUR-SKIN-ABSORBS-MINERALS_39s.mp4: ends off the planned words: plan ends 'I don't make any commission on this', clip ends 'this i dont make any commi'"
+   ],
+   "slug": "HOW-YOUR-SKIN-ABSORBS-MINERALS",
+   "in": 150.0,
+   "out": 194.0,
+   "start_words": "Epsom salts",
+   "end_words": "I don't make any commission on this",
+   "hook": [
+    "How your skin",
+    "absorbs minerals"
+   ]
   }
  },
  "attempts": {
   "ep_v5isd6d": 2,
-  "ep_v5kwynq_r3": 1
+  "ep_v5kwynq_r3": 2
  }
 }
