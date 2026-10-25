@@ -260,7 +260,10 @@
    "bytes": 29809364,
    "done": false,
    "status": {},
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "scheduled_at": "2026-10-29T20:16",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1
   },
   {
    "file": "KT_BIOHACK/02_WHY-YOUR-CELLS-ARE-AGING_50s.mp4",
@@ -268,7 +271,11 @@
    "hook": "Why your cells are aging",
    "bytes": 25429362,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-28T20:06",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
