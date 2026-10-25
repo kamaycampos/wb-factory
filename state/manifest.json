@@ -222,12 +222,24 @@
    "caption": "Dr. Daniel Pompa told Kevin Trudeau you can't stop every toxin from reaching you, but you can slow it down.\n\nHis picture for it: imagine a bathtub overflowing upstairs. The fastest fix isn't mopping the floor, it's shutting off the water.\n\nOne easy valve to shut off: plastic. A new study he points to found a teaspoon of plastic showing up in autopsies of people's brains.\n\nHis simple swap: drink out of glass or steel instead of plastic, every chance you get. What's one plastic habit you could swap out this week?\n\n#kevintrudeau #plasticfree #toxins #bodyhealth #wbdaily #healthtruth",
    "hook": "What's in your brain right now",
    "bytes": 39274910,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-10-25T19:33",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "instagram": "https://www.instagram.com/reel/De7671yD_QY/",
+    "youtube": "https://youtube.com/shorts/yX9R5TrFzdY"
+   },
+   "caption_at_post": "Dr. Daniel Pompa told Kevin Trudeau you can't stop every toxin from reaching you, but you can slow it down.\n\nHis picture for it: imagine a bathtub overflowing upstairs. The fastest fix isn't mopping the floor, it's shutting off the water.\n\nOne easy valve to shut off: plastic. A new study he points to found a teaspoon of plastic showing up in autopsies of people's brains.\n\nHis simple swap: drink out of glass or steel instead of plastic, every chance you get. What's one plastic habit you could swap out this week?\n\n#kevintrudeau #plasticfree #toxins #bodyhealth #wbdaily #healthtruth",
+   "posted_at": "2026-10-25T19:49"
   },
   {
    "file": "KT_TOXINWATCH/02_WHY-YOUR-COOKING-OIL-BACKFIRES_121s.mp4",
