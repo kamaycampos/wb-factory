@@ -377,11 +377,29 @@
     "Why your doctor",
     "skips tests"
    ]
+  },
+  "ep_v5isd6d_r4/WHATS-REALLY-IN-YOUR-WATER": {
+   "plan": "ep_v5isd6d_r4",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_FOODSHIFTR4",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHATS-REALLY-IN-YOUR-WATER_71s.mp4: ends off the planned words: plan ends 'chemicals and contaminants', clip ends 'a whole bunch of chemicals an'"
+   ],
+   "slug": "WHATS-REALLY-IN-YOUR-WATER",
+   "in": 488.44,
+   "out": 563.88,
+   "start_words": "The chemicals in the food",
+   "end_words": "chemicals and contaminants",
+   "hook": [
+    "How to filter",
+    "your tap water"
+   ]
   }
  },
  "attempts": {
   "ep_v5isd6d": 2,
   "ep_v5kwynq_r3": 2,
-  "ep_v5isd6d_r4": 1
+  "ep_v5isd6d_r4": 2
  }
 }
