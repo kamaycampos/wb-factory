@@ -395,6 +395,60 @@
     "How to filter",
     "your tap water"
    ]
+  },
+  "ep_v5k3hxf/WHY-YOUR-FRIES-CHANGED-OIL": {
+   "plan": "ep_v5k3hxf",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYCARE",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHY-YOUR-FRIES-CHANGED-OIL_45s.mp4: [FAIL] 02_WHY-YOUR-FRIES-CHANGED-OIL_45s.mp4                  20 captions vs the sound (word-referenced: no clear pauses)  median +0.31s  worst-10% 1.21s  | words captioned 95%"
+   ],
+   "slug": "WHY-YOUR-FRIES-CHANGED-OIL",
+   "in": 995.3,
+   "out": 1043.3,
+   "start_words": "Why is saturated fat bad",
+   "end_words": "genetically modified Monsanto produced oils",
+   "hook": [
+    "Why your fries",
+    "changed oil"
+   ]
+  },
+  "ep_v5k3hxf/HOW-CHLORINE-GETS-IN-YOUR-SKIN": {
+   "plan": "ep_v5k3hxf",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYCARE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_HOW-CHLORINE-GETS-IN-YOUR-SKIN_89s.mp4` - phrase scrambled around \"my house through my\""
+   ],
+   "slug": "HOW-CHLORINE-GETS-IN-YOUR-SKIN",
+   "in": 1399.5,
+   "out": 1487.3,
+   "start_words": "The largest organ in the body",
+   "end_words": "into a hyperbaric oxygen chamber",
+   "hook": [
+    "How chlorine",
+    "gets in your skin"
+   ]
+  },
+  "ep_v5k3hxf/WHY-YOUR-MILK-NEVER-GOES-BAD": {
+   "plan": "ep_v5k3hxf",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYCARE",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-YOUR-MILK-NEVER-GOES-BAD_129s.mp4: [FAIL] 01_WHY-YOUR-MILK-NEVER-GOES-BAD_129s.mp4               14 captions vs the sound  median +0.05s  worst-10% 0.72s  | words captioned 100%  UNCAPTIONED SPEECH [(121.4, 123.9)]"
+   ],
+   "slug": "WHY-YOUR-MILK-NEVER-GOES-BAD",
+   "in": 188.8,
+   "out": 318.0,
+   "start_words": "The milk producer said",
+   "end_words": "back then it couldn't",
+   "hook": [
+    "Why your milk",
+    "never goes bad"
+   ]
   }
  },
  "attempts": {

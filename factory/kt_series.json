@@ -256,5 +256,23 @@
     "cta_kind": "offer"
    }
   ]
+ },
+ "ep_v5k3hxf": {
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_ARTERYCARE",
+  "note": "26 Oct 2026 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). Weekly agent.",
+  "clips": [
+   {
+    "slug": "HOW-TO-READ-YOUR-MILK-LABEL",
+    "in": 398.82,
+    "out": 562.19,
+    "hook": [
+     "How to read",
+     "your milk label"
+    ],
+    "caption": "Kevin Trudeau always checked the label before the price. Homogenized milk has every molecule broken down so it can sit on a shelf for three weeks instead of souring in two days.\n\nHis fix: buy milk or cheese labeled \"raw\" or \"non-homogenized.\" Raw means two things - not homogenized, not pasteurized - closer to what your grandparents drank. It isn't always easy to find, and that's okay.\n\nNext time you're at the store, flip the carton over and look for that one word.\n\nComment HEALTH and I'll send you the label cheat sheet.\n\n#kevintrudeau #rawmilk #labelreading #foodtruth #dairyfacts #healthyliving",
+    "cta_kind": "offer"
+   }
+  ]
  }
 }
