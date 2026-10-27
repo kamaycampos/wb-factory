@@ -449,6 +449,78 @@
     "Why your milk",
     "never goes bad"
    ]
+  },
+  "ep_v5ixx3h_r3/WHY-WHOLE-FRUIT-BEATS-JUICE": {
+   "plan": "ep_v5ixx3h_r3",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTHR3",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHY-WHOLE-FRUIT-BEATS-JUICE_72s.mp4` - ends mid-thought on \"have juice machines\"; phrase scrambled around \"Released it gets released\"; sentence starts with no stop: \"absorbed And\""
+   ],
+   "slug": "WHY-WHOLE-FRUIT-BEATS-JUICE",
+   "in": 1945.0,
+   "out": 2020.0,
+   "start_words": "Certain food is designed to break down",
+   "end_words": "Animals in the wild don't have juice machines",
+   "hook": [
+    "What your orange juice",
+    "is missing"
+   ]
+  },
+  "ep_v5ixx3h_r3/WHY-YOUR-FOOD-HAS-NO-FLAVOR": {
+   "plan": "ep_v5ixx3h_r3",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTHR3",
+   "tries": 3,
+   "why": [
+    "FAIL 02_WHY-YOUR-FOOD-HAS-NO-FLAVOR_126s.mp4: [FAIL] 02_WHY-YOUR-FOOD-HAS-NO-FLAVOR_126s.mp4                9 captions vs the sound  median +0.05s  worst-10% 0.75s  | words captioned 100%"
+   ],
+   "slug": "WHY-YOUR-FOOD-HAS-NO-FLAVOR",
+   "in": 3547.0,
+   "out": 3672.0,
+   "start_words": "I was cooking, I remember",
+   "end_words": "food that has flavor or taste anymore",
+   "hook": [
+    "Why your food",
+    "has no flavor"
+   ]
+  },
+  "ep_v5k3hxf_r2/WHY-YOUR-FRIES-CHANGED-OIL": {
+   "plan": "ep_v5k3hxf_r2",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYCARER2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHY-YOUR-FRIES-CHANGED-OIL_56s.mp4: [FAIL] 01_WHY-YOUR-FRIES-CHANGED-OIL_56s.mp4                  7 captions vs the sound  median +0.32s  worst-10% 1.08s  | words captioned 100%"
+   ],
+   "slug": "WHY-YOUR-FRIES-CHANGED-OIL",
+   "in": 992.1,
+   "out": 1048.1,
+   "start_words": "Saturated fat's bad for you",
+   "end_words": "none of them use beef fat anymore",
+   "hook": [
+    "Why your fries",
+    "changed oil"
+   ]
+  },
+  "ep_v6uxtgp_r2/WHAT-MERCURY-DOES-TO-YOUR-BRAIN": {
+   "plan": "ep_v6uxtgp_r2",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINWATCHR2",
+   "tries": 3,
+   "why": [
+    "FAIL 01_WHAT-MERCURY-DOES-TO-YOUR-BRAIN_67s.mp4: ends off the planned words: plan ends 'that vapor crosses the blood-brain barrier', clip ends 'lead is stored in the bone'"
+   ],
+   "slug": "WHAT-MERCURY-DOES-TO-YOUR-BRAIN",
+   "in": 463.76,
+   "out": 525.52,
+   "start_words": "our first exposures are from",
+   "end_words": "that vapor crosses the blood-brain barrier",
+   "hook": [
+    "What mercury does",
+    "to your brain"
+   ]
   }
  },
  "attempts": {
