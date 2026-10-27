@@ -320,7 +320,10 @@
    "bytes": 29195953,
    "done": false,
    "status": {},
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "scheduled_at": "2026-10-31T19:52",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0
   },
   {
    "file": "KT_TOXINWATCHR2/02_WHY-YOUR-HORMONES-STOP-WORKING_70s.mp4",
@@ -328,7 +331,11 @@
    "hook": "Why your hormones stop working",
    "bytes": 62313565,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-01T19:45",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
