@@ -1,0 +1,34 @@
+{
+ "source": "v5ixx3h.mp4",
+ "brand": "KT_LABELTRUTHR3",
+ "test": false,
+ "note": "2026-10-27 - re-cut by weekly agent (SECOND CHANCE: WHY-WHOLE-FRUIT-BEATS-JUICE tries 1, WHY-YOUR-FOOD-HAS-NO-FLAVOR tries 2/last chance).",
+ "clips": [
+  {
+   "slug": "WHY-WHOLE-FRUIT-BEATS-JUICE",
+   "in": 1945.00,
+   "out": 2020.00,
+   "start_words": "Certain food is designed to break down",
+   "end_words": "Animals in the wild don't have juice machines",
+   "hook": [
+    "What your orange juice",
+    "is missing"
+   ],
+   "caption": "Kevin Trudeau says there's a reason eating an orange works better than drinking the juice: the fiber in the whole fruit slows everything down.\n\nHis point: that slower pace lets more of the vitamin C and bioflavonoids get absorbed in the intestine instead of the stomach. Skip the fiber and drink straight juice, he says, and more of it breaks down too fast - which can even leave you with extra stomach acid.\n\nHis line for it: animals in the wild don't have juice machines.\n\nFruit or juice - which do you reach for first?\n\n#kevintrudeau #vitaminc #wbdaily #healthtruth #readthelabel #wholefood",
+   "retry_of": "ep_v5ixx3h/WHY-WHOLE-FRUIT-BEATS-JUICE"
+  },
+  {
+   "slug": "WHY-YOUR-FOOD-HAS-NO-FLAVOR",
+   "in": 3547.00,
+   "out": 3672.00,
+   "start_words": "I was cooking, I remember",
+   "end_words": "food that has flavor or taste anymore",
+   "hook": [
+    "Why your food",
+    "has no flavor"
+   ],
+   "caption": "Kevin Trudeau tells a story about cooking pasta sauce with one clove of garlic that barely tasted like garlic at all, even though it was organic.\n\nHis explanation: our soil has been drained of nutrients by decades of the same crops grown on the same land, heavy chemical fertilization, and the 1930s Dust Bowl, when 12 feet of topsoil blew clean away across the country.\n\nThat topsoil held most of the minerals food is supposed to carry.\n\nKevin Trudeau's point: we don't produce food with real flavor anymore, because we don't produce food with real nutrients anymore. Ever notice vegetables don't taste like they used to?\n\n#kevintrudeau #foodtruth #soilhealth #wbdaily #healthtruth #realfood",
+   "retry_of": "ep_v5ixx3h_r2/WHY-YOUR-FOOD-HAS-NO-FLAVOR"
+  }
+ ]
+}

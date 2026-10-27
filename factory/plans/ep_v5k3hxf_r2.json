@@ -1,0 +1,35 @@
+{
+ "source": "v5k3hxf.mp4",
+ "brand": "KT_ARTERYCARER2",
+ "test": false,
+ "note": "2026-10-27 - re-cut by weekly agent (SECOND CHANCE, tries 1). WHY-YOUR-MILK-NEVER-GOES-BAD skipped - see report.",
+ "clips": [
+  {
+   "slug": "WHY-YOUR-FRIES-CHANGED-OIL",
+   "in": 992.10,
+   "out": 1048.10,
+   "start_words": "Saturated fat's bad for you",
+   "end_words": "none of them use beef fat anymore",
+   "hook": [
+    "Why your fries",
+    "changed oil"
+   ],
+   "caption": "Kevin Trudeau says McDonald's fries used to be cooked in beef fat - by most accounts the best-tasting fries you could buy.\n\nThen saturated fat got blamed for heart problems, and the companies selling hydrogenated vegetable oil benefited most from that panic, in his view. McDonald's switched to vegetable oil, and fast food never tasted quite the same again.\n\nThe oil used is usually printed right on the menu board or nutrition page - worth a quick look.\n\nEver notice fries don't taste like they used to? Comment HEALTH and I'll tell you the oils we keep in our kitchen.\n\n#kevintrudeau #foodtruth #vegetableoil #labelreading #healthyeating #realfood",
+   "retry_of": "ep_v5k3hxf/WHY-YOUR-FRIES-CHANGED-OIL"
+  },
+  {
+   "slug": "HOW-CHLORINE-GETS-IN-YOUR-SKIN",
+   "in": 1399.50,
+   "out": 1448.60,
+   "start_words": "The largest organ in the body",
+   "end_words": "salt water swimming pool without chlorine",
+   "hook": [
+    "How chlorine",
+    "gets in your skin"
+   ],
+   "caption": "Kevin Trudeau points to something most people never think about: the skin is the body's largest organ, and whatever touches it gets absorbed - including shower, bath or pool water.\n\nIf that water carries chlorine, his view is a long shower puts more of it into your body than a glass of tap water would.\n\nCity water needs chlorine to kill bacteria before it reaches your home - that part is smart. The swap he uses: a shower filter, or a salt-water pool instead of a chlorinated one.\n\nComment HEALTH and I'll send you our filter setup.\n\n#kevintrudeau #chlorinefree #skinhealth #waterfilter #healthyhome #cleanwater",
+   "cta_kind": "offer",
+   "retry_of": "ep_v5k3hxf/HOW-CHLORINE-GETS-IN-YOUR-SKIN"
+  }
+ ]
+}

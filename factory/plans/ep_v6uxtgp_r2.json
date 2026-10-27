@@ -1,0 +1,34 @@
+{
+ "source": "v6uxtgp.mp4",
+ "brand": "KT_TOXINWATCHR2",
+ "test": false,
+ "note": "2026-10-27 - re-cut by weekly agent (SECOND CHANCE, tries 2/last chance). WHY-ALUMINUM-FALLS-IN-YOUR-FOOD and WHATS-SPRAYED-ON-YOUR-PRODUCE skipped - see report.",
+ "clips": [
+  {
+   "slug": "WHAT-MERCURY-DOES-TO-YOUR-BRAIN",
+   "in": 463.76,
+   "out": 525.52,
+   "start_words": "our first exposures are from",
+   "end_words": "that vapor crosses the blood-brain barrier",
+   "hook": [
+    "What mercury does",
+    "to your brain"
+   ],
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau about the Drash study out of Germany: an autopsy study that found the number of silver fillings in a mother's mouth was directly tied to how much mercury turned up in her baby's brain.\n\nHe says those same fillings never stop leaching. The mercury vapor crosses the blood-brain barrier for as long as the filling stays in your mouth.\n\nMost countries have put limits on these fillings. The US still hasn't.\n\nKevin Trudeau's take: this is information worth asking your own dentist about.\n\nComment HEALTH and we'll send you what to ask for instead.\n\n#kevintrudeau #mercuryfillings #toxins #bodyhealth #wbdaily #healthtruth",
+   "retry_of": "ep_v6uxtgp/WHAT-MERCURY-DOES-TO-YOUR-BRAIN"
+  },
+  {
+   "slug": "WHY-YOUR-HORMONES-STOP-WORKING",
+   "in": 1273.20,
+   "out": 1345.52,
+   "start_words": "I was resistant to testosterone too",
+   "end_words": "you will not feel better",
+   "hook": [
+    "Why your hormones",
+    "stop working"
+   ],
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau why hormone support can stop helping: it's not always the hormone, it's the receptor.\n\nHis picture: a hormone is like a cell phone, and the receptor is the tower. If something blocks that tower, it doesn't matter how strong the signal is.\n\nHis view: toxins build up around and inside the cell, and they're the number one thing jamming that signal.\n\nSo your lab numbers can look perfect while you still feel the same.\n\nComment HEALTH and we'll send you what Kevin and Dr. Pompa say actually gets the signal through.\n\n#kevintrudeau #hormonehealth #toxins #cellularhealth #wbdaily #healthtruth",
+   "retry_of": "ep_v6uxtgp/WHY-YOUR-HORMONES-STOP-WORKING"
+  }
+ ]
+}
