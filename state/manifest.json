@@ -356,7 +356,10 @@
    "bytes": 31664075,
    "done": false,
    "status": {},
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "scheduled_at": "2026-11-02T19:43",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0
   }
  ]
 }
