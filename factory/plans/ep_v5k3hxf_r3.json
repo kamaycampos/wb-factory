@@ -1,0 +1,22 @@
+{
+ "source": "v5k3hxf.mp4",
+ "brand": "KT_ARTERYCARER3",
+ "test": false,
+ "note": "2026-10-28 - re-cut by weekly agent (SECOND CHANCE, tries 1). Moved the end edge to a later sentence boundary to re-time captions past the UNCAPTIONED SPEECH gap. WHY-YOUR-FRIES-CHANGED-OIL skipped again (last chance) - see report.",
+ "clips": [
+  {
+   "slug": "WHY-YOUR-MILK-NEVER-GOES-BAD",
+   "in": 188.80,
+   "out": 327.20,
+   "start_words": "The milk producer said",
+   "end_words": "nature intended you to consume",
+   "hook": [
+    "Why your milk",
+    "never goes bad"
+   ],
+   "caption": "Kevin Trudeau tells a story about the old milkman route: milk would separate on the shelf and turn sour after about 48 hours, so deliveries came two or three times a week.\n\nOne food scientist found a fix: break every molecule down to the same tiny size so there's nothing left to spoil. Shelf life jumped from two days to three weeks overnight.\n\nKevin Trudeau's view: that convenience has a cost - breaking the molecules down that small isn't what nature intended you to drink.\n\nComment HEALTH and I'll send you our go-to swap.\n\n#kevintrudeau #rawmilk #foodscience #labelreading #dairyfacts #healthyliving",
+   "cta_kind": "offer",
+   "retry_of": "ep_v5k3hxf/WHY-YOUR-MILK-NEVER-GOES-BAD"
+  }
+ ]
+}

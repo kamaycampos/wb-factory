@@ -1,0 +1,19 @@
+{"source": "v6u9yxd.mp4", "brand": "KT_BIOHACKR2", "test": false,
+ "note": "2026-10-28 - re-cut by weekly agent (SECOND CHANCE, tries 1). WHAT-BIOHACKING-ACTUALLY-MEANS: shrank the out edge to the cue that actually holds 'It's biohacking' - the old out ran into the next thought, which is why the finished clip didn't end on the planned words. WHY-YOUR-DOCTOR-SKIPS-TESTS: moved the start past the scrambled 'can't because they can't' line to the next clean sentence; the insurance-company point is made again later in the clip.",
+ "clips": [
+  {"slug": "WHAT-BIOHACKING-ACTUALLY-MEANS",
+   "in": 288.48, "out": 342.80,
+   "start_words": "What does biohacking actually",
+   "end_words": "eating properly. It's biohacking",
+   "hook": ["How to biohack", "your health"],
+   "caption": "Kevin Trudeau's guest, trainer and health coach Dylan Giamelli, says most people get biohacking wrong.\n\nThey picture expensive gadgets, supplements and millions of dollars spent on therapies. His real definition: taking care of yourself and depending less on other people for your own health.\n\nHis two simplest examples: walk outside in the morning, and actually fix what's on your plate. That's biohacking in its most basic form, before any gadget gets involved.\n\nWhat's one small habit you could add to your day this week?\n\n#kevintrudeau #biohacking #realfood #wbdaily #healthtruth #naturalhealth",
+   "retry_of": "ep_v6u9yxd/WHAT-BIOHACKING-ACTUALLY-MEANS"},
+  {"slug": "WHY-YOUR-DOCTOR-SKIPS-TESTS",
+   "in": 502.64, "out": 566.08,
+   "start_words": "Kevin, if you go to",
+   "end_words": "however they want it",
+   "hook": ["Why your doctor", "skips tests"],
+   "caption": "Kevin Trudeau's guest, health coach Dylan Giamelli, says most doctors run the basics and stop there - because a deeper panel can get flagged by your insurance company if it's ordered too often.\n\nHis point: you don't have to wait on a standard checkup to find out what's really going on. An independent panel can look at things a basic visit skips, like heavy metal and micronutrient levels.\n\nHis warning: labs change where the \"normal\" range sits, so a result that reads as fine on paper can still mean something is off underneath.\n\nComment HEALTH and we'll send you what a real health panel checks that a standard one skips.\n\n#kevintrudeau #bloodwork #healthtruth #wbdaily #readthelabel #naturalhealth",
+   "cta_kind": "offer",
+   "retry_of": "ep_v6u9yxd/WHY-YOUR-DOCTOR-SKIPS-TESTS"}
+ ]}
