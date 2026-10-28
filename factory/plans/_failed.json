@@ -521,11 +521,30 @@
     "What mercury does",
     "to your brain"
    ]
+  },
+  "ep_v6u9yxd_r2/WHAT-BIOHACKING-ACTUALLY-MEANS": {
+   "plan": "ep_v6u9yxd_r2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_BIOHACKR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHAT-BIOHACKING-ACTUALLY-MEANS_52s.mp4: ends off the planned words: plan ends 'eating properly. It's biohacking', clip ends 'diet eating properly it is biohacking'"
+   ],
+   "slug": "WHAT-BIOHACKING-ACTUALLY-MEANS",
+   "in": 288.48,
+   "out": 342.8,
+   "start_words": "What does biohacking actually",
+   "end_words": "eating properly. It's biohacking",
+   "hook": [
+    "How to biohack",
+    "your health"
+   ]
   }
  },
  "attempts": {
   "ep_v5isd6d": 2,
   "ep_v5kwynq_r3": 2,
-  "ep_v5isd6d_r4": 2
+  "ep_v5isd6d_r4": 2,
+  "ep_v5k3hxf_r3": 1
  }
 }
