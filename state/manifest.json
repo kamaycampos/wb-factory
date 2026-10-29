@@ -306,12 +306,24 @@
    "caption": "Kevin Trudeau's guest, health coach Dylan Giamelli, breaks down why your body actually ages.\n\nHis simple version: your cells have a tiny power plant inside called the mitochondria. As you get older, that power plant slows down and your cells start filling up with waste, like a trash can nobody empties.\n\nOnce that junk overflows, he says it spreads through your body - and that's where disease and inflammation take root.\n\nThe upside: your body already has a repair system for this - sleep, movement and real food are what keep it running.\n\nWhat's one thing you could do today to help your cells repair?\n\n#kevintrudeau #aging #cellularhealth #wbdaily #healthtruth #energy",
    "hook": "Why your cells are aging",
    "bytes": 25429362,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-10-28T20:06",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DfDsmVPigmp/",
+    "youtube": "https://youtube.com/shorts/hO4HOaaUds8"
+   },
+   "caption_at_post": "Kevin Trudeau's guest, health coach Dylan Giamelli, breaks down why your body actually ages.\n\nHis simple version: your cells have a tiny power plant inside called the mitochondria. As you get older, that power plant slows down and your cells start filling up with waste, like a trash can nobody empties.\n\nOnce that junk overflows, he says it spreads through your body - and that's where disease and inflammation take root.\n\nThe upside: your body already has a repair system for this - sleep, movement and real food are what keep it running.\n\nWhat's one thing you could do today to help your cells repair?\n\n#kevintrudeau #aging #cellularhealth #wbdaily #healthtruth #energy",
+   "posted_at": "2026-10-28T20:17"
   },
   {
    "file": "KT_ARTERYCARE/01_HOW-TO-READ-YOUR-MILK-LABEL_163s.mp4",
