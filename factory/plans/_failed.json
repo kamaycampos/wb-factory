@@ -539,12 +539,30 @@
     "How to biohack",
     "your health"
    ]
+  },
+  "ep_v5k3hxf_r3/WHY-YOUR-MILK-NEVER-GOES-BAD": {
+   "plan": "ep_v5k3hxf_r3",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYCARER3",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHY-YOUR-MILK-NEVER-GOES-BAD_139s.mp4: [FAIL] 01_WHY-YOUR-MILK-NEVER-GOES-BAD_139s.mp4               14 captions vs the sound  median +0.05s  worst-10% 0.72s  | words captioned 100%"
+   ],
+   "slug": "WHY-YOUR-MILK-NEVER-GOES-BAD",
+   "in": 188.8,
+   "out": 327.2,
+   "start_words": "The milk producer said",
+   "end_words": "nature intended you to consume",
+   "hook": [
+    "Why your milk",
+    "never goes bad"
+   ]
   }
  },
  "attempts": {
   "ep_v5isd6d": 2,
   "ep_v5kwynq_r3": 2,
   "ep_v5isd6d_r4": 2,
-  "ep_v5k3hxf_r3": 1
+  "ep_v5k3hxf_r3": 2
  }
 }
