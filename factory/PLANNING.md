@@ -39,13 +39,15 @@ The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 202
 ("Pork sits in you 48 hours") were refused by the factory AFTER planning - 0 clips built that day.
 
 - **Keyword:** HEALTH. Voice: calm teacher, warm, plain words.
-- **Pace: ONE clip a day while the accounts build trust (Kamay, 15-17 Oct 2026).** WB's accounts are
-  days old: one post a day, every day, at 20:00 NY (IG + YT automatic, TikTok to Kamay's inbox, he posts
-  TikTok and Facebook by hand). Going to 4-6 a day is Kamay's call after the warm-up (review 29 Oct).
-  Plan when the prep's QUEUE shows under 10 clips: plan 2 episodes and **at least 4 clips in total, 6-8 when the
-  material allows** (18 Oct 2026: a run planned 1 clip per episode, both failed caption timing, and the day's post
-  never happened - about half of all cuts fail a gate, so one post a day needs 3-4 candidates). Fewer than 4: say
-  why in the report. 10 or more queued: report and stop.
+- **Pace: 4-6 clips a day on every platform (Kamay, 29 Oct 2026: the warm-up is over).** IG, YT and
+  Facebook post automatically, TikTok goes to Kamay's inbox. About half of all cuts fail a gate, so 5 posts
+  a day need ~10 candidates a day. Plan when the prep's QUEUE shows under 30 clips: up to 4 episodes and
+  **at least 10 clips in total** (6-9 per long episode). Fewer than 10: say why in the report. 30 or more
+  queued: report and stop.
+- **WB's HD health supply is small** (29 Oct: about 13 HD health episodes, all cut once). So the prep
+  now offers **SECOND PASS** episodes (PLANNING.md step 2d): plan NEW arcs from their unused minutes,
+  same law, same bar. A second pass of a talk that drifts off health (money, mindset) plans only its
+  health stretches. Never pad: a weak clip on a health account costs more trust than a gap.
 - **The whole clip is checked, not just the opening** (18 Oct): TikTok removed 2 WB clips that said "stupid" and
   "hell". A harsh word anywhere in the cut refuses it; cancer/vaccine/tumor spoken inside is a warning - prefer
   a cut without them.
@@ -77,6 +79,11 @@ Do NOT add an `"opener"` field. Every WB clip opens on the speaker. The switch (
      - "captions vs the sound", "UNCAPTIONED SPEECH", "too few to judge" -> move both edges to different sentence boundaries (a few seconds re-times every caption). If the gap named is someone else talking, cut so it falls outside.
    - `tries 2` means this is its last chance: skip it unless you can see the cause and fix it.
    - Second chances never count toward the number of new episodes. Skip any with `tries 2` unless the cause is obvious. Report how many you re-cut and how many you skipped, and why.
+2d. If the prep printed **SECOND PASS**, those episodes were already cut once, and most of their minutes were never used (16 Oct 2026: KT's planned episodes are 1,295 minutes, their plans touch 302). Plan them after any new episode and after second chances, the same way, with these differences:
+   - Write `factory/plans/ep_<id>_p2.json` (`_p3` if `_p2` exists), with the same `source` and a **new** brand (`KT_` + one word, unused by any plan; WB keeps the KT_ prefix).
+   - In `work/<id>_blocks.txt` every stretch a clip already uses is one line, `=== USED by <SLUG> (in-out s) ===`. Never cut inside it: `check_plan.py` refuses a clip that re-uses more than 10 seconds of another clip's minutes.
+   - New teachings only: read the USED slugs, and skip a moment that repeats the lesson of a clip already cut, even from different minutes.
+   - The same bar as a first pass: value first, the sharpest opening line, one arc = one clip. If the unused minutes hold only 2 clips worth posting, plan 2. Fewer good clips beat more weak ones.
 3. Read `factory/MASTERY.md` (what is proven to work, with its confidence) and `factory/HOOK_PATTERNS.md`, then read each episode's `work/<id>_blocks.txt` in full. Choose 6-9 clips per episode.
 4. Write `factory/plans/ep_<id>.json` (format below). Get exact start and end times from the cues in `work/<id>.srt`.
 5. `python factory/check_plan.py factory/plans/ep_<id>.json` for every plan. Fix everything it reports.
