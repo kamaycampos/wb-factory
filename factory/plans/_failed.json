@@ -557,6 +557,24 @@
     "Why your milk",
     "never goes bad"
    ]
+  },
+  "ep_v5ixx3h_p2/WHATS-HIDING-IN-YOUR-LABEL": {
+   "plan": "ep_v5ixx3h_p2",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_PILLTRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHATS-HIDING-IN-YOUR-LABEL_99s.mp4` - ends mid-thought on \"you It's toxic\"; sentence starts with no stop: \"anymore But\"; sentence starts with no stop: \"down So\""
+   ],
+   "slug": "WHATS-HIDING-IN-YOUR-LABEL",
+   "in": 1097.0,
+   "out": 1196.0,
+   "start_words": "in the industry it's called",
+   "end_words": "It's toxic.",
+   "hook": [
+    "What's hiding in",
+    "your supplement label"
+   ]
   }
  },
  "attempts": {
