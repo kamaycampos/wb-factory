@@ -39,15 +39,19 @@ The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 202
 ("Pork sits in you 48 hours") were refused by the factory AFTER planning - 0 clips built that day.
 
 - **Keyword:** HEALTH. Voice: calm teacher, warm, plain words.
-- **Pace: 4-6 clips a day on every platform (Kamay, 29 Oct 2026: the warm-up is over).** IG, YT and
-  Facebook post automatically, TikTok goes to Kamay's inbox. About half of all cuts fail a gate, so 5 posts
-  a day need ~10 candidates a day. Plan when the prep's QUEUE shows under 30 clips: up to 4 episodes and
-  **at least 10 clips in total** (6-9 per long episode). Fewer than 10: say why in the report. 30 or more
-  queued: report and stop.
+- **Pace: 3-5 clips a day on every platform (Kamay, 29 Oct 2026).** IG, YT and Facebook post automatically,
+  TikTok goes to Kamay's inbox. About half of all cuts fail a gate, so plan ~8 candidates a day. Plan when the
+  prep's QUEUE shows under 30 clips: up to 4 episodes and **at least 8 clips in total**. Fewer: say why in the
+  report. 30 or more queued: report and stop.
 - **WB's HD health supply is small** (29 Oct: about 13 HD health episodes, all cut once). So the prep
   now offers **SECOND PASS** episodes (PLANNING.md step 2d): plan NEW arcs from their unused minutes,
   same law, same bar. A second pass of a talk that drifts off health (money, mindset) plans only its
   health stretches. Never pad: a weak clip on a health account costs more trust than a gap.
+- **HEALTH INSIDE OTHER EPISODES** (29 Oct 2026, Kamay: "there are many moments in many videos of KT talking
+  about health"). When the prep prints it, those HD episodes are about money or mindset, but Kevin talks health
+  inside them; their `work/<id>_blocks.txt` holds ONLY the health stretches (the rest is `=== not health ===`).
+  Plan clips that live entirely inside those stretches, every one under the WB law: a money story with one food
+  sentence is not a health clip. Write `factory/plans/ep_<id>.json` as for any new episode (brand `KT_` + one word).
 - **The whole clip is checked, not just the opening** (18 Oct): TikTok removed 2 WB clips that said "stupid" and
   "hell". A harsh word anywhere in the cut refuses it; cancer/vaccine/tumor spoken inside is a warning - prefer
   a cut without them.
