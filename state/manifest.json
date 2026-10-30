@@ -417,7 +417,11 @@
    "hook": "Why cholesterol isn't your enemy",
    "bytes": 34834430,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-30T17:37",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
