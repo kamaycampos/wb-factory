@@ -256,7 +256,8 @@
      "is dropping"
     ],
     "caption": "Kevin Trudeau's guest, trainer and health coach Dylan Giamelli, lists what's actually driving testosterone down for men in the US.\n\nFirst on his list: a bad diet, loaded with sugar and foods sprayed with chemicals.\n\nSecond: alcohol. His research found even one drink works against testosterone - not just heavy drinking.\n\nThird: the basics most people skip - high stress, poor sleep, and not enough sunlight.\n\nComment HEALTH and we'll send you the full list of what's quietly wrecking your hormones.\n\n#kevintrudeau #testosterone #hormonehealth #wbdaily #healthtruth #naturalhealth",
-    "cta_kind": "offer"
+    "cta_kind": "offer",
+    "locked": true
    }
   ]
  },
@@ -363,5 +364,34 @@
     "caption": "Kevin Trudeau says the body was never built to get the exact same nutrients from the exact same source every single day.\n\nHis example: you don't eat the same meal for breakfast, lunch and dinner all week - you rotate your vegetables, your proteins, your starches. His point: a supplement should work the same way.\n\nKevin's own rule - never the same combination of whole-food ingredients two days running, over a full month-long cycle.\n\nIf your multivitamin is the exact same pill every single morning, his question is simple: when does your body ever get a break from it?\n\n#kevintrudeau #supplements #wbdaily #wholefoods #healthtruth #readthelabel"
    }
   ]
+ },
+ "ep_v5ixx3h_r4": {
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_PILLTRUTHR2",
+  "note": "2026-10-30 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v5ixx3h_p2/WHATS-HIDING-IN-YOUR-LABEL ended mid-thought on 'you It's toxic' because the old end_words landed on the first (ambiguous) occurrence of 'what happens to you', which repeats twice before the payoff. Same in/out, end_words changed to the unique line 'It's toxic' so the cut lands on the actual payoff.",
+  "clips": []
+ },
+ "ep_v5k35fh_p2": {
+  "source": "v5k35fh.mp4",
+  "brand": "KT_CHOLMYTH",
+  "note": "2026-10-30 - 'The Truth About Cholesterol And Your Health Problems' (Rumble v5k35fh). SECOND PASS by weekly agent: a new, clean restatement of the LDL/HDL arc, well clear of the already-cut clip's minutes. The episode's remaining unused stretches argue against a prescribed medication and are loaded with harsh language, so only this one new clip was safe to plan.",
+  "clips": [
+   {
+    "slug": "WHY-CHOLESTEROL-ISNT-YOUR-ENEMY",
+    "in": 786.78,
+    "out": 839.54,
+    "hook": [
+     "Why cholesterol",
+     "isn't your enemy"
+    ],
+    "caption": "Kevin Trudeau asks a question that doesn't fit the usual story: why do some people with very low cholesterol get major blockages, while others with sky-high cholesterol keep arteries that stay wide open?\n\nHis answer: the amount of cholesterol in your blood isn't the deciding factor on its own.\n\nKevin's view: cholesterol itself isn't the villain. Your body needs both LDL and HDL. He says they're part of how your brain functions and how your hormones stay balanced.\n\nThe question he leaves you with: if cholesterol were simply bad, why would your body be built to run on it?\n\nComment HEALTH and we'll send you his full breakdown of LDL versus HDL.\n\n#kevintrudeau #cholesterol #healthtruth #wbdaily #naturalhealth #readthelabel"
+   }
+  ]
+ },
+ "ep_v6y4es4_p2": {
+  "source": "v6y4es4.mp4",
+  "brand": "KT_NATURALFIX",
+  "note": "2026-10-30 - 'Kevin Trudeau Uncensored: The Untold Story Of Wealth, Health & Business Success' (Rumble v6y4es4). SECOND PASS by weekly agent: new health-only arcs from the 59 unused minutes, never touching the two clips already cut.",
+  "clips": []
  }
 }
