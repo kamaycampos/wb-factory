@@ -457,7 +457,11 @@
    "hook": "Why your grocery bag outlasts you",
    "bytes": 34639639,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-31T09:00",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_PORKTEST/01_WHY-PORK-MADE-HIM-FEEL-SLUGGISH_40s.mp4",
@@ -465,7 +469,11 @@
    "hook": "Why pork made Kevin feel sluggish",
    "bytes": 23196112,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-31T11:44",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
