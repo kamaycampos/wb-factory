@@ -1,0 +1,9 @@
+{"source": "v5ixx3h.mp4", "brand": "KT_PILLTRUTHR2", "test": false,
+ "note": "2026-10-30 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v5ixx3h_p2/WHATS-HIDING-IN-YOUR-LABEL ended mid-thought on 'you It's toxic' because the old end_words landed on the first (ambiguous) occurrence of 'what happens to you', which repeats twice before the payoff. Same in/out, end_words changed to the unique line 'It's toxic' so the cut lands on the actual payoff.",
+ "clips": [
+  {"slug": "WHATS-HIDING-IN-YOUR-LABEL", "in": 1097.0, "out": 1196.0,
+   "start_words": "in the industry it's called", "end_words": "It's toxic",
+   "hook": ["What's hiding in", "your supplement label"],
+   "retry_of": "ep_v5ixx3h_p2/WHATS-HIDING-IN-YOUR-LABEL",
+   "caption": "Kevin Trudeau breaks down two things to check on a supplement label before you buy.\n\nFirst: dyes. He says if a product lists any dye, red, blue or otherwise, put it back on the shelf and don't buy from that company again.\n\nSecond: fillers, also called excipients, like steric acid and magnesium stearate, added to help manufacturing and shelf life. Kevin's challenge: take a spoonful on its own and see how your body reacts.\n\nHis verdict, plainly: it's toxic.\n\nComment HEALTH and we'll send you the exact ingredient names to watch for.\n\n#kevintrudeau #supplementlabel #readthelabel #wbdaily #healthtruth #naturalhealth"}
+ ]}
