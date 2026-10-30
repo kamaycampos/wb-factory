@@ -351,7 +351,8 @@
      "The company behind",
      "your vitamins"
     ],
-    "caption": "Kevin Trudeau says to ask who actually owns your vitamin company before you trust the label.\n\nHis claim: the world's biggest seller of vitamins and minerals isn't a health company at all - it was built by two soap salesmen. They sold cleaning products door to door through multi-level marketing, then years later bought out the whole-food supplement company they once represented.\n\nKevin's point: the founders of the biggest name in the industry were business people first, not health people. Their goal was building an enterprise and a profit, not the best possible product.\n\nBefore you trust a label, his question is simple: who's really running the company behind it?\n\n#kevintrudeau #supplements #wbdaily #vitamins #healthtruth #readthelabel"
+    "caption": "Kevin Trudeau says to ask who actually owns your vitamin company before you trust the label.\n\nHis claim: the world's biggest seller of vitamins and minerals isn't a health company at all - it was built by two soap salesmen. They sold cleaning products door to door through multi-level marketing, then years later bought out the whole-food supplement company they once represented.\n\nKevin's point: the founders of the biggest name in the industry were business people first, not health people. Their goal was building an enterprise and a profit, not the best possible product.\n\nBefore you trust a label, his question is simple: who's really running the company behind it?\n\n#kevintrudeau #supplements #wbdaily #vitamins #healthtruth #readthelabel",
+    "locked": true
    },
    {
     "slug": "WHY-YOUR-SUPPLEMENT-SHOULD-CHANGE",
@@ -361,7 +362,8 @@
      "Why your supplement",
      "needs to rotate"
     ],
-    "caption": "Kevin Trudeau says the body was never built to get the exact same nutrients from the exact same source every single day.\n\nHis example: you don't eat the same meal for breakfast, lunch and dinner all week - you rotate your vegetables, your proteins, your starches. His point: a supplement should work the same way.\n\nKevin's own rule - never the same combination of whole-food ingredients two days running, over a full month-long cycle.\n\nIf your multivitamin is the exact same pill every single morning, his question is simple: when does your body ever get a break from it?\n\n#kevintrudeau #supplements #wbdaily #wholefoods #healthtruth #readthelabel"
+    "caption": "Kevin Trudeau says the body was never built to get the exact same nutrients from the exact same source every single day.\n\nHis example: you don't eat the same meal for breakfast, lunch and dinner all week - you rotate your vegetables, your proteins, your starches. His point: a supplement should work the same way.\n\nKevin's own rule - never the same combination of whole-food ingredients two days running, over a full month-long cycle.\n\nIf your multivitamin is the exact same pill every single morning, his question is simple: when does your body ever get a break from it?\n\n#kevintrudeau #supplements #wbdaily #wholefoods #healthtruth #readthelabel",
+    "locked": true
    }
   ]
  },
@@ -393,5 +395,39 @@
   "brand": "KT_NATURALFIX",
   "note": "2026-10-30 - 'Kevin Trudeau Uncensored: The Untold Story Of Wealth, Health & Business Success' (Rumble v6y4es4). SECOND PASS by weekly agent: new health-only arcs from the 59 unused minutes, never touching the two clips already cut.",
   "clips": []
+ },
+ "ep_v5hbogs_p2": {
+  "source": "v5hbogs.mp4",
+  "brand": "KT_PLASTICWATCH",
+  "note": "2026-10-30 - 'The Toxic Truth About Our Food Supply' (Rumble v5hbogs). SECOND PASS by weekly agent: a new arc from the unused minutes, clear of the already-cut clip's range (98-187s) and clear of the 'idiot'/'idiots' stretch earlier in the same story.",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-GROCERY-BAG-OUTLASTS-YOU",
+    "in": 469.01,
+    "out": 519.57,
+    "hook": [
+     "Why your grocery",
+     "bag outlasts you"
+    ],
+    "caption": "Kevin Trudeau tells a checkout story. Asked \"paper or plastic?\" he always says paper.\n\nHis reasoning: plastic doesn't break down. A paper bag returns to the earth. Plastic, he says, can sit in a landfill for a billion years without disappearing.\n\nHis view: the \"save the trees, use plastic\" message had it backwards. Paper is the renewable one.\n\nYears later, he points out, stores stopped handing out plastic and went back to paper, to keep it out of landfills.\n\nComment HEALTH and we'll send you his checkout breakdown.\n\n#kevintrudeau #plasticfree #readthelabel #wbdaily #healthtruth #naturalhealth"
+   }
+  ]
+ },
+ "ep_v5ic3lf_p2": {
+  "source": "v5ic3lf.mp4",
+  "brand": "KT_PORKTEST",
+  "note": "2026-10-30 - 'The 10 Foods You Should Never Eat' (Rumble v5ic3lf). SECOND PASS by weekly agent: a new personal-experiment arc, after the already-cut PORK-SITS-IN-YOU-FOR-48-HOURS (705-755s) ends and before the Germany dinner story introduces rougher language, so this teaching never touches it.",
+  "clips": [
+   {
+    "slug": "WHY-PORK-MADE-HIM-FEEL-SLUGGISH",
+    "in": 767.12,
+    "out": 807.15,
+    "hook": [
+     "Why pork made Kevin",
+     "feel sluggish"
+    ],
+    "caption": "Kevin Trudeau isn't a pork absolutist. He grew up Italian eating pork, and says no one's going to die from it.\n\nBut he ran his own test: cut pork for three months, to see how he'd feel.\n\nAt first, nothing changed. Then he ordered pork chops at a restaurant known for them, and didn't enjoy them like before, and felt sluggish after.\n\nHis takeaway: you don't have to swear it off forever. Go without it a while, then notice how your body responds when it's back.\n\nComment HEALTH for his full take on meat and energy.\n\n#kevintrudeau #realfood #wholefoods #wbdaily #healthtruth #naturalhealth"
+   }
+  ]
  }
 }
