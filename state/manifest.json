@@ -344,12 +344,26 @@
    "caption": "Kevin Trudeau always checked the label before the price. Homogenized milk has every molecule broken down so it can sit on a shelf for three weeks instead of souring in two days.\n\nHis fix: buy milk or cheese labeled \"raw\" or \"non-homogenized.\" Raw means two things - not homogenized, not pasteurized - closer to what your grandparents drank. It isn't always easy to find, and that's okay.\n\nNext time you're at the store, flip the carton over and look for that one word.\n\nComment HEALTH and I'll send you the label cheat sheet.\n\n#kevintrudeau #rawmilk #labelreading #foodtruth #dairyfacts #healthyliving",
    "hook": "How to read your milk label",
    "bytes": 99909276,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "cta_kind": "offer",
    "scheduled_at": "2026-10-30T20:17",
    "cta_keyword": "HEALTH",
-   "cta_variant": 0
+   "cta_variant": 0,
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1851371156055260/",
+    "instagram": "https://www.instagram.com/reel/DfI3EnlCnRs/",
+    "youtube": "https://youtube.com/shorts/QRTKfL5V4WE"
+   },
+   "caption_at_post": "Kevin Trudeau always checked the label before the price. Homogenized milk has every molecule broken down so it can sit on a shelf for three weeks instead of souring in two days.\n\nHis fix: buy milk or cheese labeled \"raw\" or \"non-homogenized.\" Raw means two things - not homogenized, not pasteurized - closer to what your grandparents drank. It isn't always easy to find, and that's okay.\n\nNext time you're at the store, flip the carton over and look for that one word.\n\nComment HEALTH and I'll send you the label cheat sheet.\n\n#kevintrudeau #rawmilk #labelreading #foodtruth #dairyfacts #healthyliving",
+   "posted_at": "2026-10-30T20:27"
   },
   {
    "file": "KT_ARTERYCARER2/02_HOW-CHLORINE-GETS-IN-YOUR-SKIN_50s.mp4",
