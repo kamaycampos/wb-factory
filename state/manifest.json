@@ -509,7 +509,11 @@
    "hook": "What your orange juice is missing",
    "bytes": 23052983,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-10-31T16:25",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_NATURALFIXR2/01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4",
@@ -517,7 +521,11 @@
    "hook": "Why science can't fix your food",
    "bytes": 59994553,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-01T09:21",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
