@@ -1,0 +1,21 @@
+{
+ "source": "v5k3hxf.mp4",
+ "brand": "KT_ARTERYCARER4",
+ "test": false,
+ "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCE, tries 2, last chance). WHY-YOUR-FRIES-CHANGED-OIL failed 'captions vs the sound' sync twice at out=1048.1. Moved the end edge 9s later to the next sentence boundary (out=1057.0, 'that all goes rancid anyway') to re-time every caption, per PLANNING.md step 2c - also a stronger payoff line. WHY-YOUR-MILK-NEVER-GOES-BAD (ep_v5k3hxf_r3, tries 2) skipped: its drift is a few hundred ms over a 138s clip with no edge-level cause visible, and lengthening it risks the 140s+ clips STRATEGY.md already flagged as weak (the 163s milk-label clip, skip 64.3) - see report.",
+ "clips": [
+  {
+   "slug": "WHY-YOUR-FRIES-CHANGED-OIL",
+   "in": 992.10,
+   "out": 1057.00,
+   "start_words": "Saturated fat's bad for you",
+   "end_words": "that all goes rancid anyway",
+   "hook": [
+    "Why your fries",
+    "changed oil"
+   ],
+   "caption": "Kevin Trudeau says McDonald's fries used to be cooked in beef fat - by most accounts the best-tasting fries you could buy.\n\nThen saturated fat got blamed for heart problems, and the companies selling hydrogenated vegetable oil benefited most from that panic, in his view. McDonald's switched to vegetable oil, and fast food never tasted quite the same again.\n\nThe oil used is usually printed right on the menu board or nutrition page - worth a quick look.\n\nEver notice fries don't taste like they used to? Comment HEALTH and I'll tell you the oils we keep in our kitchen.\n\n#kevintrudeau #foodtruth #vegetableoil #labelreading #healthyeating #realfood",
+   "retry_of": "ep_v5k3hxf_r2/WHY-YOUR-FRIES-CHANGED-OIL"
+  }
+ ]
+}

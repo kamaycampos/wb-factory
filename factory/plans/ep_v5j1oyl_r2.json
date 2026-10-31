@@ -1,0 +1,9 @@
+{"source": "v5j1oyl.mp4", "brand": "KT_TOXINLOADR2", "test": false,
+ "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCE, tries 1). THE-PIG-GENE-IN-YOUR-TOMATO: the plan's end_words read 'creating three headed monsters' (no hyphen) while the transcript has 'three-headed' as one hyphenated token, so the word search missed it and overshot two sentences to 'they dont even know whats happening'. Fixed by copying the hyphen exactly; in/out unchanged. WHATS-SECRETLY-LOADING-YOUR-BODY skipped: its scrambled phrase ('toxins You're putting toxins') sits inside six near-identical 'you're putting toxins in your body' lines in the middle of the only telling of that point and cannot be cut around - see report.",
+ "clips": [
+  {"slug": "THE-PIG-GENE-IN-YOUR-TOMATO", "in": 509.0, "out": 576.0,
+   "start_words": "Science is not better", "end_words": "creating three-headed monsters",
+   "hook": ["The pig gene", "inside your food"],
+   "retry_of": "ep_v5j1oyl_p2/THE-PIG-GENE-IN-YOUR-TOMATO",
+   "caption": "Kevin Trudeau tells the story of how one genetically modified tomato actually gets made.\n\nHis claim: scientists took a pig gene and put it inside the tomato seed itself, so the plant wards off a bug on its own, without a spray.\n\nThen, he says, they took the weed poison from Monsanto and built that into the seed too, so it comes up from inside the plant instead of being sprayed on top.\n\nHis point: nature already made a working tomato. Science just patented a new one to sell.\n\nComment HEALTH and we'll send you what to look for on the label instead.\n\n#kevintrudeau #gmo #wholefoods #readthelabel #wbdaily #healthtruth"}
+ ]}
