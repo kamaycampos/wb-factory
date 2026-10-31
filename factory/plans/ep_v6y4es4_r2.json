@@ -1,0 +1,19 @@
+{"source": "v6y4es4.mp4", "brand": "KT_NATURALFIXR2", "test": false,
+ "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v6y4es4_p2 clips fixed. WHATS-ABSORBED-THROUGH-YOUR-SKIN and THE-OIL-CHANGE-YOUR-BODY-NEEDS ended mid-thought - moved to a later sentence boundary that completes the thought. WHY-SCIENCE-CANT-FIX-YOUR-FOOD opened mid-sentence ('is I believe') - start moved a few words later to the clean standalone sentence 'Science is not better than nature'. THE-SUPPLEMENT-JACK-LALANNE-TOOK skipped: its repeated phrase ('all this, all this beef liver') sits in the middle of the only telling of that story and cannot be cut around.",
+ "clips": [
+  {"slug": "WHATS-ABSORBED-THROUGH-YOUR-SKIN", "in": 1817.36, "out": 1877.44,
+   "start_words": "A lot of my African American", "end_words": "all clogged from the toxins",
+   "hook": ["What's absorbed", "through your skin"],
+   "retry_of": "ep_v6y4es4_p2/WHATS-ABSORBED-THROUGH-YOUR-SKIN",
+   "caption": "Kevin Trudeau tells the story of friends whose skin got dry and ashy, asking him for a lotion fix.\n\nHis answer: no. His test for any lotion or cream: if the label says to call poison control if it's ingested, ask why it's safe to rub on your skin every day instead - your skin absorbs it straight into your body.\n\nHis point: those ingredients act as hormone disruptors. He even ties it to men on testosterone therapy whose blood levels look high but who still feel the same, because the toxins have the cell's hormone receptors clogged.\n\nComment HEALTH and we'll send you what to check for on your next label.\n\n#kevintrudeau #skincare #readthelabel #hormonehealth #wbdaily #healthtruth"},
+  {"slug": "WHY-SCIENCE-CANT-FIX-YOUR-FOOD", "in": 1272.5, "out": 1375.12,
+   "start_words": "science is not better", "end_words": "all the rodents took over",
+   "hook": ["Why science can't", "fix your food"],
+   "retry_of": "ep_v6y4es4_p2/WHY-SCIENCE-CANT-FIX-YOUR-FOOD",
+   "caption": "Kevin Trudeau tells a story about scientists in Australia facing a bug problem. Their fix: import toads to eat the bugs.\n\nIt worked, the bugs disappeared. But the toads were poisonous, and the alligators that ate them died by the millions. With no alligators left, the rodents took over.\n\nKevin's point: nature runs on balance, and changing one piece of it can ripple out further than anyone planned.\n\nHis rule for food: whole, real food, as close to how nature made it, beats anything isolated or manufactured, like a gorilla eating a whole orange instead of drinking the juice.\n\nComment HEALTH for his take on whole fruit versus juice.\n\n#kevintrudeau #wholefoods #realfood #naturalhealth #wbdaily #healthtruth"},
+  {"slug": "THE-OIL-CHANGE-YOUR-BODY-NEEDS", "in": 1605.92, "out": 1655.68,
+   "start_words": "There's a few companies", "end_words": "my body as nature intended",
+   "hook": ["The oil change", "your body needs"],
+   "retry_of": "ep_v6y4es4_p2/THE-OIL-CHANGE-YOUR-BODY-NEEDS",
+   "caption": "Kevin Trudeau compares cleansing your body to changing the oil in your car.\n\nHis reasoning: you take your car in for an oil and filter change because things build up inside the engine. He says the same logic applies to your body. You shower to clean the outside, but the inside needs attention too.\n\nHis own habits: whole-food supplements made from real, dehydrated food instead of extracts, plus fasting and colon cleanses, to clear out what builds up.\n\nHis last word on it: he took life lightly, laughed a lot (laughing is really the best medicine, he says), and moved his body the way nature intended.\n\nComment HEALTH for his simple cleanse routine.\n\n#kevintrudeau #wbdaily #naturalhealth #wholefoods #healthtruth #realfood"}
+ ]}

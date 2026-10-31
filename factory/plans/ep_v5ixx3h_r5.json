@@ -1,0 +1,14 @@
+{"source": "v5ixx3h.mp4", "brand": "KT_LABELTRUTHR5", "test": false,
+ "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCES, tries 2/last chance): ep_v5ixx3h_r3/WHY-WHOLE-FRUIT-BEATS-JUICE ended mid-thought on 'have juice machines' - the real button line is the next cue, 'Just saying', so the end now reaches it, and the start moved to the concrete orange-vs-juice sentence to keep the length right. ep_v5ixx3h_r4/WHATS-HIDING-IN-YOUR-LABEL ended mid-thought a second time on 'It's toxic' (the steric-acid/talc passage after it also drifts into a TikTok-removal word before the next usable stop) - moved the end back to the dyes payoff, 'never buy anything from that company ever again', which is clean and complete.",
+ "clips": [
+  {"slug": "WHY-WHOLE-FRUIT-BEATS-JUICE", "in": 1983.0, "out": 2023.0,
+   "start_words": "This is why eating", "end_words": "juice machines Just saying",
+   "hook": ["What your orange juice", "is missing"],
+   "retry_of": "ep_v5ixx3h_r3/WHY-WHOLE-FRUIT-BEATS-JUICE",
+   "caption": "Kevin Trudeau says there's a reason eating an orange works better than drinking the juice: the fiber in the whole fruit slows everything down.\n\nHis point: that slower pace lets more of the vitamin C and bioflavonoids get absorbed in the intestine instead of the stomach. Drink straight juice, he says, and more of it breaks down too fast in the stomach instead - which can even leave you with extra acid.\n\nHis line for it: animals in the wild don't have juice machines. Just saying.\n\nFruit or juice - which do you reach for first?\n\n#kevintrudeau #vitaminc #wbdaily #healthtruth #readthelabel #wholefood"},
+  {"slug": "WHATS-HIDING-IN-YOUR-LABEL", "in": 1097.0, "out": 1146.0,
+   "start_words": "in the industry it's called", "end_words": "never buy anything from that company",
+   "hook": ["What's hiding in", "your supplement label"],
+   "retry_of": "ep_v5ixx3h_r4/WHATS-HIDING-IN-YOUR-LABEL",
+   "caption": "Kevin Trudeau says to check your supplement label for two things that have nothing to do with the actual nutrient.\n\nFirst: fillers, also called excipients, added to help manufacturing and shelf life, not your health.\n\nSecond: dyes. If a supplement lists any dye, red, blue or otherwise, his rule is simple: put it back on the shelf.\n\nHis harder rule: once you spot a dye on a label, don't buy anything else from that company either.\n\nComment HEALTH and we'll send you the exact words to look for on your next label.\n\n#kevintrudeau #supplementlabel #readthelabel #wbdaily #healthtruth #naturalhealth"}
+ ]}
