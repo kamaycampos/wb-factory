@@ -561,7 +561,11 @@
    "hook": "Why your fries changed oil",
    "bytes": 41831448,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-01T12:09",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FISHRULE/01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4",
@@ -569,7 +573,11 @@
    "hook": "The fish rule that protects you",
    "bytes": 22267301,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-02T09:02",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_TOXINLOADR2/01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4",
@@ -577,7 +585,11 @@
    "hook": "The pig gene inside your food",
    "bytes": 44825072,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-01T16:55",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
