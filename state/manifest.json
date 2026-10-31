@@ -536,12 +536,26 @@
    "caption": "Kevin Trudeau says there's a reason eating an orange works better than drinking the juice: the fiber in the whole fruit slows everything down.\n\nHis point: that slower pace lets more of the vitamin C and bioflavonoids get absorbed in the intestine instead of the stomach. Drink straight juice, he says, and more of it breaks down too fast in the stomach instead - which can even leave you with extra acid.\n\nHis line for it: animals in the wild don't have juice machines. Just saying.\n\nFruit or juice - which do you reach for first?\n\n#kevintrudeau #vitaminc #wbdaily #healthtruth #readthelabel #wholefood",
    "hook": "What your orange juice is missing",
    "bytes": 23052983,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-10-31T16:25",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1113147911327730/",
+    "instagram": "https://www.instagram.com/reel/DfLC3RXihxi/",
+    "youtube": "https://youtube.com/shorts/ySpmPPNUeN0"
+   },
+   "caption_at_post": "Kevin Trudeau says there's a reason eating an orange works better than drinking the juice: the fiber in the whole fruit slows everything down.\n\nHis point: that slower pace lets more of the vitamin C and bioflavonoids get absorbed in the intestine instead of the stomach. Drink straight juice, he says, and more of it breaks down too fast in the stomach instead - which can even leave you with extra acid.\n\nHis line for it: animals in the wild don't have juice machines. Just saying.\n\nFruit or juice - which do you reach for first?\n\n#kevintrudeau #vitaminc #wbdaily #healthtruth #readthelabel #wholefood",
+   "posted_at": "2026-10-31T16:46"
   },
   {
    "file": "KT_NATURALFIXR2/01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4",
