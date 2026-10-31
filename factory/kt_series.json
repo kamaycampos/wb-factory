@@ -275,7 +275,8 @@
      "your milk label"
     ],
     "caption": "Kevin Trudeau always checked the label before the price. Homogenized milk has every molecule broken down so it can sit on a shelf for three weeks instead of souring in two days.\n\nHis fix: buy milk or cheese labeled \"raw\" or \"non-homogenized.\" Raw means two things - not homogenized, not pasteurized - closer to what your grandparents drank. It isn't always easy to find, and that's okay.\n\nNext time you're at the store, flip the carton over and look for that one word.\n\nComment HEALTH and I'll send you the label cheat sheet.\n\n#kevintrudeau #rawmilk #labelreading #foodtruth #dairyfacts #healthyliving",
-    "cta_kind": "offer"
+    "cta_kind": "offer",
+    "locked": true
    }
   ]
  },
@@ -386,7 +387,8 @@
      "Why cholesterol",
      "isn't your enemy"
     ],
-    "caption": "Kevin Trudeau asks a question that doesn't fit the usual story: why do some people with very low cholesterol get major blockages, while others with sky-high cholesterol keep arteries that stay wide open?\n\nHis answer: the amount of cholesterol in your blood isn't the deciding factor on its own.\n\nKevin's view: cholesterol itself isn't the villain. Your body needs both LDL and HDL. He says they're part of how your brain functions and how your hormones stay balanced.\n\nThe question he leaves you with: if cholesterol were simply bad, why would your body be built to run on it?\n\nComment HEALTH and we'll send you his full breakdown of LDL versus HDL.\n\n#kevintrudeau #cholesterol #healthtruth #wbdaily #naturalhealth #readthelabel"
+    "caption": "Kevin Trudeau asks a question that doesn't fit the usual story: why do some people with very low cholesterol get major blockages, while others with sky-high cholesterol keep arteries that stay wide open?\n\nHis answer: the amount of cholesterol in your blood isn't the deciding factor on its own.\n\nKevin's view: cholesterol itself isn't the villain. Your body needs both LDL and HDL. He says they're part of how your brain functions and how your hormones stay balanced.\n\nThe question he leaves you with: if cholesterol were simply bad, why would your body be built to run on it?\n\nComment HEALTH and we'll send you his full breakdown of LDL versus HDL.\n\n#kevintrudeau #cholesterol #healthtruth #wbdaily #naturalhealth #readthelabel",
+    "locked": true
    }
   ]
  },
@@ -427,6 +429,52 @@
      "feel sluggish"
     ],
     "caption": "Kevin Trudeau isn't a pork absolutist. He grew up Italian eating pork, and says no one's going to die from it.\n\nBut he ran his own test: cut pork for three months, to see how he'd feel.\n\nAt first, nothing changed. Then he ordered pork chops at a restaurant known for them, and didn't enjoy them like before, and felt sluggish after.\n\nHis takeaway: you don't have to swear it off forever. Go without it a while, then notice how your body responds when it's back.\n\nComment HEALTH for his full take on meat and energy.\n\n#kevintrudeau #realfood #wholefoods #wbdaily #healthtruth #naturalhealth"
+   }
+  ]
+ },
+ "ep_v5ixx3h_r5": {
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_LABELTRUTHR5",
+  "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCES, tries 2/last chance): ep_v5ixx3h_r3/WHY-WHOLE-FRUIT-BEATS-JUICE ended mid-thought on 'have juice machines' - the real button line is the next cue, 'Just saying', so the end now reaches it, and the start moved to the concrete orange-vs-juice sentence to keep the length right. ep_v5ixx3h_r4/WHATS-HIDING-IN-YOUR-LABEL ended mid-thought a second time on 'It's toxic' (the steric-acid/talc passage after it also drifts into a TikTok-removal word before the next usable stop) - moved the end back to the dyes payoff, 'never buy anything from that company ever again', which is clean and complete.",
+  "clips": [
+   {
+    "slug": "WHY-WHOLE-FRUIT-BEATS-JUICE",
+    "in": 1983.0,
+    "out": 2021.29,
+    "hook": [
+     "What your orange juice",
+     "is missing"
+    ],
+    "caption": "Kevin Trudeau says there's a reason eating an orange works better than drinking the juice: the fiber in the whole fruit slows everything down.\n\nHis point: that slower pace lets more of the vitamin C and bioflavonoids get absorbed in the intestine instead of the stomach. Drink straight juice, he says, and more of it breaks down too fast in the stomach instead - which can even leave you with extra acid.\n\nHis line for it: animals in the wild don't have juice machines. Just saying.\n\nFruit or juice - which do you reach for first?\n\n#kevintrudeau #vitaminc #wbdaily #healthtruth #readthelabel #wholefood"
+   }
+  ]
+ },
+ "ep_v5j1oyl_p2": {
+  "source": "v5j1oyl.mp4",
+  "brand": "KT_TOXINLOAD",
+  "note": "2026-10-31 - 'The Dark Side Of Vitamins And Supplements | TKTS Clips' (Rumble v5j1oyl). SECOND PASS by weekly agent: new health-only arcs from the unused minutes, never touching the clip already cut (30-161s). Skipped the 373-381s stretch ('pharmaceutical drugs are the number one toxin') - reads as medical advice about medication, not food/water information.",
+  "clips": []
+ },
+ "ep_v6uxtgp_r3": {
+  "source": "v6uxtgp.mp4",
+  "brand": "KT_TOXINWATCHR3",
+  "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCES, tries 2/last chance): ep_v6uxtgp/WHY-ALUMINUM-FALLS-IN-YOUR-FOOD ended mid-thought on 'absorbed into your body' and had a repeated word - moved the end to the earlier, cleaner payoff 'Big mistake' (wrapping hot food in foil), after a real pause in the audio. ep_v6uxtgp/WHATS-SPRAYED-ON-YOUR-PRODUCE skipped: its repeated phrase ('grass-fed... 100%... grass-fed') sits in the middle of the only usable stretch, and every alternative start either reruns into that repeat or backs into the doctor/medication passage right before it - no clean cut exists at this bar, last chance used.",
+  "clips": []
+ },
+ "ep_v6y4es4_r2": {
+  "source": "v6y4es4.mp4",
+  "brand": "KT_NATURALFIXR2",
+  "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v6y4es4_p2 clips fixed. WHATS-ABSORBED-THROUGH-YOUR-SKIN and THE-OIL-CHANGE-YOUR-BODY-NEEDS ended mid-thought - moved to a later sentence boundary that completes the thought. WHY-SCIENCE-CANT-FIX-YOUR-FOOD opened mid-sentence ('is I believe') - start moved a few words later to the clean standalone sentence 'Science is not better than nature'. THE-SUPPLEMENT-JACK-LALANNE-TOOK skipped: its repeated phrase ('all this, all this beef liver') sits in the middle of the only telling of that story and cannot be cut around.",
+  "clips": [
+   {
+    "slug": "WHY-SCIENCE-CANT-FIX-YOUR-FOOD",
+    "in": 1272.76,
+    "out": 1372.63,
+    "hook": [
+     "Why science can't",
+     "fix your food"
+    ],
+    "caption": "Kevin Trudeau tells a story about scientists in Australia facing a bug problem. Their fix: import toads to eat the bugs.\n\nIt worked, the bugs disappeared. But the toads were poisonous, and the alligators that ate them died by the millions. With no alligators left, the rodents took over.\n\nKevin's point: nature runs on balance, and changing one piece of it can ripple out further than anyone planned.\n\nHis rule for food: whole, real food, as close to how nature made it, beats anything isolated or manufactured, like a gorilla eating a whole orange instead of drinking the juice.\n\nComment HEALTH for his take on whole fruit versus juice.\n\n#kevintrudeau #wholefoods #realfood #naturalhealth #wbdaily #healthtruth"
    }
   ]
  }

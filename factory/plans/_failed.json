@@ -665,6 +665,114 @@
     "The oil change",
     "your body needs"
    ]
+  },
+  "ep_v5ixx3h_r5/WHATS-HIDING-IN-YOUR-LABEL": {
+   "plan": "ep_v5ixx3h_r5",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_LABELTRUTHR5",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHATS-HIDING-IN-YOUR-LABEL_47s.mp4` - ends mid-thought on \"from that company\"; sentence starts with no stop: \"down So\"; sentence starts with no stop: \"excipients If\""
+   ],
+   "slug": "WHATS-HIDING-IN-YOUR-LABEL",
+   "in": 1097.0,
+   "out": 1146.0,
+   "start_words": "in the industry it's called",
+   "end_words": "never buy anything from that company",
+   "hook": [
+    "What's hiding in",
+    "your supplement label"
+   ]
+  },
+  "ep_v5j1oyl_p2/WHATS-SECRETLY-LOADING-YOUR-BODY": {
+   "plan": "ep_v5j1oyl_p2",
+   "source": "v5j1oyl.mp4",
+   "brand": "KT_TOXINLOAD",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHATS-SECRETLY-LOADING-YOUR-BODY_45s.mp4` - ends mid-thought on \"disease the second\"; phrase scrambled around \"toxins You're putting toxins\"; sentence starts with no stop: \"absorbed So\""
+   ],
+   "slug": "WHATS-SECRETLY-LOADING-YOUR-BODY",
+   "in": 381.5,
+   "out": 427.0,
+   "start_words": "Everything you drink all the water",
+   "end_words": "cause of all illness and disease",
+   "hook": [
+    "What's loading your body",
+    "with toxins"
+   ]
+  },
+  "ep_v5j1oyl_p2/THE-PIG-GENE-IN-YOUR-TOMATO": {
+   "plan": "ep_v5j1oyl_p2",
+   "source": "v5j1oyl.mp4",
+   "brand": "KT_TOXINLOAD",
+   "tries": 1,
+   "why": [
+    "FAIL 02_THE-PIG-GENE-IN-YOUR-TOMATO_68s.mp4: ends off the planned words: plan ends 'creating three headed monsters', clip ends 'they dont even know whats happening'"
+   ],
+   "slug": "THE-PIG-GENE-IN-YOUR-TOMATO",
+   "in": 509.0,
+   "out": 576.0,
+   "start_words": "Science is not better",
+   "end_words": "creating three headed monsters",
+   "hook": [
+    "The pig gene",
+    "inside your food"
+   ]
+  },
+  "ep_v6uxtgp_r3/WHY-ALUMINUM-FALLS-IN-YOUR-FOOD": {
+   "plan": "ep_v6uxtgp_r3",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINWATCHR3",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHY-ALUMINUM-FALLS-IN-YOUR-FOOD_49s.mp4` - word repeated: \"the the\""
+   ],
+   "slug": "WHY-ALUMINUM-FALLS-IN-YOUR-FOOD",
+   "in": 622.16,
+   "out": 673.44,
+   "start_words": "Aluminum is falling down into",
+   "end_words": "aluminum foil Big mistake",
+   "hook": [
+    "Why aluminum falls",
+    "in your food"
+   ]
+  },
+  "ep_v6y4es4_r2/WHATS-ABSORBED-THROUGH-YOUR-SKIN": {
+   "plan": "ep_v6y4es4_r2",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_NATURALFIXR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_62s.mp4` - phrase scrambled around \"cell because the cell\""
+   ],
+   "slug": "WHATS-ABSORBED-THROUGH-YOUR-SKIN",
+   "in": 1817.36,
+   "out": 1877.44,
+   "start_words": "A lot of my African American",
+   "end_words": "all clogged from the toxins",
+   "hook": [
+    "What's absorbed",
+    "through your skin"
+   ]
+  },
+  "ep_v6y4es4_r2/THE-OIL-CHANGE-YOUR-BODY-NEEDS": {
+   "plan": "ep_v6y4es4_r2",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_NATURALFIXR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_45s.mp4` - ends mid-thought on \"although\"; sentence starts with no stop: \"fruits But\"; sentence starts with no stop: \"inside So\""
+   ],
+   "slug": "THE-OIL-CHANGE-YOUR-BODY-NEEDS",
+   "in": 1605.92,
+   "out": 1655.68,
+   "start_words": "There's a few companies",
+   "end_words": "my body as nature intended",
+   "hook": [
+    "The oil change",
+    "your body needs"
+   ]
   }
  },
  "attempts": {
