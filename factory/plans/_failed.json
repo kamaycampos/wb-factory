@@ -773,6 +773,60 @@
     "The oil change",
     "your body needs"
    ]
+  },
+  "ep_v5k35fh_p3/WHAT-CLOGS-YOUR-BLOOD-VESSELS": {
+   "plan": "ep_v5k35fh_p3",
+   "source": "v5k35fh.mp4",
+   "brand": "KT_LIPIDMYTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4` - word repeated: \"a a\""
+   ],
+   "slug": "WHAT-CLOGS-YOUR-BLOOD-VESSELS",
+   "in": 68.0,
+   "out": 175.0,
+   "start_words": "The doctor will tell you",
+   "end_words": "a stroke or a heart attack",
+   "hook": [
+    "What clogs",
+    "your blood vessels"
+   ]
+  },
+  "ep_v5k35fh_p3/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES": {
+   "plan": "ep_v5k35fh_p3",
+   "source": "v5k35fh.mp4",
+   "brand": "KT_LIPIDMYTH",
+   "tries": 1,
+   "why": [
+    "drop KT_LIPIDMYTH/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES: hook - 838px wide at 44px - over the 780px safe zone, will be cut off on a phone"
+   ],
+   "slug": "WHAT-YOUR-CHOLESTEROL-COUNT-MISSES",
+   "in": 251.4,
+   "out": 299.0,
+   "start_words": "Is there anybody out there",
+   "end_words": "has a 240 cholesterol count",
+   "hook": [
+    "What your cholesterol count",
+    "really misses"
+   ]
+  },
+  "ep_v5k35fh_p3/WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS": {
+   "plan": "ep_v5k35fh_p3",
+   "source": "v5k35fh.mp4",
+   "brand": "KT_LIPIDMYTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4` - sentence starts with no stop: \"attack He\"; sentence starts with no stop: \"business But\"; sentence starts with no stop: \"him But\""
+   ],
+   "slug": "WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS",
+   "in": 320.0,
+   "out": 368.0,
+   "start_words": "The drug companies want",
+   "end_words": "about the money isn't it",
+   "hook": [
+    "Why your doctor",
+    "must prescribe drugs"
+   ]
   }
  },
  "attempts": {

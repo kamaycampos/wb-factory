@@ -411,7 +411,8 @@
      "Why your grocery",
      "bag outlasts you"
     ],
-    "caption": "Kevin Trudeau tells a checkout story. Asked \"paper or plastic?\" he always says paper.\n\nHis reasoning: plastic doesn't break down. A paper bag returns to the earth. Plastic, he says, can sit in a landfill for a billion years without disappearing.\n\nHis view: the \"save the trees, use plastic\" message had it backwards. Paper is the renewable one.\n\nYears later, he points out, stores stopped handing out plastic and went back to paper, to keep it out of landfills.\n\nComment HEALTH and we'll send you his checkout breakdown.\n\n#kevintrudeau #plasticfree #readthelabel #wbdaily #healthtruth #naturalhealth"
+    "caption": "Kevin Trudeau tells a checkout story. Asked \"paper or plastic?\" he always says paper.\n\nHis reasoning: plastic doesn't break down. A paper bag returns to the earth. Plastic, he says, can sit in a landfill for a billion years without disappearing.\n\nHis view: the \"save the trees, use plastic\" message had it backwards. Paper is the renewable one.\n\nYears later, he points out, stores stopped handing out plastic and went back to paper, to keep it out of landfills.\n\nComment HEALTH and we'll send you his checkout breakdown.\n\n#kevintrudeau #plasticfree #readthelabel #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    }
   ]
  },
@@ -428,7 +429,8 @@
      "Why pork made Kevin",
      "feel sluggish"
     ],
-    "caption": "Kevin Trudeau isn't a pork absolutist. He grew up Italian eating pork, and says no one's going to die from it.\n\nBut he ran his own test: cut pork for three months, to see how he'd feel.\n\nAt first, nothing changed. Then he ordered pork chops at a restaurant known for them, and didn't enjoy them like before, and felt sluggish after.\n\nHis takeaway: you don't have to swear it off forever. Go without it a while, then notice how your body responds when it's back.\n\nComment HEALTH for his full take on meat and energy.\n\n#kevintrudeau #realfood #wholefoods #wbdaily #healthtruth #naturalhealth"
+    "caption": "Kevin Trudeau isn't a pork absolutist. He grew up Italian eating pork, and says no one's going to die from it.\n\nBut he ran his own test: cut pork for three months, to see how he'd feel.\n\nAt first, nothing changed. Then he ordered pork chops at a restaurant known for them, and didn't enjoy them like before, and felt sluggish after.\n\nHis takeaway: you don't have to swear it off forever. Go without it a while, then notice how your body responds when it's back.\n\nComment HEALTH for his full take on meat and energy.\n\n#kevintrudeau #realfood #wholefoods #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    }
   ]
  },
@@ -475,6 +477,63 @@
      "fix your food"
     ],
     "caption": "Kevin Trudeau tells a story about scientists in Australia facing a bug problem. Their fix: import toads to eat the bugs.\n\nIt worked, the bugs disappeared. But the toads were poisonous, and the alligators that ate them died by the millions. With no alligators left, the rodents took over.\n\nKevin's point: nature runs on balance, and changing one piece of it can ripple out further than anyone planned.\n\nHis rule for food: whole, real food, as close to how nature made it, beats anything isolated or manufactured, like a gorilla eating a whole orange instead of drinking the juice.\n\nComment HEALTH for his take on whole fruit versus juice.\n\n#kevintrudeau #wholefoods #realfood #naturalhealth #wbdaily #healthtruth"
+   }
+  ]
+ },
+ "ep_v5ic3lf_p3": {
+  "source": "v5ic3lf.mp4",
+  "brand": "KT_FISHRULE",
+  "note": "2026-10-31 - 'The 10 Foods You Should Never Eat | TKTS Clips' (Rumble v5ic3lf). SECOND PASS by weekly agent: one new arc from the previously-unused 1168-1212s tail (the kosher dietary-law rule), right after the already-cut WHY-MIKE-KEPT-EATING-WHAT-MADE-HIM-SICK (1076-1164s). Everything else unused in this episode either repeats a lesson already cut (sweeteners before the diet-soda clip, the shellfish lead-in) or sits inside the profane 540-900s 'pork conversation' bit - skipped both.",
+  "clips": [
+   {
+    "slug": "THE-FISH-RULE-THAT-PROTECTS-YOU",
+    "in": 1175.41,
+    "out": 1212.61,
+    "hook": [
+     "The fish rule",
+     "that protects you"
+    ],
+    "caption": "Kevin Trudeau points out something most people never connect: the ancient kosher dietary law and the advice he's already given about pork and shellfish line up almost exactly.\n\nHis read: the kosher rule says a land animal is fine to eat only if it has a split hoof and chews the cud - which is exactly why pork is out.\n\nThe water rule is just as simple: only eat what comes from a lake, river or ocean and has fins and scales.\n\nA quick filter worth keeping in your head next time you're ordering.\n\nComment HEALTH and we'll send you the full list of what that rules out.\n\n#kevintrudeau #foodtruth #pork #shellfish #wbdaily #healthtruth"
+   }
+  ]
+ },
+ "ep_v5j1oyl_r2": {
+  "source": "v5j1oyl.mp4",
+  "brand": "KT_TOXINLOADR2",
+  "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCE, tries 1). THE-PIG-GENE-IN-YOUR-TOMATO: the plan's end_words read 'creating three headed monsters' (no hyphen) while the transcript has 'three-headed' as one hyphenated token, so the word search missed it and overshot two sentences to 'they dont even know whats happening'. Fixed by copying the hyphen exactly; in/out unchanged. WHATS-SECRETLY-LOADING-YOUR-BODY skipped: its scrambled phrase ('toxins You're putting toxins') sits inside six near-identical 'you're putting toxins in your body' lines in the middle of the only telling of that point and cannot be cut around - see report.",
+  "clips": [
+   {
+    "slug": "THE-PIG-GENE-IN-YOUR-TOMATO",
+    "in": 509.22,
+    "out": 575.78,
+    "hook": [
+     "The pig gene",
+     "inside your food"
+    ],
+    "caption": "Kevin Trudeau tells the story of how one genetically modified tomato actually gets made.\n\nHis claim: scientists took a pig gene and put it inside the tomato seed itself, so the plant wards off a bug on its own, without a spray.\n\nThen, he says, they took the weed poison from Monsanto and built that into the seed too, so it comes up from inside the plant instead of being sprayed on top.\n\nHis point: nature already made a working tomato. Science just patented a new one to sell.\n\nComment HEALTH and we'll send you what to look for on the label instead.\n\n#kevintrudeau #gmo #wholefoods #readthelabel #wbdaily #healthtruth"
+   }
+  ]
+ },
+ "ep_v5k35fh_p3": {
+  "source": "v5k35fh.mp4",
+  "brand": "KT_LIPIDMYTH",
+  "note": "2026-10-31 - 'The Truth About Cholesterol And Your Health Problems | TKTS Clips' (Rumble v5k35fh). SECOND PASS by weekly agent: three new arcs from the unused 0-390s and 300-370s stretches (the original/p2/r2 clips all sit at 786-1044s). Skipped the 390-780s stretch entirely: it is a First-Amendment/persecution rant laced with harsh words (stupid, moron, ignoramus, damn) and carries no new health teaching.",
+  "clips": []
+ },
+ "ep_v5k3hxf_r4": {
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_ARTERYCARER4",
+  "note": "2026-10-31 - re-cut by weekly agent (SECOND CHANCE, tries 2, last chance). WHY-YOUR-FRIES-CHANGED-OIL failed 'captions vs the sound' sync twice at out=1048.1. Moved the end edge 9s later to the next sentence boundary (out=1057.0, 'that all goes rancid anyway') to re-time every caption, per PLANNING.md step 2c - also a stronger payoff line. WHY-YOUR-MILK-NEVER-GOES-BAD (ep_v5k3hxf_r3, tries 2) skipped: its drift is a few hundred ms over a 138s clip with no edge-level cause visible, and lengthening it risks the 140s+ clips STRATEGY.md already flagged as weak (the 163s milk-label clip, skip 64.3) - see report.",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-FRIES-CHANGED-OIL",
+    "in": 992.06,
+    "out": 1057.19,
+    "hook": [
+     "Why your fries",
+     "changed oil"
+    ],
+    "caption": "Kevin Trudeau says McDonald's fries used to be cooked in beef fat - by most accounts the best-tasting fries you could buy.\n\nThen saturated fat got blamed for heart problems, and the companies selling hydrogenated vegetable oil benefited most from that panic, in his view. McDonald's switched to vegetable oil, and fast food never tasted quite the same again.\n\nThe oil used is usually printed right on the menu board or nutrition page - worth a quick look.\n\nEver notice fries don't taste like they used to? Comment HEALTH and I'll tell you the oils we keep in our kitchen.\n\n#kevintrudeau #foodtruth #vegetableoil #labelreading #healthyeating #realfood"
    }
   ]
  }

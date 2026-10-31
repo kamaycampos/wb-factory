@@ -1,91 +1,82 @@
-## ep_v5ixx3h_r5: 2 of 2 clip(s) passed every gate
+## ep_v5ic3lf_p3: 1 of 1 clip(s) passed every gate
 
 
-## 2026-10-31 05:07
-  note KT_LABELTRUTHR5/WHY-WHOLE-FRUIT-BEATS-JUICE: ending kept on the planner's words 'juice machines Just saying' (next line completes it)
-  note KT_LABELTRUTHR5/WHATS-HIDING-IN-YOUR-LABEL: ending kept on the planner's words 'never buy anything from that company' (cuts mid-sentence)
-ep_v5ixx3h_r5__s0 (KT_LABELTRUTHR5): 2 of 2 passed pre-render gates
+## 2026-10-31 16:52
+  note KT_FISHRULE/THE-FISH-RULE-THAT-PROTECTS-YOU: ending kept on the planner's words 'you're going to be better off' (cuts mid-sentence)
+ep_v5ic3lf_p3__s0 (KT_FISHRULE): 1 of 1 passed pre-render gates
 
-RENDER ep_v5ixx3h_r5__s0
-  PASS 01_WHATS-HIDING-IN-YOUR-LABEL_47s.mp4  01_WHATS-HIDING-IN-YOUR-LABEL_47s.mp4                  6 captions vs the sound  median +0.
-       FIRST 5s : In the industry, it is called fillers or excipients. | LAST  8s : If there's any dyes in the product, throw it away and never buy anything from that company.
-  PASS 02_WHY-WHOLE-FRUIT-BEATS-JUICE_38s.mp4  02_WHY-WHOLE-FRUIT-BEATS-JUICE_38s.mp4                 25 captions vs the sound (word-refe
-       FIRST 5s : This is why eating an orange is better than drinking orange juice, because when you eat the orange, | LAST  8s : Think about it. Animals in the wild don't have juice machines. Just saying.
-TEST MODE - passing clips NOT uploaded or queued: KT_LABELTRUTHR5
+RENDER ep_v5ic3lf_p3__s0
+  PASS 01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4  01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4             6 captions vs the sound  median +0.
+       FIRST 5s : The COSHA law says you can eat anything that is on the ground. | LAST  8s : A lake, a river, stream, or ocean that has fins and scales? You're going to be better off.
+TEST MODE - passing clips NOT uploaded or queued: KT_FISHRULE
 
 
-- **NOT QUEUED** `01_WHATS-HIDING-IN-YOUR-LABEL_47s.mp4` - ends mid-thought on "from that company"; sentence starts with no stop: "down So"; sentence starts with no stop: "excipients If"
-
-## ep_v5j1oyl_p2: 1 of 2 clip(s) passed every gate
+## ep_v5j1oyl_r2: 1 of 1 clip(s) passed every gate
 
 
-## 2026-10-31 05:14
-  note KT_TOXINLOAD/WHATS-SECRETLY-LOADING-YOUR-BODY: ending kept on the planner's words 'cause of all illness and disease' (cuts mid-sentence)
-ep_v5j1oyl_p2__s0 (KT_TOXINLOAD): 2 of 2 passed pre-render gates
+## 2026-10-31 16:51
+ep_v5j1oyl_r2__s0 (KT_TOXINLOADR2): 1 of 1 passed pre-render gates
 
-RENDER ep_v5j1oyl_p2__s0
-  WARP 01_WHATS-SECRETLY-LOADING-YOUR-BODY_45s.mp4:      36 captions vs the sound (word-referenced: no clear pauses)  median +0.51s  worst-10% 1.71s  | words captioned 102% - re-timing each caption once
-  PASS 01_WHATS-SECRETLY-LOADING-YOUR-BODY_45s.mp4  01_WHATS-SECRETLY-LOADING-YOUR-BODY_45s.mp4            34 captions vs the sound (word-refe
-       FIRST 5s : Everything you drink, all the water you bathe in and you shower in is loaded with time. | LAST  8s : And you're not clearing it out. You've got to at least reduce the amount of toxins you're putting in your body. That's the number one cause of all illness and d
-  FAIL 02_THE-PIG-GENE-IN-YOUR-TOMATO_68s.mp4: ends off the planned words: plan ends 'creating three headed monsters', clip ends 'they dont even know whats happening'
-TEST MODE - passing clips NOT uploaded or queued: KT_TOXINLOAD
+RENDER ep_v5j1oyl_r2__s0
+  PASS 01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4  01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4                 10 captions vs the sound  median +0
+       FIRST 5s : Science is not better than nature. | LAST  8s : Screw it up every single time. It's like the island of Dr. Moreau. I mean, they're just like creating three-headed monsters.
+TEST MODE - passing clips NOT uploaded or queued: KT_TOXINLOADR2
 
 
-- **NOT QUEUED** `01_WHATS-SECRETLY-LOADING-YOUR-BODY_45s.mp4` - ends mid-thought on "disease the second"; phrase scrambled around "toxins You're putting toxins"; sentence starts with no stop: "absorbed So"
-
-## ep_v6uxtgp_r3: 1 of 1 clip(s) passed every gate
+## ep_v5k35fh_p3: 2 of 3 clip(s) passed every gate
 
 
-## 2026-10-31 05:01
-  note KT_TOXINWATCHR3/WHY-ALUMINUM-FALLS-IN-YOUR-FOOD: ending kept on the planner's words 'aluminum foil Big mistake' (cuts mid-sentence)
-ep_v6uxtgp_r3__s0 (KT_TOXINWATCHR3): 1 of 1 passed pre-render gates
+## 2026-10-31 17:03
+  note KT_LIPIDMYTH/WHAT-CLOGS-YOUR-BLOOD-VESSELS: ending kept on the planner's words 'a stroke or a heart attack' (cuts mid-sentence)
+  drop KT_LIPIDMYTH/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES: hook - 838px wide at 44px - over the 780px safe zone, will be cut off on a phone
+ep_v5k35fh_p3__s0 (KT_LIPIDMYTH): 1 of 2 passed pre-render gates
 
-RENDER ep_v6uxtgp_r3__s0
-  PASS 01_WHY-ALUMINUM-FALLS-IN-YOUR-FOOD_49s.mp4  01_WHY-ALUMINUM-FALLS-IN-YOUR-FOOD_49s.mp4             7 captions vs the sound  median +0.
-       FIRST 5s : Here is the problem. Aluminum is falling down into our food supply and | LAST  8s : People wrap food, fatty and hot food in aluminum foil. Big mistake.
-TEST MODE - passing clips NOT uploaded or queued: KT_TOXINWATCHR3
-
-
-- **NOT QUEUED** `01_WHY-ALUMINUM-FALLS-IN-YOUR-FOOD_49s.mp4` - word repeated: "the the"
-
-## ep_v6y4es4_r2: 3 of 3 clip(s) passed every gate
-
-
-## 2026-10-31 05:24
-  note KT_NATURALFIXR2/WHATS-ABSORBED-THROUGH-YOUR-SKIN: ending kept on the planner's words 'all clogged from the toxins' (ends on 'out', next line completes it)
-ep_v6y4es4_r2__s0 (KT_NATURALFIXR2): 2 of 2 passed pre-render gates
-
-RENDER ep_v6y4es4_r2__s0
-  PASS 01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4  01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4             18 captions vs the sound  median +0
-       FIRST 5s : Science is not better than nature. When it comes to food, for example, | LAST  8s : Crocodiles, the crocodiles. And they go, oh, no. And now, because there was no alligators, all the rodents took over.
-  PASS 02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_62s.mp4  02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_62s.mp4            8 captions vs the sound  median +0.
-       FIRST 5s : A lot of my African-American friends, their skin gets a lot of ashy and dry. | LAST  8s : If it is not getting assimilated into the cell. And it is not getting assimilated into the cell because the cell receptors are all clogged from the toxins.
-TEST MODE - passing clips NOT uploaded or queued: KT_NATURALFIXR2
+RENDER ep_v5k35fh_p3__s0
+  PASS 01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4  01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4              16 captions vs the sound  median +0
+       FIRST 5s : The doctor will tell you. You want to have low cholesterol. | LAST  8s : You gain weight, and of course, you could have a stroke or a heart attack.
+TEST MODE - passing clips NOT uploaded or queued: KT_LIPIDMYTH
 
 
 
-## 2026-10-31 05:02
-ep_v6y4es4_r2__s1 (KT_NATURALFIXR2): 1 of 1 passed pre-render gates
+## 2026-10-31 16:52
+  note KT_LIPIDMYTH/WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS: ending kept on the planner's words 'about the money isn't it' (next line completes it)
+ep_v5k35fh_p3__s1 (KT_LIPIDMYTH): 1 of 1 passed pre-render gates
 
-RENDER ep_v6y4es4_r2__s1
-  RETIME 01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_45s.mp4: captions +0.41s off throughout - re-rendering once
-  PASS 01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_45s.mp4  01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_45s.mp4              31 captions vs the sound (word-refe
-       FIRST 5s : Today, there's a few companies out there that sell that, whether it's dehydrated vegetables, dehydrated fruits. | LAST  8s : I laughed a lot. Laughing is really the best medicine. Laughing, I moved my body as nature intended.
-TEST MODE - passing clips NOT uploaded or queued: KT_NATURALFIXR2
+RENDER ep_v5k35fh_p3__s1
+  PASS 01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4  01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4        29 captions vs the sound (word-refe
+       FIRST 5s : The drug companies want the protocols written so that I will prescribe more drugs. | LAST  8s : It makes all logical sense now, doesn't it? It's about the money, isn't it?
+TEST MODE - passing clips NOT uploaded or queued: KT_LIPIDMYTH
 
 
-- **NOT QUEUED** `02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_62s.mp4` - phrase scrambled around "cell because the cell"
+- **NOT QUEUED** `01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4` - word repeated: "a a"
 
-- **NOT QUEUED** `01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_45s.mp4` - ends mid-thought on "although"; sentence starts with no stop: "fruits But"; sentence starts with no stop: "inside So"
+- **NOT QUEUED** `01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4` - sentence starts with no stop: "attack He"; sentence starts with no stop: "business But"; sentence starts with no stop: "him But"
+
+## ep_v5k3hxf_r4: 1 of 1 clip(s) passed every gate
+
+
+## 2026-10-31 17:03
+ep_v5k3hxf_r4__s0 (KT_ARTERYCARER4): 1 of 1 passed pre-render gates
+
+RENDER ep_v5k3hxf_r4__s0
+  WARP 01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4: RIES-CHANGED-OIL_65s.mp4                  7 captions vs the sound  median +0.47s  worst-10% 1.08s  | words captioned 99% - re-timing each caption once
+  PASS 01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4  01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4                  7 captions vs the sound  median +0.
+       FIRST 5s : Saturated fat bad for you. And I said, why? Why is saturated fat bad? Because it is. | LAST  8s : It is fat-laden, partially hydrogenated, genetically modified oil that all goes rancid anyway.
+TEST MODE - passing clips NOT uploaded or queued: KT_ARTERYCARER4
+
 
 ## UPLOAD
-2 clip(s) to add:
-   KT_LABELTRUTHR5/02_WHY-WHOLE-FRUIT-BEATS-JUICE_38s.mp4  (23 MB)
-   KT_NATURALFIXR2/01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4  (60 MB)
-   added KT_LABELTRUTHR5/02_WHY-WHOLE-FRUIT-BEATS-JUICE_38s.mp4
-      + 01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s__story.mp4
-      + 01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s__yt59.mp4
-   added KT_NATURALFIXR2/01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4
+3 clip(s) to add:
+   KT_ARTERYCARER4/01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4  (42 MB)
+   KT_FISHRULE/01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4  (22 MB)
+   KT_TOXINLOADR2/01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4  (45 MB)
+      + 01_WHY-YOUR-FRIES-CHANGED-OIL_65s__story.mp4
+      + 01_WHY-YOUR-FRIES-CHANGED-OIL_65s__yt59.mp4
+   added KT_ARTERYCARER4/01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4
+   added KT_FISHRULE/01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4
+      + 01_THE-PIG-GENE-IN-YOUR-TOMATO_67s__story.mp4
+      + 01_THE-PIG-GENE-IN-YOUR-TOMATO_67s__yt59.mp4
+   added KT_TOXINLOADR2/01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4
 
-manifest now holds 25 clips
+manifest now holds 28 clips
 commit and push state/manifest.json to let the machine see them
