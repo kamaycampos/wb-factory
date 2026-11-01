@@ -827,12 +827,67 @@
     "Why your doctor",
     "must prescribe drugs"
    ]
+  },
+  "ep_v5isd6d_p2/WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS": {
+   "plan": "ep_v5isd6d_p2",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_HEALTHCRISIS",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS_51s.mp4: ends off the planned words: plan ends 'to treat psoriasis', clip ends 'taking that drug that treats psoriasis'"
+   ],
+   "slug": "WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS",
+   "in": 332.76,
+   "out": 379.32,
+   "start_words": "A past member of the FDA",
+   "end_words": "to treat psoriasis",
+   "hook": [
+    "What FDA admits",
+    "about your drugs"
+   ]
+  },
+  "ep_v5ixx3h_p3/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN": {
+   "plan": "ep_v5ixx3h_p3",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_WHOLEFOOD",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN_110s.mp4` - word repeated: \"kamu kamu,\""
+   ],
+   "slug": "WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN",
+   "in": 1544.0,
+   "out": 1655.0,
+   "start_words": "The ingredients in a nutritional supplement",
+   "end_words": "what we live on",
+   "hook": [
+    "What your supplement",
+    "should actually contain"
+   ]
+  },
+  "ep_v5ixx3h_p3/YOUR-STOMACH-HAS-NO-TEETH": {
+   "plan": "ep_v5ixx3h_p3",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_WHOLEFOOD",
+   "tries": 1,
+   "why": [
+    "FAIL 01_YOUR-STOMACH-HAS-NO-TEETH_44s.mp4: [FAIL] 01_YOUR-STOMACH-HAS-NO-TEETH_44s.mp4                   8 captions vs the sound  median +0.09s  worst-10% 0.11s  | words captioned 100%  UNCAPTIONED SPEECH [(12.7, 14.2)]"
+   ],
+   "slug": "YOUR-STOMACH-HAS-NO-TEETH",
+   "in": 1901.0,
+   "out": 1945.0,
+   "start_words": "Your mouth has teeth",
+   "end_words": "begin to break down the food",
+   "hook": [
+    "Why your gut",
+    "has no teeth"
+   ]
   }
  },
  "attempts": {
   "ep_v5isd6d": 2,
   "ep_v5kwynq_r3": 2,
   "ep_v5isd6d_r4": 2,
-  "ep_v5k3hxf_r3": 2
+  "ep_v5k3hxf_r3": 2,
+  "ep_v5k35fh_r3": 1
  }
 }

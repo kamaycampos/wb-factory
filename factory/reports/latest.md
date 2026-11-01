@@ -1,82 +1,62 @@
-## ep_v5ic3lf_p3: 1 of 1 clip(s) passed every gate
+## ep_v5isd6d_p2: 1 of 2 clip(s) passed every gate
 
 
-## 2026-10-31 16:52
-  note KT_FISHRULE/THE-FISH-RULE-THAT-PROTECTS-YOU: ending kept on the planner's words 'you're going to be better off' (cuts mid-sentence)
-ep_v5ic3lf_p3__s0 (KT_FISHRULE): 1 of 1 passed pre-render gates
+## 2026-11-01 05:02
+  note KT_HEALTHCRISIS/THE-SIX-ESSENTIALS-FOR-HEALTH: ending kept on the planner's words 'the key elements' (next line completes it)
+ep_v5isd6d_p2__s0 (KT_HEALTHCRISIS): 2 of 2 passed pre-render gates
 
-RENDER ep_v5ic3lf_p3__s0
-  PASS 01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4  01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4             6 captions vs the sound  median +0.
-       FIRST 5s : The COSHA law says you can eat anything that is on the ground. | LAST  8s : A lake, a river, stream, or ocean that has fins and scales? You're going to be better off.
-TEST MODE - passing clips NOT uploaded or queued: KT_FISHRULE
-
-
-## ep_v5j1oyl_r2: 1 of 1 clip(s) passed every gate
+RENDER ep_v5isd6d_p2__s0
+  FAIL 01_WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS_51s.mp4: ends off the planned words: plan ends 'to treat psoriasis', clip ends 'taking that drug that treats psoriasis'
+  PASS 02_THE-SIX-ESSENTIALS-FOR-HEALTH_37s.mp4  02_THE-SIX-ESSENTIALS-FOR-HEALTH_37s.mp4               24 captions vs the sound (word-refe
+       FIRST 5s : You can be healthy. You can be vigorous and vibrant. You don't need Viagra. | LAST  8s : How you rest. Dr. Morta came up with the six essentials for health. These are the key elements.
+TEST MODE - passing clips NOT uploaded or queued: KT_HEALTHCRISIS
 
 
-## 2026-10-31 16:51
-ep_v5j1oyl_r2__s0 (KT_TOXINLOADR2): 1 of 1 passed pre-render gates
-
-RENDER ep_v5j1oyl_r2__s0
-  PASS 01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4  01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4                 10 captions vs the sound  median +0
-       FIRST 5s : Science is not better than nature. | LAST  8s : Screw it up every single time. It's like the island of Dr. Moreau. I mean, they're just like creating three-headed monsters.
-TEST MODE - passing clips NOT uploaded or queued: KT_TOXINLOADR2
+## ep_v5ixx3h_p3: 2 of 3 clip(s) passed every gate
 
 
-## ep_v5k35fh_p3: 2 of 3 clip(s) passed every gate
+## 2026-11-01 04:59
+  note KT_WHOLEFOOD/YOUR-STOMACH-HAS-NO-TEETH: ending kept on the planner's words 'begin to break down the food' (cuts mid-sentence)
+ep_v5ixx3h_p3__s1 (KT_WHOLEFOOD): 1 of 1 passed pre-render gates
 
-
-## 2026-10-31 17:03
-  note KT_LIPIDMYTH/WHAT-CLOGS-YOUR-BLOOD-VESSELS: ending kept on the planner's words 'a stroke or a heart attack' (cuts mid-sentence)
-  drop KT_LIPIDMYTH/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES: hook - 838px wide at 44px - over the 780px safe zone, will be cut off on a phone
-ep_v5k35fh_p3__s0 (KT_LIPIDMYTH): 1 of 2 passed pre-render gates
-
-RENDER ep_v5k35fh_p3__s0
-  PASS 01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4  01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4              16 captions vs the sound  median +0
-       FIRST 5s : The doctor will tell you. You want to have low cholesterol. | LAST  8s : You gain weight, and of course, you could have a stroke or a heart attack.
-TEST MODE - passing clips NOT uploaded or queued: KT_LIPIDMYTH
+RENDER ep_v5ixx3h_p3__s1
+  FAIL 01_YOUR-STOMACH-HAS-NO-TEETH_44s.mp4: [FAIL] 01_YOUR-STOMACH-HAS-NO-TEETH_44s.mp4                   8 captions vs the sound  median +0.09s  worst-10% 0.11s  | words captioned 100%  UNCAPTIONED SPEECH [(12.7, 14.2)]
 
 
 
-## 2026-10-31 16:52
-  note KT_LIPIDMYTH/WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS: ending kept on the planner's words 'about the money isn't it' (next line completes it)
-ep_v5k35fh_p3__s1 (KT_LIPIDMYTH): 1 of 1 passed pre-render gates
+## 2026-11-01 05:17
+  note KT_WHOLEFOOD/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN: ending kept on the planner's words 'what we live on' (ends on 'on')
+ep_v5ixx3h_p3__s0 (KT_WHOLEFOOD): 2 of 2 passed pre-render gates
 
-RENDER ep_v5k35fh_p3__s1
-  PASS 01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4  01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4        29 captions vs the sound (word-refe
-       FIRST 5s : The drug companies want the protocols written so that I will prescribe more drugs. | LAST  8s : It makes all logical sense now, doesn't it? It's about the money, isn't it?
-TEST MODE - passing clips NOT uploaded or queued: KT_LIPIDMYTH
-
-
-- **NOT QUEUED** `01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_107s.mp4` - word repeated: "a a"
-
-- **NOT QUEUED** `01_WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS_48s.mp4` - sentence starts with no stop: "attack He"; sentence starts with no stop: "business But"; sentence starts with no stop: "him But"
-
-## ep_v5k3hxf_r4: 1 of 1 clip(s) passed every gate
+RENDER ep_v5ixx3h_p3__s0
+  PASS 01_WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN_110s.mp4  01_WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN_110s.mp4        15 captions vs the sound  median +0
+       FIRST 5s : The ingredients in a nutritional supplement should be only | LAST  8s : And other nutritional value substances in them, because food is what we live on.
+  PASS 02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s.mp4  02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s.mp4              11 captions vs the sound  median +0
+       FIRST 5s : Dr. Emanuel Saraskin stated years ago, | LAST  8s : And when you put onions in food, it had this amazingly beautiful, strong flavor of onion.
+TEST MODE - passing clips NOT uploaded or queued: KT_WHOLEFOOD
 
 
-## 2026-10-31 17:03
-ep_v5k3hxf_r4__s0 (KT_ARTERYCARER4): 1 of 1 passed pre-render gates
+- **NOT QUEUED** `01_WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN_110s.mp4` - word repeated: "kamu kamu,"
 
-RENDER ep_v5k3hxf_r4__s0
-  WARP 01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4: RIES-CHANGED-OIL_65s.mp4                  7 captions vs the sound  median +0.47s  worst-10% 1.08s  | words captioned 99% - re-timing each caption once
-  PASS 01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4  01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4                  7 captions vs the sound  median +0.
-       FIRST 5s : Saturated fat bad for you. And I said, why? Why is saturated fat bad? Because it is. | LAST  8s : It is fat-laden, partially hydrogenated, genetically modified oil that all goes rancid anyway.
-TEST MODE - passing clips NOT uploaded or queued: KT_ARTERYCARER4
+## ep_v5k35fh_r3: 0 of 1 clip(s) passed every gate
+
+
+## 2026-11-01 04:58
+  note KT_LIPIDMYTHR2/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES: ending kept on the planner's words 'has a 240 cholesterol count' (cuts mid-sentence)
+ep_v5k35fh_r3__s0 (KT_LIPIDMYTHR2): 1 of 1 passed pre-render gates
+
+RENDER ep_v5k35fh_r3__s0
+  FAIL 01_WHAT-YOUR-CHOLESTEROL-COUNT-MISSES_49s.mp4: [FAIL] 01_WHAT-YOUR-CHOLESTEROL-COUNT-MISSES_49s.mp4          8 captions vs the sound  median +0.05s  worst-10% 3.28s  | words captioned 100%  UNCAPTIONED SPEECH [(36.2, 41.0)]
 
 
 ## UPLOAD
-3 clip(s) to add:
-   KT_ARTERYCARER4/01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4  (42 MB)
-   KT_FISHRULE/01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4  (22 MB)
-   KT_TOXINLOADR2/01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4  (45 MB)
-      + 01_WHY-YOUR-FRIES-CHANGED-OIL_65s__story.mp4
-      + 01_WHY-YOUR-FRIES-CHANGED-OIL_65s__yt59.mp4
-   added KT_ARTERYCARER4/01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4
-   added KT_FISHRULE/01_THE-FISH-RULE-THAT-PROTECTS-YOU_37s.mp4
-      + 01_THE-PIG-GENE-IN-YOUR-TOMATO_67s__story.mp4
-      + 01_THE-PIG-GENE-IN-YOUR-TOMATO_67s__yt59.mp4
-   added KT_TOXINLOADR2/01_THE-PIG-GENE-IN-YOUR-TOMATO_67s.mp4
+2 clip(s) to add:
+   KT_HEALTHCRISIS/02_THE-SIX-ESSENTIALS-FOR-HEALTH_37s.mp4  (21 MB)
+   KT_WHOLEFOOD/02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s.mp4  (39 MB)
+   added KT_HEALTHCRISIS/02_THE-SIX-ESSENTIALS-FOR-HEALTH_37s.mp4
+      + 02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s__story.mp4
+      + 02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s__yt59.mp4
+   added KT_WHOLEFOOD/02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s.mp4
 
-manifest now holds 28 clips
+manifest now holds 30 clips
 commit and push state/manifest.json to let the machine see them
