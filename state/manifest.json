@@ -625,7 +625,11 @@
    "hook": "The six essentials for your health",
    "bytes": 21178626,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-02T12:25",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_WHOLEFOOD/02_THE-FOOD-YOUR-GRANDPARENTS-ATE_61s.mp4",
@@ -633,7 +637,11 @@
    "hook": "5 times food your grandparents ate",
    "bytes": 38553514,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-02T17:13",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
