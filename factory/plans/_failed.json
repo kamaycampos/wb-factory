@@ -899,6 +899,78 @@
     "Why your count",
     "on cholesterol misses"
    ]
+  },
+  "ep_v5kwynq_p2/WHY-ADVIL-RAISES-YOUR-PRESSURE": {
+   "plan": "ep_v5kwynq_p2",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_BPHABITS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4` - the spoken word was on screen in only 6 of 11 moments"
+   ],
+   "slug": "WHY-ADVIL-RAISES-YOUR-PRESSURE",
+   "in": 28.0,
+   "out": 91.0,
+   "start_words": "Let's talk about some",
+   "end_words": "Unique E is one of them",
+   "hook": [
+    "Why Advil raises",
+    "your blood pressure"
+   ]
+  },
+  "ep_v6pdgp9/THE-MINERAL-YOUR-BODY-IS-MISSING": {
+   "plan": "ep_v6pdgp9",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODSHIFT",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_THE-MINERAL-YOUR-BODY-IS-MISSING_104s.mp4` - word repeated after one: \"7UP came up\""
+   ],
+   "slug": "THE-MINERAL-YOUR-BODY-IS-MISSING",
+   "in": 485.0,
+   "out": 589.0,
+   "start_words": "What else causes depression",
+   "end_words": "They just used lithium",
+   "hook": [
+    "The mineral your",
+    "body is lacking"
+   ]
+  },
+  "ep_v6pdgp9/THE-HERB-THAT-LIFTS-YOUR-MOOD": {
+   "plan": "ep_v6pdgp9",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODSHIFT",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_THE-HERB-THAT-LIFTS-YOUR-MOOD_99s.mp4` - opens mid-sentence on \"here's some here's\"; ends mid-thought on \"stress and anxiety\"; phrase scrambled around \"eliminate depression helps eliminate\""
+   ],
+   "slug": "THE-HERB-THAT-LIFTS-YOUR-MOOD",
+   "in": 1577.0,
+   "out": 1676.0,
+   "start_words": "here's some of the cures",
+   "end_words": "helps reduce stress and anxiety",
+   "hook": [
+    "The herb that",
+    "lifts your mood"
+   ]
+  },
+  "ep_v6pdgp9/WHY-JUMPING-CLEARS-YOUR-TOXINS": {
+   "plan": "ep_v6pdgp9",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODSHIFT",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-JUMPING-CLEARS-YOUR-TOXINS_54s.mp4` - sentence starts with no stop: \"called The\""
+   ],
+   "slug": "WHY-JUMPING-CLEARS-YOUR-TOXINS",
+   "in": 1882.0,
+   "out": 1936.0,
+   "start_words": "Next cure for stress",
+   "end_words": "which is resistance training",
+   "hook": [
+    "Why jumping clears",
+    "your toxins out"
+   ]
   }
  },
  "attempts": {
@@ -906,6 +978,7 @@
   "ep_v5kwynq_r3": 2,
   "ep_v5isd6d_r4": 2,
   "ep_v5k3hxf_r3": 2,
-  "ep_v5k35fh_r3": 2
+  "ep_v5k35fh_r3": 2,
+  "ep_v5isd6d_r5": 1
  }
 }
