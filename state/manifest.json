@@ -640,12 +640,26 @@
    "caption": "Kevin Trudeau tells the story of how one genetically modified tomato actually gets made.\n\nHis claim: scientists took a pig gene and put it inside the tomato seed itself, so the plant wards off a bug on its own, without a spray.\n\nThen, he says, they took the weed poison from Monsanto and built that into the seed too, so it comes up from inside the plant instead of being sprayed on top.\n\nHis point: nature already made a working tomato. Science just patented a new one to sell.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #gmo #wholefoods #readthelabel #wbdaily #healthtruth",
    "hook": "The pig gene inside your food",
    "bytes": 44825072,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-01T16:55",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1237084692432092/",
+    "instagram": "https://www.instagram.com/reel/DfNxL1Ok-mm/",
+    "youtube": "https://youtube.com/shorts/Mi1MEm5Cvbo"
+   },
+   "caption_at_post": "Kevin Trudeau tells the story of how one genetically modified tomato actually gets made.\n\nHis claim: scientists took a pig gene and put it inside the tomato seed itself, so the plant wards off a bug on its own, without a spray.\n\nThen, he says, they took the weed poison from Monsanto and built that into the seed too, so it comes up from inside the plant instead of being sprayed on top.\n\nHis point: nature already made a working tomato. Science just patented a new one to sell.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #gmo #wholefoods #readthelabel #wbdaily #healthtruth",
+   "posted_at": "2026-11-01T17:10"
   },
   {
    "file": "KT_HEALTHCRISIS/02_THE-SIX-ESSENTIALS-FOR-HEALTH_37s.mp4",
