@@ -576,12 +576,26 @@
    "caption": "Kevin Trudeau tells a story about scientists in Australia facing a bug problem. Their fix: import toads to eat the bugs.\n\nIt worked, the bugs disappeared. But the toads were poisonous, and the alligators that ate them died by the millions. With no alligators left, the rodents took over.\n\nKevin's point: nature runs on balance, and changing one piece of it can ripple out further than anyone planned.\n\nHis rule for food: whole, real food, as close to how nature made it, beats anything isolated or manufactured, like a gorilla eating a whole orange instead of drinking the juice.\n\nComment HEALTH for his take on whole fruit versus juice.\n\n#kevintrudeau #wholefoods #realfood #naturalhealth #wbdaily #healthtruth",
    "hook": "Why science can't fix your food",
    "bytes": 59994553,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-01T09:21",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1317084077170340/",
+    "instagram": "https://www.instagram.com/reel/DfM8byHnUfG/",
+    "youtube": "https://youtube.com/shorts/iWW9CJNyYuQ"
+   },
+   "caption_at_post": "Kevin Trudeau tells a story about scientists in Australia facing a bug problem. Their fix: import toads to eat the bugs.\n\nIt worked, the bugs disappeared. But the toads were poisonous, and the alligators that ate them died by the millions. With no alligators left, the rodents took over.\n\nKevin's point: nature runs on balance, and changing one piece of it can ripple out further than anyone planned.\n\nHis rule for food: whole, real food, as close to how nature made it, beats anything isolated or manufactured, like a gorilla eating a whole orange instead of drinking the juice.\n\nComment HEALTH for his take on whole fruit versus juice.\n\n#kevintrudeau #wholefoods #realfood #naturalhealth #wbdaily #healthtruth",
+   "posted_at": "2026-11-01T09:30"
   },
   {
    "file": "KT_ARTERYCARER4/01_WHY-YOUR-FRIES-CHANGED-OIL_65s.mp4",
