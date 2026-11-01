@@ -1,0 +1,10 @@
+{"source": "v5isd6d.mp4", "brand": "KT_HEALTHCRISISR2", "test": false,
+ "note": "2026-11-01 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v5isd6d_p2/WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS failed on 'ends off the planned words' (out=379.32 was the cue's START time, not the end of the cue holding 'psoriasis' - the clip ran on into 'and on and on and on'). Fixed: out moved to 386.12, the end of the cue that actually holds 'to treat psoriasis', so the word-level cut lands right after it. Same start, same caption.",
+ "clips": [
+  {"slug": "WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS", "in": 332.76, "out": 386.12,
+   "start_words": "A past member of the FDA",
+   "end_words": "to treat psoriasis",
+   "hook": ["What FDA admits", "about your drugs"],
+   "retry_of": "ep_v5isd6d_p2/WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS",
+   "caption": "Kevin Trudeau cites a claim from a former FDA commissioner: drugs, taken exactly as directed, cause more deaths a year than the conditions they're prescribed for.\n\nHis example: Tylenol. A headache or a sore back won't end a life on its own, but Kevin's source ties the drug itself to around 2,000 deaths a year, used exactly as the label says.\n\nHis bigger point: many conditions people medicate daily, like psoriasis, were never life-threatening to begin with.\n\nComment HEALTH for what to ask before you take anything daily.\n\n#kevintrudeau #pharmaceuticals #healthtruth #wbdaily #readthelabel #naturalhealth"}
+ ]}
