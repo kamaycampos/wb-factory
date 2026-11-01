@@ -1,0 +1,9 @@
+{"source": "v5k35fh.mp4", "brand": "KT_LIPIDMYTHR2", "test": false,
+ "note": "2026-11-01 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v5k35fh_p3/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES failed only on hook width (838px at 44px, over the 780px safe zone) - same cut, hook rewritten shorter. The other two ep_v5k35fh_p3 clips (WHAT-CLOGS-YOUR-BLOOD-VESSELS: 'word repeated: a a'; WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS: 'sentence starts with no stop' at three different spots) are not retried here: the flagged words do not appear anywhere in work/v5k35fh.srt, so the exact damage cannot be located and cut around with confidence.",
+ "clips": [
+  {"slug": "WHAT-YOUR-CHOLESTEROL-COUNT-MISSES", "in": 251.4, "out": 299.0,
+   "start_words": "Is there anybody out there", "end_words": "has a 240 cholesterol count",
+   "hook": ["Why your count", "on cholesterol misses"],
+   "retry_of": "ep_v5k35fh_p3/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES",
+   "caption": "Kevin Trudeau points to people who've had their blood drawn with a cholesterol count of 600, 700, even 800 - sky-high by any doctor's chart - who never develop heart disease and live to 90.\n\nMeanwhile, plenty of people with very low counts still end up with fully blocked arteries.\n\nHis point: the number alone doesn't tell the whole story, yet a count of 240 is enough, by protocol, to write a prescription.\n\nWorth asking what else your doctor is checking besides that one number.\n\nComment HEALTH and we'll send you the questions worth asking first.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #askquestions"}
+ ]}
