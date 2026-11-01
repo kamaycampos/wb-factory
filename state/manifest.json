@@ -677,7 +677,11 @@
    "hook": "What really lowers your blood pressure",
    "bytes": 27486772,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-03T16:22",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_BPHABITS/02_WHATS-HIDING-IN-YOUR-PROTEIN-SHAKE_37s.mp4",
@@ -685,7 +689,11 @@
    "hook": "What's hiding in your protein shake",
    "bytes": 24412040,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-03T08:21",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_MOODSHIFT/01_WHY-AMERICANS-ARE-SO-DEPRESSED_80s.mp4",
@@ -693,7 +701,11 @@
    "hook": "The additive wrecking your mood",
    "bytes": 55773263,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-03T12:26",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
