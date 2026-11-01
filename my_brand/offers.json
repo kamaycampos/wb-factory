@@ -1,0 +1,24 @@
+{
+  "_why": "THE ONLY OFFERS WB MAY PROMISE (Kamay, 1 Nov 2026: 'you made up those offers, in every other clip you are offering different stuff that we do not have'). Facts copied from worldsbestnutritionals.com and the affiliate portal on 1 Nov 2026. Commenting HEALTH gets ONE thing: the World's Best Daily link (OFFER_URL; Meta's comment rule). The planner never writes the offer line; the machine adds one of cta_lines. Change a fact here only after checking the site.",
+  "keyword": "HEALTH",
+  "dm_sends": "World's Best Daily (Daily Nutritional Supplement - 1 Month Pack)",
+  "offers": [
+    {"name": "World's Best Daily", "full_name": "Daily Nutritional Supplement - 1 Month Pack",
+     "url": "https://worldsbestnutritionals.com/daily?ref=a43c8j", "price": "$795/month subscribe, $850 one time",
+     "facts": ["created by Kevin Trudeau, founder of World's Best Nutritionals & Organics",
+               "a whole-food nutrition system, not a multivitamin",
+               "220+ whole-food ingredients, none sourced from China",
+               "60 different servings a month: one AM and one PM sachet a day",
+               "made in the USA, GMP certified facilities, third-party tested, GMO free",
+               "30-day money-back guarantee"]},
+    {"name": "World's Best Vitamin & Mineral line", "url": "https://worldsbestnutritionals.com/collections/vitamin-mineral?ref=a43c8j",
+     "items": ["Calcium-Magnesium (from $69.95)", "Vitamin C (from $65.95)", "Vitamin D3 (from $69.95)", "Zinc (from $69.95)", "Vitamin E (from $79.95)"],
+     "note": "Not sent by the HEALTH DM. Never promised in a caption until a DM delivers it."}
+  ],
+  "cta_lines": [
+    "Kevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.",
+    "Comment HEALTH and we'll DM you the link to World's Best Daily, Kevin Trudeau's whole-food daily supplement (220+ whole-food ingredients).",
+    "Comment HEALTH for the link to World's Best Daily, the whole-food system Kevin Trudeau created. 30-day money-back guarantee."
+  ],
+  "youtube_line": "World's Best Daily, the whole-food supplement Kevin Trudeau created: {url}"
+}

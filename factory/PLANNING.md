@@ -39,6 +39,11 @@ The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 202
 ("Pork sits in you 48 hours") were refused by the factory AFTER planning - 0 clips built that day.
 
 - **Keyword:** HEALTH. Voice: calm teacher, warm, plain words.
+- **NEVER WRITE THE OFFER OR COMMENT LINE (Kamay, 1 Nov 2026: "you made up those offers").** Commenting HEALTH
+  gets exactly ONE thing: the World's Best Daily link (`my_brand/offers.json` holds every true fact). Captions
+  end on the teaching or a question; the machine adds the one true offer line. Never "we'll send you the list /
+  cheat sheet / our filter setup / his breakdown", never "I'll tell you", never "comment HEALTH for...": the
+  machine deletes any such sentence, so it only wastes your caption.
 - **Pace: 3-5 clips a day on every platform (Kamay, 29 Oct 2026).** IG, YT and Facebook post automatically,
   TikTok goes to Kamay's inbox. About half of all cuts fail a gate, so plan ~8 candidates a day. Plan when the
   prep's QUEUE shows under 30 clips: up to 4 episodes and **at least 8 clips in total**. Fewer: say why in the
