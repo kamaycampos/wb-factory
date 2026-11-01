@@ -65,6 +65,18 @@ The / a number). Run it; a plan it refuses never reaches the factory. 17 Oct 202
   When it runs out, append health/food episodes from the candidates, 1080p first.
 - Push only to `claude/plans-<YYYY-MM-DD>`, exactly as below.
 
+## TRIAL HOOKS: 7 HOOKS, 1 CLIP, EVERY DAY (1 Nov 2026, Kamay: "the test of posting 7 clips a day in IG never got delivered")
+In the MORNING run (before 15:00 UTC) only, pick the ONE strongest clip you plan (the newest
+episode's best when there is one) and add `"trial_hooks"`: exactly 7 alternatives to its hook, each
+`["line one", "line two"]`, six words in all, each a DIFFERENT lever and all true to the clip:
+(1) the biggest number or sum, (2) a villain named ("the label", "your vitamin"), (3) a surprising true fact,
+(4) what the viewer is missing, (5) a named person + outcome,
+(6) Kevin Trudeau by name, (7) your wildest true one. The factory renders all 7 (only the hook card
+changes) and posts them as Instagram Trial Reels (non-followers only) once the clip has posted;
+48 h later `state/variants.json` holds each one's views and the winner. Read the last winners there
+before you write any hook. `check_plan.py` lints every trial hook like a normal hook.
+Every WB trial hook still obeys THE WB LAW (information, no claims, no harsh words).
+
 ## READ factory/STRATEGY.md FIRST (17 Oct 2026)
 The growth strategist rewrites it daily from the real numbers (skip rate, views, DMs, money). Its
 orders on topic priority, hook shape, offer clips and what to skip come before your own taste. It
