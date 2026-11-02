@@ -21,7 +21,7 @@ if [ -n "${GH_TOKEN:-}" ] && [ -n "${GITHUB_REPOSITORY:-}" ]; then
 fi
 sudo apt-get -qq update >/dev/null
 sudo apt-get -qq install -y ffmpeg fonts-liberation cmake >/dev/null
-pip install -q opencv-python-headless numpy pillow
+pip install -q opencv-python-headless numpy pillow requests   # requests: add_clips.true_caption imports engine/poster (2 Nov 2026: the 04:45 UTC run lost 4 clips)
 
 ln -sf /usr/bin/ffmpeg  "$K/bin/ffmpeg"
 ln -sf /usr/bin/ffprobe "$K/bin/ffprobe"
