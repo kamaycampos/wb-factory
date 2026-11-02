@@ -976,7 +976,7 @@
    "plan": "ep_v5isd6d_r5",
    "source": "v5isd6d.mp4",
    "brand": "KT_HEALTHCRISISR2",
-   "tries": 3,
+   "tries": 2,
    "why": [
     "FAIL 01_WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS_51s.mp4: ends off the planned words: plan ends 'to treat psoriasis', clip ends 'taking that drug that treats psoriasis'"
    ],
@@ -994,7 +994,7 @@
    "plan": "ep_v5k35fh_r4",
    "source": "v5k35fh.mp4",
    "brand": "KT_LIPIDMYTHR3",
-   "tries": 4,
+   "tries": 3,
    "why": [
     "NOT QUEUED** `01_WHAT-YOUR-CHOLESTEROL-COUNT-MISSES_51s.mp4` - phrase scrambled around \"there anybody out there\""
    ],
@@ -1012,7 +1012,7 @@
    "plan": "ep_v5k3hxf_p2",
    "source": "v5k3hxf.mp4",
    "brand": "KT_BLOODFLOW",
-   "tries": 2,
+   "tries": 1,
    "why": [
     "FAIL 01_CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES_95s.mp4: ends off the planned words: plan ends 'I prefer spring water', clip ends 'filter that gets the water out'"
    ],
@@ -1030,7 +1030,7 @@
    "plan": "ep_v5k3hxf_p2",
    "source": "v5k3hxf.mp4",
    "brand": "KT_BLOODFLOW",
-   "tries": 2,
+   "tries": 1,
    "why": [
     "NOT QUEUED** `02_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_51s.mp4` - the spoken word was on screen in only 5 of 7 moments"
    ],
@@ -1048,7 +1048,7 @@
    "plan": "ep_v6uxtgp_p2",
    "source": "v6uxtgp.mp4",
    "brand": "KT_BODYLOAD",
-   "tries": 2,
+   "tries": 1,
    "why": [
     "FAIL 01_THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE_50s.mp4: ends off the planned words: plan ends 'you can bring in your home', clip ends 'toxic things you can bring in'"
    ],
@@ -1069,6 +1069,6 @@
   "ep_v5isd6d_r4": 2,
   "ep_v5k3hxf_r3": 2,
   "ep_v5k35fh_r3": 2,
-  "ep_v5isd6d_r5": 3
+  "ep_v5isd6d_r5": 2
  }
 }
