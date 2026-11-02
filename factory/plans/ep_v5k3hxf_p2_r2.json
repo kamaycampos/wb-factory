@@ -1,0 +1,21 @@
+{
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_BLOODFLOWR2",
+  "test": false,
+  "note": "2026-11-02 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). SECOND CHANCE by daily agent: ep_v5k3hxf_p2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES failed 'ends off the planned words' (plan ended 'I prefer spring water' at out=1272.3, clip actually ended on 'filter that gets the water out' - the word search locked onto an earlier 'water'). Fixed by setting out to 1272.0, exactly the end of the cue that holds 'I prefer spring water'. Also removed a banned offer/comment-promise sentence from the caption ('Comment HEALTH and we'll send you what to look for in a filter') per PLANNING.md.",
+  "clips": [
+    {
+      "slug": "CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+      "in": 1179.6,
+      "out": 1272.0,
+      "start_words": "Unfortunately, many of them got",
+      "end_words": "I prefer spring water",
+      "retry_of": "ep_v5k3hxf_p2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+      "hook": [
+        "80% artery blockage",
+        "from chlorinated water"
+      ],
+      "caption": "Kevin Trudeau tells the story of young soldiers in Vietnam, given chlorine tablets to purify river water from their canteens.\n\nThe tablets worked, no dysentery. But when some of those soldiers were later autopsied, surgeons were stunned to find 70-80% blockages in their heart's arteries, after only six or seven months of drinking that water.\n\nHis point: chlorine itself scars the artery wall, and the body's LDL keeps patching that damage until the artery clogs.\n\nHis fix for tap water at home: a whole-house filter that pulls the chlorine out, or spring water instead.\n\nWhat's actually coming out of your own tap?\n\n#kevintrudeau #tapwater #hearthealth #healthtruth #wbdaily #naturalhealth"
+    }
+  ]
+}

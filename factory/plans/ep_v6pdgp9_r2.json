@@ -1,0 +1,34 @@
+{
+  "source": "v6pdgp9.mp4",
+  "brand": "KT_MOODSHIFTR2",
+  "test": false,
+  "note": "2026-11-02 - 'How To Beat Depression NOW!' (Rumble v6pdgp9). SECOND CHANCES by daily agent. THE-MINERAL-YOUR-BODY-IS-MISSING: 'word repeated after one: 7UP came up' (Kevin really says 'the 7-Up came up with an Uncola' near the old out=589.0) - moved the end forward to out=603.0, landing on the next sentence's payoff ('have a mineral deficiency') instead, which also makes a stronger ending. WHY-JUMPING-CLEARS-YOUR-TOXINS: 'sentence starts with no stop: called The' came from 'he wrote a book called The Miracle of Rebound Exercise' inside the old in=1882.0 window - moved the start past that line to 'You get on this little' (in=1890.0), which keeps the same payoff and end. Both captions also had a banned offer/comment-promise sentence removed per PLANNING.md.",
+  "clips": [
+    {
+      "slug": "THE-MINERAL-YOUR-BODY-IS-MISSING",
+      "in": 485.0,
+      "out": 603.0,
+      "start_words": "What else causes depression",
+      "end_words": "have a mineral deficiency",
+      "retry_of": "ep_v6pdgp9/THE-MINERAL-YOUR-BODY-IS-MISSING",
+      "hook": [
+        "The mineral your",
+        "body is lacking"
+      ],
+      "caption": "Kevin Trudeau's claim: almost everyone he's seen with depression tests low in one mineral - lithium, not the drug, the trace mineral.\n\nHis story: when 7-Up launched as 'The Uncola,' it skipped the cocaine Coca-Cola started with and the caffeine from kola nut - and ran on raw cane sugar, carbonation and a small dose of mineral lithium instead, for the same lift.\n\nHis point: the pharmaceutical version is a patented, man-made form of the same mineral your body may already be short on, which he says is why drug companies built a drug around it in the first place.\n\nWhen's the last time you had your mineral levels checked?\n\n#kevintrudeau #naturalhealth #mineraldeficiency #wbdaily #readthelabel #healthtruth"
+    },
+    {
+      "slug": "WHY-JUMPING-CLEARS-YOUR-TOXINS",
+      "in": 1890.0,
+      "out": 1936.0,
+      "start_words": "You get on this little",
+      "end_words": "which is resistance training",
+      "retry_of": "ep_v6pdgp9/WHY-JUMPING-CLEARS-YOUR-TOXINS",
+      "hook": [
+        "Why jumping clears",
+        "your toxins out"
+      ],
+      "caption": "Kevin Trudeau's low-cost pick for stress and low mood: a mini trampoline.\n\nHis reasoning: jumping on a rebounder, a method he credits to his friend Al Carter, stimulates the lymphatic system and squeezes every cell in the body, which he says helps move toxins out.\n\nHis backup list if you skip the trampoline: yoga, running, calisthenics, Pilates, martial-arts style stretching, or straightforward strength training - any of it, he says, helps.\n\nWhat's your go-to way to move when you're stressed?\n\n#kevintrudeau #lymphaticsystem #naturalhealth #wbdaily #exercise #healthtruth"
+    }
+  ]
+}
