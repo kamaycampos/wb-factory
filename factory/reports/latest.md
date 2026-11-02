@@ -8,7 +8,7 @@ RENDER ep_v5isd6d_r5__s0
   FAIL 01_WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS_51s.mp4: ends off the planned words: plan ends 'to treat psoriasis', clip ends 'taking that drug that treats psoriasis'
 
 
-- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+- **RETIRED** after 3 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
 
 ## ep_v5k35fh_r4: 1 of 1 clip(s) passed every gate
 
@@ -80,11 +80,17 @@ RENDER ep_v6uxtgp_p2__s2
 
 
 ## UPLOAD
- "/home/runner/work/wb-factory/wb-factory/add_clips.py", line 65, in captions
-    out[(spec["brand"], c["slug"])] = true_caption(c["caption"], spec["brand"])
-                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/wb-factory/wb-factory/add_clips.py", line 54, in true_caption
-    import poster
-  File "/home/runner/work/wb-factory/wb-factory/engine/poster.py", line 34, in <module>
-    import requests
-ModuleNotFoundError: No module named 'requests'
+4 clip(s) to add:
+   KT_BODYLOAD/01_DRY-FASTING-CLEARS-ZOMBIE-CELLS_55s.mp4  (48 MB)
+   KT_BODYLOAD/01_LEAD-PASSES-FROM-MOM-TO-BABY_58s.mp4  (43 MB)
+   KT_BODYLOAD/02_WHY-DETOX-TAKES-YEARS-NOT-DAYS_44s.mp4  (35 MB)
+   KT_BODYLOAD/02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s.mp4  (59 MB)
+   added KT_BODYLOAD/01_DRY-FASTING-CLEARS-ZOMBIE-CELLS_55s.mp4
+   added KT_BODYLOAD/01_LEAD-PASSES-FROM-MOM-TO-BABY_58s.mp4
+   added KT_BODYLOAD/02_WHY-DETOX-TAKES-YEARS-NOT-DAYS_44s.mp4
+      + 02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s__story.mp4
+      + 02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s__yt59.mp4
+   added KT_BODYLOAD/02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s.mp4
+
+manifest now holds 37 clips
+commit and push state/manifest.json to let the machine see them
