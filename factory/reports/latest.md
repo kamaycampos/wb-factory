@@ -1,7 +1,7 @@
 ## ep_v5hbogs_p3: 2 of 2 clip(s) passed every gate
 
 
-## 2026-11-02 17:36
+## 2026-11-02 18:26
 ep_v5hbogs_p3__s0 (KT_PHARMAWATCH): 2 of 2 passed pre-render gates
 
 RENDER ep_v5hbogs_p3__s0
@@ -19,7 +19,7 @@ TEST MODE - passing clips NOT uploaded or queued: KT_PHARMAWATCH
 ## ep_v5k35fh_p4: 2 of 2 clip(s) passed every gate
 
 
-## 2026-11-02 17:42
+## 2026-11-02 18:44
 ep_v5k35fh_p4__s0 (KT_LIPIDTRUTH): 2 of 2 passed pre-render gates
 
 RENDER ep_v5k35fh_p4__s0
@@ -35,7 +35,7 @@ TEST MODE - passing clips NOT uploaded or queued: KT_LIPIDTRUTH
 ## ep_v5k3hxf_p2_r2: 0 of 1 clip(s) passed every gate
 
 
-## 2026-11-02 17:26
+## 2026-11-02 18:30
   note KT_BLOODFLOWR2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES: ending kept on the planner's words 'I prefer spring water' (cuts mid-sentence)
 ep_v5k3hxf_p2_r2__s0 (KT_BLOODFLOWR2): 1 of 1 passed pre-render gates
 
@@ -43,10 +43,12 @@ RENDER ep_v5k3hxf_p2_r2__s0
   FAIL 01_CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES_95s.mp4: ends off the planned words: plan ends 'I prefer spring water', clip ends 'filter that gets the water out'
 
 
+- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+
 ## ep_v6pdgp9_r2: 1 of 2 clip(s) passed every gate
 
 
-## 2026-11-02 17:27
+## 2026-11-02 18:39
   note KT_MOODSHIFTR2/THE-MINERAL-YOUR-BODY-IS-MISSING: ending kept on the planner's words 'have a mineral deficiency' (cuts mid-sentence)
 ep_v6pdgp9_r2__s0 (KT_MOODSHIFTR2): 1 of 1 passed pre-render gates
 
@@ -59,11 +61,4 @@ TEST MODE - passing clips NOT uploaded or queued: KT_MOODSHIFTR2
 - **NOT QUEUED** `01_THE-MINERAL-YOUR-BODY-IS-MISSING_117s.mp4` - word repeated after one: "7UP came up"
 
 ## UPLOAD
-1 clip(s) to add:
-   KT_LIPIDTRUTH/01_THE-DRUG-THAT-LOWERS-YOUR-NUMBER_79s.mp4  (62 MB)
-      + 01_THE-DRUG-THAT-LOWERS-YOUR-NUMBER_79s__story.mp4
-      + 01_THE-DRUG-THAT-LOWERS-YOUR-NUMBER_79s__yt59.mp4
-   added KT_LIPIDTRUTH/01_THE-DRUG-THAT-LOWERS-YOUR-NUMBER_79s.mp4
-
-manifest now holds 38 clips
-commit and push state/manifest.json to let the machine see them
+nothing new to add

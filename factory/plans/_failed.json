@@ -1066,7 +1066,7 @@
    "plan": "ep_v5hbogs_p3",
    "source": "v5hbogs.mp4",
    "brand": "KT_PHARMAWATCH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `01_WHAT-FDA-APPROVED-MEANS-FOR-YOU_105s.mp4` - ends mid-thought on \"or not effective\"; sentence starts with no stop: \"and They\"; sentence starts with no stop: \"experts We\""
    ],
@@ -1084,7 +1084,7 @@
    "plan": "ep_v5hbogs_p3",
    "source": "v5hbogs.mp4",
    "brand": "KT_PHARMAWATCH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `02_THE-DRUG-COMPANIES-PAID-THEM-OFF_58s.mp4` - phrase scrambled around \"these people making these\"; word repeated after one: \"Johnson & Johnson\""
    ],
@@ -1102,7 +1102,7 @@
    "plan": "ep_v5k35fh_p4",
    "source": "v5k35fh.mp4",
    "brand": "KT_LIPIDTRUTH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `02_WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT_78s.mp4` - the spoken word was on screen in only 8 of 12 moments"
    ],
@@ -1120,7 +1120,7 @@
    "plan": "ep_v6pdgp9_r2",
    "source": "v6pdgp9.mp4",
    "brand": "KT_MOODSHIFTR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "NOT QUEUED** `01_THE-MINERAL-YOUR-BODY-IS-MISSING_117s.mp4` - word repeated after one: \"7UP came up\""
    ],
@@ -1138,7 +1138,7 @@
    "plan": "ep_v6pdgp9_r2",
    "source": "v6pdgp9.mp4",
    "brand": "KT_MOODSHIFTR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "no clip came out of the render"
    ],
@@ -1151,6 +1151,24 @@
     "Why jumping clears",
     "your toxins out"
    ]
+  },
+  "ep_v5k3hxf_p2_r2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES": {
+   "plan": "ep_v5k3hxf_p2_r2",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_BLOODFLOWR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES_95s.mp4: ends off the planned words: plan ends 'I prefer spring water', clip ends 'filter that gets the water out'"
+   ],
+   "slug": "CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+   "in": 1179.6,
+   "out": 1272.0,
+   "start_words": "Unfortunately, many of them got",
+   "end_words": "I prefer spring water",
+   "hook": [
+    "80% artery blockage",
+    "from chlorinated water"
+   ]
   }
  },
  "attempts": {
@@ -1160,6 +1178,6 @@
   "ep_v5k3hxf_r3": 2,
   "ep_v5k35fh_r3": 2,
   "ep_v5isd6d_r5": 2,
-  "ep_v5k3hxf_p2_r2": 1
+  "ep_v5k3hxf_p2_r2": 2
  }
 }
