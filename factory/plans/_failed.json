@@ -1061,6 +1061,96 @@
     "The chemicals hiding",
     "in your fragrance"
    ]
+  },
+  "ep_v5hbogs_p3/WHAT-FDA-APPROVED-MEANS-FOR-YOU": {
+   "plan": "ep_v5hbogs_p3",
+   "source": "v5hbogs.mp4",
+   "brand": "KT_PHARMAWATCH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHAT-FDA-APPROVED-MEANS-FOR-YOU_105s.mp4` - ends mid-thought on \"or not effective\"; sentence starts with no stop: \"and They\"; sentence starts with no stop: \"experts We\""
+   ],
+   "slug": "WHAT-FDA-APPROVED-MEANS-FOR-YOU",
+   "in": 627.0,
+   "out": 734.0,
+   "start_words": "Kids are born with",
+   "end_words": "not safe and or not effective",
+   "hook": [
+    "What FDA approved",
+    "means for you"
+   ]
+  },
+  "ep_v5hbogs_p3/THE-DRUG-COMPANIES-PAID-THEM-OFF": {
+   "plan": "ep_v5hbogs_p3",
+   "source": "v5hbogs.mp4",
+   "brand": "KT_PHARMAWATCH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_THE-DRUG-COMPANIES-PAID-THEM-OFF_58s.mp4` - phrase scrambled around \"these people making these\"; word repeated after one: \"Johnson & Johnson\""
+   ],
+   "slug": "THE-DRUG-COMPANIES-PAID-THEM-OFF",
+   "in": 756.0,
+   "out": 813.0,
+   "start_words": "They know it's not",
+   "end_words": "and they knew it",
+   "hook": [
+    "The drug companies",
+    "paid them off"
+   ]
+  },
+  "ep_v5k35fh_p4/WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT": {
+   "plan": "ep_v5k35fh_p4",
+   "source": "v5k35fh.mp4",
+   "brand": "KT_LIPIDTRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT_78s.mp4` - the spoken word was on screen in only 8 of 12 moments"
+   ],
+   "slug": "WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT",
+   "in": 579.0,
+   "out": 656.0,
+   "start_words": "Does cholesterol, does LDL",
+   "end_words": "a great profitable business",
+   "hook": [
+    "What your cholesterol",
+    "won't tell you"
+   ]
+  },
+  "ep_v6pdgp9_r2/THE-MINERAL-YOUR-BODY-IS-MISSING": {
+   "plan": "ep_v6pdgp9_r2",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODSHIFTR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_THE-MINERAL-YOUR-BODY-IS-MISSING_117s.mp4` - word repeated after one: \"7UP came up\""
+   ],
+   "slug": "THE-MINERAL-YOUR-BODY-IS-MISSING",
+   "in": 485.0,
+   "out": 603.0,
+   "start_words": "What else causes depression",
+   "end_words": "have a mineral deficiency",
+   "hook": [
+    "The mineral your",
+    "body is lacking"
+   ]
+  },
+  "ep_v6pdgp9_r2/WHY-JUMPING-CLEARS-YOUR-TOXINS": {
+   "plan": "ep_v6pdgp9_r2",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODSHIFTR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHY-JUMPING-CLEARS-YOUR-TOXINS",
+   "in": 1890.0,
+   "out": 1936.0,
+   "start_words": "You get on this little",
+   "end_words": "which is resistance training",
+   "hook": [
+    "Why jumping clears",
+    "your toxins out"
+   ]
   }
  },
  "attempts": {
@@ -1069,6 +1159,7 @@
   "ep_v5isd6d_r4": 2,
   "ep_v5k3hxf_r3": 2,
   "ep_v5k35fh_r3": 2,
-  "ep_v5isd6d_r5": 2
+  "ep_v5isd6d_r5": 2,
+  "ep_v5k3hxf_p2_r2": 1
  }
 }

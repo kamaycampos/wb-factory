@@ -557,7 +557,8 @@
      "The six essentials",
      "for your health"
     ],
-    "caption": "Kevin Trudeau says he doesn't need Viagra, sleeps through the night without getting up, and calls his own prostate perfect at his age.\n\nHis explanation isn't genetics. It's four everyday questions he keeps asking himself: what you eat, what you drink, what you breathe, and how you rest.\n\nHe credits a researcher he calls Dr. Morta with naming these the Six Essentials for Health, the basics behind everything else he teaches.\n\nSimple on paper, but most people can't answer all four honestly. Which one would you fail first?\n\nComment HEALTH and we'll send you the full list.\n\n#kevintrudeau #naturalhealth #healthtruth #wbdaily #realfood #readthelabel"
+    "caption": "Kevin Trudeau says he doesn't need Viagra, sleeps through the night without getting up, and calls his own prostate perfect at his age.\n\nHis explanation isn't genetics. It's four everyday questions he keeps asking himself: what you eat, what you drink, what you breathe, and how you rest.\n\nHe credits a researcher he calls Dr. Morta with naming these the Six Essentials for Health, the basics behind everything else he teaches.\n\nSimple on paper, but most people can't answer all four honestly. Which one would you fail first?\n\nComment HEALTH and we'll send you the full list.\n\n#kevintrudeau #naturalhealth #healthtruth #wbdaily #realfood #readthelabel",
+    "locked": true
    }
   ]
  },
@@ -680,5 +681,34 @@
     "caption": "Dr. Daniel Pompa told Kevin Trudeau that cholesterol doesn't float loose in your blood - it rides inside a particle, like a person riding in a car.\n\nHis point: what matters for your risk is how many of those particles you have, not how full each one is, the same way traffic jams are about the number of cars, not how many people are packed into each one.\n\nHis view, after looking at the Cochrane Collaboration's review of cholesterol studies: inflammation is the real driver of heart disease, not the cholesterol number on your chart.\n\nComment HEALTH and we'll send you the questions worth asking about your own numbers.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth"
    }
   ]
+ },
+ "ep_v5hbogs_p3": {
+  "source": "v5hbogs.mp4",
+  "brand": "KT_PHARMAWATCH",
+  "note": "2026-11-02 - 'The Toxic Truth About Our Food Supply | TKTS CLIPS' (Rumble v5hbogs). SECOND PASS by daily agent: two new arcs from the unused minutes, never touching the stretches already cut (black-plastic-utensils 98-187s, grocery-bag-history 470-522s). This 15-minute episode is otherwise dense with harsh words and cancer/autism mentions (0-97s prison/cancer intro, 189-470s toxins-causing-cancer and a 'beta brainwave/slave frequency' tangent that isn't health information, 584-751s has 'moron' and 'stupid', 819-889s has 'mental retardation, autism, cancer'), so only these two clean windows were usable; the rest was skipped rather than padded.",
+  "clips": []
+ },
+ "ep_v5k35fh_p4": {
+  "source": "v5k35fh.mp4",
+  "brand": "KT_LIPIDTRUTH",
+  "note": "2026-11-02 - 'The Truth About Cholesterol And Your Health Problems | TKTS Clips' (Rumble v5k35fh). SECOND PASS by daily agent: two new arcs from the unused minutes, never touching the stretches already cut (68-175s, 251-299s, 320-368s, 786-839s, 905-1044s). Avoided 475-578s (a free-speech/politics tangent, off the health lane) and 657-751s and 839-897s (contain 'idiot'/'stupid' and erectile-dysfunction content respectively).",
+  "clips": [
+   {
+    "slug": "THE-DRUG-THAT-LOWERS-YOUR-NUMBER",
+    "in": 394.0,
+    "out": 472.55,
+    "hook": [
+     "What lowers cholesterol,",
+     "not your risk"
+    ],
+    "caption": "Kevin Trudeau raises a question almost nobody asks about cholesterol drugs: do they lower cholesterol? Yes. Do they lower your risk of a heart attack or stroke? According to the data he cites, no.\n\nHis bigger concern: those same drugs damage the liver, he says, every time they're taken. He lists what follows - weight gain, hormonal swings, joint and autoimmune trouble - because the liver is one of the body's key organs.\n\nKevin Trudeau's point isn't to stop any medication on your own. It's to ask your doctor the second question, not just the first: does this lower my risk, or only my number?\n\nWhat would you ask before your next refill?\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #askyourdoctor"
+   }
+  ]
+ },
+ "ep_v6pdgp9_r2": {
+  "source": "v6pdgp9.mp4",
+  "brand": "KT_MOODSHIFTR2",
+  "note": "2026-11-02 - 'How To Beat Depression NOW!' (Rumble v6pdgp9). SECOND CHANCES by daily agent. THE-MINERAL-YOUR-BODY-IS-MISSING: 'word repeated after one: 7UP came up' (Kevin really says 'the 7-Up came up with an Uncola' near the old out=589.0) - moved the end forward to out=603.0, landing on the next sentence's payoff ('have a mineral deficiency') instead, which also makes a stronger ending. WHY-JUMPING-CLEARS-YOUR-TOXINS: 'sentence starts with no stop: called The' came from 'he wrote a book called The Miracle of Rebound Exercise' inside the old in=1882.0 window - moved the start past that line to 'You get on this little' (in=1890.0), which keeps the same payoff and end. Both captions also had a banned offer/comment-promise sentence removed per PLANNING.md.",
+  "clips": []
  }
 }
