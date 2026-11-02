@@ -817,7 +817,11 @@
    "hook": "What lowers cholesterol, not your risk",
    "bytes": 62438070,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-04T19:44",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
