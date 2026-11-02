@@ -720,12 +720,26 @@
    "caption": "Kevin Trudeau cites nutrition researcher Dr. Emmanuel Saraskin's old warning: you'd need to eat five times as much food today to get the same nutrients your grandparents got from theirs decades ago, and he says it's only gotten worse since.\n\nHis proof is simple: the onion. He remembers an onion so strong that cutting it made the whole house cry. Today's onions, he says, barely smell like anything.\n\nHis point isn't nostalgia. It's that the soil, and what's grown in it, has changed enough to change what's actually on your plate.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #realfood #nutrientdensity #wbdaily #healthtruth #naturalhealth",
    "hook": "5 times food your grandparents ate",
    "bytes": 38553514,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-02T17:13",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1100397992812284/",
+    "instagram": "https://www.instagram.com/reel/DfQYtz4AW8q/",
+    "youtube": "https://youtube.com/shorts/G4xfvPC-1og"
+   },
+   "caption_at_post": "Kevin Trudeau cites nutrition researcher Dr. Emmanuel Saraskin's old warning: you'd need to eat five times as much food today to get the same nutrients your grandparents got from theirs decades ago, and he says it's only gotten worse since.\n\nHis proof is simple: the onion. He remembers an onion so strong that cutting it made the whole house cry. Today's onions, he says, barely smell like anything.\n\nHis point isn't nostalgia. It's that the soil, and what's grown in it, has changed enough to change what's actually on your plate.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #realfood #nutrientdensity #wbdaily #healthtruth #naturalhealth",
+   "posted_at": "2026-11-02T17:34"
   },
   {
    "file": "KT_BPHABITS/01_WHAT-REALLY-LOWERS-BLOOD-PRESSURE_43s.mp4",
