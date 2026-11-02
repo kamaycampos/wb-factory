@@ -971,6 +971,96 @@
     "Why jumping clears",
     "your toxins out"
    ]
+  },
+  "ep_v5isd6d_r5/WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS": {
+   "plan": "ep_v5isd6d_r5",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_HEALTHCRISISR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS_51s.mp4: ends off the planned words: plan ends 'to treat psoriasis', clip ends 'taking that drug that treats psoriasis'"
+   ],
+   "slug": "WHAT-FDA-ADMITS-ABOUT-YOUR-DRUGS",
+   "in": 332.76,
+   "out": 386.12,
+   "start_words": "A past member of the FDA",
+   "end_words": "to treat psoriasis",
+   "hook": [
+    "What FDA admits",
+    "about your drugs"
+   ]
+  },
+  "ep_v5k35fh_r4/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES": {
+   "plan": "ep_v5k35fh_r4",
+   "source": "v5k35fh.mp4",
+   "brand": "KT_LIPIDMYTHR3",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHAT-YOUR-CHOLESTEROL-COUNT-MISSES_51s.mp4` - phrase scrambled around \"there anybody out there\""
+   ],
+   "slug": "WHAT-YOUR-CHOLESTEROL-COUNT-MISSES",
+   "in": 239.0,
+   "out": 288.0,
+   "start_words": "Doctor from Harvard, Harvard",
+   "end_words": "live to be 90 years old",
+   "hook": [
+    "Why your count",
+    "on cholesterol misses"
+   ]
+  },
+  "ep_v5k3hxf_p2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES": {
+   "plan": "ep_v5k3hxf_p2",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_BLOODFLOW",
+   "tries": 1,
+   "why": [
+    "FAIL 01_CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES_95s.mp4: ends off the planned words: plan ends 'I prefer spring water', clip ends 'filter that gets the water out'"
+   ],
+   "slug": "CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+   "in": 1179.6,
+   "out": 1272.3,
+   "start_words": "Unfortunately, many of them got",
+   "end_words": "I prefer spring water",
+   "hook": [
+    "80% artery blockage",
+    "from chlorinated water"
+   ]
+  },
+  "ep_v5k3hxf_p2/WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY": {
+   "plan": "ep_v5k3hxf_p2",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_BLOODFLOW",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_51s.mp4` - the spoken word was on screen in only 5 of 7 moments"
+   ],
+   "slug": "WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY",
+   "in": 1710.6,
+   "out": 1763.9,
+   "start_words": "Your circulation is perfect",
+   "end_words": "It's sad, but I get it",
+   "hook": [
+    "Why your doctor",
+    "prescribes it anyway"
+   ]
+  },
+  "ep_v6uxtgp_p2/THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE": {
+   "plan": "ep_v6uxtgp_p2",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_BODYLOAD",
+   "tries": 1,
+   "why": [
+    "FAIL 01_THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE_50s.mp4: ends off the planned words: plan ends 'you can bring in your home', clip ends 'toxic things you can bring in'"
+   ],
+   "slug": "THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE",
+   "in": 2551.04,
+   "out": 2600.72,
+   "start_words": "Defragrance your life",
+   "end_words": "you can bring in your home",
+   "hook": [
+    "The chemicals hiding",
+    "in your fragrance"
+   ]
   }
  },
  "attempts": {
@@ -979,6 +1069,6 @@
   "ep_v5isd6d_r4": 2,
   "ep_v5k3hxf_r3": 2,
   "ep_v5k35fh_r3": 2,
-  "ep_v5isd6d_r5": 1
+  "ep_v5isd6d_r5": 2
  }
 }

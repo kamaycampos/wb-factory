@@ -318,7 +318,8 @@
      "Why your hormones",
      "stop working"
     ],
-    "caption": "Dr. Daniel Pompa told Kevin Trudeau why hormone support can stop helping: it's not always the hormone, it's the receptor.\n\nHis picture: a hormone is like a cell phone, and the receptor is the tower. If something blocks that tower, it doesn't matter how strong the signal is.\n\nHis view: toxins build up around and inside the cell, and they're the number one thing jamming that signal.\n\nSo your lab numbers can look perfect while you still feel the same.\n\nComment HEALTH and we'll send you what Kevin and Dr. Pompa say actually gets the signal through.\n\n#kevintrudeau #hormonehealth #toxins #cellularhealth #wbdaily #healthtruth"
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau why hormone support can stop helping: it's not always the hormone, it's the receptor.\n\nHis picture: a hormone is like a cell phone, and the receptor is the tower. If something blocks that tower, it doesn't matter how strong the signal is.\n\nHis view: toxins build up around and inside the cell, and they're the number one thing jamming that signal.\n\nSo your lab numbers can look perfect while you still feel the same.\n\nComment HEALTH and we'll send you what Kevin and Dr. Pompa say actually gets the signal through.\n\n#kevintrudeau #hormonehealth #toxins #cellularhealth #wbdaily #healthtruth",
+    "locked": true
    }
   ]
  },
@@ -513,7 +514,8 @@
      "The pig gene",
      "inside your food"
     ],
-    "caption": "Kevin Trudeau tells the story of how one genetically modified tomato actually gets made.\n\nHis claim: scientists took a pig gene and put it inside the tomato seed itself, so the plant wards off a bug on its own, without a spray.\n\nThen, he says, they took the weed poison from Monsanto and built that into the seed too, so it comes up from inside the plant instead of being sprayed on top.\n\nHis point: nature already made a working tomato. Science just patented a new one to sell.\n\nComment HEALTH and we'll send you what to look for on the label instead.\n\n#kevintrudeau #gmo #wholefoods #readthelabel #wbdaily #healthtruth"
+    "caption": "Kevin Trudeau tells the story of how one genetically modified tomato actually gets made.\n\nHis claim: scientists took a pig gene and put it inside the tomato seed itself, so the plant wards off a bug on its own, without a spray.\n\nThen, he says, they took the weed poison from Monsanto and built that into the seed too, so it comes up from inside the plant instead of being sprayed on top.\n\nHis point: nature already made a working tomato. Science just patented a new one to sell.\n\nComment HEALTH and we'll send you what to look for on the label instead.\n\n#kevintrudeau #gmo #wholefoods #readthelabel #wbdaily #healthtruth",
+    "locked": true
    }
   ]
  },
@@ -536,7 +538,8 @@
      "Why your fries",
      "changed oil"
     ],
-    "caption": "Kevin Trudeau says McDonald's fries used to be cooked in beef fat - by most accounts the best-tasting fries you could buy.\n\nThen saturated fat got blamed for heart problems, and the companies selling hydrogenated vegetable oil benefited most from that panic, in his view. McDonald's switched to vegetable oil, and fast food never tasted quite the same again.\n\nThe oil used is usually printed right on the menu board or nutrition page - worth a quick look.\n\nEver notice fries don't taste like they used to? Comment HEALTH and I'll tell you the oils we keep in our kitchen.\n\n#kevintrudeau #foodtruth #vegetableoil #labelreading #healthyeating #realfood"
+    "caption": "Kevin Trudeau says McDonald's fries used to be cooked in beef fat - by most accounts the best-tasting fries you could buy.\n\nThen saturated fat got blamed for heart problems, and the companies selling hydrogenated vegetable oil benefited most from that panic, in his view. McDonald's switched to vegetable oil, and fast food never tasted quite the same again.\n\nThe oil used is usually printed right on the menu board or nutrition page - worth a quick look.\n\nEver notice fries don't taste like they used to? Comment HEALTH and I'll tell you the oils we keep in our kitchen.\n\n#kevintrudeau #foodtruth #vegetableoil #labelreading #healthyeating #realfood",
+    "locked": true
    }
   ]
  },
@@ -615,6 +618,65 @@
      "your mood"
     ],
     "caption": "Kevin Trudeau's claim: America has some of the highest depression rates on earth, and he points first at the food.\n\nHis example: red dye the FDA itself called too toxic to touch skin in a cosmetic - yet still approved for food.\n\nHis list of what he says feeds low mood: aspartame, sucralose and NutraSweet in diet drinks and protein shakes, plus corn syrup solids in ultra-processed food.\n\nHis view: genetically modified, heavily processed food can also throw off gut balance, which he ties back to mood.\n\nComment HEALTH and we'll send you the ingredients to avoid.\n\n#kevintrudeau #readthelabel #guthealth #wbdaily #healthtruth #naturalhealth"
+   }
+  ]
+ },
+ "ep_v5k35fh_r4": {
+  "source": "v5k35fh.mp4",
+  "brand": "KT_LIPIDMYTHR3",
+  "note": "2026-11-02 - re-cut by weekly agent (SECOND CHANCES, tries 2, last chance): ep_v5k35fh_r3/WHAT-YOUR-CHOLESTEROL-COUNT-MISSES failed on captions-vs-sound / UNCAPTIONED SPEECH at (36.2,41.0)s into the clip - a real 4-second gap in work/v5k35fh.srt between '...live to be 90 years old.' (04:48) and 'So, why are you prescribing...' (04:52), with nothing captioned in between. Moved both edges to a different sentence boundary that avoids the gap entirely: start moved earlier to 'Doctor from Harvard, Harvard cardiologist' (skips the host's wind-up 'So, let's go through a couple questions'), end moved earlier to the clean payoff 'live to be 90 years old' - well before the gap. The two other ep_v5k35fh_p3 second chances (WHAT-CLOGS-YOUR-BLOOD-VESSELS: 'word repeated: a a'; WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS: 'sentence starts with no stop' at three spots) are not retried: as the r3 agent already found, those flagged words/strings do not appear anywhere in work/v5k35fh.srt, so the exact damage cannot be located and cut around with confidence.",
+  "clips": []
+ },
+ "ep_v5k3hxf_p2": {
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_BLOODFLOW",
+  "note": "2026-11-02 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). SECOND PASS by weekly agent: two new arcs from the unused minutes, never touching the four stretches already cut (milk-homogenization 189-318s, reading-the-milk-label 399-562s, the-fries-oil-switch 992-1057s, chlorine-through-skin 1400-1487s). Avoided the 600-990s trans-fat/McDonald's stretch and the 1470-1650s opening of the Harvard-cardiologist story entirely: both are laced with harsh words ('idiotic', 'stupid', 'you idiots') that WB's rule refuses anywhere in a cut.",
+  "clips": []
+ },
+ "ep_v6uxtgp_p2": {
+  "source": "v6uxtgp.mp4",
+  "brand": "KT_BODYLOAD",
+  "note": "2026-11-02 - 'SILENT KILLERS in Your Life: Health Expert Dr. Pompa Exposes Heavy Metals, Plastics & Beauty Products' (Rumble v6uxtgp). SECOND PASS by weekly agent: five new arcs from the 39 unused minutes, never touching the 6 stretches already cut (mercury-in-fillings 464-526s, aluminum-in-jet-fuel 622-694s, hormone-receptors 1273-1346s, plastic-bathtub-analogy 1416-1469s, glyphosate-on-produce 2672-2720s, seed-oils 2724-2852s).",
+  "clips": [
+   {
+    "slug": "LEAD-PASSES-FROM-MOM-TO-BABY",
+    "in": 536.1,
+    "out": 594.09,
+    "hook": [
+     "How lead reaches",
+     "your baby's body"
+    ],
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau that your parents grew up in the lead generation: leaded gasoline wasn't phased out until 1978, and lead paint was everywhere.\n\nHis point: that lead gets stored in the bone for life. When a woman is pregnant, normal hormone shifts cause bone loss, and the stored lead comes back out.\n\nHis own example: he tested his wife's lead level after sudden hormone problems. It was off the chart, just like her mother's had been. His kids tested off the chart too, with no outside exposure of their own.\n\nComment HEALTH and we'll send you how heavy metals pass down this way.\n\n#kevintrudeau #leadtoxicity #naturalhealth #wbdaily #healthtruth #toxins"
+   },
+   {
+    "slug": "WHY-DETOX-TAKES-YEARS-NOT-DAYS",
+    "in": 819.5,
+    "out": 863.89,
+    "hook": [
+     "Why toxins never clear",
+     "in days"
+    ],
+    "caption": "Kevin Trudeau asks Dr. Daniel Pompa the question people keep getting wrong: what's the real way to clear heavy metals out of your system today?\n\nDr. Pompa's answer: it's not what people think. Sitting in a sauna, doing a foot bath, or running a quick 10-day cleanse and calling it done won't do it.\n\nHis point: to actually clear heavy metals out of the brain and tissue where they build up, there's a real process - but it takes years, not months.\n\nComment HEALTH and we'll send you what that real process actually looks like.\n\n#kevintrudeau #heavymetals #toxins #wbdaily #naturalhealth #healthtruth"
+   },
+   {
+    "slug": "DRY-FASTING-CLEARS-ZOMBIE-CELLS",
+    "in": 1855.47,
+    "out": 1910.03,
+    "hook": [
+     "How fasting clears",
+     "your zombie cells"
+    ],
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau why dry fasting works faster than other kinds: no food or water at all, and your body breaks down old, worn-out cells about three times faster.\n\nScience calls them senescent cells; he just calls them zombie cells - cells that lived too long and now sit there causing inflammation and trouble in the body.\n\nHis point: your body is smart enough to burn through the bad cells first, before it ever touches healthy tissue or muscle, in partial fasting, water fasting or dry fasting alike.\n\nComment HEALTH and we'll send you how each type of fasting compares.\n\n#kevintrudeau #fasting #autophagy #wbdaily #naturalhealth #healthtruth"
+   },
+   {
+    "slug": "WHY-YOUR-CHOLESTEROL-NUMBER-LIES",
+    "in": 2433.82,
+    "out": 2494.47,
+    "hook": [
+     "Why your cholesterol",
+     "isn't the risk"
+    ],
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau that cholesterol doesn't float loose in your blood - it rides inside a particle, like a person riding in a car.\n\nHis point: what matters for your risk is how many of those particles you have, not how full each one is, the same way traffic jams are about the number of cars, not how many people are packed into each one.\n\nHis view, after looking at the Cochrane Collaboration's review of cholesterol studies: inflammation is the real driver of heart disease, not the cholesterol number on your chart.\n\nComment HEALTH and we'll send you the questions worth asking about your own numbers.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth"
    }
   ]
  }
