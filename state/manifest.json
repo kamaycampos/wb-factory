@@ -755,7 +755,11 @@
    "hook": "How fasting clears your zombie cells",
    "bytes": 48344263,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-04T09:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BODYLOAD/01_LEAD-PASSES-FROM-MOM-TO-BABY_58s.mp4",
@@ -763,7 +767,11 @@
    "hook": "How lead reaches your baby's body",
    "bytes": 42700401,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-04T12:29",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_BODYLOAD/02_WHY-DETOX-TAKES-YEARS-NOT-DAYS_44s.mp4",
@@ -771,7 +779,11 @@
    "hook": "Why toxins never clear in days",
    "bytes": 34757545,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-03T20:38",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BODYLOAD/02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s.mp4",
@@ -779,7 +791,11 @@
    "hook": "Why your cholesterol isn't the risk",
    "bytes": 58539388,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-04T17:28",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   }
  ]
 }
