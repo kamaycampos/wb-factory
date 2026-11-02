@@ -396,12 +396,26 @@
    "caption": "Dr. Daniel Pompa told Kevin Trudeau why hormone support can stop helping: it's not always the hormone, it's the receptor.\n\nHis picture: a hormone is like a cell phone, and the receptor is the tower. If something blocks that tower, it doesn't matter how strong the signal is.\n\nHis view: toxins build up around and inside the cell, and they're the number one thing jamming that signal.\n\nSo your lab numbers can look perfect while you still feel the same.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #hormonehealth #toxins #cellularhealth #wbdaily #healthtruth",
    "hook": "Why your hormones stop working",
    "bytes": 62313565,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-01T19:45",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/2874416889600195/",
+    "instagram": "https://www.instagram.com/reel/DfODkCskzmB/",
+    "youtube": "https://youtube.com/shorts/j7Yo4ZtKyo8"
+   },
+   "caption_at_post": "Dr. Daniel Pompa told Kevin Trudeau why hormone support can stop helping: it's not always the hormone, it's the receptor.\n\nHis picture: a hormone is like a cell phone, and the receptor is the tower. If something blocks that tower, it doesn't matter how strong the signal is.\n\nHis view: toxins build up around and inside the cell, and they're the number one thing jamming that signal.\n\nSo your lab numbers can look perfect while you still feel the same.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #hormonehealth #toxins #cellularhealth #wbdaily #healthtruth",
+   "posted_at": "2026-11-01T19:51"
   },
   {
    "file": "KT_BIOHACKR2/02_WHY-YOUR-DOCTOR-SKIPS-TESTS_61s.mp4",
