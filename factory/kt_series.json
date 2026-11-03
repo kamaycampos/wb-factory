@@ -594,7 +594,8 @@
      "What's hiding in",
      "your protein shake"
     ],
-    "caption": "Kevin Trudeau's two to eliminate if blood pressure is a struggle: corn and wheat that haven't been properly fermented, plus excitotoxins like MSG, aspartame and sucralose.\n\nHis real-world example: the 'healthy' protein shake. He says most people never flip the label - and many are loaded with sucralose and NutraSweet, the same two ingredients he ties to brain fog, weight gain and rising blood pressure.\n\nNext shake you reach for, read the ingredient line before you drink it.\n\nComment HEALTH and we'll send you what to look for.\n\n#kevintrudeau #readthelabel #bloodpressure #wbdaily #healthtruth #naturalhealth"
+    "caption": "Kevin Trudeau's two to eliminate if blood pressure is a struggle: corn and wheat that haven't been properly fermented, plus excitotoxins like MSG, aspartame and sucralose.\n\nHis real-world example: the 'healthy' protein shake. He says most people never flip the label - and many are loaded with sucralose and NutraSweet, the same two ingredients he ties to brain fog, weight gain and rising blood pressure.\n\nNext shake you reach for, read the ingredient line before you drink it.\n\nComment HEALTH and we'll send you what to look for.\n\n#kevintrudeau #readthelabel #bloodpressure #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    },
    {
     "slug": "WHAT-REALLY-LOWERS-BLOOD-PRESSURE",
@@ -772,5 +773,17 @@
     "caption": "Kevin Trudeau's guest, who has formulated testosterone boosters for the supplement industry since 2011, is blunt about how well most of them actually work.\n\nHis estimate: a big share of the effect from herbs like tongkat ali and maca is placebo, and the real boost in testosterone numbers is small.\n\nWhat does work, in his telling, is the marketing. Big budgets make a bottle feel like it is \"juicing up your testosterone\" the first time you take it.\n\nKevin Trudeau's question for the viewer: before buying a booster, would you still believe in it without the label?\n\n#kevintrudeau #testosterone #supplements #healthtruth #readthelabel #wellness"
    }
   ]
+ },
+ "ep_v6u9yxd_p2_r2": {
+  "source": "v6u9yxd.mp4",
+  "brand": "KT_HORMONEFIXR2",
+  "note": "2026-11-03 - re-cut by weekly agent (SECOND CHANCE, tries 1). WHY-YOUR-BLOOD-TEST-SAYS-NOTHING: the build reported the clip opening mid-sentence on 'of times doctors', dropping the leading 'A lot' - the in edge sat right at the cue boundary with no pre-roll. Moved in 0.9s earlier so the full sentence has room to be found; start/end words and the out edge are unchanged.",
+  "clips": []
+ },
+ "ep_v6u9yxd_r3": {
+  "source": "v6u9yxd.mp4",
+  "brand": "KT_BIOHACKR3",
+  "note": "2026-11-03 - re-cut by weekly agent (SECOND CHANCE, tries 2, last chance). WHAT-BIOHACKING-ACTUALLY-MEANS: the r2 cut already landed the out edge on the right cue, but kept writing the end words as the contraction 'It's biohacking' - both the original and r2 failed with the build reporting the spoken words as 'it is biohacking', not 'it's'. Corrected end_words to the expanded form; in/out unchanged from r2.",
+  "clips": []
  }
 }

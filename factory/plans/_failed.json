@@ -1241,6 +1241,42 @@
     "What's inside your",
     "'peptide' supplement"
    ]
+  },
+  "ep_v6u9yxd_p2_r2/WHY-YOUR-BLOOD-TEST-SAYS-NOTHING": {
+   "plan": "ep_v6u9yxd_p2_r2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONEFIXR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-BLOOD-TEST-SAYS-NOTHING_47s.mp4` - opens mid-sentence on \"of times doctors\""
+   ],
+   "slug": "WHY-YOUR-BLOOD-TEST-SAYS-NOTHING",
+   "in": 1815.6,
+   "out": 1862.0,
+   "start_words": "A lot of times doctors",
+   "end_words": "the trend right or wrong",
+   "hook": [
+    "Why your blood test",
+    "says nothing"
+   ]
+  },
+  "ep_v6u9yxd_r3/WHAT-BIOHACKING-ACTUALLY-MEANS": {
+   "plan": "ep_v6u9yxd_r3",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_BIOHACKR3",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHAT-BIOHACKING-ACTUALLY-MEANS_52s.mp4` - ends mid-thought on \"It's biohacking biohacking\"; sentence starts with no stop: \"dollars You\"; sentence starts with no stop: \"going So\""
+   ],
+   "slug": "WHAT-BIOHACKING-ACTUALLY-MEANS",
+   "in": 288.48,
+   "out": 342.8,
+   "start_words": "What does biohacking actually",
+   "end_words": "eating properly. It is biohacking",
+   "hook": [
+    "How to biohack",
+    "your health"
+   ]
   }
  },
  "attempts": {
