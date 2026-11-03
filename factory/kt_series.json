@@ -337,7 +337,8 @@
      "skips tests"
     ],
     "caption": "Kevin Trudeau's guest, health coach Dylan Giamelli, says most doctors run the basics and stop there - because a deeper panel can get flagged by your insurance company if it's ordered too often.\n\nHis point: you don't have to wait on a standard checkup to find out what's really going on. An independent panel can look at things a basic visit skips, like heavy metal and micronutrient levels.\n\nHis warning: labs change where the \"normal\" range sits, so a result that reads as fine on paper can still mean something is off underneath.\n\nComment HEALTH and we'll send you what a real health panel checks that a standard one skips.\n\n#kevintrudeau #bloodwork #healthtruth #wbdaily #readthelabel #naturalhealth",
-    "cta_kind": "offer"
+    "cta_kind": "offer",
+    "locked": true
    }
   ]
  },
@@ -575,7 +576,8 @@
      "5 times food",
      "your grandparents ate"
     ],
-    "caption": "Kevin Trudeau cites nutrition researcher Dr. Emmanuel Saraskin's old warning: you'd need to eat five times as much food today to get the same nutrients your grandparents got from theirs decades ago, and he says it's only gotten worse since.\n\nHis proof is simple: the onion. He remembers an onion so strong that cutting it made the whole house cry. Today's onions, he says, barely smell like anything.\n\nHis point isn't nostalgia. It's that the soil, and what's grown in it, has changed enough to change what's actually on your plate.\n\nComment HEALTH and we'll send you what still holds its nutrients.\n\n#kevintrudeau #realfood #nutrientdensity #wbdaily #healthtruth #naturalhealth"
+    "caption": "Kevin Trudeau cites nutrition researcher Dr. Emmanuel Saraskin's old warning: you'd need to eat five times as much food today to get the same nutrients your grandparents got from theirs decades ago, and he says it's only gotten worse since.\n\nHis proof is simple: the onion. He remembers an onion so strong that cutting it made the whole house cry. Today's onions, he says, barely smell like anything.\n\nHis point isn't nostalgia. It's that the soil, and what's grown in it, has changed enough to change what's actually on your plate.\n\nComment HEALTH and we'll send you what still holds its nutrients.\n\n#kevintrudeau #realfood #nutrientdensity #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    }
   ]
  },
@@ -710,5 +712,65 @@
   "brand": "KT_MOODSHIFTR2",
   "note": "2026-11-02 - 'How To Beat Depression NOW!' (Rumble v6pdgp9). SECOND CHANCES by daily agent. THE-MINERAL-YOUR-BODY-IS-MISSING: 'word repeated after one: 7UP came up' (Kevin really says 'the 7-Up came up with an Uncola' near the old out=589.0) - moved the end forward to out=603.0, landing on the next sentence's payoff ('have a mineral deficiency') instead, which also makes a stronger ending. WHY-JUMPING-CLEARS-YOUR-TOXINS: 'sentence starts with no stop: called The' came from 'he wrote a book called The Miracle of Rebound Exercise' inside the old in=1882.0 window - moved the start past that line to 'You get on this little' (in=1890.0), which keeps the same payoff and end. Both captions also had a banned offer/comment-promise sentence removed per PLANNING.md.",
   "clips": []
+ },
+ "ep_v5ixx3h_p4": {
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_FOODSCIENCE",
+  "note": "2026-11-03 - 'How Your Nutritional Supplements Are Harming You | The Kevin Trudeau Show | Ep. 57' (Rumble v5ixx3h). SECOND PASS by weekly agent (this episode's 3rd pass): three new arcs from the unused minutes, never touching the stretches already cut (who-really-owns-your-vitamins 449-587s, whats-hiding-in-your-label 1097-1196s, why-your-vitamin-pill-wastes-money/whats-coating-your-supplement 1388-1502s, what-your-supplement-should-contain 1544-1655s, your-stomach-has-no-teeth/why-whole-fruit-beats-juice 1901-2027s, why-your-supplement-should-change 2065-2131s, the-food-your-grandparents-ate/why-your-food-has-no-flavor 3469-3672s). Avoided the vitamin-C-sourcing lead-in with 'cheapest crap' (701-705s), the talcum-powder/cancer stretch (1688-1778s - 'causes cancer' is a TikTok-removal word even spoken, and 'pissed off'), the Noni/'God is an idiot' stretch (2130-2160s, harsh word), and the vitamin-E/selenium stretch (2850-3180s, contains 'What the hell were we making?' in the middle of the only usable arc, and the clip would need to end on Kevin's own supplement outperforming a blood-thinner drug, too close to a medical claim).",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-VITAMIN-C-ISNT-REAL",
+    "in": 810.98,
+    "out": 909.91,
+    "hook": [
+     "Why your vitamin C",
+     "isn't real"
+    ],
+    "caption": "Kevin Trudeau tells the story of why British sailors were once nicknamed \"limeys.\"\n\nSailors used to come down with scurvy on long voyages, until the British navy started handing out limes, lemons and other citrus. The vitamin C in the fruit stopped it cold.\n\nHis point: that same fix doesn't work with ascorbic acid, the lab-made ingredient most labels simply call \"vitamin C.\" Give someone with scurvy ascorbic acid, he says, and it does nothing; real citrus does.\n\nIs the vitamin C on your label the real thing?\n\n#kevintrudeau #vitaminc #supplements #healthtruth #readthelabel #wellness"
+   },
+   {
+    "slug": "WHAT-YOUR-NIACIN-LABEL-HIDES",
+    "in": 2348.86,
+    "out": 2418.34,
+    "hook": [
+     "What your niacin",
+     "label hides"
+    ],
+    "caption": "Kevin Trudeau tells the story of a B vitamin that got quietly swapped for something else: niacin.\n\nReal niacin can cause a \"niacin flush,\" a brief red, hot, itchy feeling some people find uncomfortable, even though it passes in minutes. So, in Kevin Trudeau's telling, manufacturers had chemists create niacinamide, a related compound that skips the flush, and started labeling it as niacin anyway.\n\nHis point: niacinamide is not niacin, even with government sign-off to call it that on a label.\n\nHis advice: if you see \"niacin (niacinamide)\" on a bottle, put it back on the shelf.\n\n#kevintrudeau #niacin #vitamins #healthtruth #readthelabel #wellness"
+   },
+   {
+    "slug": "YOUR-SUPPLEMENT-RATIO-PROBLEM",
+    "in": 3276.38,
+    "out": 3411.87,
+    "hook": [
+     "What your supplement",
+     "ratio is missing"
+    ],
+    "caption": "Kevin Trudeau uses a kitchen example to explain why a supplement's ingredient ratio matters as much as the ingredients themselves.\n\nPicture a soup recipe gone wrong: half a cup of water, but 45 chicken bones and 50 bay leaves. Every ingredient on its own is fine; the proportions make it inedible.\n\nHis point: food and supplements work the same way. Nutrients have to arrive in roughly the proportions nature built into real food, not whatever ratio is cheapest to manufacture.\n\nWhat's the ratio on the supplement in your own cabinet?\n\n#kevintrudeau #supplements #wholefood #healthtruth #nutrition #wellness"
+   }
+  ]
+ },
+ "ep_v5k3hxf_p2_r3": {
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_BLOODFLOWR3",
+  "note": "2026-11-03 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). SECOND CHANCE by weekly agent, tries 2: ep_v5k3hxf_p2_r2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES failed 'ends off the planned words' again (out=1272.0, end_words 'I prefer spring water' - that exact phrase is spoken twice 18 seconds apart around 1270.7s and 1289.2-1291.1s, inside the word search's 9-second window of each other near the first occurrence, and the renderer locked onto a third nearby 'water' phrase instead, 'that gets the water out'). Fix: moved the end past both repeats entirely, to the unique, unambiguous phrase 'no chlorine in natural spring water' at 1294.5s - no other occurrence of that wording exists nearby, so the search can no longer land on the wrong spot.",
+  "clips": []
+ },
+ "ep_v6u9yxd_p2": {
+  "source": "v6u9yxd.mp4",
+  "brand": "KT_HORMONEFIX",
+  "note": "2026-11-03 - 'How To Stay Young & Fit Forever: No B.S. Biohacking From A Fitness Rebel' (Rumble v6u9yxd). SECOND PASS by weekly agent: four new arcs from the unused minutes of this hormone/longevity interview, never touching the four stretches already cut (biohacking-defined 288-349s, why-your-doctor-skips-tests 491-566s, why-your-testosterone-is-dropping 855-920s, why-your-cells-are-aging 2581-2631s). Avoided the alcohol-crushes-testosterone lead-in (just before 920s, already inside the used testosterone-dropping stretch), the food-dye/glyphosate stretch around 1295-1327s ('what the hell that is'), and the entire 2010-2550s political/Twilight-Zone rant and testicle-shrinkage/TRT-dosing stretch (profanity and medical-dosing talk, off the WB lane).",
+  "clips": [
+   {
+    "slug": "YOUR-TESTOSTERONE-BOOSTER-IS-MARKETING",
+    "in": 2218.22,
+    "out": 2334.44,
+    "hook": [
+     "90% marketing,",
+     "not real testosterone"
+    ],
+    "caption": "Kevin Trudeau's guest, who has formulated testosterone boosters for the supplement industry since 2011, is blunt about how well most of them actually work.\n\nHis estimate: a big share of the effect from herbs like tongkat ali and maca is placebo, and the real boost in testosterone numbers is small.\n\nWhat does work, in his telling, is the marketing. Big budgets make a bottle feel like it is \"juicing up your testosterone\" the first time you take it.\n\nKevin Trudeau's question for the viewer: before buying a booster, would you still believe in it without the label?\n\n#kevintrudeau #testosterone #supplements #healthtruth #readthelabel #wellness"
+   }
+  ]
  }
 }

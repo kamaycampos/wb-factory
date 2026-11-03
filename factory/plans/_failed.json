@@ -1169,6 +1169,78 @@
     "80% artery blockage",
     "from chlorinated water"
    ]
+  },
+  "ep_v5k3hxf_p2_r3/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES": {
+   "plan": "ep_v5k3hxf_p2_r3",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_BLOODFLOWR3",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES_116s.mp4` - phrase scrambled around \"water in municipal water\""
+   ],
+   "slug": "CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+   "in": 1179.6,
+   "out": 1294.5,
+   "start_words": "Unfortunately, many of them got",
+   "end_words": "no chlorine in natural spring water",
+   "hook": [
+    "80% artery blockage",
+    "from chlorinated water"
+   ]
+  },
+  "ep_v6u9yxd_p2/SOY-RAISES-YOUR-ESTROGEN": {
+   "plan": "ep_v6u9yxd_p2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONEFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_SOY-RAISES-YOUR-ESTROGEN_70s.mp4` - word repeated after one: \"soy because soy\""
+   ],
+   "slug": "SOY-RAISES-YOUR-ESTROGEN",
+   "in": 920.48,
+   "out": 987.5,
+   "start_words": "In America, we consume",
+   "end_words": "my list of don't go near",
+   "hook": [
+    "Why soy raises",
+    "your estrogen"
+   ]
+  },
+  "ep_v6u9yxd_p2/WHY-YOUR-BLOOD-TEST-SAYS-NOTHING": {
+   "plan": "ep_v6u9yxd_p2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONEFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-YOUR-BLOOD-TEST-SAYS-NOTHING_47s.mp4` - opens mid-sentence on \"of times doctors\""
+   ],
+   "slug": "WHY-YOUR-BLOOD-TEST-SAYS-NOTHING",
+   "in": 1816.5,
+   "out": 1862.0,
+   "start_words": "A lot of times doctors",
+   "end_words": "trend right or wrong",
+   "hook": [
+    "Why your blood test",
+    "says nothing"
+   ]
+  },
+  "ep_v6u9yxd_p2/WHAT-A-PEPTIDE-REALLY-IS": {
+   "plan": "ep_v6u9yxd_p2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONEFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHAT-A-PEPTIDE-REALLY-IS_42s.mp4` - ends mid-thought on \"our body now\"; sentence starts with no stop: \"is You\"; word repeated: \"are are\""
+   ],
+   "slug": "WHAT-A-PEPTIDE-REALLY-IS",
+   "in": 2353.5,
+   "out": 2399.0,
+   "start_words": "What about peptides? Explain",
+   "end_words": "naturally occurring in our body",
+   "hook": [
+    "What's inside your",
+    "'peptide' supplement"
+   ]
   }
  },
  "attempts": {
