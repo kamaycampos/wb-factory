@@ -1,0 +1,9 @@
+{"source": "v6u9yxd.mp4", "brand": "KT_HORMONEFIXR2", "test": false,
+ "note": "2026-11-03 - re-cut by weekly agent (SECOND CHANCE, tries 1). WHY-YOUR-BLOOD-TEST-SAYS-NOTHING: the build reported the clip opening mid-sentence on 'of times doctors', dropping the leading 'A lot' - the in edge sat right at the cue boundary with no pre-roll. Moved in 0.9s earlier so the full sentence has room to be found; start/end words and the out edge are unchanged.",
+ "clips": [
+  {"slug": "WHY-YOUR-BLOOD-TEST-SAYS-NOTHING", "in": 1815.6, "out": 1862.0,
+   "start_words": "A lot of times doctors", "end_words": "the trend right or wrong",
+   "hook": ["Why your blood test", "says nothing"],
+   "caption": "Kevin Trudeau's guest explains a question most people never ask their doctor: not \"is my number in range,\" but \"what's the trend.\"\n\nRanges for blood tests have shifted over the decades, and they differ by country, so \"in range\" alone tells you very little.\n\nWhat matters more: has that number been tested over years, and is it moving up, down, or staying put. A single blood panel is a snapshot; a trend is the real story.\n\nNext time you get blood work done, ask to see last year's numbers next to this year's.\n\n#kevintrudeau #bloodwork #healthtruth #knowyourbody #askquestions #wellness",
+   "retry_of": "ep_v6u9yxd_p2/WHY-YOUR-BLOOD-TEST-SAYS-NOTHING"}
+ ]}

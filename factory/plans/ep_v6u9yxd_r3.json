@@ -1,0 +1,11 @@
+{"source": "v6u9yxd.mp4", "brand": "KT_BIOHACKR3", "test": false,
+ "note": "2026-11-03 - re-cut by weekly agent (SECOND CHANCE, tries 2, last chance). WHAT-BIOHACKING-ACTUALLY-MEANS: the r2 cut already landed the out edge on the right cue, but kept writing the end words as the contraction 'It's biohacking' - both the original and r2 failed with the build reporting the spoken words as 'it is biohacking', not 'it's'. Corrected end_words to the expanded form; in/out unchanged from r2.",
+ "clips": [
+  {"slug": "WHAT-BIOHACKING-ACTUALLY-MEANS",
+   "in": 288.48, "out": 342.80,
+   "start_words": "What does biohacking actually",
+   "end_words": "eating properly. It is biohacking",
+   "hook": ["How to biohack", "your health"],
+   "caption": "Kevin Trudeau's guest, trainer and health coach Dylan Giamelli, says most people get biohacking wrong.\n\nThey picture expensive gadgets, supplements and millions of dollars spent on therapies. His real definition: taking care of yourself and depending less on other people for your own health.\n\nHis two simplest examples: walk outside in the morning, and actually fix what's on your plate. That's biohacking in its most basic form, before any gadget gets involved.\n\nWhat's one small habit you could add to your day this week?\n\n#kevintrudeau #biohacking #realfood #wbdaily #healthtruth #naturalhealth",
+   "retry_of": "ep_v6u9yxd_r2/WHAT-BIOHACKING-ACTUALLY-MEANS"}
+ ]}
