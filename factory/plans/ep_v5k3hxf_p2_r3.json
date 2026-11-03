@@ -1,0 +1,25 @@
+{
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_BLOODFLOWR3",
+  "test": false,
+  "note": "2026-11-03 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). SECOND CHANCE by weekly agent, tries 2: ep_v5k3hxf_p2_r2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES failed 'ends off the planned words' again (out=1272.0, end_words 'I prefer spring water' - that exact phrase is spoken twice 18 seconds apart around 1270.7s and 1289.2-1291.1s, inside the word search's 9-second window of each other near the first occurrence, and the renderer locked onto a third nearby 'water' phrase instead, 'that gets the water out'). Fix: moved the end past both repeats entirely, to the unique, unambiguous phrase 'no chlorine in natural spring water' at 1294.5s - no other occurrence of that wording exists nearby, so the search can no longer land on the wrong spot.",
+  "clips": [
+    {
+      "slug": "CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+      "in": 1179.6,
+      "out": 1294.5,
+      "start_words": "Unfortunately, many of them got",
+      "end_words": "no chlorine in natural spring water",
+      "retry_of": "ep_v5k3hxf_p2_r2/CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES",
+      "hook": ["80% artery blockage", "from chlorinated water"],
+      "trial_hooks": [["80% blockage", "in six months"],
+                       ["Chlorine tablets scarred", "your arteries"],
+                       ["Clean water, 70%", "arteries clogged"],
+                       ["What's really in", "your tap water"],
+                       ["These Vietnam soldiers'", "arteries clogged fast"],
+                       ["Kevin Trudeau's shocking", "water story"],
+                       ["Clean water can", "clog your arteries"]],
+      "caption": "Kevin Trudeau tells the story of young soldiers in Vietnam, given chlorine tablets to purify river water from their canteens.\n\nThe tablets worked, no dysentery. But when some of those soldiers were later autopsied, surgeons were stunned to find 70-80% blockages in their heart's arteries, after only six or seven months of drinking that water.\n\nHis point: chlorine itself scars the artery wall, and the body's LDL keeps patching that damage until the artery clogs.\n\nHis fix for tap water at home: a whole-house filter that pulls the chlorine out, or spring water instead.\n\nWhat's actually coming out of your own tap?\n\n#kevintrudeau #tapwater #hearthealth #healthtruth #wbdaily #naturalhealth"
+    }
+  ]
+}

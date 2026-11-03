@@ -1,0 +1,20 @@
+{
+ "source": "v5ixx3h.mp4",
+ "brand": "KT_FOODSCIENCE",
+ "test": false,
+ "note": "2026-11-03 - 'How Your Nutritional Supplements Are Harming You | The Kevin Trudeau Show | Ep. 57' (Rumble v5ixx3h). SECOND PASS by weekly agent (this episode's 3rd pass): three new arcs from the unused minutes, never touching the stretches already cut (who-really-owns-your-vitamins 449-587s, whats-hiding-in-your-label 1097-1196s, why-your-vitamin-pill-wastes-money/whats-coating-your-supplement 1388-1502s, what-your-supplement-should-contain 1544-1655s, your-stomach-has-no-teeth/why-whole-fruit-beats-juice 1901-2027s, why-your-supplement-should-change 2065-2131s, the-food-your-grandparents-ate/why-your-food-has-no-flavor 3469-3672s). Avoided the vitamin-C-sourcing lead-in with 'cheapest crap' (701-705s), the talcum-powder/cancer stretch (1688-1778s - 'causes cancer' is a TikTok-removal word even spoken, and 'pissed off'), the Noni/'God is an idiot' stretch (2130-2160s, harsh word), and the vitamin-E/selenium stretch (2850-3180s, contains 'What the hell were we making?' in the middle of the only usable arc, and the clip would need to end on Kevin's own supplement outperforming a blood-thinner drug, too close to a medical claim).",
+ "clips": [
+  {"slug": "WHY-YOUR-VITAMIN-C-ISNT-REAL", "in": 810.0, "out": 909.0,
+   "start_words": "Back in the day, it", "end_words": "Ascorbic acid is not vitamin C",
+   "hook": ["Why your vitamin C", "isn't real"],
+   "caption": "Kevin Trudeau tells the story of why British sailors were once nicknamed \"limeys.\"\n\nSailors used to come down with scurvy on long voyages, until the British navy started handing out limes, lemons and other citrus. The vitamin C in the fruit stopped it cold.\n\nHis point: that same fix doesn't work with ascorbic acid, the lab-made ingredient most labels simply call \"vitamin C.\" Give someone with scurvy ascorbic acid, he says, and it does nothing; real citrus does.\n\nIs the vitamin C on your label the real thing?\n\n#kevintrudeau #vitaminc #supplements #healthtruth #readthelabel #wellness"},
+  {"slug": "WHAT-YOUR-NIACIN-LABEL-HIDES", "in": 2348.0, "out": 2418.0,
+   "start_words": "We need to have a", "end_words": "that company ever again",
+   "hook": ["What your niacin", "label hides"],
+   "caption": "Kevin Trudeau tells the story of a B vitamin that got quietly swapped for something else: niacin.\n\nReal niacin can cause a \"niacin flush,\" a brief red, hot, itchy feeling some people find uncomfortable, even though it passes in minutes. So, in Kevin Trudeau's telling, manufacturers had chemists create niacinamide, a related compound that skips the flush, and started labeling it as niacin anyway.\n\nHis point: niacinamide is not niacin, even with government sign-off to call it that on a label.\n\nHis advice: if you see \"niacin (niacinamide)\" on a bottle, put it back on the shelf.\n\n#kevintrudeau #niacin #vitamins #healthtruth #readthelabel #wellness"},
+  {"slug": "YOUR-SUPPLEMENT-RATIO-PROBLEM", "in": 3276.0, "out": 3411.0,
+   "start_words": "Let's put a half a", "end_words": "have a whole food supplement",
+   "hook": ["What your supplement", "ratio is missing"],
+   "caption": "Kevin Trudeau uses a kitchen example to explain why a supplement's ingredient ratio matters as much as the ingredients themselves.\n\nPicture a soup recipe gone wrong: half a cup of water, but 45 chicken bones and 50 bay leaves. Every ingredient on its own is fine; the proportions make it inedible.\n\nHis point: food and supplements work the same way. Nutrients have to arrive in roughly the proportions nature built into real food, not whatever ratio is cheapest to manufacture.\n\nWhat's the ratio on the supplement in your own cabinet?\n\n#kevintrudeau #supplements #wholefood #healthtruth #nutrition #wellness"}
+ ]
+}
