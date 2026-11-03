@@ -932,7 +932,11 @@
    "hook": "What cutting pork does to you",
    "bytes": 46213660,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-05T20:29",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
