@@ -622,7 +622,8 @@
      "The additive wrecking",
      "your mood"
     ],
-    "caption": "Kevin Trudeau's claim: America has some of the highest depression rates on earth, and he points first at the food.\n\nHis example: red dye the FDA itself called too toxic to touch skin in a cosmetic - yet still approved for food.\n\nHis list of what he says feeds low mood: aspartame, sucralose and NutraSweet in diet drinks and protein shakes, plus corn syrup solids in ultra-processed food.\n\nHis view: genetically modified, heavily processed food can also throw off gut balance, which he ties back to mood.\n\nComment HEALTH and we'll send you the ingredients to avoid.\n\n#kevintrudeau #readthelabel #guthealth #wbdaily #healthtruth #naturalhealth"
+    "caption": "Kevin Trudeau's claim: America has some of the highest depression rates on earth, and he points first at the food.\n\nHis example: red dye the FDA itself called too toxic to touch skin in a cosmetic - yet still approved for food.\n\nHis list of what he says feeds low mood: aspartame, sucralose and NutraSweet in diet drinks and protein shakes, plus corn syrup solids in ultra-processed food.\n\nHis view: genetically modified, heavily processed food can also throw off gut balance, which he ties back to mood.\n\nComment HEALTH and we'll send you the ingredients to avoid.\n\n#kevintrudeau #readthelabel #guthealth #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    }
   ]
  },
@@ -784,6 +785,29 @@
   "source": "v6u9yxd.mp4",
   "brand": "KT_BIOHACKR3",
   "note": "2026-11-03 - re-cut by weekly agent (SECOND CHANCE, tries 2, last chance). WHAT-BIOHACKING-ACTUALLY-MEANS: the r2 cut already landed the out edge on the right cue, but kept writing the end words as the contraction 'It's biohacking' - both the original and r2 failed with the build reporting the spoken words as 'it is biohacking', not 'it's'. Corrected end_words to the expanded form; in/out unchanged from r2.",
+  "clips": []
+ },
+ "ep_v5ic3lf_p4": {
+  "source": "v5ic3lf.mp4",
+  "brand": "KT_PORKPOLITE",
+  "note": "2026-11-03 - 'The 10 Foods You Should Never Eat' (Rumble v5ic3lf). SECOND PASS by weekly agent (p4): one new arc, continuing straight on from the already-cut WHY-PORK-MADE-HIM-FEEL-SLUGGISH (761-812s, p2) without re-touching its minutes. That clip's lesson is his own 3-month cut-and-reintroduce energy experiment; this one is the next story in the same monologue - the Nuremberg sausage dinner - and its lesson is different: what reducing, not eliminating, pork does to bloodwork, hormones and lifespan over years, with the nuance that some 95-year-olds eat it their whole lives. Checked every other unused stretch in this episode: the artificial-sweetener sections (210-270s, 480-510s) carry 'stupid'/'stupidly' inside them, and most of the pork-comedy bit (540-900s) carries open profanity.",
+  "clips": [
+   {
+    "slug": "WHAT-CUTTING-PORK-DOES-TO-YOU",
+    "in": 815.18,
+    "out": 882.39,
+    "hook": [
+     "What cutting pork",
+     "does to you"
+    ],
+    "caption": "Kevin Trudeau was staying at a small hotel south of Munich when the owner invited him to dinner.\n\nHis wife had driven two hours each way to Nuremberg for sausages that are 100% pork - a special trip just for the meal. Kevin ate them to be polite, and felt no real difference afterward.\n\nHis real point: pork alone isn't the emergency people make it out to be. He knows people who've eaten it their whole lives and are still healthy at 95.\n\nWhat he says actually moves the needle is cutting back - better bloodwork, better hormone numbers, more energy, in his own experience.\n\nWould your bloodwork look any different without it?\n\n#kevintrudeau #pork #bloodwork #healthtruth #wbdaily #wellness"
+   }
+  ]
+ },
+ "ep_v5k3hxf_p3": {
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_ARTERYFACTS",
+  "note": "2026-11-03 - 'The Three Causes Of Scarred Arteries' (Rumble v5k3hxf). SECOND PASS by weekly agent (p3): three new arcs from the unused minutes, never touching the ranges already cut by any prior plan (milk 188.8-327.2s, milk label 398.8-561.8s, fries oil 992.1-1057.0s, chlorine tablets 1179.6-1294.5s, chlorine/skin 1399.5-1487.3s, doctor-prescribes 1710.6-1763.9s - checked across the base plan and every _r2/_r3/_r4/_p2 retry file). Skipped the milkman lead-in (60-180s, same milk-spoilage lesson as the cut clip), the McDonald's/Ray Kroc beef-fat setup (870-960s, same lesson as the already-cut fries-changed-oil clip), the Vietnam-soldier chlorine-tablet lead-in (1080-1180s, same story as the cut clip), and the two long 'ignorant/stupid/moron' and 'idiot environmentalist' rants, which carry harsh words the brand's gate refuses anywhere in a cut. Three clean arcs remained: how trans fats were invented (Kraft cheese), hidden chlorine in restaurant and packaged liquids (a different angle than the already-cut chlorine-tablets and chlorine/skin clips), and the car-checkup analogy for getting scanned before symptoms hit.",
   "clips": []
  }
 }

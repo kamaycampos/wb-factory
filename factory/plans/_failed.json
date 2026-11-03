@@ -1246,7 +1246,7 @@
    "plan": "ep_v6u9yxd_p2_r2",
    "source": "v6u9yxd.mp4",
    "brand": "KT_HORMONEFIXR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "NOT QUEUED** `01_WHY-YOUR-BLOOD-TEST-SAYS-NOTHING_47s.mp4` - opens mid-sentence on \"of times doctors\""
    ],
@@ -1264,7 +1264,7 @@
    "plan": "ep_v6u9yxd_r3",
    "source": "v6u9yxd.mp4",
    "brand": "KT_BIOHACKR3",
-   "tries": 3,
+   "tries": 4,
    "why": [
     "NOT QUEUED** `01_WHAT-BIOHACKING-ACTUALLY-MEANS_52s.mp4` - ends mid-thought on \"It's biohacking biohacking\"; sentence starts with no stop: \"dollars You\"; sentence starts with no stop: \"going So\""
    ],
@@ -1276,6 +1276,60 @@
    "hook": [
     "How to biohack",
     "your health"
+   ]
+  },
+  "ep_v5k3hxf_p3/WHY-KRAFT-CHEESE-IS-MOSTLY-OIL": {
+   "plan": "ep_v5k3hxf_p3",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-KRAFT-CHEESE-IS-MOSTLY-OIL_61s.mp4` - opens mid-sentence on \"in the 20s\""
+   ],
+   "slug": "WHY-KRAFT-CHEESE-IS-MOSTLY-OIL",
+   "in": 622.3,
+   "out": 683.3,
+   "start_words": "Back in the 20s and 30s",
+   "end_words": "and will give you heart disease",
+   "hook": [
+    "Why Kraft cheese",
+    "is mostly oil"
+   ]
+  },
+  "ep_v5k3hxf_p3/WHY-RESTAURANT-WATER-HAS-CHLORINE": {
+   "plan": "ep_v5k3hxf_p3",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-RESTAURANT-WATER-HAS-CHLORINE_62s.mp4` - opens mid-sentence on \"which is why\"; phrase scrambled around \"ice because the ice\""
+   ],
+   "slug": "WHY-RESTAURANT-WATER-HAS-CHLORINE",
+   "in": 1297.6,
+   "out": 1359.2,
+   "start_words": "When I go to a restaurant",
+   "end_words": "tap water at restaurants anywhere",
+   "hook": [
+    "Why your tap water",
+    "has chlorine"
+   ]
+  },
+  "ep_v5k3hxf_p3/CHECK-YOUR-CAR-NOT-YOUR-BODY": {
+   "plan": "ep_v5k3hxf_p3",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_CHECK-YOUR-CAR-NOT-YOUR-BODY_39s.mp4` - ends mid-thought on \"the same way\""
+   ],
+   "slug": "CHECK-YOUR-CAR-NOT-YOUR-BODY",
+   "in": 1651.5,
+   "out": 1692.0,
+   "start_words": "You know, I have a car",
+   "end_words": "My body is the same way",
+   "hook": [
+    "What your car gets",
+    "body skips"
    ]
   }
  },
