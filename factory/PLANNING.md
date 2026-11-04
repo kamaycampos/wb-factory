@@ -11,6 +11,15 @@ on the second-chance backlog, hit the account's usage limit, and pushed nothing.
 each plan passes `check_plan.py`**, to the same branch - the merge job takes each push - so a run that is
 cut off still keeps the plans it finished.
 
+## VIRALITY IS THE JOB: EVERY CLIP IS ONE PEOPLE SEND (3 Nov 2026, Kamay: "make it a rule")
+Read `factory/VIRALITY.md`. Instagram's strongest signal with strangers is **sends per reach** (Mosseri),
+and KT's reach fell 103K -> 19K per 14 days while shares per reel fell 9.4 -> ~3 (skip rate flat). Every
+clip carries `"send"`: one line - who sends it to whom, and why ("a mum sends it to her sister: the label
+trick she fell for too"), and the HIGH-AROUSAL emotion it rides: awe, anger (at being
+lied to) or anxiety (losing money / time) - never a calm lesson alone. Prefer the clip with the clearer
+send. `check_plan.py` refuses a clip without it. The trial reels now crown the hook with the most
+sends per reach, not the most views - read the winners in `state/variants.json`.
+
 ## THIS FACTORY IS WB ORGANICS - READ THIS FIRST (rewritten 17 Oct 2026, Kamay)
 The text below was written for Kamay's KT money account. Here, `my_brand/BRAND.md` is the brand
 and it OVERRIDES every lane, skip and keyword rule below.
