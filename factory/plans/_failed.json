@@ -1385,6 +1385,96 @@
     "What your sugar",
     "cravings are hiding"
    ]
+  },
+  "ep_v5hbogs_p3_r2/WHAT-FDA-APPROVED-MEANS-FOR-YOU": {
+   "plan": "ep_v5hbogs_p3_r2",
+   "source": "v5hbogs.mp4",
+   "brand": "KT_PHARMAWATCHR2",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHAT-FDA-APPROVED-MEANS-FOR-YOU_40s.mp4` - ends mid-thought on \"companies\"; sentence starts with no stop: \"and They\"; sentence starts with no stop: \"experts We\""
+   ],
+   "slug": "WHAT-FDA-APPROVED-MEANS-FOR-YOU",
+   "in": 627.0,
+   "out": 670.0,
+   "start_words": "Kids are born with",
+   "end_words": "protecting the profits of the drug companies",
+   "hook": [
+    "What FDA approved",
+    "means for you"
+   ]
+  },
+  "ep_v5k3hxf_p3_r3/WHY-RESTAURANT-WATER-HAS-CHLORINE": {
+   "plan": "ep_v5k3hxf_p3_r3",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTSR3",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHY-RESTAURANT-WATER-HAS-CHLORINE_48s.mp4` - the spoken word was on screen in only 6 of 9 moments"
+   ],
+   "slug": "WHY-RESTAURANT-WATER-HAS-CHLORINE",
+   "in": 1331.7,
+   "out": 1380.5,
+   "start_words": "Why are you using",
+   "end_words": "It's got chlorine in it",
+   "hook": [
+    "Why your water",
+    "still has chlorine"
+   ]
+  },
+  "ep_v6tylxb/THE-DRUG-FDA-CALLED-SAFE": {
+   "plan": "ep_v6tylxb",
+   "source": "v6tylxb.mp4",
+   "brand": "KT_PROOFCHECK",
+   "tries": 1,
+   "why": [
+    "FAIL 01_THE-DRUG-FDA-CALLED-SAFE_92s.mp4: ends off the planned words: plan ends 'completely incompetent or they're corrupt', clip ends 'completely incompetent or they are corrupt'"
+   ],
+   "slug": "THE-DRUG-FDA-CALLED-SAFE",
+   "in": 1958.56,
+   "out": 2058.48,
+   "start_words": "Let's look at the drugs",
+   "end_words": "completely incompetent or they're corrupt",
+   "hook": [
+    "What FDA approved",
+    "isn't your safety"
+   ]
+  },
+  "ep_v6tylxb/THE-STUDY-WITH-ONLY-8-KIDS": {
+   "plan": "ep_v6tylxb",
+   "source": "v6tylxb.mp4",
+   "brand": "KT_PROOFCHECK",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_THE-STUDY-WITH-ONLY-8-KIDS_153s.mp4` - ends mid-thought on \"any higher\"; word repeated after one: \"I'm not I'm\"; word repeated after one: \"we're dancing we're\""
+   ],
+   "slug": "THE-STUDY-WITH-ONLY-8-KIDS",
+   "in": 2090.8,
+   "out": 2243.52,
+   "start_words": "Study proves that sugar",
+   "end_words": "it couldn't get any higher",
+   "hook": [
+    "Why your kid's",
+    "sugar study lied"
+   ]
+  },
+  "ep_v6y4es4_r3/THE-OIL-CHANGE-YOUR-BODY-NEEDS": {
+   "plan": "ep_v6y4es4_r3",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_NATURALFIXR3",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_41s.mp4` - ends mid-thought on \"best medicine\"; sentence starts with no stop: \"fruits But\"; sentence starts with no stop: \"out And\""
+   ],
+   "slug": "THE-OIL-CHANGE-YOUR-BODY-NEEDS",
+   "in": 1605.92,
+   "out": 1650.4,
+   "start_words": "There's a few companies",
+   "end_words": "really the best medicine",
+   "hook": [
+    "The oil change",
+    "your body needs"
+   ]
   }
  },
  "attempts": {
@@ -1394,6 +1484,7 @@
   "ep_v5k3hxf_r3": 2,
   "ep_v5k35fh_r3": 2,
   "ep_v5isd6d_r5": 2,
-  "ep_v5k3hxf_p2_r2": 2
+  "ep_v5k3hxf_p2_r2": 2,
+  "ep_v5j1oyl_p3": 1
  }
 }

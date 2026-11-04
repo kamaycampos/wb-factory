@@ -1,113 +1,113 @@
-## ep_v5hbogs_p4: 1 of 1 clip(s) passed every gate
+## ep_v5hbogs_p3_r2: 1 of 1 clip(s) passed every gate
 
 
-## 2026-11-04 05:33
-ep_v5hbogs_p4__s0 (KT_TALCFILE): 1 of 1 passed pre-render gates
+## 2026-11-04 17:01
+ep_v5hbogs_p3_r2__s0 (KT_PHARMAWATCHR2): 1 of 1 passed pre-render gates
 
-RENDER ep_v5hbogs_p4__s0
-  PASS 01_WHY-BABY-POWDER-LEFT-THE-SHELVES_45s.mp4  01_WHY-BABY-POWDER-LEFT-THE-SHELVES_45s.mp4            15 captions vs the sound  median +0
-       FIRST 5s : J&J, which is Johnson & Johnson, Johnson & Johnson files | LAST  8s : Protecting us from people that are trying to rip us off. In both agencies, there's a lot of good people. And there are also a lot of criminals.
-TEST MODE - passing clips NOT uploaded or queued: KT_TALCFILE
-
-
-- **NOT QUEUED** `01_WHY-BABY-POWDER-LEFT-THE-SHELVES_45s.mp4` - word repeated after one: "Johnson & Johnson"; word repeated after one: "Johnson & Johnson."; word repeated: "Both both"
-
-## ep_v5k35fh_r5: 1 of 1 clip(s) passed every gate
+RENDER ep_v5hbogs_p3_r2__s0
+  PASS 01_WHAT-FDA-APPROVED-MEANS-FOR-YOU_40s.mp4  01_WHAT-FDA-APPROVED-MEANS-FOR-YOU_40s.mp4             11 captions vs the sound  median +0
+       FIRST 5s : Kids are born, you know, with all these type of birth defects. | LAST  8s : The commissioner said, "No, the FDA is not protecting consumers. It's protecting the profits of the drug companies."
+TEST MODE - passing clips NOT uploaded or queued: KT_PHARMAWATCHR2
 
 
-## 2026-11-04 05:30
-ep_v5k35fh_r5__s0 (KT_LIPIDTRUTHR2): 1 of 1 passed pre-render gates
+- **NOT QUEUED** `01_WHAT-FDA-APPROVED-MEANS-FOR-YOU_40s.mp4` - ends mid-thought on "companies"; sentence starts with no stop: "and They"; sentence starts with no stop: "experts We"
 
-RENDER ep_v5k35fh_r5__s0
-  PASS 01_WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT_53s.mp4  01_WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT_53s.mp4      14 captions vs the sound  median +0
-       FIRST 5s : Does cholesterol, does LDL cholesterol, the low density, | LAST  8s : The industrial counts still get blockages. The LDL still attaches itself to the artery wall, and the arteries will still get 100% blocked.
-TEST MODE - passing clips NOT uploaded or queued: KT_LIPIDTRUTHR2
+## ep_v5j1oyl_p3: 0 of 1 clip(s) passed every gate
 
 
-## ep_v5k3hxf_p3_r2: 2 of 2 clip(s) passed every gate
+## 2026-11-04 17:07
+  note KT_NUTRIENTGAP/WHY-SUPPLEMENTS-DONT-REPLACE-FOOD: ending kept on the planner's words 'will give you the minerals you need' (cuts mid-sentence)
+ep_v5j1oyl_p3__s0 (KT_NUTRIENTGAP): 1 of 1 passed pre-render gates
+
+RENDER ep_v5j1oyl_p3__s0
+  FAIL 01_WHY-SUPPLEMENTS-DONT-REPLACE-FOOD_78s.mp4: [FAIL] 01_WHY-SUPPLEMENTS-DONT-REPLACE-FOOD_78s.mp4           16 captions vs the sound  median +0.17s  worst-10% 0.63s  | words captioned 101%  UNCAPTIONED SPEECH [(59.7, 61.1)]
 
 
-## 2026-11-04 06:01
-  note KT_ARTERYFACTSR2/WHY-YOUR-MILK-NEVER-GOES-BAD: ending kept on the planner's words 'the cow milk as it is' (cuts mid-sentence)
-ep_v5k3hxf_p3_r2__s0 (KT_ARTERYFACTSR2): 2 of 2 passed pre-render gates
-
-RENDER ep_v5k3hxf_p3_r2__s0
-  PASS 01_WHY-YOUR-MILK-NEVER-GOES-BAD_134s.mp4  01_WHY-YOUR-MILK-NEVER-GOES-BAD_134s.mp4               42 captions vs the sound  median +0
-       FIRST 5s : In other words, what can we do so that when we get the milk out of the cow, we can put it in | LAST  8s : It's not what nature intended you to consume. Nature intended you to consume the goat milk, the buffalo milk, the cow milk, as it is.
-  PASS 02_WHY-KRAFT-CHEESE-IS-MOSTLY-OIL_79s.mp4  02_WHY-KRAFT-CHEESE-IS-MOSTLY-OIL_79s.mp4              17 captions vs the sound  median +0
-       FIRST 5s : The only thing that scars the arteries is trans fats. | LAST  8s : Beta is very silky. These are some of the two biggest poisons you can put in your body and will give you heart disease, please.
-TEST MODE - passing clips NOT uploaded or queued: KT_ARTERYFACTSR2
+## ep_v5k3hxf_p2_r4: 1 of 1 clip(s) passed every gate
 
 
-- **NOT QUEUED** `02_WHY-KRAFT-CHEESE-IS-MOSTLY-OIL_79s.mp4` - word repeated: "give Give"
+## 2026-11-04 17:04
+  note KT_BLOODFLOWR4/WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY: ending kept on the planner's words 'because I have to' (cuts mid-sentence)
+ep_v5k3hxf_p2_r4__s0 (KT_BLOODFLOWR4): 1 of 1 passed pre-render gates
 
-## ep_v5kwynq_p3: 1 of 1 clip(s) passed every gate
-
-
-## 2026-11-04 05:40
-  note KT_BPJUICEFIX/WHAT-LOWERS-YOUR-PRESSURE-NATURALLY: ending kept on the planner's words 'it's cold pressed, organic' (cuts mid-sentence)
-ep_v5kwynq_p3__s0 (KT_BPJUICEFIX): 1 of 1 passed pre-render gates
-
-RENDER ep_v5kwynq_p3__s0
-  PASS 01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4  01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4         23 captions vs the sound  median +0
-       FIRST 5s : Next, you can take beet juice. | LAST  8s : Second best, so you can buy carrot juice in the store, and that's OK if it's cold pressed, organic.
-TEST MODE - passing clips NOT uploaded or queued: KT_BPJUICEFIX
+RENDER ep_v5k3hxf_p2_r4__s0
+  PASS 01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4  01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4        11 captions vs the sound  median +0
+       FIRST 5s : Your circulation is perfect. It's like an 18-year-old. | LAST  8s : I can't believe you just said that. And he just smiled, and he goes, I'm putting in my notes that I told you and gave you that recommendation, because I have to
+TEST MODE - passing clips NOT uploaded or queued: KT_BLOODFLOWR4
 
 
-## ep_v6pdgp9_p2: 2 of 3 clip(s) passed every gate
+## ep_v5k3hxf_p3_r3: 1 of 1 clip(s) passed every gate
 
 
-## 2026-11-04 06:10
-ep_v6pdgp9_p2__s1 (KT_MOODFIX): 1 of 1 passed pre-render gates
+## 2026-11-04 17:19
+  note KT_ARTERYFACTSR3/WHY-RESTAURANT-WATER-HAS-CHLORINE: ending kept on the planner's words 'It's got chlorine in it' (cuts mid-sentence)
+ep_v5k3hxf_p3_r3__s0 (KT_ARTERYFACTSR3): 1 of 1 passed pre-render gates
 
-RENDER ep_v6pdgp9_p2__s1
-  PASS 01_THE-WALK-THAT-BEATS-ANXIETY_107s.mp4  01_THE-WALK-THAT-BEATS-ANXIETY_107s.mp4                16 captions vs the sound  median +0
-       FIRST 5s : Another technique to eliminate depression, to eliminate sadness, to make you feel better. | LAST  8s : And you're touching that mountain, you're touching that building. Look at things far away. In 15 minutes, you are going to feel like a million bucks.
-TEST MODE - passing clips NOT uploaded or queued: KT_MOODFIX
+RENDER ep_v5k3hxf_p3_r3__s0
+  PASS 01_WHY-RESTAURANT-WATER-HAS-CHLORINE_48s.mp4  01_WHY-RESTAURANT-WATER-HAS-CHLORINE_48s.mp4           16 captions vs the sound  median +0
+       FIRST 5s : Why aren't you using the spring water for the coffee? Well, it's coffee. | LAST  8s : And let's say you're buying a soup. Let's say you go to Starbucks or Dunkin' Donuts or a coffee shop and get a coffee. It's got chlorine in it.
+TEST MODE - passing clips NOT uploaded or queued: KT_ARTERYFACTSR3
 
 
+- **NOT QUEUED** `01_WHY-RESTAURANT-WATER-HAS-CHLORINE_48s.mp4` - the spoken word was on screen in only 6 of 9 moments
 
-## 2026-11-04 06:26
-ep_v6pdgp9_p2__s0 (KT_MOODFIX): 2 of 2 passed pre-render gates
+## ep_v6tylxb: 1 of 2 clip(s) passed every gate
 
-RENDER ep_v6pdgp9_p2__s0
-  PASS 01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4  01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4             22 captions vs the sound  median +0
-       FIRST 5s : Prescription antidepressants in America are at record levels. | LAST  8s : You take an antidepressant, and the number one most common side effect is you get more depressed.
-  FAIL 02_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_83s.mp4: [FAIL] 02_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_83s.mp4         10 captions vs the sound  median +0.24s  worst-10% 1.05s  | words captioned 104%  UNCAPTIONED SPEECH [(45.4, 48.3)]
-TEST MODE - passing clips NOT uploaded or queued: KT_MOODFIX
 
+## 2026-11-04 18:03
+  note KT_PROOFCHECK/THE-DRUG-FDA-CALLED-SAFE: ending kept on the planner's words 'completely incompetent or they're corrupt' (cuts mid-sentence)
+ep_v6tylxb__s0 (KT_PROOFCHECK): 2 of 2 passed pre-render gates
+
+RENDER ep_v6tylxb__s0
+  FAIL 01_THE-DRUG-FDA-CALLED-SAFE_92s.mp4: ends off the planned words: plan ends 'completely incompetent or they're corrupt', clip ends 'completely incompetent or they are corrupt'
+  WARP 02_THE-STUDY-WITH-ONLY-8-KIDS_153s.mp4: TH-ONLY-8-KIDS_153s.mp4                 37 captions vs the sound  median +0.21s  worst-10% 0.96s  | words captioned 100% - re-timing each caption once
+  PASS 02_THE-STUDY-WITH-ONLY-8-KIDS_153s.mp4  02_THE-STUDY-WITH-ONLY-8-KIDS_153s.mp4                 36 captions vs the sound  median +0
+       FIRST 5s : It gives that sugar consumption has no effect. | LAST  8s : Well, no. They were so jacked up on sugar, it couldn't get any higher.
+TEST MODE - passing clips NOT uploaded or queued: KT_PROOFCHECK
+
+
+- **NOT QUEUED** `02_THE-STUDY-WITH-ONLY-8-KIDS_153s.mp4` - ends mid-thought on "any higher"; word repeated after one: "I'm not I'm"; word repeated after one: "we're dancing we're"
+
+## ep_v6y4es4_r3: 2 of 2 clip(s) passed every gate
+
+
+## 2026-11-04 17:43
+  note KT_NATURALFIXR3/WHATS-ABSORBED-THROUGH-YOUR-SKIN: ending kept on the planner's words 'I feel exactly the same' (cuts mid-sentence)
+ep_v6y4es4_r3__s0 (KT_NATURALFIXR3): 2 of 2 passed pre-render gates
+
+RENDER ep_v6y4es4_r3__s0
+  PASS 01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_41s.mp4  01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_41s.mp4              11 captions vs the sound  median +0
+       FIRST 5s : Today, there's a few companies out there that sell that, whether it's dehydrated vegetables, dehydrated fruits. | LAST  8s : And the most important was I took life very lightly. I laughed a lot. Laughing is really the best medicine.
+  PASS 02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4  02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4            15 captions vs the sound  median +0
+       FIRST 5s : A lot of my African-American friends, their skin gets a lot of ashy and dry. | LAST  8s : Dr., and he goes, "You must be feeling great. Your blood levels are really high. Your testosterone is now 1,200." And the guy goes, "I feel exactly the same."
+TEST MODE - passing clips NOT uploaded or queued: KT_NATURALFIXR3
+
+
+- **NOT QUEUED** `01_THE-OIL-CHANGE-YOUR-BODY-NEEDS_41s.mp4` - ends mid-thought on "best medicine"; sentence starts with no stop: "fruits But"; sentence starts with no stop: "out And"
 
 ## UPLOAD
-3 clip(s) to add:
-   KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4  (47 MB)
-   KT_MOODFIX/01_THE-WALK-THAT-BEATS-ANXIETY_107s.mp4  (80 MB)
-   KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4  (62 MB)
-      + 01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s__story.mp4
-      + 01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s__yt59.mp4
-   added KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4
-      + 01_THE-WALK-THAT-BEATS-ANXIETY_107s__story.mp4
-      + 01_THE-WALK-THAT-BEATS-ANXIETY_107s__yt59.mp4
-   added KT_MOODFIX/01_THE-WALK-THAT-BEATS-ANXIETY_107s.mp4
-      + 01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s__story.mp4
-      + 01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s__yt59.mp4
-   added KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4
+2 clip(s) to add:
+   KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4  (31 MB)
+   KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4  (28 MB)
+   added KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4
+   added KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4
 
-manifest now holds 48 clips
+manifest now holds 50 clips
 commit and push state/manifest.json to let the machine see them
 
 
-## TRIAL: 2 hook variant(s) of KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4 ready for Instagram Trial Reels
+## TRIAL: 2 hook variant(s) of KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 2 hook variant(s) of KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4 ready for Instagram Trial Reels
+## TRIAL: 4 hook variant(s) of KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 4 hook variant(s) of KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4 ready for Instagram Trial Reels
+## TRIAL: 6 hook variant(s) of KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 4 hook variant(s) of KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4 ready for Instagram Trial Reels
+## TRIAL: 7 hook variant(s) of KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 6 hook variant(s) of KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4 ready for Instagram Trial Reels
+## TRIAL: 2 hook variant(s) of KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 6 hook variant(s) of KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4 ready for Instagram Trial Reels
+## TRIAL: 4 hook variant(s) of KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 7 hook variant(s) of KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4 ready for Instagram Trial Reels
+## TRIAL: 6 hook variant(s) of KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4 ready for Instagram Trial Reels
 
-## TRIAL: 7 hook variant(s) of KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4 ready for Instagram Trial Reels
+## TRIAL: 7 hook variant(s) of KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4 ready for Instagram Trial Reels
