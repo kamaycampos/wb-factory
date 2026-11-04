@@ -972,7 +972,11 @@
    "hook": "Why your milk never goes bad",
    "bytes": 107835723,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-06T11:43",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_LIPIDTRUTHR2/01_WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT_53s.mp4",
@@ -980,7 +984,11 @@
    "hook": "What your cholesterol won't tell you",
    "bytes": 43414637,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-06T17:13",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
