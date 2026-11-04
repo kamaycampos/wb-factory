@@ -17,6 +17,9 @@ from shard import SIZE  # noqa: E402
 
 plan, shard = sys.argv[1], sys.argv[2]
 p = json.load(open(os.path.join(R.PLANS, f"{plan}.json")))
+# A TEST PLAN MAY PREVIEW A LOOK before the repo switches to it ("look": "word", 3 Nov 2026).
+if p.get("look") and p.get("test"):
+    os.environ["KT_LOOK"] = p["look"]
 key = f"{plan}__s{shard}"
 # "v<clip>_<first>" = a TRIAL VARIANT shard (shard.py): VSIZE hook variants of one clip, nothing else.
 vshard = shard.startswith("v")
