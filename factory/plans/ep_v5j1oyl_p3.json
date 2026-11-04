@@ -1,0 +1,51 @@
+{
+ "source": "v5j1oyl.mp4",
+ "brand": "KT_NUTRIENTGAP",
+ "test": false,
+ "note": "2026-11-04 - 'The Dark Side Of Vitamins And Supplements | TKTS Clips' (Rumble v5j1oyl). SECOND PASS by weekly agent (p3): one new arc from the unused minutes, never touching the ranges already cut (30-161s, 381.5-427s, 509-576s, 578-638s). Skipped the 150-330s stretch: it's Kevin narrating his own personal test results and book sales, not information a viewer can use, and the 373-381s stretch stays skipped (medical advice about medication). The clean window left is 427-504s: what 'supplement' actually means.",
+ "clips": [
+  {
+   "slug": "WHY-SUPPLEMENTS-DONT-REPLACE-FOOD",
+   "in": 427.0,
+   "out": 504.0,
+   "start_words": "The second cause which",
+   "end_words": "will give you the minerals you need",
+   "hook": [
+    "Why your supplement",
+    "isn't replacing food"
+   ],
+   "trial_hooks": [
+    [
+     "Deficiency: the real",
+     "number one cause"
+    ],
+    [
+     "Your multivitamin isn't",
+     "the fix"
+    ],
+    [
+     "'Supplement' doesn't mean",
+     "'instead of'"
+    ],
+    [
+     "What your plate",
+     "is still missing"
+    ],
+    [
+     "Kevin Trudeau's rule:",
+     "different food, daily"
+    ],
+    [
+     "Kevin Trudeau on",
+     "what 'supplement' means"
+    ],
+    [
+     "One pill",
+     "Still deficient"
+    ]
+   ],
+   "send": "A parent sends it to anyone popping a multivitamin instead of fixing what's actually on their plate - the worry of doing it wrong for years.",
+   "caption": "Kevin Trudeau points to a cause of illness most people rank second, when he says it should be first: nutritional deficiency - missing calcium, magnesium, minerals, certain vitamins.\n\nHis correction on the word itself: 'supplement' means in addition to, not instead of. A pill is only supposed to fill gaps in an already good diet, never replace it.\n\nHis own rule: supplements should be whole food, mixed up and different every single day, so you get nutrients from different sources in different amounts.\n\nWhat's missing from your plate this week?\n\n#kevintrudeau #supplements #wholefoods #readthelabel #wbdaily #healthtruth"
+  }
+ ]
+}

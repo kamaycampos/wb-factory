@@ -1,0 +1,17 @@
+{"source": "v5k3hxf.mp4", "brand": "KT_BLOODFLOWR4", "test": false,
+ "note": "2026-11-04 - re-cut by weekly agent (SECOND CHANCES, tries 1): ep_v5k3hxf_p2's WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY failed a captions-vs-sound check ('spoken word was on screen in only 5 of 7 moments'). The start can't move (every nearby sentence either begins with a banned wind-up word or would re-use already-planned car-checkup minutes), so only the end moved: from 'It's sad, but I get it' to the doctor's earlier, equally sharp line 'because I have to' (him writing the recommendation in his notes purely to cover himself), which re-times every caption after it.",
+ "clips": [
+  {"slug": "WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY", "in": 1710.60, "out": 1754.60,
+   "start_words": "Your circulation is perfect", "end_words": "because I have to",
+   "hook": ["Why your doctor", "prescribes it anyway"],
+   "trial_hooks": [["Perfect scan", "One number changed everything"],
+                    ["One number beats", "a perfect scan"],
+                    ["18-year-old arteries", "Drug prescribed anyway"],
+                    ["What your scan", "doesn't change"],
+                    ["Trudeau's cardiologist", "still wrote the script"],
+                    ["Kevin Trudeau's heart", "scan, perfect anyway"],
+                    ["Perfect heart", "Prescribed anyway, on record"]],
+   "retry_of": "ep_v5k3hxf_p2/WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY",
+   "send": "Someone sends it to a parent who trusts every prescription without ever asking why it was really written - anger at being managed, not treated.",
+   "caption": "Kevin Trudeau asked a Harvard-trained cardiologist to run a full heart scan, just to check, with no symptoms at all.\n\nThe results: circulation like an 18-year-old, near-zero calcification in the arteries, a resting heart rate like an athlete, perfect blood pressure.\n\nThe doctor's response: he was still going to recommend the cholesterol-lowering drug anyway, because one blood number read 225.\n\nHis reason, word for word: he's putting the recommendation in his own notes, because he has to.\n\nWhat would you ask before filling that prescription?\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #askquestions"}
+ ]}

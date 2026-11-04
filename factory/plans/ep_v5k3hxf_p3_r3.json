@@ -1,0 +1,17 @@
+{"source": "v5k3hxf.mp4", "brand": "KT_ARTERYFACTSR3", "test": false,
+ "note": "2026-11-04 - re-cut by weekly agent (SECOND CHANCES): ep_v5k3hxf_p3's WHY-RESTAURANT-WATER-HAS-CHLORINE opened mid-sentence on 'which is why' and had a scrambled phrase around 'ice because the ice'. New edges skip both: starts clean on Kevin's own question to a friend ('Why are you using the spring water for the coffee?') and ends on the jar-of-spaghetti-sauce/coffee-shop payoff, well clear of the ice line. CHECK-YOUR-CAR-NOT-YOUR-BODY (also on this episode) is skipped again: its only clean sentence-boundary window, between 'Isn't that stupid?' before it and 'dumb medication' after it, runs about 38 seconds - under the 40-second floor - so no fix keeps it both clean and long enough.",
+ "clips": [
+  {"slug": "WHY-RESTAURANT-WATER-HAS-CHLORINE", "in": 1331.70, "out": 1380.50,
+   "start_words": "Why are you using", "end_words": "It's got chlorine in it",
+   "hook": ["Why your water", "still has chlorine"],
+   "trial_hooks": [["Chlorine survives coffee,", "soup, and sauce"],
+                    ["Your ice machine", "is the problem"],
+                    ["Coffee doesn't filter", "out chlorine"],
+                    ["What your water", "filter still misses"],
+                    ["Trudeau's friend", "still drank the chlorine"],
+                    ["Kevin Trudeau's tap", "water test"],
+                    ["Spring water fridge", "Tap water coffee"]],
+   "retry_of": "ep_v5k3hxf_p3/WHY-RESTAURANT-WATER-HAS-CHLORINE",
+   "send": "She sends it to the friend who brags about her water filter but still brews coffee with tap water - the shame of missing the obvious.",
+   "caption": "Kevin Trudeau catches a friend in the act: spring water in the fridge, tap water in the coffee maker.\n\nHis point when she asks why it matters: chlorine doesn't care what color the water turns. Soup, tea, a coffee shop latte, even the jarred spaghetti sauce from the store - if it started as tap water, the chlorine rides along.\n\nHis own habit: bottled or spring water everywhere, including the ice, since most ice machines run off the same tap line.\n\nWhat's the last drink you didn't think to check?\n\n#kevintrudeau #tapwater #chlorine #healthtruth #wbdaily #wellness"}
+ ]}

@@ -1,0 +1,66 @@
+{
+ "source": "v6y4es4.mp4",
+ "brand": "KT_NATURALFIXR3",
+ "test": false,
+ "note": "2026-11-04 - re-cut by weekly agent (SECOND CHANCES, tries 2 on each - last chance): ep_v6y4es4_r2 clips fixed again. THE-OIL-CHANGE-YOUR-BODY-NEEDS ended mid-thought on 'although' because the prior out time ran into the next sentence with no pause; end moved to the real sentence stop 'Laughing is really the best medicine' (start kept at its original, non-overlapping point - an earlier start would re-use WHAT-100-HEALTHY-90-YEAR-OLDS-ATE's minutes). WHATS-ABSORBED-THROUGH-YOUR-SKIN had a scrambled phrase around 'cell because the cell' near its old ending; end moved earlier to 'I feel exactly the same,' well before that phrase, keeping the story's own twist as the payoff. THE-SUPPLEMENT-JACK-LALANNE-TOOK skipped again: its repeated phrase ('all this, all this beef liver') sits in the middle of the only telling of that story, and no cut avoids it while staying 40+ seconds.",
+ "clips": [
+  {
+   "slug": "THE-OIL-CHANGE-YOUR-BODY-NEEDS",
+   "in": 1605.92,
+   "out": 1650.4,
+   "start_words": "There's a few companies",
+   "end_words": "really the best medicine",
+   "hook": [
+    "The oil change",
+    "your body needs"
+   ],
+   "retry_of": "ep_v6y4es4_r2/THE-OIL-CHANGE-YOUR-BODY-NEEDS",
+   "send": "A friend sends it to the one who babies their car but ignores their own body completely - the shame of double standards.",
+   "caption": "Kevin Trudeau's own comparison: he takes his car in for an oil and filter change because things build up inside the engine over time.\n\nHe does the same for his body: whole-food supplements made from real, dehydrated food instead of extracts, plus fasting and colon cleanses, to clear out what builds up.\n\nHis last word on health: he took life lightly and laughed a lot, because laughing, he says, is really the best medicine.\n\nWhat's one habit you started years ago and never stopped?\n\n#kevintrudeau #wholefoods #naturalhealth #wbdaily #healthtruth #realfood"
+  },
+  {
+   "slug": "WHATS-ABSORBED-THROUGH-YOUR-SKIN",
+   "in": 1817.36,
+   "out": 1866.0,
+   "start_words": "A lot of my African American",
+   "end_words": "I feel exactly the same",
+   "hook": [
+    "What's absorbed",
+    "through your skin"
+   ],
+   "trial_hooks": [
+    [
+     "1200 testosterone",
+     "Still feels the same"
+    ],
+    [
+     "Your lotion is",
+     "a hormone disruptor"
+    ],
+    [
+     "Skin absorbs lotion",
+     "like a mouth"
+    ],
+    [
+     "What your label",
+     "isn't telling you"
+    ],
+    [
+     "Kevin Trudeau's lotion",
+     "poison control test"
+    ],
+    [
+     "Kevin Trudeau's skin",
+     "absorption warning"
+    ],
+    [
+     "High testosterone",
+     "Zero difference felt"
+    ]
+   ],
+   "retry_of": "ep_v6y4es4_r2/WHATS-ABSORBED-THROUGH-YOUR-SKIN",
+   "send": "A woman sends it to the friend who swears by her lotion, and to any guy on testosterone therapy who still feels tired despite the numbers.",
+   "caption": "Kevin Trudeau tells the story of friends whose skin got dry and ashy, asking him for a lotion fix.\n\nHis answer: no. His test for any lotion or cream - if the label says to call poison control if it's ingested, ask why it's safe to rub on your skin every day instead. Your skin absorbs it straight into your body.\n\nHis point: those ingredients act as hormone disruptors. He ties it to men on testosterone therapy whose blood levels test high, yet something strange happens when they tell their doctor how they actually feel.\n\nWhat's actually in the lotion in your own bathroom cabinet?\n\n#kevintrudeau #skincare #readthelabel #hormonehealth #wbdaily #healthtruth"
+  }
+ ]
+}

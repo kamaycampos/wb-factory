@@ -1,0 +1,52 @@
+{
+ "source": "v5hbogs.mp4",
+ "brand": "KT_PHARMAWATCHR2",
+ "test": false,
+ "note": "2026-11-04 - re-cut by weekly agent (SECOND CHANCES, tries 2 - last chance): ep_v5hbogs_p3's WHAT-FDA-APPROVED-MEANS-FOR-YOU ended mid-thought on 'or not effective' because the old out time ran straight into the next sentence with no pause, and that same sentence runs on into a harsh word ('stupid') a few seconds later. End moved to an earlier, complete sentence that lands before either problem: 'protecting the profits of the drug companies.'",
+ "clips": [
+  {
+   "slug": "WHAT-FDA-APPROVED-MEANS-FOR-YOU",
+   "in": 627.0,
+   "out": 670.0,
+   "start_words": "Kids are born with",
+   "end_words": "protecting the profits of the drug companies",
+   "hook": [
+    "What FDA approved",
+    "means for you"
+   ],
+   "trial_hooks": [
+    [
+     "FDA approved it",
+     "Then banned it"
+    ],
+    [
+     "The FDA's real",
+     "job, Kevin says"
+    ],
+    [
+     "Safe and effective",
+     "Then it wasn't"
+    ],
+    [
+     "What 'FDA approved'",
+     "doesn't guarantee"
+    ],
+    [
+     "A past FDA",
+     "commissioner told truth"
+    ],
+    [
+     "Kevin Trudeau's question:",
+     "approved by whom?"
+    ],
+    [
+     "Approved, then pulled",
+     "Years later"
+    ]
+   ],
+   "retry_of": "ep_v5hbogs_p3/WHAT-FDA-APPROVED-MEANS-FOR-YOU",
+   "send": "Someone sends it to a parent who trusts the FDA stamp without ever asking who funded the research - anger at being misled.",
+   "caption": "Kevin Trudeau breaks down what 'FDA approved' actually guarantees.\n\nHis claim: when the FDA approves a drug, it's saying the drug is safe and effective, with no real side effects, and when a product later gets pulled from the market, nobody at the agency ever gets sued for it.\n\nHis explanation for why: when the FDA approves something, he says, it's really telling you it studied the research and trusts its own experts completely.\n\nA past FDA commissioner's own words, Kevin says: the agency isn't protecting consumers. It's protecting the profits of the drug companies.\n\n#kevintrudeau #fda #healthtruth #askquestions #wbdaily #consumerhealth"
+  }
+ ]
+}
