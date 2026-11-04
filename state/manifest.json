@@ -1060,7 +1060,11 @@
    "hook": "Why your doctor prescribes it anyway",
    "bytes": 31049574,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-07T17:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4",
@@ -1068,7 +1072,11 @@
    "hook": "What's absorbed through your skin",
    "bytes": 27620288,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-07T20:29",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
