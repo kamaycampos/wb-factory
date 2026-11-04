@@ -1,0 +1,27 @@
+{
+  "source": "v5kwynq.mp4",
+  "brand": "KT_BPJUICEFIX",
+  "test": false,
+  "note": "4 Nov 2026 - SECOND PASS, new arc from unused minutes of 'What Nutritional Deficiencies Cause Heart Problems? | TKTS Clips' (Rumble v5kwynq); p2 already took the OTC-drug, protein-shake and exercise arcs. New teaching only: beet/celery/carrot juice for blood pressure, not yet cut.",
+  "clips": [
+    {
+      "slug": "WHAT-LOWERS-YOUR-PRESSURE-NATURALLY",
+      "in": 376.0,
+      "out": 436.0,
+      "start_words": "Next, you can take",
+      "end_words": "it's cold pressed, organic",
+      "hook": ["What naturally lowers", "your blood pressure"],
+      "send": "A parent sends it to whoever is on blood pressure medication - three juices worth trying this week, and the hope of a simple swap.",
+      "trial_hooks": [
+        ["3 juices beat", "high blood pressure"],
+        ["Beet juice spikes", "your nitric oxide"],
+        ["Organic beets outperform", "a pressure pill"],
+        ["Your pressure fix", "hides in produce"],
+        ["Kevin Trudeau's beet", "juice pressure fix"],
+        ["Kevin Trudeau on", "beet, celery, carrot"],
+        ["Celery juice beats", "a pressure med"]
+      ],
+      "caption": "Kevin Trudeau walks through what he uses to bring blood pressure down naturally: beet juice, celery juice and carrot juice.\n\nJuicing organic beets yourself raises nitric oxide and oxygen in the body - more energy, and lower blood pressure, he says. No juicer? A dehydrated organic beet crystal powder mixed with water works the same way. Celery juice has to be fresh and organic; carrot juice is fine store-bought if it's cold-pressed and organic.\n\nHis point: these are swaps you can make this week, not something you wait months to see work.\n\nWhich one would you try first - beet, celery or carrot?\n\n#kevintrudeau #bloodpressure #beetjuice #naturalhealth #foodtruth #wbhealth"
+    }
+  ]
+}

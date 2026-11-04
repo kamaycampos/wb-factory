@@ -1,0 +1,47 @@
+{
+  "source": "v6pdgp9.mp4",
+  "brand": "KT_MOODFIX",
+  "test": false,
+  "note": "4 Nov 2026 - SECOND PASS, new arcs from unused minutes of 'How To Beat Depression NOW!' (Rumble v6pdgp9). Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHY-ANTIDEPRESSANTS-RARELY-WORK",
+      "in": 63.0,
+      "out": 154.0,
+      "start_words": "Prescription antidepressants in America",
+      "end_words": "you get more depressed",
+      "hook": ["Why antidepressants never", "beat sugar pills"],
+      "send": "A parent on antidepressants sends it to their own doctor before the next refill - the Newsweek number, and the fear the pill's side effect is more of the same problem.",
+      "trial_hooks": [
+        ["Only 15% beat", "sugar pills better"],
+        ["Big Pharma's worst", "kept secret here"],
+        ["Antidepressants can cause", "more depression itself"],
+        ["Your pill's side", "effect might surprise"],
+        ["Newsweek exposed antidepressants'", "real success rate"],
+        ["Kevin Trudeau exposes", "antidepressants' real numbers"],
+        ["Sugar pills nearly", "beat your antidepressant"]
+      ],
+      "caption": "Kevin Trudeau cites a Newsweek headline most people never see: antidepressants outperform a sugar pill only 15% of the time.\n\nHis point: if you're depressed, it's not because your brain is deficient in Prozac. And the side-effect list for most antidepressants includes depression itself - the number one most common side effect of the very drug prescribed for it.\n\nHis view isn't to stop anything on your own. It's to actually read the side-effect insert before your next refill, and ask your doctor what else could be driving the low mood.\n\nHave you ever read the full side-effect list on your own prescription?\n\n#kevintrudeau #antidepressants #sideeffects #pharmaceuticals #healthtruth #wbhealth"
+    },
+    {
+      "slug": "WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING",
+      "in": 625.0,
+      "out": 707.0,
+      "start_words": "If you've taken antibiotics",
+      "end_words": "to get rid of the Candida",
+      "hook": ["What your sugar", "cravings are hiding"],
+      "send": "A parent sends it to whoever just finished a round of antibiotics - why the sugar cravings started right after, and the worry of what's really going on in their gut.",
+      "caption": "Kevin Trudeau connects a habit most people brush off - sugar cravings, bloating, gas - back to one root cause: Candida yeast overgrowth.\n\nAntibiotics kill bacteria, which is the point when you're sick. But they don't just kill the bad bacteria - they wipe out good flora in the gut too. Candida, a yeast that's normally kept in check, moves in and overgrows, he says, and it feeds on sugar.\n\nHis view: if you crave bread, wine or dairy more than you used to, or deal with gas and bloating, it's worth asking whether gut yeast - not willpower - is driving it.\n\nHave you taken antibiotics in the last year?\n\n#kevintrudeau #guthealth #candida #antibiotics #foodtruth #wbhealth"
+    },
+    {
+      "slug": "THE-WALK-THAT-BEATS-ANXIETY",
+      "in": 1774.0,
+      "out": 1882.0,
+      "start_words": "Another technique to eliminate",
+      "end_words": "feel like a million bucks",
+      "hook": ["A 15-minute walk", "changes your body"],
+      "send": "A parent sends it to whoever is stuck inside stressed - a free 15-minute fix, and the relief of something that actually works today.",
+      "caption": "Kevin Trudeau's free fix for stress, anxiety and a low mood: go for a walk and look at things far away.\n\nWalking gets blood moving and releases endorphins - the body's own feel-good chemicals. His twist: instead of looking down or inward, pick a distant point - a treetop, a bridge, a lamppost two hundred yards off - and walk toward it with your eyes on it the whole way.\n\nHis view: it costs nothing, which is exactly why almost nobody talks about it.\n\nWhat's the farthest thing you can see from your front door right now?\n\n#kevintrudeau #stressrelief #walking #endorphins #naturalhealth #wbhealth"
+    }
+  ]
+}
