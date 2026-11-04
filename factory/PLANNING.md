@@ -18,6 +18,23 @@ it - a false claim about a named company is a legal risk, and the account loses 
 cut: v5k3hxf "Kraft American cheese ... It's mostly oil" - the US Kraft Singles label (0021000615261)
 lists milk, cheddar, whey, milk protein, milkfat, phosphates, and no oil.
 
+## SHOW THE LABEL (4 Nov 2026, Kamay: "Yes, build it in")
+When Kevin names a packaged product AND an ingredient in it inside the clip ("If you look at the label
+... Doritos ... monosodium glutamate"), add a `"label"`. The renderer then shows the product's real US
+ingredient list on screen and circles the ingredient on the word he says it - proof viewers can see, and
+very sendable ("look what's in this"). Only when the label backs him up:
+1. Find the barcode: `python3 shared/kt_label.py find "doritos nacho cheese" "monosodium glutamate"`
+   (lists US products; pick one marked ON THE LABEL, the plain/original version of what he names).
+2. Add to the clip: `"label": {"code": "0028400516464", "circle": "monosodium glutamate",
+   "circle_on": "monosodium glutamate", "show_on": "look at the label", "product": "Doritos Nacho Cheese"}`
+   - `circle`: the ingredient exactly as the label words it. `circle_on`: the words Kevin says it with
+   (inside the clip). `show_on`: optional, where the card appears (else ~4 s before the circle).
+   `product`: the name on the card, max ~30 characters.
+3. `check_plan.py` fetches the real label and refuses the plan if the ingredient is not on it.
+Never for a product he only names in passing, never a generic food (no "bread", "milk"), at most one
+label per clip. The label proves what is IN the product, not his opinion about the company - the hook
+and caption must not claim more than the label shows.
+
 ## VIRALITY IS THE JOB: EVERY CLIP IS ONE PEOPLE SEND (3 Nov 2026, Kamay: "make it a rule")
 Read `factory/VIRALITY.md`. Instagram's strongest signal with strangers is **sends per reach** (Mosseri),
 and KT's reach fell 103K -> 19K per 14 days while shares per reel fell 9.4 -> ~3 (skip rate flat). Every

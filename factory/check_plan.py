@@ -278,6 +278,19 @@ for path in sys.argv[1:]:
         _h0 = str((c.get("hook") or [""])[0]).split()
         if _h0 and not _h0[-1].endswith((".", "!", "?", ":", ",")) and re.sub(r"[^a-z']", "", _h0[-1].lower()) in WEAK_END:
             errs.append(f"{s}: hook line 1 ends on '{_h0[-1]}' - break where a phrase ends")
+        # SHOW THE LABEL (4 Nov 2026, Kamay: "Yes, build it in"): the ingredient circled on screen
+        # must be on the product's REAL label (Open Food Facts), or the plan is refused.
+        if c.get("label") is not None:
+            try:
+                sys.path.insert(0, os.path.join(os.path.dirname(HERE), "shared"))
+                import kt_label
+                info, why = kt_label.check(c["label"])
+            except Exception as e:
+                info, why = None, f"label check failed ({type(e).__name__}: {e})"
+            if not info:
+                errs.append(f"{s}: {why} - fix the label or remove the \"label\" field")
+            elif not (c["label"].get("circle_on") or c["label"].get("circle")):
+                errs.append(f"{s}: label needs \"circle_on\": the words Kevin says the ingredient with")
         th = c.get("trial_hooks")
         if th is not None:
             if not isinstance(th, list) or not 3 <= len(th) <= 7:
