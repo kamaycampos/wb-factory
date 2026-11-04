@@ -996,7 +996,11 @@
    "hook": "What naturally lowers your blood pressure",
    "bytes": 47063506,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-07T08:58",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_MOODFIX/01_THE-WALK-THAT-BEATS-ANXIETY_107s.mp4",
@@ -1004,7 +1008,11 @@
    "hook": "A 15-minute walk changes your body",
    "bytes": 79691496,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-07T11:57",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4",
@@ -1012,7 +1020,11 @@
    "hook": "Why antidepressants never beat sugar pills",
    "bytes": 62096246,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-06T19:58",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
