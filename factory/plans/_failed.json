@@ -1331,6 +1331,24 @@
     "What your car gets",
     "body skips"
    ]
+  },
+  "ep_v5k3hxf_p3_r2/WHY-KRAFT-CHEESE-IS-MOSTLY-OIL": {
+   "plan": "ep_v5k3hxf_p3_r2",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTSR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `02_WHY-KRAFT-CHEESE-IS-MOSTLY-OIL_79s.mp4` - word repeated: \"give Give\""
+   ],
+   "slug": "WHY-KRAFT-CHEESE-IS-MOSTLY-OIL",
+   "in": 603.6,
+   "out": 683.3,
+   "start_words": "The second thing that scars",
+   "end_words": "and will give you heart disease",
+   "hook": [
+    "Why Kraft cheese",
+    "is mostly oil"
+   ]
   }
  },
  "attempts": {

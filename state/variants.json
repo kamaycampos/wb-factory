@@ -1,1 +1,57 @@
-{}
+{
+ "KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT": {
+  "clip": "KT_LIPIDTRUTHR2/01_WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT_53s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V1.mp4",
+    "hook": [
+     "700 cholesterol with",
+     "zero blockages"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V2.mp4",
+    "hook": [
+     "The number your",
+     "doctor leans on"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V3.mp4",
+    "hook": [
+     "Same cholesterol count,",
+     "opposite arteries"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V4.mp4",
+    "hook": [
+     "Your count misses",
+     "the real risk"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V5.mp4",
+    "hook": [
+     "A 90-year-old with",
+     "600 cholesterol"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V6.mp4",
+    "hook": [
+     "Kevin Trudeau on",
+     "cholesterol's blind spot"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V7.mp4",
+    "hook": [
+     "High count, clear",
+     "arteries anyway"
+    ]
+   }
+  ],
+  "posted": null
+ }
+}
