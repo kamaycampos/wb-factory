@@ -1336,7 +1336,7 @@
    "plan": "ep_v5k3hxf_p3_r2",
    "source": "v5k3hxf.mp4",
    "brand": "KT_ARTERYFACTSR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "NOT QUEUED** `02_WHY-KRAFT-CHEESE-IS-MOSTLY-OIL_79s.mp4` - word repeated: \"give Give\""
    ],
@@ -1348,6 +1348,42 @@
    "hook": [
     "Why Kraft cheese",
     "is mostly oil"
+   ]
+  },
+  "ep_v5hbogs_p4/WHY-BABY-POWDER-LEFT-THE-SHELVES": {
+   "plan": "ep_v5hbogs_p4",
+   "source": "v5hbogs.mp4",
+   "brand": "KT_TALCFILE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-BABY-POWDER-LEFT-THE-SHELVES_45s.mp4` - word repeated after one: \"Johnson & Johnson\"; word repeated after one: \"Johnson & Johnson.\"; word repeated: \"Both both\""
+   ],
+   "slug": "WHY-BABY-POWDER-LEFT-THE-SHELVES",
+   "in": 531.5,
+   "out": 579.6,
+   "start_words": "J&J, which is Johnson",
+   "end_words": "a lot of criminals",
+   "hook": [
+    "J&J's $10 billion",
+    "talc skin lawsuit"
+   ]
+  },
+  "ep_v6pdgp9_p2/WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING": {
+   "plan": "ep_v6pdgp9_p2",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_83s.mp4: [FAIL] 02_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_83s.mp4         10 captions vs the sound  median +0.24s  worst-10% 1.05s  | words captioned 104%  UNCAPTIONED SPEECH [(45.4, 48.3)]"
+   ],
+   "slug": "WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING",
+   "in": 625.0,
+   "out": 707.0,
+   "start_words": "If you've taken antibiotics",
+   "end_words": "to get rid of the Candida",
+   "hook": [
+    "What your sugar",
+    "cravings are hiding"
    ]
   }
  },
