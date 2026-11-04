@@ -1,0 +1,39 @@
+{
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_ARTERYFACTSR2",
+  "test": false,
+  "note": "4 Nov 2026 - second chance re-cut of 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHY-KRAFT-CHEESE-IS-MOSTLY-OIL",
+      "retry_of": "ep_v5k3hxf_p3/WHY-KRAFT-CHEESE-IS-MOSTLY-OIL",
+      "in": 603.6,
+      "out": 683.3,
+      "start_words": "The second thing that scars",
+      "end_words": "and will give you heart disease",
+      "hook": ["Why Kraft cheese", "is mostly oil"],
+      "send": "A parent sends it to whoever buys Kraft next trip - the shock that it's legally not cheese, and the anger of being tricked.",
+      "trial_hooks": [
+        ["Congress let Kraft", "call oil cheese"],
+        ["Kraft turned oil", "into fake cheese"],
+        ["American cheese is", "mostly spun oil"],
+        ["Your cheese slice", "is actually oil"],
+        ["Kraft paid Congress", "to rename oil"],
+        ["Kevin Trudeau exposes", "the cheese lie"],
+        ["It's not cheese", "it's spun oil"]
+      ],
+      "caption": "Kraft American cheese didn't start as cheese. Back in the 1920s and 30s, a man named Kraft found a way to take ordinary oil, spin it down and break it into tiny molecules until it turned smooth, silky and shelf-stable.\n\nKevin Trudeau says Kraft had to get permission from Congress just to call the result \"cheese\" - because by definition, it isn't. It's mostly oil, processed the same way milk is homogenized.\n\nHis view: that processed texture you love when it melts is the oil talking, not dairy.\n\nNext time you're in the dairy aisle, what's the first ingredient on the label in your fridge right now?\n\n#kevintrudeau #foodlabels #krafcheese #readthelabel #foodtruth #wbhealth"
+    },
+    {
+      "slug": "WHY-YOUR-MILK-NEVER-GOES-BAD",
+      "retry_of": "ep_v5k3hxf_r3/WHY-YOUR-MILK-NEVER-GOES-BAD",
+      "in": 198.4,
+      "out": 333.6,
+      "start_words": "In other words, what can",
+      "end_words": "the cow milk as it is",
+      "hook": ["Why your milk", "never goes bad"],
+      "send": "A parent sends it to whoever buys the milk - why store milk lasts three weeks and old-fashioned milk didn't, and the worry underneath it.",
+      "caption": "Kevin Trudeau explains why today's milk can sit in a grocery store for three weeks and never go sour, when milk from decades ago spoiled within two or three days and needed a milkman to deliver it fresh.\n\nThe process is called homogenization: the fat and milk molecules are broken down and made the same tiny size, so there's nothing left to separate or turn rancid. That's what gives it the longer shelf life.\n\nHis view: breaking those molecules down that small isn't the form nature intended you to drink it in - goat, buffalo or cow milk, as it naturally comes.\n\nNext time you're in the dairy aisle, what does \"ultra-pasteurized\" on the label actually mean?\n\n#kevintrudeau #milktruth #foodlabels #realfood #dairy #foodtruth"
+    }
+  ]
+}

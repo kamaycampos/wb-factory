@@ -1,0 +1,28 @@
+{
+  "source": "v5k35fh.mp4",
+  "brand": "KT_LIPIDTRUTHR2",
+  "test": false,
+  "note": "4 Nov 2026 - second chance re-cut of 'The Truth About Cholesterol And Your Health Problems | TKTS Clips' (Rumble v5k35fh). Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT",
+      "retry_of": "ep_v5k35fh_p4/WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT",
+      "in": 579.0,
+      "out": 632.0,
+      "start_words": "See, that's another fact",
+      "end_words": "will still get 100% blocked",
+      "hook": ["What your cholesterol", "won't tell you"],
+      "send": "A parent sends it to anyone who was told their number was fine - the number doesn't predict the blockage, and the anxiety underneath it.",
+      "trial_hooks": [
+        ["700 cholesterol with", "zero blockages"],
+        ["The number your", "doctor leans on"],
+        ["Same cholesterol count,", "opposite arteries"],
+        ["Your count misses", "the real risk"],
+        ["A 90-year-old with", "600 cholesterol"],
+        ["Kevin Trudeau on", "cholesterol's blind spot"],
+        ["High count, clear", "arteries anyway"]
+      ],
+      "caption": "Kevin Trudeau points out something most people never hear from their own doctor: a cholesterol count doesn't reliably predict a blocked artery.\n\nSome people test at 600 or 700 and live for decades with clean arteries. Others test very low and still end up fully blocked. Same test, opposite outcomes - which means the number alone isn't telling the whole story.\n\nHis point isn't to throw out your numbers. It's to ask what else is actually happening in your arteries before you accept one number as the whole answer.\n\nWhat would you ask your doctor about your own numbers?\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #askquestions #foodtruth"
+    }
+  ]
+}
