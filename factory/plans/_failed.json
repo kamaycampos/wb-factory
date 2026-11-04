@@ -1475,6 +1475,42 @@
     "The oil change",
     "your body needs"
    ]
+  },
+  "ep_v5ic489_label/WHATS-ON-YOUR-DORITOS-LABEL": {
+   "plan": "ep_v5ic489_label",
+   "source": "v5ic489.mp4",
+   "brand": "KT_LABELCHECK",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHATS-ON-YOUR-DORITOS-LABEL_52s.mp4` - stray full stop: \"it. and\""
+   ],
+   "slug": "WHATS-ON-YOUR-DORITOS-LABEL",
+   "in": 230.0,
+   "out": 287.0,
+   "start_words": "Here's the problem",
+   "end_words": "stressed out and anxious",
+   "hook": [
+    "What your Doritos",
+    "label admits"
+   ]
+  },
+  "ep_v5j1oyl_p3/WHY-SUPPLEMENTS-DONT-REPLACE-FOOD": {
+   "plan": "ep_v5j1oyl_p3",
+   "source": "v5j1oyl.mp4",
+   "brand": "KT_NUTRIENTGAP",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-SUPPLEMENTS-DONT-REPLACE-FOOD_78s.mp4: [FAIL] 01_WHY-SUPPLEMENTS-DONT-REPLACE-FOOD_78s.mp4           14 captions vs the sound  median +0.03s  worst-10% 0.61s  | words captioned 101%  UNCAPTIONED SPEECH [(59.3, 61.1)]"
+   ],
+   "slug": "WHY-SUPPLEMENTS-DONT-REPLACE-FOOD",
+   "in": 427.0,
+   "out": 504.0,
+   "start_words": "The second cause which",
+   "end_words": "will give you the minerals you need",
+   "hook": [
+    "Why your supplement",
+    "isn't replacing food"
+   ]
   }
  },
  "attempts": {
@@ -1485,6 +1521,6 @@
   "ep_v5k35fh_r3": 2,
   "ep_v5isd6d_r5": 2,
   "ep_v5k3hxf_p2_r2": 2,
-  "ep_v5j1oyl_p3": 1
+  "ep_v5j1oyl_p3": 2
  }
 }
