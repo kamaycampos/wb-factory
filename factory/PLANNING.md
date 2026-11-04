@@ -11,6 +11,13 @@ on the second-chance backlog, hit the account's usage limit, and pushed nothing.
 each plan passes `check_plan.py`**, to the same branch - the merge job takes each push - so a run that is
 cut off still keeps the plans it finished.
 
+## CHECK THE LABEL BEFORE YOU CUT A BRAND CLAIM (4 Nov 2026)
+Kevin names real brands. Before planning a clip that says what a named product IS or CONTAINS, look up
+its current label (Open Food Facts: world.openfoodfacts.org). If the label contradicts him, do not cut
+it - a false claim about a named company is a legal risk, and the account loses trust. Example, never
+cut: v5k3hxf "Kraft American cheese ... It's mostly oil" - the US Kraft Singles label (0021000615261)
+lists milk, cheddar, whey, milk protein, milkfat, phosphates, and no oil.
+
 ## VIRALITY IS THE JOB: EVERY CLIP IS ONE PEOPLE SEND (3 Nov 2026, Kamay: "make it a rule")
 Read `factory/VIRALITY.md`. Instagram's strongest signal with strangers is **sends per reach** (Mosseri),
 and KT's reach fell 103K -> 19K per 14 days while shares per reel fell 9.4 -> ~3 (skip rate flat). Every
