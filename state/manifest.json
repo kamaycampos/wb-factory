@@ -915,12 +915,26 @@
    "caption": "Dr. Daniel Pompa told Kevin Trudeau that cholesterol doesn't float loose in your blood - it rides inside a particle, like a person riding in a car.\n\nHis point: what matters for your risk is how many of those particles you have, not how full each one is, the same way traffic jams are about the number of cars, not how many people are packed into each one.\n\nHis view, after looking at the Cochrane Collaboration's review of cholesterol studies: inflammation is the real driver of heart disease, not the cholesterol number on your chart.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth",
    "hook": "Why your cholesterol isn't the risk",
    "bytes": 58539388,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-04T17:28",
    "cta_keyword": "HEALTH",
    "cta_variant": 3,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1771704297432660/",
+    "instagram": "https://www.instagram.com/reel/DfVjFj9DoGE/",
+    "youtube": "https://youtube.com/shorts/7FKffwHNhk4"
+   },
+   "caption_at_post": "Dr. Daniel Pompa told Kevin Trudeau that cholesterol doesn't float loose in your blood - it rides inside a particle, like a person riding in a car.\n\nHis point: what matters for your risk is how many of those particles you have, not how full each one is, the same way traffic jams are about the number of cars, not how many people are packed into each one.\n\nHis view, after looking at the Cochrane Collaboration's review of cholesterol studies: inflammation is the real driver of heart disease, not the cholesterol number on your chart.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth",
+   "posted_at": "2026-11-04T17:41"
   },
   {
    "file": "KT_LIPIDTRUTH/01_THE-DRUG-THAT-LOWERS-YOUR-NUMBER_79s.mp4",
