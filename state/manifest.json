@@ -861,12 +861,26 @@
    "caption": "Kevin Trudeau asks Dr. Daniel Pompa the question people keep getting wrong: what's the real way to clear heavy metals out of your system today?\n\nDr. Pompa's answer: it's not what people think. Sitting in a sauna, doing a foot bath, or running a quick 10-day cleanse and calling it done won't do it.\n\nHis point: to actually clear heavy metals out of the brain and tissue where they build up, there's a real process - but it takes years, not months.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #heavymetals #toxins #wbdaily #naturalhealth #healthtruth",
    "hook": "Why toxins never clear in days",
    "bytes": 34757545,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-03T20:38",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1145854711359286/",
+    "instagram": "https://www.instagram.com/reel/DfTUxaID4il/",
+    "youtube": "https://youtube.com/shorts/2p7hG_m--3s"
+   },
+   "caption_at_post": "Kevin Trudeau asks Dr. Daniel Pompa the question people keep getting wrong: what's the real way to clear heavy metals out of your system today?\n\nDr. Pompa's answer: it's not what people think. Sitting in a sauna, doing a foot bath, or running a quick 10-day cleanse and calling it done won't do it.\n\nHis point: to actually clear heavy metals out of the brain and tissue where they build up, there's a real process - but it takes years, not months.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #heavymetals #toxins #wbdaily #naturalhealth #healthtruth",
+   "posted_at": "2026-11-03T20:57"
   },
   {
    "file": "KT_BODYLOAD/02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s.mp4",
