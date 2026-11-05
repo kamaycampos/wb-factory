@@ -1,0 +1,28 @@
+{
+  "source": "v5isd6d.mp4",
+  "brand": "KT_FOODSHIFTR5",
+  "test": false,
+  "note": "2026-11-05 - 'What Caused America's Health Crisis? | TKTS Clips' (Rumble v5isd6d). SECOND CHANCE (tries 2, last chance) re-cut of WHATS-REALLY-IN-YOUR-WATER (was ep_v5isd6d_r4): the build cut mid-word ('a whole bunch of chemicals an') because the out estimate landed too early inside the cue that carries 'and contaminants'. Moved the out estimate a few seconds later, onto the actual words, and shortened the end so the clip stops before 'blah, blah, blah.' Same start and teaching as before. Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHATS-REALLY-IN-YOUR-WATER",
+      "retry_of": "ep_v5isd6d_r4/WHATS-REALLY-IN-YOUR-WATER",
+      "in": 488.44,
+      "out": 561.0,
+      "start_words": "The chemicals in the food",
+      "end_words": "chemicals and contaminants",
+      "hook": ["Why your testosterone", "keeps dropping"],
+      "send": "A husband sends it to his wife: anxiety their unfiltered water is draining his hormones.",
+      "trial_hooks": [
+        ["One filter fixes", "your whole house"],
+        ["The water villain", "nobody filters"],
+        ["Unfiltered water drains", "your testosterone"],
+        ["You're missing a", "water filter step"],
+        ["Fred's water filter", "Kevin trusts it"],
+        ["Kevin Trudeau's water", "filtration secret"],
+        ["Your hormones drowning", "in tap water"]
+      ],
+      "caption": "Kevin Trudeau says the chemicals sitting in ordinary tap water are part of what's quietly draining your human growth hormone and your testosterone - the same water most of us drink straight from the faucet every day.\n\nHis own fix is a whole-house filtration system: water runs through a pre-filter, then granular activated charcoal, then a second filter and a UV light before it ever reaches a shower or a glass. He's clear he isn't selling it - he just trusts the person who built his.\n\nYou don't need his exact setup. You need to ask your own filter, or your water company, one question: what does this actually take out?\n\nWhat's really coming out of your tap?\n\n#kevintrudeau #tapwater #waterfilter #hormonehealth #cleanwater #healthtips"
+    }
+  ]
+}
