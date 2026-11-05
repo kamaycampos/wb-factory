@@ -1511,6 +1511,24 @@
     "Why your supplement",
     "isn't replacing food"
    ]
+  },
+  "ep_v5isd6d_r6/WHATS-REALLY-IN-YOUR-WATER": {
+   "plan": "ep_v5isd6d_r6",
+   "source": "v5isd6d.mp4",
+   "brand": "KT_FOODSHIFTR5",
+   "tries": 3,
+   "why": [
+    "FAIL 01_WHATS-REALLY-IN-YOUR-WATER_71s.mp4: ends off the planned words: plan ends 'chemicals and contaminants', clip ends 'a whole bunch of chemicals an'"
+   ],
+   "slug": "WHATS-REALLY-IN-YOUR-WATER",
+   "in": 488.44,
+   "out": 561.0,
+   "start_words": "The chemicals in the food",
+   "end_words": "chemicals and contaminants",
+   "hook": [
+    "Why your testosterone",
+    "keeps dropping"
+   ]
   }
  },
  "attempts": {
@@ -1522,6 +1540,6 @@
   "ep_v5isd6d_r5": 2,
   "ep_v5k3hxf_p2_r2": 2,
   "ep_v5j1oyl_p3": 2,
-  "ep_v5isd6d_r6": 1
+  "ep_v5isd6d_r6": 2
  }
 }
