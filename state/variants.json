@@ -273,5 +273,60 @@
    }
   ],
   "posted": null
+ },
+ "KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL": {
+  "clip": "KT_REALVITC/01_WHY-YOUR-VITAMIN-C-ISNT-REAL_108s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V1.mp4",
+    "hook": [
+     "One pill fakes",
+     "your vitamin C"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V2.mp4",
+    "hook": [
+     "Ascorbic acid isn't",
+     "real vitamin C"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V3.mp4",
+    "hook": [
+     "An orange fixes",
+     "what pills can't"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V4.mp4",
+    "hook": [
+     "Your vitamin pill",
+     "is missing this"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V5.mp4",
+    "hook": [
+     "Kevin tests every seed",
+     "himself"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V6.mp4",
+    "hook": [
+     "Kevin Trudeau's vitamin C",
+     "truth"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V7.mp4",
+    "hook": [
+     "Called insane for",
+     "testing a seed"
+    ]
+   }
+  ],
+  "posted": null
  }
 }
