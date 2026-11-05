@@ -992,11 +992,23 @@
    "hook": "What your niacin label hides",
    "bytes": 58360315,
    "done": false,
-   "status": {},
+   "status": {
+    "facebook": "posted",
+    "instagram": "could not fetch the video: Error: Media upload has failed with error code 2207077",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-05T09:24",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/2112761519345787/",
+    "youtube": "https://youtube.com/shorts/M4pT49Umln8"
+   },
+   "caption_at_post": "Kevin Trudeau tells the story of a B vitamin that got quietly swapped for something else: niacin.\n\nReal niacin can cause a \"niacin flush,\" a brief red, hot, itchy feeling some people find uncomfortable, even though it passes in minutes. So, in Kevin Trudeau's telling, manufacturers had chemists create niacinamide, a related compound that skips the flush, and started labeling it as niacin anyway.\n\nHis point: niacinamide is not niacin, even with government sign-off to call it that on a label.\n\nHis advice: if you see \"niacin (niacinamide)\" on a bottle, put it back on the shelf.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #niacin #vitamins #healthtruth #readthelabel #wellness",
+   "posted_at": "2026-11-05T09:42"
   },
   {
    "file": "KT_HORMONEFIX/01_YOUR-TESTOSTERONE-BOOSTER-IS-MARKETING_116s.mp4",
