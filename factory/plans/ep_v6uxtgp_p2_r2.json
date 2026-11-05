@@ -1,0 +1,19 @@
+{"source": "v6uxtgp.mp4", "brand": "KT_BODYLOADR2", "test": false,
+ "note": "2026-11-05 - re-cut by weekly agent (SECOND CHANCE, tries 1): ep_v6uxtgp_p2/THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE failed 'ends off the planned words' (out=2600.72, end_words 'you can bring in your home' - the clip actually ended 2 words early on 'toxic things you can bring in'). work/v6uxtgp.srt shows no repeated nearby phrase to explain it, so the likely cause is the word-level search running out of room right at the cue boundary. Fix: out moved to 2603.0, a few seconds of buffer past the cue's own end (2600.72), same start/end words, so 'your home' has room to finish before the cut. Added the now-required 'send' field and removed the banned comment-offer line from the caption (PLANNING.md, 1 Nov 2026 rule), ending on a question instead; content and hook unchanged otherwise.",
+ "clips": [
+  {"slug": "THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE", "in": 2551.04, "out": 2603.0,
+   "start_words": "Defragrance your life", "end_words": "you can bring in your home",
+   "hook": ["The chemicals hiding", "in your fragrance"],
+   "trial_hooks": [
+    ["Banned for decades", "still sold here"],
+    ["The word 'fragrance'", "hides the chemicals"],
+    ["Fragrance never needs", "an ingredient label"],
+    ["What your lotion", "isn't telling you"],
+    ["Dr. Pompa's rule:", "defragrance your life"],
+    ["Kevin Trudeau's doctor", "on hidden fragrance"],
+    ["Your car mirror", "is hiding chemicals"]
+   ],
+   "send": "A reader forwards it to anyone buying scented lotion or plug-ins without checking the label - the anger of being kept in the dark by an IP loophole.",
+   "retry_of": "ep_v6uxtgp_p2/THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE",
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau his first fix for better health: defragrance your life.\n\nHis reasoning: the word 'fragrance' on a label is protected as intellectual property, so companies never have to list what's actually inside it - which lets them keep using chemicals that have been banned elsewhere for decades.\n\nHis rule: no fragrance in your laundry soap, your lotion, your air plug-ins, or hanging from your car mirror. Essential oils are fine, he says - it's the man-made fragrance blends to avoid.\n\nWhat's hiding behind the word 'fragrance' in your own house?\n\n#kevintrudeau #readthelabel #fragrancefree #wbdaily #naturalhealth #healthtruth"}
+ ]}

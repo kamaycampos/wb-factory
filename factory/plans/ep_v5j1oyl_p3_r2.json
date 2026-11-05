@@ -1,0 +1,19 @@
+{"source": "v5j1oyl.mp4", "brand": "KT_NUTRIENTGAPR2", "test": false,
+ "note": "2026-11-05 - re-cut by weekly agent (SECOND CHANCE, tries 1): ep_v5j1oyl_p3/WHY-SUPPLEMENTS-DONT-REPLACE-FOOD failed captions-vs-sound with UNCAPTIONED SPEECH at 59.3s into the clip (absolute ~486.3s), inside 'and they have to be mixed up and different every single day, in my opinion' (483.0-488.0s in work/v5j1oyl.srt) - a parenthetical aside Kevin likely pauses before, which the original cut ran straight through. Fixed by moving the end edge earlier, before that sentence entirely, to the clean payoff 'So that's why supplementing, in addition to your diet, you do the best you can.' (472.0-478.0s) - a stronger, shorter arc (51s) that keeps the whole teaching (deficiency is the real #1 cause, 'supplement' means in addition to not instead of, the real-world concession) without the risky pause. Caption rewritten to match the new end point.",
+ "clips": [
+  {"slug": "WHY-SUPPLEMENTS-DONT-REPLACE-FOOD", "in": 427.0, "out": 478.0,
+   "start_words": "The second cause which", "end_words": "you do the best you can",
+   "hook": ["Why your supplement", "isn't replacing food"],
+   "trial_hooks": [
+    ["Cause number two:", "nutrient deficiency"],
+    ["Your multivitamin isn't", "the fix"],
+    ["'Supplement' doesn't mean", "'instead of'"],
+    ["What your plate", "is still missing"],
+    ["Kevin Trudeau's rule:", "different food, daily"],
+    ["Kevin Trudeau on", "what 'supplement' means"],
+    ["One pill", "Still deficient"]
+   ],
+   "send": "A parent sends it to anyone popping a multivitamin instead of fixing what's actually on their plate - the quiet worry they've been doing it wrong for years.",
+   "retry_of": "ep_v5j1oyl_p3/WHY-SUPPLEMENTS-DONT-REPLACE-FOOD",
+   "caption": "Kevin Trudeau names a cause of illness that used to rank first, and says it still deserves more attention: nutritional deficiency - missing calcium, magnesium, minerals, certain vitamins.\n\nHis correction on the word itself: 'supplement' means in addition to, not instead of. A pill only fills gaps in an already good diet - it was never built to replace it.\n\nHis real-world point: nobody's growing and pickling their own food for winter, so most people eat out or buy conventional some days. His rule: supplement in addition to your diet, and do the best you can with what's realistic.\n\nWhat's missing from your plate this week?\n\n#kevintrudeau #supplements #wholefoods #readthelabel #wbdaily #healthtruth"}
+ ]}
