@@ -51,6 +51,12 @@ jobs:
               echo "REJECTED $SP"
             fi
           done
+          # SHOW THE LABEL (4 Nov 2026): the label a plan circles, as check_plan verified it on the
+          # planner's side, travels with the plan - the factory server may not reach Open Food Facts.
+          for L in $(git diff --name-only --diff-filter=A main..."origin/$BR" -- 'factory/labels/*.json'); do
+            mkdir -p factory/labels && git show "origin/$BR:$L" > "$L" && OK="$OK $L"
+          done
+          [ -d factory/labels ] && [ -n "$(git status --porcelain factory/labels)" ] && OK="$OK factory/labels"
           [ -z "$OK" ] && { echo "nothing to merge"; git push -q origin --delete "$BR" || true; exit 0; }
           git add $OK
           git commit -q -m "weekly plans from $BR:$OK"

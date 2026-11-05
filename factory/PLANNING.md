@@ -30,7 +30,9 @@ very sendable ("look what's in this"). Only when the label backs him up:
    - `circle`: the ingredient exactly as the label words it. `circle_on`: the words Kevin says it with
    (inside the clip). `show_on`: optional, where the card appears (else ~4 s before the circle).
    `product`: the name on the card, max ~30 characters.
-3. `check_plan.py` fetches the real label and refuses the plan if the ingredient is not on it.
+3. `check_plan.py` fetches the real label and refuses the plan if the ingredient is not on it. It saves
+   the verified label as `factory/labels/<code>.json` - **commit that file with the plan** (the factory
+   server builds from it; without it the clip ships with no card).
 Never for a product he only names in passing, never a generic food (no "bread", "milk"), at most one
 label per clip. The label proves what is IN the product, not his opinion about the company - the hook
 and caption must not claim more than the label shows.

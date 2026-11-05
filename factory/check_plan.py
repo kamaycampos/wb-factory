@@ -284,7 +284,7 @@ for path in sys.argv[1:]:
             try:
                 sys.path.insert(0, os.path.join(os.path.dirname(HERE), "shared"))
                 import kt_label
-                info, why = kt_label.check(c["label"])
+                info, why = kt_label.check(c["label"], save_to_repo=True)
             except Exception as e:
                 info, why = None, f"label check failed ({type(e).__name__}: {e})"
             if not info:

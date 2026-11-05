@@ -1,0 +1,29 @@
+{
+ "source": "v5ic489.mp4",
+ "brand": "KT_LABELCHECK",
+ "test": false,
+ "note": "4 Nov 2026 - REBUILD 2: the first cloud build had no label card (Open Food Facts not reachable from the factory server); the verified label now lives in factory/labels/.",
+ "clips": [
+  {
+   "slug": "WHATS-ON-THE-DORITOS-LABEL",
+   "in": 230.0,
+   "out": 287.0,
+   "start_words": "Here's the problem",
+   "end_words": "stressed out and anxious",
+   "hook": [
+    "What your Doritos",
+    "label admits"
+   ],
+   "send": "A mum sends it to her husband who finishes a bag of Doritos every night - anger at the ingredient printed right there on the bag.",
+   "label": {
+    "code": "0028400516464",
+    "circle": "monosodium glutamate",
+    "circle_on": "monosodium glutamate",
+    "show_on": "look at the label",
+    "product": "Doritos Nacho Cheese"
+   },
+   "caption": "Kevin Trudeau's rule for chips: flip the bag over before you eat them.\n\nOn the US Doritos Nacho Cheese label, monosodium glutamate (MSG) is printed right there in the ingredient list. Kevin calls MSG an excitotoxin and says it makes you crave more of whatever you're eating.\n\nHis advice: if the label says monosodium glutamate, put it back. He says most fast food is loaded with it too.\n\nWhat's the first thing you check on a label?\n\n#kevintrudeau #msg #readthelabel #foodtruth #wbdaily #healthtruth",
+   "retry_of": "ep_v5ic489_label/WHATS-ON-YOUR-DORITOS-LABEL"
+  }
+ ]
+}
