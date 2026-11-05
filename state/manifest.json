@@ -1188,7 +1188,11 @@
    "hook": "Why your supplement isn't replacing food",
    "bytes": 41520527,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-08T17:36",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
