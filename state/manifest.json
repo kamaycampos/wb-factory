@@ -1150,7 +1150,11 @@
    "hook": "What your vitamin C is missing",
    "bytes": 68570091,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-08T12:05",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
