@@ -328,5 +328,60 @@
    }
   ],
   "posted": null
+ },
+ "KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD": {
+  "clip": "KT_NUTRIENTGAPR2/01_WHY-SUPPLEMENTS-DONT-REPLACE-FOOD_52s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V1.mp4",
+    "hook": [
+     "Cause number two:",
+     "nutrient deficiency"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V2.mp4",
+    "hook": [
+     "Your multivitamin isn't",
+     "the fix"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V3.mp4",
+    "hook": [
+     "'Supplement' doesn't mean",
+     "'instead of'"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V4.mp4",
+    "hook": [
+     "What your plate",
+     "is still missing"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V5.mp4",
+    "hook": [
+     "Kevin Trudeau's rule:",
+     "different food, daily"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V6.mp4",
+    "hook": [
+     "Kevin Trudeau on",
+     "what 'supplement' means"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V7.mp4",
+    "hook": [
+     "One pill",
+     "Still deficient"
+    ]
+   }
+  ],
+  "posted": null
  }
 }
