@@ -1565,6 +1565,24 @@
     "The chemicals hiding",
     "in your fragrance"
    ]
+  },
+  "ep_v5ixx3h_p3_r2/YOUR-STOMACH-HAS-NO-TEETH": {
+   "plan": "ep_v5ixx3h_p3_r2",
+   "source": "v5ixx3h.mp4",
+   "brand": "KT_WHOLEFOODR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_YOUR-STOMACH-HAS-NO-TEETH_59s.mp4: [FAIL] 01_YOUR-STOMACH-HAS-NO-TEETH_59s.mp4                   11 captions vs the sound  median +0.01s  worst-10% 0.23s  | words captioned 101%  UNCAPTIONED SPEECH [(13.8, 15.9)]"
+   ],
+   "slug": "YOUR-STOMACH-HAS-NO-TEETH",
+   "in": 1851.0,
+   "out": 1911.0,
+   "start_words": "You don't know if",
+   "end_words": "Chew your food",
+   "hook": [
+    "Why your gut",
+    "has no teeth"
+   ]
   }
  },
  "attempts": {
@@ -1579,6 +1597,6 @@
   "ep_v5isd6d_r6": 2,
   "ep_v6rjcpv": 3,
   "ep_v6uxtgp_p2_r2": 3,
-  "ep_v5ixx3h_p3_r2": 1
+  "ep_v5ixx3h_p3_r2": 2
  }
 }
