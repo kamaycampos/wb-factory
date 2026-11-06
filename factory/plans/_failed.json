@@ -1588,7 +1588,7 @@
    "plan": "ep_v6uxtgp_p3",
    "source": "v6uxtgp.mp4",
    "brand": "KT_FASTTRUTH",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "FAIL 02_THE-SHRINKING-CHOLESTEROL-NUMBER_73s.mp4: ends off the planned words: plan ends 'to do with heart attacks', clip ends 'any to do with hard work'"
    ],
@@ -1600,6 +1600,24 @@
    "hook": [
     "Why 200 isn't",
     "your cholesterol limit"
+   ]
+  },
+  "ep_v6pdgp9_r3/THE-HERB-THAT-LIFTS-YOUR-MOOD": {
+   "plan": "ep_v6pdgp9_r3",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODSHIFTR3",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_THE-HERB-THAT-LIFTS-YOUR-MOOD_85s.mp4` - word repeated after one: \"be vitamins be\"; word repeated after one: \"vitamins be vitamins.\""
+   ],
+   "slug": "THE-HERB-THAT-LIFTS-YOUR-MOOD",
+   "in": 1592.0,
+   "out": 1676.0,
+   "start_words": "St. John's Wort. It's an herb",
+   "end_words": "Very, very powerful",
+   "hook": [
+    "What herb lifts",
+    "your mood fast"
    ]
   }
  },
@@ -1615,6 +1633,8 @@
   "ep_v5isd6d_r6": 2,
   "ep_v6rjcpv": 3,
   "ep_v6uxtgp_p2_r2": 3,
-  "ep_v5ixx3h_p3_r2": 2
+  "ep_v5ixx3h_p3_r2": 2,
+  "ep_v6pdgp9_p2_r2": 1,
+  "ep_v6u9yxd_p3": 1
  }
 }
