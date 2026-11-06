@@ -1,0 +1,19 @@
+{"source": "v5k35fh.mp4", "brand": "KT_PLAQUEFACTS", "test": false,
+ "note": "2026-11-06 - 'The Truth About Cholesterol And Your Health Problems | TKTS Clips' (Rumble v5k35fh). SECOND CHANCE by weekly agent: ep_v5k35fh_p3/WHAT-CLOGS-YOUR-BLOOD-VESSELS (68-175) failed the build gate on a repeated word ('a a'), a stutter that sits right before 'a stroke' in the original end_words. Moved the end edge forward past the stutter, into the next cue, to a stronger payoff: 'You have a massive heart attack.' No reuse: the next clip in that plan, WHAT-YOUR-CHOLESTEROL-COUNT-MISSES, starts at 251.4. Skipped the other second chance on this episode, WHY-YOUR-DOCTOR-MUST-PRESCRIBE-DRUGS (320-368): the WHY named three separate run-on sentence boundaries scattered through the middle of the clip (339s, 349s, 354s) - no single edge move clears all three, and PLANNING.md says skip when the damage sits in the middle of the teaching.",
+ "clips": [
+  {"slug": "WHAT-CLOGS-YOUR-BLOOD-VESSELS", "in": 68.0, "out": 185.0,
+   "retry_of": "ep_v5k35fh_p3/WHAT-CLOGS-YOUR-BLOOD-VESSELS",
+   "start_words": "The doctor will tell you", "end_words": "You have a massive heart attack",
+   "hook": ["What clogs", "your blood vessels"],
+   "trial_hooks": [
+    ["How LDL blocks", "your own arteries"],
+    ["The cholesterol villain", "nobody explains right"],
+    ["What cold feet", "reveal about you"],
+    ["What your doctor's", "cholesterol chart skips"],
+    ["How blocked arteries", "end in attacks"],
+    ["Kevin Trudeau explains", "how arteries clog"],
+    ["Cold feet now,", "heart attack later"]
+   ],
+   "send": "Someone sends it to a parent with cold feet or a slow-healing cut, who never connected it to their last cholesterol number - the anxious 'wait, is that me' moment.",
+   "caption": "Kevin Trudeau's view: your doctor's cholesterol story goes like this. LDL cholesterol attaches to the artery wall and slowly blocks the flow of blood.\n\nWhen that flow slows, the whole body feels it - cold feet, a cut that stays open too long, erectile dysfunction, brain fog, trouble sleeping, weight gain, and at the far end, a heart attack so complete the artery is blocked.\n\nThat's the chain doctors describe before they reach for a prescription pad.\n\nNotice any of these in yourself? Comment HEALTH and we'll send you the questions worth asking your doctor first.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth"}
+ ]}
