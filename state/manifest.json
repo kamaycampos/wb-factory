@@ -1292,7 +1292,11 @@
    "hook": "Why your drugs are the danger",
    "bytes": 43931917,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-09T16:23",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FASTTRUTH/01_WHAT-REAL-FASTING-MEANS_72s.mp4",
@@ -1300,7 +1304,11 @@
    "hook": "What you call isn't real fasting",
    "bytes": 53891990,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-09T20:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FASTTRUTH/02_HE-SURVIVED-12-DAYS-NO-WATER_128s.mp4",
@@ -1308,7 +1316,11 @@
    "hook": "Why you'd never survive without water",
    "bytes": 78078184,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-10T08:23",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   }
  ]
 }
