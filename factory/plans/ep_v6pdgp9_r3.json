@@ -1,0 +1,11 @@
+{"source": "v6pdgp9.mp4", "brand": "KT_MOODSHIFTR3", "test": false,
+ "note": "2026-11-06 - 'How To Beat Depression NOW!' (Rumble v6pdgp9). SECOND CHANCE by weekly agent, retry of ep_v6pdgp9/THE-HERB-THAT-LIFTS-YOUR-MOOD (tries 1): the refusal was 'opens mid-sentence on \"here's some here's\"; ends mid-thought on \"stress and anxiety\"; phrase scrambled around \"eliminate depression helps eliminate\"'. Fix: dropped the windup ('So here's some of the cures') and the lithium item (already its own clip, THE-MINERAL-YOUR-BODY-IS-MISSING) and opened directly on St. John's Wort instead - the actual herb the hook promises. Extended the end past 'stress and anxiety' to the full sentence's close, 'Very, very powerful,' so it no longer cuts off mid-thought.",
+ "clips": [
+  {"slug": "THE-HERB-THAT-LIFTS-YOUR-MOOD", "in": 1592.0, "out": 1676.0,
+   "retry_of": "ep_v6pdgp9/THE-HERB-THAT-LIFTS-YOUR-MOOD",
+   "start_words": "St. John's Wort. It's an herb",
+   "end_words": "Very, very powerful",
+   "hook": ["What herb lifts", "your mood fast"],
+   "send": "A mom with a teenager who seems low on energy sends it to try before medication - the hope it's simpler than they feared, and the relief of a free, natural list.",
+   "caption": "Kevin Trudeau's go-to list when his own mood dips, in his own words.\n\nSt. John's Wort: an herb he calls a fast, natural lift. B vitamins, which he says most people run low on and which help steady energy through the day. Guarana, a natural caffeine source he says skips the jitters.\n\nHis favorite: one small square of organic raw cacao, 85% dark, with nothing in it but cacao and a little raw cane sugar - what he calls a real mood elevator.\n\nWhich one on this list have you actually tried?\n\n#kevintrudeau #naturalhealth #moodboost #wbdaily #readthelabel #healthtruth"}
+ ]}
