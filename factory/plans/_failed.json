@@ -1529,6 +1529,42 @@
     "Why your testosterone",
     "keeps dropping"
    ]
+  },
+  "ep_v6rjcpv/GRANDMASTER-TAIS-BREATHING-FIX": {
+   "plan": "ep_v6rjcpv",
+   "source": "v6rjcpv.mp4",
+   "brand": "KT_BREATHFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 01_GRANDMASTER-TAIS-BREATHING-FIX_91s.mp4: ends off the planned words: plan ends 'that's where you want to be', clip ends 'good very good it now habit'"
+   ],
+   "slug": "GRANDMASTER-TAIS-BREATHING-FIX",
+   "in": 2177.5,
+   "out": 2274.44,
+   "start_words": "Grandmaster Tai who was",
+   "end_words": "that's where you want to be",
+   "hook": [
+    "How two hours",
+    "fixed your breathing"
+   ]
+  },
+  "ep_v6uxtgp_p2_r2/THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE": {
+   "plan": "ep_v6uxtgp_p2_r2",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_BODYLOADR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE_50s.mp4: ends off the planned words: plan ends 'you can bring in your home', clip ends 'toxic things you can bring in'"
+   ],
+   "slug": "THE-CHEMICALS-HIDING-IN-YOUR-FRAGRANCE",
+   "in": 2551.04,
+   "out": 2603.0,
+   "start_words": "Defragrance your life",
+   "end_words": "you can bring in your home",
+   "hook": [
+    "The chemicals hiding",
+    "in your fragrance"
+   ]
   }
  },
  "attempts": {
@@ -1541,7 +1577,7 @@
   "ep_v5k3hxf_p2_r2": 2,
   "ep_v5j1oyl_p3": 2,
   "ep_v5isd6d_r6": 2,
-  "ep_v6rjcpv": 1,
-  "ep_v6uxtgp_p2_r2": 1
+  "ep_v6rjcpv": 2,
+  "ep_v6uxtgp_p2_r2": 2
  }
 }
