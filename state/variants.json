@@ -7,49 +7,70 @@
     "hook": [
      "700 cholesterol with",
      "zero blockages"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V2.mp4",
     "hook": [
      "The number your",
      "doctor leans on"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V3.mp4",
     "hook": [
      "Same cholesterol count,",
      "opposite arteries"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V4.mp4",
     "hook": [
      "Your count misses",
      "the real risk"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V5.mp4",
     "hook": [
      "A 90-year-old with",
      "600 cholesterol"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V6.mp4",
     "hook": [
      "Kevin Trudeau on",
      "cholesterol's blind spot"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_LIPIDTRUTHR2__WHAT-YOUR-CHOLESTEROL-COUNT-LIES-ABOUT__V7.mp4",
     "hook": [
      "High count, clear",
      "arteries anyway"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null
