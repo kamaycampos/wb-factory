@@ -1,0 +1,19 @@
+{"source": "v5ixx3h.mp4", "brand": "KT_WHOLEFOODR2", "test": false,
+ "note": "2026-11-06 - 'How Your Nutritional Supplements Are Harming You | The Kevin Trudeau Show | Ep. 57' (Rumble v5ixx3h). SECOND CHANCE by weekly agent: ep_v5ixx3h_p3/YOUR-STOMACH-HAS-NO-TEETH (1901-1945) failed on captions-vs-sound, UNCAPTIONED SPEECH at relative 12.7-14.2s - absolute 1913.7-1915.2s, inside the 'So when you chew your food, chew. Chew. Really? Keep chewing.' back-and-forth. Moved both edges earlier to the clean 'supplement is in addition to food' setup (1851-1911), which ends on the same chew instruction but lands entirely before the damaged moment. Checked for reuse: the only other v5ixx3h clips near this zone (WHY-WHOLE-FRUIT-BEATS-JUICE, WHY-YOUR-SUPPLEMENT-SHOULD-CHANGE) start at 1945 and 2065 - no overlap. Skipped the other second chance on this episode, WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN (word-repeat flag on 'kamu kamu', the superfruit camu camu said twice): it sits bundled in a single SRT cue inside a one-sentence ingredient list with no edge that excludes it without breaking the list - skipped per PLANNING.md (damaged words sit in the middle of the teaching).",
+ "clips": [
+  {"slug": "YOUR-STOMACH-HAS-NO-TEETH", "in": 1851.0, "out": 1911.0,
+   "retry_of": "ep_v5ixx3h_p3/YOUR-STOMACH-HAS-NO-TEETH",
+   "start_words": "You don't know if", "end_words": "Chew your food",
+   "hook": ["Why your gut", "has no teeth"],
+   "trial_hooks": [
+    ["Zero teeth inside", "your own stomach"],
+    ["The habit that", "blocks your digestion"],
+    ["Chewing does half", "your digestion job"],
+    ["What real chewing", "does for you"],
+    ["Kevin Trudeau's fix", "for better digestion"],
+    ["Kevin Trudeau's rule", "for real digestion"],
+    ["You're not really", "digesting your food"]
+   ],
+   "send": "A parent sends it to their fast-eating teenager - the gentle call-out they need, with a little anxiety about their own rushed meals too.",
+   "caption": "Kevin Trudeau's reminder: a supplement is only meant to go in addition to real food, not instead of it. Even a clean label can't tell you everything - heat and irradiation during manufacturing can kill the enzymes before a product ever reaches you.\n\nHis actual instruction is simpler than any label: your mouth has teeth, your stomach doesn't. Digestion starts with chewing, not swallowing.\n\nKevin Trudeau's own words, half-joking but serious: chew your food.\n\n#kevintrudeau #digestion #wbdaily #healthtruth #naturalhealth #realfood"}
+ ]}
