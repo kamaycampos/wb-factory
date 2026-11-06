@@ -383,5 +383,115 @@
    }
   ],
   "posted": null
+ },
+ "KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER": {
+  "clip": "KT_SCIENCESAYS/01_WHOSE-SCIENCE-ON-YOUR-TAP-WATER_55s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V1.mp4",
+    "hook": [
+     "How many countries",
+     "already ban this"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V2.mp4",
+    "hook": [
+     "Why fluoride survives",
+     "in your water"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V3.mp4",
+    "hook": [
+     "What other countries",
+     "banned from water"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V4.mp4",
+    "hook": [
+     "What your water",
+     "report leaves out"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V5.mp4",
+    "hook": [
+     "How Switzerland's science",
+     "differs from ours"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V6.mp4",
+    "hook": [
+     "Kevin Trudeau asks",
+     "whose science counts"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V7.mp4",
+    "hook": [
+     "The ban everyone",
+     "ignores at home"
+    ]
+   }
+  ],
+  "posted": null
+ },
+ "KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS": {
+  "clip": "KT_PLAQUEFACTS/01_WHAT-CLOGS-YOUR-BLOOD-VESSELS_117s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V1.mp4",
+    "hook": [
+     "How LDL blocks",
+     "your own arteries"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V2.mp4",
+    "hook": [
+     "The cholesterol villain",
+     "nobody explains right"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V3.mp4",
+    "hook": [
+     "What cold feet",
+     "reveal about you"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V4.mp4",
+    "hook": [
+     "What your doctor's",
+     "cholesterol chart skips"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V5.mp4",
+    "hook": [
+     "How blocked arteries",
+     "end in attacks"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V6.mp4",
+    "hook": [
+     "Kevin Trudeau explains",
+     "how arteries clog"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V7.mp4",
+    "hook": [
+     "Cold feet now,",
+     "heart attack later"
+    ]
+   }
+  ],
+  "posted": null
  }
 }
