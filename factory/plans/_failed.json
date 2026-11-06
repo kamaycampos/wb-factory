@@ -1583,6 +1583,24 @@
     "Why your gut",
     "has no teeth"
    ]
+  },
+  "ep_v6uxtgp_p3/THE-SHRINKING-CHOLESTEROL-NUMBER": {
+   "plan": "ep_v6uxtgp_p3",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_FASTTRUTH",
+   "tries": 1,
+   "why": [
+    "FAIL 02_THE-SHRINKING-CHOLESTEROL-NUMBER_73s.mp4: ends off the planned words: plan ends 'to do with heart attacks', clip ends 'any to do with hard work'"
+   ],
+   "slug": "THE-SHRINKING-CHOLESTEROL-NUMBER",
+   "in": 2359.0,
+   "out": 2435.1,
+   "start_words": "What normal cholesterol was",
+   "end_words": "to do with heart attacks",
+   "hook": [
+    "Why 200 isn't",
+    "your cholesterol limit"
+   ]
   }
  },
  "attempts": {

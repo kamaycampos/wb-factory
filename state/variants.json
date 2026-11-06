@@ -493,5 +493,60 @@
    }
   ],
   "posted": null
+ },
+ "KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER": {
+  "clip": "KT_FASTTRUTH/02_HE-SURVIVED-12-DAYS-NO-WATER_128s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V1.mp4",
+    "hook": [
+     "23 days without",
+     "food or water"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V2.mp4",
+    "hook": [
+     "The IV that",
+     "nearly killed him"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V3.mp4",
+    "hook": [
+     "His body knew when",
+     "to drink"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V4.mp4",
+    "hook": [
+     "The signal you're",
+     "trained to ignore"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V5.mp4",
+    "hook": [
+     "Dr. Pompa's patient",
+     "survived 35 days"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V6.mp4",
+    "hook": [
+     "Kevin Trudeau's guest",
+     "survived 12 days"
+    ]
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V7.mp4",
+    "hook": [
+     "Sent home to",
+     "die, he didn't"
+    ]
+   }
+  ],
+  "posted": null
  }
 }
