@@ -1,0 +1,20 @@
+{"source": "v6uxtgp.mp4", "brand": "KT_FASTTRUTHR2", "test": false,
+ "note": "2026-11-07 - re-cut by weekly agent (SECOND CHANCE, tries 1): ep_v6uxtgp_p3/THE-SHRINKING-CHOLESTEROL-NUMBER failed 'ends off the planned words' - plan ended 'to do with heart attacks', the confirmation listen heard 'any to do with hard work' instead (work/v6uxtgp.srt shows the real line is '...little if any to do with heart attacks, meaning cholesterol' - the two phrases sound close enough that the word-level search likely locked onto the wrong spot). Extended end_words to the fuller, less ambiguous 'to do with heart attacks, meaning cholesterol' and moved out from 2435.1 to 2438.0, a couple of seconds of buffer past the cue end so 'cholesterol' has clean room to land. Same start/in and same cut otherwise.",
+ "clips": [
+  {"slug": "THE-SHRINKING-CHOLESTEROL-NUMBER", "in": 2359.0, "out": 2438.0,
+   "start_words": "What normal cholesterol was",
+   "end_words": "to do with heart attacks, meaning cholesterol",
+   "hook": ["Why 200 isn't", "your cholesterol limit"],
+   "trial_hooks": [
+    ["Your cholesterol limit", "keeps shrinking"],
+    ["350 to 200", "who moved it"],
+    ["The number kept", "dropping on you"],
+    ["What a dropping", "number is hiding"],
+    ["Kevin Trudeau on", "the cholesterol number"],
+    ["Dr. Pompa's warning", "on cholesterol limits"],
+    ["A number that", "sells more pills"]
+   ],
+   "send": "Someone just put on a statin sends it to their doctor before the next appointment - the anger of a shifting 'normal' number, and the anxiety that the number, not their health, decided it.",
+   "retry_of": "ep_v6uxtgp_p3/THE-SHRINKING-CHOLESTEROL-NUMBER",
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau why the cholesterol number keeps moving.\n\nHis point: 'normal' cholesterol was once 350, then 300, then 250 - now anything over 200 can land you on a medication. He points to the Cochrane Collaboration, a group that reviews large batches of studies, which found little link between cholesterol and heart attacks.\n\nHis view: a number that keeps shifting lower is worth a second look before you accept it.\n\nHas your own 'normal' number ever changed on you?\n\n#kevintrudeau #cholesterol #healthtruth #wbdaily #naturalhealth #readthelabel"}
+ ]}

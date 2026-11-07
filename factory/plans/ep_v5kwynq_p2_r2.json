@@ -1,0 +1,20 @@
+{"source": "v5kwynq.mp4", "brand": "KT_BPHABITSR2", "test": false,
+ "note": "2026-11-07 - re-cut by weekly agent (SECOND CHANCE, tries 1): ep_v5kwynq_p2/WHY-ADVIL-RAISES-YOUR-PRESSURE failed 'the spoken word was on screen in only 6 of 11 moments' over the full 28-91s span. work/v5kwynq.srt shows the cue holding the end_words ('Unique E is one of them', 75-91s) runs on into a second, proper-noun-dense sentence ('Our company, World's Best Nutritionals and Organics...') before the cue ends at 91 - the full 16s cue was given as the out bound, so the 9s search window had room to drift into that dense phrase. Tightened out from 91.0 to 84.0 (word-count estimate puts 'them.' at roughly 83.4s), a few seconds of clean buffer past the actual end instead of 7+ seconds of slack into the next sentence. Same start/end words, same cut otherwise. Also added the now-required 'send' field and removed the banned comment-offer line from the caption (PLANNING.md, 1 Nov 2026 rule), ending on a question instead.",
+ "clips": [
+  {"slug": "WHY-ADVIL-RAISES-YOUR-PRESSURE", "in": 28.0, "out": 84.0,
+   "start_words": "Let's talk about some",
+   "end_words": "Unique E is one of them",
+   "hook": ["Why Advil raises", "your blood pressure"],
+   "trial_hooks": [
+    ["Your medicine cabinet", "raises your pressure"],
+    ["4 nutrients your", "pain pills drain"],
+    ["Advil drains the", "mineral you need"],
+    ["What your pressure", "pills are hiding"],
+    ["Kevin Trudeau's medicine", "cabinet warning"],
+    ["Kevin Trudeau on", "Advil and pressure"],
+    ["Your trusted pill", "works against you"]
+   ],
+   "send": "Someone on daily Tylenol or Advil for aches sends it to their spouse before the next refill - the anger of learning the pill itself may be feeding the problem.",
+   "retry_of": "ep_v5kwynq_p2/WHY-ADVIL-RAISES-YOUR-PRESSURE",
+   "caption": "Kevin Trudeau's warning: your own medicine cabinet may be part of the problem.\n\nHis point: everyday over-the-counter pills like Tylenol, Advil and Dramamine can drain the body of magnesium, calcium, vitamin E and omega-3 - and magnesium is one of the most common deficiencies behind high blood pressure.\n\nHis own fix: a full-spectrum vitamin E with tocotrienols, alongside magnesium and calcium in the right ratio.\n\nWhat's sitting in your own medicine cabinet right now?\n\n#kevintrudeau #bloodpressure #magnesium #wbdaily #readthelabel #healthtruth"}
+ ]}
