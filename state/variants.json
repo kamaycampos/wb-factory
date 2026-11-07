@@ -83,49 +83,70 @@
     "hook": [
      "Only 15% beat",
      "sugar pills better"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V2.mp4",
     "hook": [
      "Big Pharma's worst",
      "kept secret here"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V3.mp4",
     "hook": [
      "Antidepressants can cause",
      "more depression itself"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V4.mp4",
     "hook": [
      "Your pill's side",
      "effect might surprise"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V5.mp4",
     "hook": [
      "Newsweek exposed antidepressants'",
      "real success rate"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V6.mp4",
     "hook": [
      "Kevin Trudeau exposes",
      "antidepressants' real numbers"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V7.mp4",
     "hook": [
      "Sugar pills nearly",
      "beat your antidepressant"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null
