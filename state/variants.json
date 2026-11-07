@@ -235,49 +235,70 @@
     "hook": [
      "Perfect scan",
      "One number changed everything"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V2.mp4",
     "hook": [
      "One number beats",
      "a perfect scan"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V3.mp4",
     "hook": [
      "18-year-old arteries",
      "Drug prescribed anyway"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'code': 10, 'type': 'OAuthException', 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V4.mp4",
     "hook": [
      "What your scan",
      "doesn't change"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V5.mp4",
     "hook": [
      "Trudeau's cardiologist",
      "still wrote the script"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V6.mp4",
     "hook": [
      "Kevin Trudeau's heart",
      "scan, perfect anyway"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V7.mp4",
     "hook": [
      "Perfect heart",
      "Prescribed anyway, on record"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null
