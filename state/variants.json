@@ -162,7 +162,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V2.mp4",
@@ -172,7 +172,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V3.mp4",
@@ -182,7 +182,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V4.mp4",
@@ -192,7 +192,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V5.mp4",
@@ -202,7 +202,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V6.mp4",
@@ -212,7 +212,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V7.mp4",
@@ -222,7 +222,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 1
+    "tries": 2
    }
   ],
   "posted": null
