@@ -1673,6 +1673,24 @@
     "Why 200 isn't",
     "your cholesterol limit"
    ]
+  },
+  "ep_v5kwynq_p2_r2/WHY-ADVIL-RAISES-YOUR-PRESSURE": {
+   "plan": "ep_v5kwynq_p2_r2",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_BPHABITSR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4: [FAIL] 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4              16 captions vs the sound  median -0.00s  worst-10% 0.13s  | words captioned 100%  UNCAPTIONED SPEECH [(33.6, 35.3), (44.6, 46.3)]"
+   ],
+   "slug": "WHY-ADVIL-RAISES-YOUR-PRESSURE",
+   "in": 28.0,
+   "out": 84.0,
+   "start_words": "Let's talk about some",
+   "end_words": "Unique E is one of them",
+   "hook": [
+    "Why Advil raises",
+    "your blood pressure"
+   ]
   }
  },
  "attempts": {
@@ -1690,6 +1708,6 @@
   "ep_v5ixx3h_p3_r2": 2,
   "ep_v6pdgp9_p2_r2": 2,
   "ep_v6u9yxd_p3": 2,
-  "ep_v5kwynq_p2_r2": 1
+  "ep_v5kwynq_p2_r2": 2
  }
 }
