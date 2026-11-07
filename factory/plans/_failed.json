@@ -1619,6 +1619,60 @@
     "What herb lifts",
     "your mood fast"
    ]
+  },
+  "ep_v6pdgp9_p2_r2/WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING": {
+   "plan": "ep_v6pdgp9_p2_r2",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODFIXR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_87s.mp4: ends off the planned words: plan ends 'to get rid of the Candida', clip ends 'and this will cause some depress'"
+   ],
+   "slug": "WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING",
+   "in": 620.0,
+   "out": 707.0,
+   "start_words": "There's one other cause",
+   "end_words": "to get rid of the Candida",
+   "hook": [
+    "What your sugar",
+    "cravings are hiding"
+   ]
+  },
+  "ep_v6u9yxd_p3/WHY-YOURE-LOW-ON-VITAMIN-D": {
+   "plan": "ep_v6u9yxd_p3",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_SUNGAP",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-YOURE-LOW-ON-VITAMIN-D_41s.mp4: ends off the planned words: plan ends 'taking the right supplements', clip ends 'the right foods theyre not ta'"
+   ],
+   "slug": "WHY-YOURE-LOW-ON-VITAMIN-D",
+   "in": 1653.9,
+   "out": 1695.8,
+   "start_words": "What about DHEA",
+   "end_words": "taking the right supplements",
+   "hook": [
+    "Why you're deficient",
+    "in vitamin D"
+   ]
+  },
+  "ep_v6uxtgp_p3_r2/THE-SHRINKING-CHOLESTEROL-NUMBER": {
+   "plan": "ep_v6uxtgp_p3_r2",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_FASTTRUTHR2",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_THE-SHRINKING-CHOLESTEROL-NUMBER_74s.mp4` - opens mid-sentence on \"is what normal\""
+   ],
+   "slug": "THE-SHRINKING-CHOLESTEROL-NUMBER",
+   "in": 2359.0,
+   "out": 2438.0,
+   "start_words": "What normal cholesterol was",
+   "end_words": "to do with heart attacks, meaning cholesterol",
+   "hook": [
+    "Why 200 isn't",
+    "your cholesterol limit"
+   ]
   }
  },
  "attempts": {
@@ -1634,7 +1688,8 @@
   "ep_v6rjcpv": 3,
   "ep_v6uxtgp_p2_r2": 3,
   "ep_v5ixx3h_p3_r2": 2,
-  "ep_v6pdgp9_p2_r2": 1,
-  "ep_v6u9yxd_p3": 1
+  "ep_v6pdgp9_p2_r2": 2,
+  "ep_v6u9yxd_p3": 2,
+  "ep_v5kwynq_p2_r2": 1
  }
 }

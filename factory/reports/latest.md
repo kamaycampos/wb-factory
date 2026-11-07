@@ -1,32 +1,30 @@
+## ep_v5kwynq_p2_r2: 0 of 1 clip(s) passed every gate
+
+
+## 2026-11-07 04:43
+ep_v5kwynq_p2_r2__s0 (KT_BPHABITSR2): 1 of 1 passed pre-render gates
+
+RENDER ep_v5kwynq_p2_r2__s0
+  WARP 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4: ISES-YOUR-PRESSURE_59s.mp4              16 captions vs the sound  median +0.05s  worst-10% 0.95s  | words captioned 100% - re-timing each caption once
+  FAIL 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4: [FAIL] 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4              16 captions vs the sound  median -0.00s  worst-10% 0.13s  | words captioned 100%  UNCAPTIONED SPEECH [(33.6, 35.3), (44.6, 46.3)]
+
+
 ## ep_v6pdgp9_p2_r2: 0 of 1 clip(s) passed every gate
 
 
-## 2026-11-06 17:57
+## 2026-11-07 04:57
 ep_v6pdgp9_p2_r2__s0 (KT_MOODFIXR2): 1 of 1 passed pre-render gates
 
 RENDER ep_v6pdgp9_p2_r2__s0
   FAIL 01_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_87s.mp4: ends off the planned words: plan ends 'to get rid of the Candida', clip ends 'and this will cause some depress'
 
 
-## ep_v6pdgp9_r3: 1 of 1 clip(s) passed every gate
-
-
-## 2026-11-06 18:41
-  note KT_MOODSHIFTR3/THE-HERB-THAT-LIFTS-YOUR-MOOD: ending kept on the planner's words 'Very, very powerful' (cuts mid-sentence)
-ep_v6pdgp9_r3__s0 (KT_MOODSHIFTR3): 1 of 1 passed pre-render gates
-
-RENDER ep_v6pdgp9_r3__s0
-  PASS 01_THE-HERB-THAT-LIFTS-YOUR-MOOD_85s.mp4  01_THE-HERB-THAT-LIFTS-YOUR-MOOD_85s.mp4               16 captions vs the sound  median +0
-       FIRST 5s : St. John's Wart. It's an herb. It'll give you a lift. Fantastic. | LAST  8s : It helps eliminate depression, it helps eliminate sadness, and it helps reduce stress and anxiety. Very, very powerful. Next.
-TEST MODE - passing clips NOT uploaded or queued: KT_MOODSHIFTR3
-
-
-- **NOT QUEUED** `01_THE-HERB-THAT-LIFTS-YOUR-MOOD_85s.mp4` - word repeated after one: "be vitamins be"; word repeated after one: "vitamins be vitamins."
+- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
 
 ## ep_v6u9yxd_p3: 0 of 1 clip(s) passed every gate
 
 
-## 2026-11-06 17:43
+## 2026-11-07 04:44
   note KT_SUNGAP/WHY-YOURE-LOW-ON-VITAMIN-D: ending kept on the planner's words 'taking the right supplements' (cuts mid-sentence)
 ep_v6u9yxd_p3__s0 (KT_SUNGAP): 1 of 1 passed pre-render gates
 
@@ -35,32 +33,21 @@ RENDER ep_v6u9yxd_p3__s0
   FAIL 01_WHY-YOURE-LOW-ON-VITAMIN-D_41s.mp4: ends off the planned words: plan ends 'taking the right supplements', clip ends 'the right foods theyre not ta'
 
 
-## ep_v6uxtgp_p3: 3 of 4 clip(s) passed every gate
+- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+
+## ep_v6uxtgp_p3_r2: 1 of 1 clip(s) passed every gate
 
 
-## 2026-11-06 18:04
-  note KT_FASTTRUTH/THE-NUMBER-ONE-KILLER-IN-AMERICA: ending kept on the planner's words 'they're being used to treat' (cuts mid-sentence)
-  note KT_FASTTRUTH/THE-SHRINKING-CHOLESTEROL-NUMBER: ending kept on the planner's words 'to do with heart attacks' (cuts mid-sentence)
-ep_v6uxtgp_p3__s1 (KT_FASTTRUTH): 2 of 2 passed pre-render gates
+## 2026-11-07 04:55
+ep_v6uxtgp_p3_r2__s0 (KT_FASTTRUTHR2): 1 of 1 passed pre-render gates
 
-RENDER ep_v6uxtgp_p3__s1
-  PASS 01_THE-NUMBER-ONE-KILLER-IN-AMERICA_65s.mp4  01_THE-NUMBER-ONE-KILLER-IN-AMERICA_65s.mp4            15 captions vs the sound  median +0
-       FIRST 5s : I love this subject because a lot of people think that in order for me to be healthy... | LAST  8s : That more people die from pharmaceutical drugs than from the diseases they're being used to treat.
-  FAIL 02_THE-SHRINKING-CHOLESTEROL-NUMBER_73s.mp4: ends off the planned words: plan ends 'to do with heart attacks', clip ends 'any to do with hard work'
-TEST MODE - passing clips NOT uploaded or queued: KT_FASTTRUTH
+RENDER ep_v6uxtgp_p3_r2__s0
+  PASS 01_THE-SHRINKING-CHOLESTEROL-NUMBER_74s.mp4  01_THE-SHRINKING-CHOLESTEROL-NUMBER_74s.mp4            20 captions vs the sound  median +0
+       FIRST 5s : It is what normal cholesterol was years ago. I think at one point, it was 350. | LAST  8s : The conclusions are always that it has very little, if any, to do with heart attacks, meaning cholesterol.
+TEST MODE - passing clips NOT uploaded or queued: KT_FASTTRUTHR2
 
 
-
-## 2026-11-06 18:08
-ep_v6uxtgp_p3__s0 (KT_FASTTRUTH): 2 of 2 passed pre-render gates
-
-RENDER ep_v6uxtgp_p3__s0
-  PASS 01_WHAT-REAL-FASTING-MEANS_72s.mp4  01_WHAT-REAL-FASTING-MEANS_72s.mp4                     8 captions vs the sound  median +0.
-       FIRST 5s : People are fasting too much, so now I go to these conferences and I'm the | LAST  8s : So you got a little bit of nutrient in, but people then modified it and started having liquid diets, and they are calling it a fast.
-  PASS 02_HE-SURVIVED-12-DAYS-NO-WATER_128s.mp4  02_HE-SURVIVED-12-DAYS-NO-WATER_128s.mp4               36 captions vs the sound  median +0
-       FIRST 5s : I ran into a client of mine from many years ago. | LAST  8s : His body was getting water by just crushing bad cells. Any intelligence knew what to do. It knew what to do to save his life.
-TEST MODE - passing clips NOT uploaded or queued: KT_FASTTRUTH
-
+- **NOT QUEUED** `01_THE-SHRINKING-CHOLESTEROL-NUMBER_74s.mp4` - opens mid-sentence on "is what normal"
 
 ## UPLOAD
 nothing new to add

@@ -834,7 +834,8 @@
      "What your cholesterol",
      "won't tell you"
     ],
-    "caption": "Kevin Trudeau points out something most people never hear from their own doctor: a cholesterol count doesn't reliably predict a blocked artery.\n\nSome people test at 600 or 700 and live for decades with clean arteries. Others test very low and still end up fully blocked. Same test, opposite outcomes - which means the number alone isn't telling the whole story.\n\nHis point isn't to throw out your numbers. It's to ask what else is actually happening in your arteries before you accept one number as the whole answer.\n\nWhat would you ask your doctor about your own numbers?\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #askquestions #foodtruth"
+    "caption": "Kevin Trudeau points out something most people never hear from their own doctor: a cholesterol count doesn't reliably predict a blocked artery.\n\nSome people test at 600 or 700 and live for decades with clean arteries. Others test very low and still end up fully blocked. Same test, opposite outcomes - which means the number alone isn't telling the whole story.\n\nHis point isn't to throw out your numbers. It's to ask what else is actually happening in your arteries before you accept one number as the whole answer.\n\nWhat would you ask your doctor about your own numbers?\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #askquestions #foodtruth",
+    "locked": true
    }
   ]
  },
@@ -892,7 +893,8 @@
      "Why antidepressants never",
      "beat sugar pills"
     ],
-    "caption": "Kevin Trudeau cites a Newsweek headline most people never see: antidepressants outperform a sugar pill only 15% of the time.\n\nHis point: if you're depressed, it's not because your brain is deficient in Prozac. And the side-effect list for most antidepressants includes depression itself - the number one most common side effect of the very drug prescribed for it.\n\nHis view isn't to stop anything on your own. It's to actually read the side-effect insert before your next refill, and ask your doctor what else could be driving the low mood.\n\nHave you ever read the full side-effect list on your own prescription?\n\n#kevintrudeau #antidepressants #sideeffects #pharmaceuticals #healthtruth #wbhealth"
+    "caption": "Kevin Trudeau cites a Newsweek headline most people never see: antidepressants outperform a sugar pill only 15% of the time.\n\nHis point: if you're depressed, it's not because your brain is deficient in Prozac. And the side-effect list for most antidepressants includes depression itself - the number one most common side effect of the very drug prescribed for it.\n\nHis view isn't to stop anything on your own. It's to actually read the side-effect insert before your next refill, and ask your doctor what else could be driving the low mood.\n\nHave you ever read the full side-effect list on your own prescription?\n\n#kevintrudeau #antidepressants #sideeffects #pharmaceuticals #healthtruth #wbhealth",
+    "locked": true
    },
    {
     "slug": "THE-WALK-THAT-BEATS-ANXIETY",
@@ -1134,6 +1136,12 @@
   "source": "v6pdgp9.mp4",
   "brand": "KT_MOODSHIFTR3",
   "note": "2026-11-06 - 'How To Beat Depression NOW!' (Rumble v6pdgp9). SECOND CHANCE by weekly agent, retry of ep_v6pdgp9/THE-HERB-THAT-LIFTS-YOUR-MOOD (tries 1): the refusal was 'opens mid-sentence on \"here's some here's\"; ends mid-thought on \"stress and anxiety\"; phrase scrambled around \"eliminate depression helps eliminate\"'. Fix: dropped the windup ('So here's some of the cures') and the lithium item (already its own clip, THE-MINERAL-YOUR-BODY-IS-MISSING) and opened directly on St. John's Wort instead - the actual herb the hook promises. Extended the end past 'stress and anxiety' to the full sentence's close, 'Very, very powerful,' so it no longer cuts off mid-thought.",
+  "clips": []
+ },
+ "ep_v6uxtgp_p3_r2": {
+  "source": "v6uxtgp.mp4",
+  "brand": "KT_FASTTRUTHR2",
+  "note": "2026-11-07 - re-cut by weekly agent (SECOND CHANCE, tries 1): ep_v6uxtgp_p3/THE-SHRINKING-CHOLESTEROL-NUMBER failed 'ends off the planned words' - plan ended 'to do with heart attacks', the confirmation listen heard 'any to do with hard work' instead (work/v6uxtgp.srt shows the real line is '...little if any to do with heart attacks, meaning cholesterol' - the two phrases sound close enough that the word-level search likely locked onto the wrong spot). Extended end_words to the fuller, less ambiguous 'to do with heart attacks, meaning cholesterol' and moved out from 2435.1 to 2438.0, a couple of seconds of buffer past the cue end so 'cholesterol' has clean room to land. Same start/in and same cut otherwise.",
   "clips": []
  }
 }
