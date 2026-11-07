@@ -1,0 +1,11 @@
+{"source": "v6u9yxd.mp4", "brand": "KT_HORMONEFIXR3", "test": false,
+ "note": "2026-11-07 - re-cut by weekly agent (SECOND CHANCE, tries 1). SOY-RAISES-YOUR-ESTROGEN failed 'word repeated after one: soy because soy' - the original open ('In America, we consume more soy because soy is put...') repeats 'soy' across one word, and the original close ('...soy is on my list of don't go near') repeats it again adjacent ('Soy, soy is'). Moved both edges inside the same arc to clean sentences with no repeat: opens on 'I don't touch soy' (a clear, standalone line) and closes on 'We both know how bad that is', just before the 'Soy, soy' repeat. Same teaching, same source minutes, new edges.",
+ "clips": [
+  {"slug": "SOY-RAISES-YOUR-ESTROGEN", "in": 936.0, "out": 984.0,
+   "start_words": "I don't touch soy",
+   "end_words": "how bad that is",
+   "hook": ["Why soy raises", "your estrogen level"],
+   "send": "A woman who drinks soy milk daily sends it to her partner before their next grocery run - the anxiety of a hormone swap nobody warned them about.",
+   "retry_of": "ep_v6u9yxd_p2/SOY-RAISES-YOUR-ESTROGEN",
+   "caption": "Kevin Trudeau doesn't touch soy, and won't put a client on it either.\n\nHis concern: soy can raise estrogen, and he lists what follows - water retention, higher blood pressure, lower testosterone, even brain fog. He says the industry would rather you not ask.\n\nSoy hides in more than tofu: shakes, protein bars and meat substitutes all carry it under different names.\n\nNext time you read a label, check for soy protein isolate or soy lecithin before it goes in the cart.\n\n#kevintrudeau #soy #hormonehealth #wbdaily #healthtruth #naturalhealth"}
+ ]}

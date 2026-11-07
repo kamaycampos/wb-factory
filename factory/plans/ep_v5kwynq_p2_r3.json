@@ -1,0 +1,20 @@
+{"source": "v5kwynq.mp4", "brand": "KT_BPHABITSR3", "test": false,
+ "note": "2026-11-07 - re-cut by weekly agent (SECOND CHANCE, tries 2, last chance). The r2 attempt tightened out to 84.0 but still failed: 'captions vs the sound ... UNCAPTIONED SPEECH (33.6, ...)'. That moment sits inside the 28.0-51.0 cue, which holds roughly 40 words across 23 seconds - too sparse for reliable per-word timing. Per PLANNING.md's fix for this symptom ('move both edges to different sentence boundaries, a few seconds re-times every caption'), nudged in 28.0->27.0 and out 84.0->82.5. Same start/end words, same teaching.",
+ "clips": [
+  {"slug": "WHY-ADVIL-RAISES-YOUR-PRESSURE", "in": 27.0, "out": 82.5,
+   "start_words": "Let's talk about some",
+   "end_words": "Unique E is one of them",
+   "hook": ["Why Advil raises", "your blood pressure"],
+   "trial_hooks": [
+    ["Your medicine cabinet", "raises your pressure"],
+    ["4 nutrients your", "pain pills drain"],
+    ["Advil drains the", "mineral you need"],
+    ["What your pressure", "pills are hiding"],
+    ["Kevin Trudeau's medicine", "cabinet warning"],
+    ["Kevin Trudeau on", "Advil and pressure"],
+    ["Your trusted pill", "works against you"]
+   ],
+   "send": "Someone on daily Tylenol or Advil for aches sends it to their spouse before the next refill - the anger of learning the pill itself may be feeding the problem.",
+   "retry_of": "ep_v5kwynq_p2_r2/WHY-ADVIL-RAISES-YOUR-PRESSURE",
+   "caption": "Kevin Trudeau's warning: your own medicine cabinet may be part of the problem.\n\nHis point: everyday over-the-counter pills like Tylenol, Advil and Dramamine can drain the body of magnesium, calcium, vitamin E and omega-3 - and magnesium is one of the most common deficiencies behind high blood pressure.\n\nHis own fix: a full-spectrum vitamin E with tocotrienols, alongside magnesium and calcium in the right ratio.\n\nWhat's sitting in your own medicine cabinet right now?\n\n#kevintrudeau #bloodpressure #magnesium #wbdaily #readthelabel #healthtruth"}
+ ]}
