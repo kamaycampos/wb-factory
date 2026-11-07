@@ -1172,12 +1172,26 @@
    "caption": "Kevin Trudeau's free fix for stress, anxiety and a low mood: go for a walk and look at things far away.\n\nWalking gets blood moving and releases endorphins - the body's own feel-good chemicals. His twist: instead of looking down or inward, pick a distant point - a treetop, a bridge, a lamppost two hundred yards off - and walk toward it with your eyes on it the whole way.\n\nHis view: it costs nothing, which is exactly why almost nobody talks about it.\n\nWhat's the farthest thing you can see from your front door right now?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #stressrelief #walking #endorphins #naturalhealth #wbhealth",
    "hook": "A 15-minute walk changes your body",
    "bytes": 79691496,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-07T11:57",
    "cta_keyword": "HEALTH",
    "cta_variant": 2,
-   "cta_kind": "question"
+   "cta_kind": "question",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1828085721602767/",
+    "instagram": "https://www.instagram.com/reel/DfcrlJXFEyq/",
+    "youtube": "https://youtube.com/shorts/223hKep-sc4"
+   },
+   "caption_at_post": "Kevin Trudeau's free fix for stress, anxiety and a low mood: go for a walk and look at things far away.\n\nWalking gets blood moving and releases endorphins - the body's own feel-good chemicals. His twist: instead of looking down or inward, pick a distant point - a treetop, a bridge, a lamppost two hundred yards off - and walk toward it with your eyes on it the whole way.\n\nHis view: it costs nothing, which is exactly why almost nobody talks about it.\n\nWhat's the farthest thing you can see from your front door right now?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #stressrelief #walking #endorphins #naturalhealth #wbhealth",
+   "posted_at": "2026-11-07T12:10"
   },
   {
    "file": "KT_MOODFIX/01_WHY-ANTIDEPRESSANTS-RARELY-WORK_92s.mp4",
@@ -1369,7 +1383,11 @@
    "hook": "Why soy raises your estrogen level",
    "bytes": 23786856,
    "done": false,
-   "status": {}
+   "status": {},
+   "scheduled_at": "2026-11-10T12:26",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
