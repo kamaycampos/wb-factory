@@ -238,7 +238,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V2.mp4",
@@ -248,7 +248,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V3.mp4",
@@ -258,7 +258,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V4.mp4",
@@ -268,7 +268,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V5.mp4",
@@ -278,7 +278,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V6.mp4",
@@ -288,7 +288,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_BLOODFLOWR4__WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY__V7.mp4",
@@ -298,10 +298,10 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    }
   ],
-  "posted": null
+  "posted": "2026-11-07T22:47"
  },
  "KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN": {
   "clip": "KT_NATURALFIXR3/02_WHATS-ABSORBED-THROUGH-YOUR-SKIN_47s.mp4",
