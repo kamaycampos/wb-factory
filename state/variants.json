@@ -86,7 +86,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V2.mp4",
@@ -96,7 +96,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V3.mp4",
@@ -106,7 +106,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V4.mp4",
@@ -116,7 +116,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V5.mp4",
@@ -126,7 +126,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V6.mp4",
@@ -136,7 +136,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_MOODFIX__WHY-ANTIDEPRESSANTS-RARELY-WORK__V7.mp4",
@@ -146,10 +146,10 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    }
   ],
-  "posted": null
+  "posted": "2026-11-07T01:45"
  },
  "KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY": {
   "clip": "KT_BPJUICEFIX/01_WHAT-LOWERS-YOUR-PRESSURE-NATURALLY_61s.mp4",
