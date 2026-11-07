@@ -159,49 +159,70 @@
     "hook": [
      "3 juices beat",
      "high blood pressure"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V2.mp4",
     "hook": [
      "Beet juice spikes",
      "your nitric oxide"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V3.mp4",
     "hook": [
      "Organic beets outperform",
      "a pressure pill"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V4.mp4",
     "hook": [
      "Your pressure fix",
      "hides in produce"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V5.mp4",
     "hook": [
      "Kevin Trudeau's beet",
      "juice pressure fix"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V6.mp4",
     "hook": [
      "Kevin Trudeau on",
      "beet, celery, carrot"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_BPJUICEFIX__WHAT-LOWERS-YOUR-PRESSURE-NATURALLY__V7.mp4",
     "hook": [
      "Celery juice beats",
      "a pressure med"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null
