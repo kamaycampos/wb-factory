@@ -1781,6 +1781,24 @@
     "What your brain fog",
     "needs"
    ]
+  },
+  "ep_v5k3hxf_p3_r4/WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT": {
+   "plan": "ep_v5k3hxf_p3_r4",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTSR4",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT_49s.mp4: [FAIL] 01_WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT_49s.mp4    13 captions vs the sound  median -0.01s  worst-10% 0.49s  | words captioned 105%  UNCAPTIONED SPEECH [(25.1, 26.7)]"
+   ],
+   "slug": "WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT",
+   "in": 1651.6,
+   "out": 1700.2,
+   "start_words": "I bring my car into",
+   "end_words": "I'm not going to change anything",
+   "hook": [
+    "What your car gets",
+    "body doesn't"
+   ]
   }
  },
  "attempts": {
@@ -1801,6 +1819,6 @@
   "ep_v5kwynq_p2_r2": 2,
   "ep_v5kwynq_p2_r3": 2,
   "ep_v6u9yxd_p3_r2": 2,
-  "ep_v5k3hxf_p3_r4": 1
+  "ep_v5k3hxf_p3_r4": 2
  }
 }
