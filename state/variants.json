@@ -467,7 +467,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V2.mp4",
@@ -477,7 +477,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V3.mp4",
@@ -487,7 +487,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V4.mp4",
@@ -497,7 +497,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V5.mp4",
@@ -507,7 +507,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V6.mp4",
@@ -517,7 +517,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD__V7.mp4",
@@ -527,10 +527,10 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    }
   ],
-  "posted": null
+  "posted": "2026-11-08T23:30"
  },
  "KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER": {
   "clip": "KT_SCIENCESAYS/01_WHOSE-SCIENCE-ON-YOUR-TAP-WATER_55s.mp4",
