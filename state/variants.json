@@ -311,49 +311,70 @@
     "hook": [
      "1200 testosterone",
      "Still feels the same"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN__V2.mp4",
     "hook": [
      "Your lotion is",
      "a hormone disruptor"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN__V3.mp4",
     "hook": [
      "Skin absorbs lotion",
      "like a mouth"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN__V4.mp4",
     "hook": [
      "What your label",
      "isn't telling you"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN__V5.mp4",
     "hook": [
      "Kevin Trudeau's lotion",
      "poison control test"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN__V6.mp4",
     "hook": [
      "Kevin Trudeau's skin",
      "absorption warning"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_NATURALFIXR3__WHATS-ABSORBED-THROUGH-YOUR-SKIN__V7.mp4",
     "hook": [
      "High testosterone",
      "Zero difference felt"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null
