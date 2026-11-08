@@ -1,0 +1,20 @@
+{"source": "v6y4es4.mp4", "brand": "KT_RIGHTFILER2", "test": false,
+ "note": "2026-11-08 - SECOND CHANCE by weekly agent (tries 1): ep_v6y4es4_p3/THE-FLUORIDE-SCIENCE-SPLIT (1223.5-1274.0) opened mid-sentence on 'science' and ran straight through Kevin's own triple stutter 'this trend toward this science, this science, this science' (1231.28-1237.84) - real emphasis, but the word-repeat gate still flags it since the words aren't comma-punctuated between repeats. Moved the start past that line to the next clean sentence, 'People say follow the science.' First attempt then extended into the gorilla/juice example to clear 40s, but that re-used 26-31s of ep_v6y4es4_p2 and _r2's WHY-SCIENCE-CANT-FIX-YOUR-FOOD (1268/1272-1375) - check_plan caught it. Pulled the end back to 'science is not better than nature' (the natural close right before that clip's own territory starts), in 1237.84-1277.9 - 40.06s, 9-10s border shared with the other clip (allowed), stutter excluded. Skipped the episode's other second chance this pass, THE-FUEL-THAT-BEATS-BRAIN-FOG: the flagged repeat sits inside a stretch that quickly runs into a niacin-flush aside mentioning a possible heart attack and recreational-drug talk (LSD, mushrooms, cocaine) a few sentences later - no clean edge gets a 40s+ clip out of it without drifting into that, so it stays on the second-chances list rather than being padded.",
+ "clips": [
+  {"slug": "THE-FLUORIDE-SCIENCE-SPLIT", "in": 1237.84, "out": 1277.9,
+   "retry_of": "ep_v6y4es4_p3/THE-FLUORIDE-SCIENCE-SPLIT",
+   "start_words": "People say follow the science",
+   "end_words": "science is not better than nature",
+   "hook": ["Why is fluoride", "banned almost everywhere?"],
+   "trial_hooks": [
+    ["Only 2 countries", "still fluoridate water"],
+    ["Regulators still allow", "fluoride in water"],
+    ["Most nations banned", "what we drink"],
+    ["What your water", "report leaves out"],
+    ["Kevin Trudeau's question:", "who's actually right?"],
+    ["Science changed its", "mind on fluoride"],
+    ["A gorilla's diet", "beats a lab"]
+   ],
+   "send": "A parent sends this to their partner before refilling the kitchen water filter - anger at being kept in the dark for decades.",
+   "caption": "Kevin Trudeau's question: if the science on fluoride is so settled, why do almost every other country's health agencies disagree with ours?\n\nHis claim: science has shown fluoride in drinking water is harmful enough that most nations stopped adding it, while the U.S. and New Zealand still do and call it safe.\n\nSame researchers, same data, two opposite conclusions. His own rule for sorting through claims like that: science keeps changing its mind. Real, whole food never does.\n\nWhich science are you supposed to follow?\n\n#kevintrudeau #fluoride #tapwater #wbdaily #healthtruth #realfood"}
+ ]}

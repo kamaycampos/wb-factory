@@ -1,0 +1,18 @@
+{"source": "v5ic3lf.mp4", "brand": "KT_HIDDENCORN", "test": false,
+ "note": "2026-11-08 - 'The 10 Foods You Should Never Eat | TKTS Clips' (Rumble v5ic3lf). SECOND PASS by weekly agent: this episode is almost entirely cut already (9 clips across p2-p4), but 134-273s sat unused between the Monsanto-corn clip and the diet-soda clip - the label-reading detail Kevin gives right after both. Cut 156-245.6s: how corn hides under five label names, then the two main diet-soda sweeteners, ending on 'you've been lied to' - stops well before 'stupid'/'stupidly' at ~252-264s. Checked against every other v5ic3lf plan's in/out: no overlap with any (nearest are 78-134s before and 273-380s after). Left the rest of the episode's gaps alone: 0-78s is just the cold-open teaser, 490-705s and the back half of the pork segment are overheard-conversation profanity (TikTok bait), and the remaining fish/shellfish minutes are fully claimed.",
+ "clips": [
+  {"slug": "WHAT-CORN-HIDES-ON-A-LABEL", "in": 156.0, "out": 245.6,
+   "start_words": "Anything that has the", "end_words": "you've been lied to",
+   "hook": ["5 corn names", "on your label"],
+   "trial_hooks": [
+    ["5 words for", "corn on labels"],
+    ["Monsanto's corn hides", "on your label"],
+    ["Corn syrup has", "five different names"],
+    ["What your soda", "isn't telling you"],
+    ["Kevin's warning:", "you've been lied to"],
+    ["Kevin Trudeau's reason", "for going organic"],
+    ["Diet soda's trick:", "make you hungrier"]
+   ],
+   "send": "A parent sends this to whoever buys \"diet\" everything for the kids - anger at realizing \"diet\" just means a different chemical.",
+   "caption": "Kevin Trudeau's label trick: corn doesn't always say \"corn.\" On a food label it can hide as corn syrup solids, high fructose corn syrup, corn starch, corn meal, or corn flour - five names for the same thing.\n\nHis next target: diet soda. The two sweeteners behind almost every \"diet\" drink are aspartame and sucralose, both sold as a way to cut calories.\n\nKevin's real claim isn't about taste. It's that the main reason people reach for them, he says, is because they've been lied to about what \"diet\" actually means.\n\nWhich name are you really looking for on the label?\n\n#kevintrudeau #readthelabel #dietsoda #wbdaily #healthtruth #realfood"}
+ ]}
