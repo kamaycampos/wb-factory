@@ -1,13 +1,18 @@
-## ep_v5k3hxf_p3_r4: 0 of 1 clip(s) passed every gate
+## ep_v5ic3lf_p5: 0 of 1 clip(s) passed every gate
 
 
-## 2026-11-08 14:31
-  note KT_ARTERYFACTSR4/WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT: ending kept on the planner's words 'I'm not going to change anything' (cuts mid-sentence)
-ep_v5k3hxf_p3_r4__s0 (KT_ARTERYFACTSR4): 1 of 1 passed pre-render gates
+## 2026-11-08 17:10
+  note KT_HIDDENCORN/WHAT-CORN-HIDES-ON-A-LABEL: ending kept on the planner's words 'you've been lied to' (cuts mid-sentence)
+ep_v5ic3lf_p5__s0 (KT_HIDDENCORN): 1 of 1 passed pre-render gates
 
-RENDER ep_v5k3hxf_p3_r4__s0
-  WARP 01_WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT_49s.mp4: R-GETS-THAT-YOUR-BODY-DOESNT_49s.mp4    13 captions vs the sound  median +0.11s  worst-10% 0.97s  | words captioned 105% - re-timing each caption once
-  FAIL 01_WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT_49s.mp4: [FAIL] 01_WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT_49s.mp4    13 captions vs the sound  median -0.01s  worst-10% 0.49s  | words captioned 105%  UNCAPTIONED SPEECH [(25.1, 26.7)]
+RENDER ep_v5ic3lf_p5__s0
+  FAIL 01_WHAT-CORN-HIDES-ON-A-LABEL_87s.mp4: ends off the planned words: plan ends 'you've been lied to', clip ends 'food with artificial sweeteners is because'
 
 
-- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+## ep_v6y4es4_p3_r2: 0 of 1 clip(s) passed every gate
+
+
+## 2026-11-08 16:58
+  drop KT_RIGHTFILER2/THE-FLUORIDE-SCIENCE-SPLIT: hook - 794px wide at 44px - over the 780px safe zone, will be cut off on a phone
+ep_v6y4es4_p3_r2__s0 (KT_RIGHTFILER2): 0 of 1 passed pre-render gates
+nothing to build
