@@ -1302,12 +1302,26 @@
    "caption": "Kevin Trudeau's rule for chips: flip the bag over before you eat them.\n\nOn the US Doritos Nacho Cheese label, monosodium glutamate (MSG) is printed right there in the ingredient list. Kevin calls MSG an excitotoxin and says it makes you crave more of whatever you're eating.\n\nHis advice: if the label says monosodium glutamate, put it back. He says most fast food is loaded with it too.\n\nWhat's the first thing you check on a label?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #msg #readthelabel #foodtruth #wbdaily #healthtruth",
    "hook": "What your Doritos label admits",
    "bytes": 34517878,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-08T09:02",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/29008533292135171/",
+    "instagram": "https://www.instagram.com/reel/Dfe8DyRiQHG/",
+    "youtube": "https://youtube.com/shorts/UICKNYzD5GQ"
+   },
+   "caption_at_post": "Kevin Trudeau's rule for chips: flip the bag over before you eat them.\n\nOn the US Doritos Nacho Cheese label, monosodium glutamate (MSG) is printed right there in the ingredient list. Kevin calls MSG an excitotoxin and says it makes you crave more of whatever you're eating.\n\nHis advice: if the label says monosodium glutamate, put it back. He says most fast food is loaded with it too.\n\nWhat's the first thing you check on a label?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #msg #readthelabel #foodtruth #wbdaily #healthtruth",
+   "posted_at": "2026-11-08T09:12"
   },
   {
    "file": "KT_REALVITC/01_WHY-YOUR-VITAMIN-C-ISNT-REAL_108s.mp4",
