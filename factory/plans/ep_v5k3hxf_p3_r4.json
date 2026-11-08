@@ -1,0 +1,28 @@
+{
+ "source": "v5k3hxf.mp4",
+ "brand": "KT_ARTERYFACTSR4",
+ "test": false,
+ "note": "2026-11-08 - 'The Three Causes Of Scarred Arteries' (Rumble v5k3hxf). Weekly agent, WB health lane. Second chance re-cut: ep_v5k3hxf_p3/CHECK-YOUR-CAR-NOT-YOUR-BODY ended mid-thought on 'the same way' - re-found the payoff further into the same sentence, before the cholesterol-medication line (which carried a harsh word).",
+ "clips": [
+  {
+   "slug": "WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT",
+   "retry_of": "ep_v5k3hxf_p3/CHECK-YOUR-CAR-NOT-YOUR-BODY",
+   "in": 1651.6,
+   "out": 1700.2,
+   "start_words": "I bring my car into",
+   "end_words": "I'm not going to change anything",
+   "hook": ["What your car gets", "body doesn't"],
+   "send": "A son sends this to a dad who skips checkups: the habit Kevin swears by that most people never do, out of quiet anxiety for him.",
+   "trial_hooks": [
+    ["Five car checks", "one body check"],
+    ["Your doctor waits for symptoms"],
+    ["Full car checkups", "zero body ones"],
+    ["You check tires", "not arteries"],
+    ["Kevin checks before", "it's too late"],
+    ["Kevin Trudeau's prevention rule"],
+    ["Your car's safer", "than your body"]
+   ],
+   "caption": "Kevin Trudeau brings his car in for a full inspection even when nothing is wrong - brakes, fluids, bearings, tire pressure, every single thing checked before it ever breaks down.\n\nThen he asks the obvious question: why don't we check our bodies the same way?\n\nMost doctors, he says, only run a deeper test - like checking your arteries - once you already have symptoms: chest pain, shortness of breath, numbness. By then you're reacting, not getting ahead of it.\n\nKevin's own approach: check now, while everything still looks fine, so you actually know where you stand.\n\nWhen's the last time you got checked before something was wrong?\n\n#kevintrudeau #prevention #heartcheck #healthtruth #wbdaily #readthelabel"
+  }
+ ]
+}
