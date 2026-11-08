@@ -1691,6 +1691,96 @@
     "Why Advil raises",
     "your blood pressure"
    ]
+  },
+  "ep_v5kwynq_p2_r3/WHY-ADVIL-RAISES-YOUR-PRESSURE": {
+   "plan": "ep_v5kwynq_p2_r3",
+   "source": "v5kwynq.mp4",
+   "brand": "KT_BPHABITSR3",
+   "tries": 3,
+   "why": [
+    "FAIL 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4: [FAIL] 01_WHY-ADVIL-RAISES-YOUR-PRESSURE_59s.mp4              16 captions vs the sound  median -0.00s  worst-10% 0.13s  | words captioned 100%  UNCAPTIONED SPEECH [(33.6, 35.3), (44.6, 46.3)]"
+   ],
+   "slug": "WHY-ADVIL-RAISES-YOUR-PRESSURE",
+   "in": 27.0,
+   "out": 82.5,
+   "start_words": "Let's talk about some",
+   "end_words": "Unique E is one of them",
+   "hook": [
+    "Why Advil raises",
+    "your blood pressure"
+   ]
+  },
+  "ep_v6rjcpv_p2/WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN": {
+   "plan": "ep_v6rjcpv_p2",
+   "source": "v6rjcpv.mp4",
+   "brand": "KT_BRAINHACKS",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN_44s.mp4: ends off the planned words: plan ends 'growth of the hippocampus', clip ends 'were going to talk about today'"
+   ],
+   "slug": "WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN",
+   "in": 2341.0,
+   "out": 2386.0,
+   "start_words": "Listening to the sounds",
+   "end_words": "growth of the hippocampus",
+   "hook": [
+    "How nature sounds",
+    "calm your brain"
+   ]
+  },
+  "ep_v6u9yxd_p3_r2/WHY-YOURE-LOW-ON-VITAMIN-D": {
+   "plan": "ep_v6u9yxd_p3_r2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_SUNGAPR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHY-YOURE-LOW-ON-VITAMIN-D_41s.mp4: ends off the planned words: plan ends 'not taking the right supplements', clip ends 'the right foods theyre not ta'"
+   ],
+   "slug": "WHY-YOURE-LOW-ON-VITAMIN-D",
+   "in": 1653.9,
+   "out": 1696.5,
+   "start_words": "What about DHEA",
+   "end_words": "not taking the right supplements",
+   "hook": [
+    "Why you're deficient",
+    "in vitamin D"
+   ]
+  },
+  "ep_v6y4es4_p3/THE-FLUORIDE-SCIENCE-SPLIT": {
+   "plan": "ep_v6y4es4_p3",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_RIGHTFILE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_THE-FLUORIDE-SCIENCE-SPLIT_43s.mp4` - opens mid-sentence on \"science\"; phrase scrambled around \"this trend toward this\"; word repeated after one: \"science this science\""
+   ],
+   "slug": "THE-FLUORIDE-SCIENCE-SPLIT",
+   "in": 1223.5,
+   "out": 1274.0,
+   "start_words": "Science is not better",
+   "end_words": "what science do you even follow",
+   "hook": [
+    "Why your water science",
+    "is split"
+   ]
+  },
+  "ep_v6y4es4_p3/THE-FUEL-THAT-BEATS-BRAIN-FOG": {
+   "plan": "ep_v6y4es4_p3",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_RIGHTFILE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_THE-FUEL-THAT-BEATS-BRAIN-FOG_44s.mp4` - word repeated after one: \"use I use\""
+   ],
+   "slug": "THE-FUEL-THAT-BEATS-BRAIN-FOG",
+   "in": 2098.0,
+   "out": 2144.0,
+   "start_words": "I use something to",
+   "end_words": "difficult to make money",
+   "hook": [
+    "What your brain fog",
+    "needs"
+   ]
   }
  },
  "attempts": {
@@ -1709,7 +1799,8 @@
   "ep_v6pdgp9_p2_r2": 2,
   "ep_v6u9yxd_p3": 2,
   "ep_v5kwynq_p2_r2": 2,
-  "ep_v5kwynq_p2_r3": 1,
-  "ep_v6u9yxd_p3_r2": 1
+  "ep_v5kwynq_p2_r3": 2,
+  "ep_v6u9yxd_p3_r2": 2,
+  "ep_v5k3hxf_p3_r4": 1
  }
 }

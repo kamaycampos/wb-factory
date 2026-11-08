@@ -653,5 +653,119 @@
    }
   ],
   "posted": null
+ },
+ "KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE": {
+  "clip": "KT_RIGHTFILE/01_THE-KEVIN-WAS-RIGHT-FILE_39s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V1.mp4",
+    "hook": [
+     "Three warnings,",
+     "all proven true"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V2.mp4",
+    "hook": [
+     "The FDA knew too"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V3.mp4",
+    "hook": [
+     "Called a liar,",
+     "proven right"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V4.mp4",
+    "hook": [
+     "What else did he predict"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V5.mp4",
+    "hook": [
+     "Kevin's warning,",
+     "dye banned"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V6.mp4",
+    "hook": [
+     "Kevin Trudeau called it first"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILE__THE-KEVIN-WAS-RIGHT-FILE__V7.mp4",
+    "hook": [
+     "Banned decades after he said it"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
+ },
+ "KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN": {
+  "clip": "KT_BRAINHACKS/01_WHAT-MUSIC-DOES-TO-YOUR-BRAIN_98s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V1.mp4",
+    "hook": [
+     "100 plants,",
+     "one dead room"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V2.mp4",
+    "hook": [
+     "Rock music killed the plants"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V3.mp4",
+    "hook": [
+     "Baroque music brought plants back"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V4.mp4",
+    "hook": [
+     "What silence can't do"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V5.mp4",
+    "hook": [
+     "Scientists tested two greenhouses"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V6.mp4",
+    "hook": [
+     "Kevin Trudeau's favorite music study"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BRAINHACKS__WHAT-MUSIC-DOES-TO-YOUR-BRAIN__V7.mp4",
+    "hook": [
+     "Music brought dead plants back"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
  }
 }
