@@ -390,7 +390,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V2.mp4",
@@ -400,7 +400,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V3.mp4",
@@ -410,7 +410,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V4.mp4",
@@ -420,7 +420,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V5.mp4",
@@ -430,7 +430,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V6.mp4",
@@ -440,7 +440,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_REALVITC__WHY-YOUR-VITAMIN-C-ISNT-REAL__V7.mp4",
@@ -448,12 +448,12 @@
      "Called insane for",
      "testing a seed"
     ],
-    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'code': 10, 'type': 'OAuthException', 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    }
   ],
-  "posted": null
+  "posted": "2026-11-08T17:50"
  },
  "KT_NUTRIENTGAPR2__WHY-SUPPLEMENTS-DONT-REPLACE-FOOD": {
   "clip": "KT_NUTRIENTGAPR2/01_WHY-SUPPLEMENTS-DONT-REPLACE-FOOD_52s.mp4",
