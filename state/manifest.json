@@ -1424,7 +1424,11 @@
    "bytes": 55771088,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-10T17:25",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BRAINHACKS/01_WHAT-MUSIC-DOES-TO-YOUR-BRAIN_98s.mp4",
@@ -1433,7 +1437,11 @@
    "bytes": 66382522,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-11T08:22",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_RIGHTFILE/01_THE-KEVIN-WAS-RIGHT-FILE_39s.mp4",
@@ -1442,7 +1450,11 @@
    "bytes": 27650461,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-11T11:30",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_RIGHTFILE/02_THE-FAKE-ORGANIC-OIL-TRICK_38s.mp4",
@@ -1451,7 +1463,11 @@
    "bytes": 23429299,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-10T19:39",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
