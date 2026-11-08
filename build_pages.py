@@ -224,7 +224,8 @@ def board(cs):
         # ticked off with Copy came back 20 minutes later under a new id.
         cid = "t" + hashlib.sha1(f.encode()).hexdigest()[:16]
         # The clip's own file, to save and post by hand (Facebook while it is manual).
-        dl = (f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', '')}/releases/download/media/"
+        dl = (f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', '')}/releases/download/"
+              f"{c.get('media_tag') or 'media'}/"
               + f.replace("/", "--"))
         # The picture is the point: he is holding a phone with a clip in the
         # TikTok inbox and needs to know THIS caption belongs to THAT video.

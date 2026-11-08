@@ -128,9 +128,10 @@ def main():
     owner = os.environ["GH_REPO"]                # e.g. kamaycampos/wb-factory
     tag = os.environ.get("MEDIA_TAG", "media")
 
-    def media_url(rel):
-        return (f"https://github.com/{owner}/releases/download/{tag}/"
-                + rel.replace("/", "--"))
+    import media_store                                      # noqa: E402
+
+    def media_url(rel):                                     # media_store.py, 7 Nov 2026
+        return media_store.url(owner, media_store.tag_for(rel) if tag == "media" else tag, rel)
     engine.media_url = media_url
     _CTX[:] = [engine, poster, media_url]           # trials.py runs after the posting pass
 
