@@ -596,49 +596,70 @@
     "hook": [
      "How LDL blocks",
      "your own arteries"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V2.mp4",
     "hook": [
      "The cholesterol villain",
      "nobody explains right"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V3.mp4",
     "hook": [
      "What cold feet",
      "reveal about you"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V4.mp4",
     "hook": [
      "What your doctor's",
      "cholesterol chart skips"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V5.mp4",
     "hook": [
      "How blocked arteries",
      "end in attacks"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'code': 10, 'type': 'OAuthException', 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V6.mp4",
     "hook": [
      "Kevin Trudeau explains",
      "how arteries clog"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V7.mp4",
     "hook": [
      "Cold feet now,",
      "heart attack later"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null

@@ -1380,12 +1380,26 @@
    "caption": "Kevin Trudeau's view: your doctor's cholesterol story goes like this. LDL cholesterol attaches to the artery wall and slowly blocks the flow of blood.\n\nWhen that flow slows, the whole body feels it - cold feet, a cut that stays open too long, erectile dysfunction, brain fog, trouble sleeping, weight gain, and at the far end, a heart attack so complete the artery is blocked.\n\nThat's the chain doctors describe before they reach for a prescription pad.\n\nNotice any of these in yourself?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth",
    "hook": "What clogs your blood vessels",
    "bytes": 92351544,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - sexual health (state/tiktok_avoid.json)"
+   },
    "scheduled_at": "2026-11-09T08:45",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1870767677589007/",
+    "instagram": "https://www.instagram.com/reel/Dfhe7lUAI77/",
+    "youtube": "https://youtube.com/shorts/YCaR4VHMkC0"
+   },
+   "caption_at_post": "Kevin Trudeau's view: your doctor's cholesterol story goes like this. LDL cholesterol attaches to the artery wall and slowly blocks the flow of blood.\n\nWhen that flow slows, the whole body feels it - cold feet, a cut that stays open too long, erectile dysfunction, brain fog, trouble sleeping, weight gain, and at the far end, a heart attack so complete the artery is blocked.\n\nThat's the chain doctors describe before they reach for a prescription pad.\n\nNotice any of these in yourself?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth",
+   "posted_at": "2026-11-09T08:55"
   },
   {
    "file": "KT_SCIENCESAYS/01_WHOSE-SCIENCE-ON-YOUR-TAP-WATER_55s.mp4",
