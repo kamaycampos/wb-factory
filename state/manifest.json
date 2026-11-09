@@ -1559,7 +1559,11 @@
    "bytes": 69938698,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-12T08:27",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_CALMRESET/02_THE-OXYGEN-TRICK-FOR-YOUR-BODY_85s.mp4",
@@ -1568,7 +1572,11 @@
    "bytes": 67849297,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-11T17:31",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_RIGHTFILER3/01_THE-FLUORIDE-SCIENCE-SPLIT_36s.mp4",
@@ -1577,7 +1585,11 @@
    "bytes": 24751571,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-11T19:58",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
