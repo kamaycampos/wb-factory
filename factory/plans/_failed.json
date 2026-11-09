@@ -1799,6 +1799,60 @@
     "What your car gets",
     "body doesn't"
    ]
+  },
+  "ep_v5ic3lf_p5/WHAT-CORN-HIDES-ON-A-LABEL": {
+   "plan": "ep_v5ic3lf_p5",
+   "source": "v5ic3lf.mp4",
+   "brand": "KT_HIDDENCORN",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-CORN-HIDES-ON-A-LABEL_87s.mp4: ends off the planned words: plan ends 'you've been lied to', clip ends 'food with artificial sweeteners is because'"
+   ],
+   "slug": "WHAT-CORN-HIDES-ON-A-LABEL",
+   "in": 156.0,
+   "out": 245.6,
+   "start_words": "Anything that has the",
+   "end_words": "you've been lied to",
+   "hook": [
+    "5 corn names",
+    "on your label"
+   ]
+  },
+  "ep_v6y4es4_p3_r2/THE-FLUORIDE-SCIENCE-SPLIT": {
+   "plan": "ep_v6y4es4_p3_r2",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_RIGHTFILER2",
+   "tries": 2,
+   "why": [
+    "drop KT_RIGHTFILER2/THE-FLUORIDE-SCIENCE-SPLIT: hook - 794px wide at 44px - over the 780px safe zone, will be cut off on a phone"
+   ],
+   "slug": "THE-FLUORIDE-SCIENCE-SPLIT",
+   "in": 1237.84,
+   "out": 1277.9,
+   "start_words": "People say follow the science",
+   "end_words": "science is not better than nature",
+   "hook": [
+    "Why is fluoride",
+    "banned almost everywhere?"
+   ]
+  },
+  "ep_v71ktjy_p2/WHY-YOUR-VITAMIN-STAYS-THE-SAME": {
+   "plan": "ep_v71ktjy_p2",
+   "source": "v71ktjy.mp4",
+   "brand": "KT_ROTATIONFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-VITAMIN-STAYS-THE-SAME_42s.mp4` - word repeated after one: \"day 1 day\"; word repeated after one: \"day 2 day\""
+   ],
+   "slug": "WHY-YOUR-VITAMIN-STAYS-THE-SAME",
+   "in": 4066.5,
+   "out": 4111.4,
+   "start_words": "Why don't you make",
+   "end_words": "on the planet does this",
+   "hook": [
+    "Why your vitamin",
+    "stays the same"
+   ]
   }
  },
  "attempts": {
@@ -1820,7 +1874,7 @@
   "ep_v5kwynq_p2_r3": 2,
   "ep_v6u9yxd_p3_r2": 2,
   "ep_v5k3hxf_p3_r4": 2,
-  "ep_v5ic3lf_p5": 1,
-  "ep_v6y4es4_p3_r2": 1
+  "ep_v5ic3lf_p5": 2,
+  "ep_v6y4es4_p3_r2": 2
  }
 }
