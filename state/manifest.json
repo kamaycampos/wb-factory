@@ -1404,12 +1404,26 @@
    "caption": "Kevin Trudeau's question: whose science are we actually following, part two.\n\nHis example: red dye number three. He says researchers found evidence it causes health problems - enough that it is banned as toxic, in food sold to humans, almost everywhere except America.\n\nHis point isn't the dye alone. It's that 'there's no science' and 'the science proves it's dangerous' can't both be true of the same ingredient.\n\nKevin Trudeau's question for you: next time you read a label, whose science is on it?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #reddye #foodlabels #healthtruth #wbdaily #readthelabel",
    "hook": "Why this food dye is banned",
    "bytes": 19361467,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-08T20:26",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/975913455131470/",
+    "instagram": "https://www.instagram.com/reel/DfgKCYZGY9A/",
+    "youtube": "https://youtube.com/shorts/yVYPvNk8uJc"
+   },
+   "caption_at_post": "Kevin Trudeau's question: whose science are we actually following, part two.\n\nHis example: red dye number three. He says researchers found evidence it causes health problems - enough that it is banned as toxic, in food sold to humans, almost everywhere except America.\n\nHis point isn't the dye alone. It's that 'there's no science' and 'the science proves it's dangerous' can't both be true of the same ingredient.\n\nKevin Trudeau's question for you: next time you read a label, whose science is on it?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #reddye #foodlabels #healthtruth #wbdaily #readthelabel",
+   "posted_at": "2026-11-08T20:32"
   },
   {
    "file": "KT_FASTTRUTH/01_THE-NUMBER-ONE-KILLER-IN-AMERICA_65s.mp4",
