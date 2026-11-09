@@ -1,0 +1,17 @@
+{
+  "why": "8 Nov 2026. Kamay checked @wb_organics: 16 of 53 clips sent to TikTok were taken down there (he posted them, TikTok banned them, he deleted them) while Instagram, Facebook and YouTube kept every one. These five topic groups caught 10 of the 16 and only 1 of 37 live clips (McDonald's fries, 16 views). A clip whose hook or caption matches still posts everywhere else; it just never goes to the TikTok inbox. 'supplement' was tested and NOT added: it also caught the two best TikTok clips (1,204 and 455 views).",
+  "evidence": {
+    "mental health": "3 of 3 removed: antidepressants vs sugar pills, red dye and depression, the walk that beats anxiety",
+    "pork / kosher": "3 of 3 removed: pork made him sluggish, cutting pork in Munich, the kosher fish rule",
+    "GMO": "2 of 2 removed: the pig gene in the tomato, Doritos ('genetically organized organisms')",
+    "sexual health": "1 of 1 removed: Viagra / prostate (six essentials)",
+    "junk-food brand": "Doritos removed; McDonald's fries live at 16 views"
+  },
+  "topics": {
+    "mental health": "depress|anxiet|antidepress|prozac|psychiat|mental illness|suicid",
+    "pork / kosher": "\\bpork|kosher|shellfish",
+    "GMO": "genetically|\\bgmo|pig gene",
+    "sexual health": "viagra|prostate|erecti|libido",
+    "junk-food brand": "doritos|mcdonald|coca-cola|\\bcoke\\b|pepsi|cheetos|kraft|nestl"
+  }
+}

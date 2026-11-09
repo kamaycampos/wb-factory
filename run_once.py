@@ -65,6 +65,8 @@ def tiktok_failed(status):
     # more pending shares to the pile that caused it.
     if "spam_risk" in s:
         return False
+    if s.startswith("not for tiktok"):      # a topic TikTok takes down - see tiktok_avoid.json
+        return False
     return not ("inbox" in s or "processing" in s)
 
 

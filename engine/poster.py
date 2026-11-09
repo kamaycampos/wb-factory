@@ -1417,6 +1417,30 @@ def backfill_covers(clips, media, limit=5):
     return done
 
 
+# TIKTOK TAKES DOWN TOPICS THE OTHER THREE KEEP (8 Nov 2026).
+# Kamay: "I been having lots of clips banned in tiktok". 16 of 53 WB clips were
+# removed on TikTok only. The topics that got them removed live in
+# state/tiktok_avoid.json with the evidence; a clip that matches still posts to
+# Instagram, Facebook and YouTube, it just never goes to the TikTok inbox - a
+# takedown is a strike on the account, a skipped clip costs nothing. No file,
+# no gate (KT and the kit carry none).
+_AVOID = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                      "state", "tiktok_avoid.json")
+
+
+def tiktok_risk(clip):
+    """The avoided topic this clip's hook or caption touches, or ''."""
+    try:
+        topics = json.load(open(_AVOID)).get("topics", {})
+    except (OSError, ValueError):
+        return ""
+    text = ((clip.get("hook") or "") + " " + (clip.get("caption") or "")).lower()
+    for name, rx in topics.items():
+        if re.search(rx, text):
+            return name
+    return ""
+
+
 def publish(clip, path, public_url, only=None):
     """Run every enabled adapter. Returns (status_by_platform, link_by_platform).
 
@@ -1452,6 +1476,11 @@ def publish(clip, path, public_url, only=None):
         if name in off:
             out[name] = clip.get("status", {}).get(name) or "off for this account"
             continue
+        if name == "tiktok" and not (only and name not in only):
+            risk = tiktok_risk(clip)
+            if risk:
+                out[name] = f"not for TikTok - {risk} (state/tiktok_avoid.json)"
+                continue
         if name != "facebook" and str(out.get("facebook", "")).startswith(
                 "DUPLICATE"):
             out[name] = "skipped - already published, see Facebook"
