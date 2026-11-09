@@ -355,6 +355,25 @@ ASK_LINES = [
 DEFAULT_OFFER = "https://your-affiliate-link"
 
 
+# MORE DOORS THAN ONE (9 Nov 2026). Kamay: push Kevin's YouTube page (30-day cookie: credit
+# on anything bought from his YouTube), the free Herpes Cure ebook and Nuggets of Gold.
+# Lines and links live in state/extra_links.json; only where a link clicks.
+_EXTRA = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "state", "extra_links.json")
+
+
+def extra_link_lines(platform, seed=""):
+    try:
+        d = json.load(open(_EXTRA))
+    except (OSError, ValueError):
+        return []
+    cfg, links = d.get(platform) or {}, d.get("links") or {}
+    out = [l.format(**links) for l in cfg.get("always", [])]
+    rot = cfg.get("rotate") or []
+    if rot:
+        out.append(rot[sum(map(ord, seed or "")) % len(rot)].format(**links))
+    return out
+
+
 # THE ONLY TRUE OFFER (1 Nov 2026). Kamay: "you made up those offers, in every other clip you
 # are offering different stuff that we do not have." The planner wrote its own promise into
 # 9 posted WB captions ("the label cheat sheet", "our filter setup", "the oils we keep in our
@@ -556,6 +575,10 @@ def caption_for(platform, caption, brand="", keyword="", ask="", variant=None):
     # question post used to leave it out there.
     if platform == "youtube" and url and url not in (cta or "") and cred_prefix(brand) != "AR":
         cta = ((cta or "") + f"\n\nGet access here: {url}").strip()
+    if platform in ("youtube", "facebook") and cred_prefix(brand) != "AR":
+        more = [l for l in extra_link_lines(platform, cap) if l not in (cta or "")]
+        if more:
+            cta = ((cta or "") + "\n\n" + "\n".join(more)).strip()
     if mine_only:
         body = [soften(l) for l in body]
     if not (cta or "").strip():
