@@ -542,49 +542,70 @@
     "hook": [
      "How many countries",
      "already ban this"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V2.mp4",
     "hook": [
      "Why fluoride survives",
      "in your water"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V3.mp4",
     "hook": [
      "What other countries",
      "banned from water"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V4.mp4",
     "hook": [
      "What your water",
      "report leaves out"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V5.mp4",
     "hook": [
      "How Switzerland's science",
      "differs from ours"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V6.mp4",
     "hook": [
      "Kevin Trudeau asks",
      "whose science counts"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_SCIENCESAYS__WHOSE-SCIENCE-ON-YOUR-TAP-WATER__V7.mp4",
     "hook": [
      "The ban everyone",
      "ignores at home"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    }
   ],
   "posted": null
