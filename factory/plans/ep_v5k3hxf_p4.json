@@ -1,0 +1,19 @@
+{"source": "v5k3hxf.mp4", "brand": "KT_HEARTSCAN", "test": false,
+ "note": "2026-11-09 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). SECOND PASS by weekly agent: one new arc from the Harvard-cardiologist story (1496-1647s), the stretch right before the already-cut CHECK-YOUR-CAR-NOT-YOUR-BODY/WHAT-YOUR-CAR-GETS-THAT-YOUR-BODY-DOESNT pair (1652s+) - a different, concrete lesson (what tests actually find a blockage vs. a cholesterol number alone), not the car analogy those clips already cover. Ended on the second 'That's true' (1647.8), one line before 'Isn't that stupid?' - the only harsh word in this stretch. Checked the rest of the 20-cut episode: 683-992s is wall-to-wall 'stupid/idiot/idiots/moron/ignoramus' and is not usable at all; 1057-1180s is just the lead-in to the already-cut Vietnam/chlorine-tablets story (same lesson, skipped); nothing is left after 1764s but the outro.",
+ "clips": [
+  {"slug": "WHY-YOUR-DOCTOR-NEVER-SCANS-YOU", "in": 1496.3, "out": 1647.8,
+   "start_words": "I called up",
+   "end_words": "That's true",
+   "hook": ["The heart test", "your doctor skips"],
+   "trial_hooks": [
+    ["3 tests that", "actually find blockages"],
+    ["A cholesterol number", "isn't a blockage"],
+    ["What a CAT", "scan would show"],
+    ["What you're missing:", "a vascular test"],
+    ["Kevin Trudeau's own", "cardiologist story"],
+    ["No symptoms, no", "scan, he says"],
+    ["One number they", "check, three skip"]
+   ],
+   "send": "Someone just got a normal cholesterol test sends this to a parent who assumes that means their heart is fine - a little anxiety that the real test was never ordered.",
+   "caption": "Kevin Trudeau called a top Harvard-trained cardiologist and asked for a CAT scan with contrast, an ultrasound on his heart, and a full-body vascular test. No symptoms, just wanting to actually look.\n\nThe doctor's answer: insurance won't cover that without symptoms. Instead, he ran a cholesterol number - 225 - and wanted to prescribe a statin to bring it to 220.\n\nKevin Trudeau's question: does a cholesterol number tell you if you actually have a blockage? The doctor admitted it doesn't, and admitted those deeper tests only happen after someone already has chest pains or numbness.\n\nHas your doctor ever ordered anything beyond a cholesterol number?\n\n#kevintrudeau #hearthealth #cholesterol #wbdaily #healthtruth #checkyourself"}
+ ]}

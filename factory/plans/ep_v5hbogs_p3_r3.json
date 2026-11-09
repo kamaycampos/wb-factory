@@ -1,0 +1,20 @@
+{"source": "v5hbogs.mp4", "brand": "KT_PHARMAWATCHR3", "test": false,
+ "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 2, last chance): ep_v5hbogs_p3/THE-DRUG-COMPANIES-PAID-THEM-OFF (756-813) failed on 'phrase scrambled around \"these people making these\"' (Kevin's own aside about being in the room for these deals, right at 794.72 - no comma between the repeats, so the gate reads it as damage) and 'word repeated after one: \"Johnson & Johnson\"' - the company's own name is structurally X-&-X and the gate always flags it. Moved the end back to 'I've been in the rooms' (792.0), the clean clause right before the scramble, which also keeps the clip clear of the Johnson & Johnson line entirely. Moved the start forward past the 'are they just stupid?' quiz line (ends 748.16) to the next clean sentence, 'In some cases, yes' - in=749.2 keeps the 40s floor and sits just past the harsh-word lint's 8s lookback from that line.",
+ "clips": [
+  {"slug": "THE-DRUG-COMPANIES-PAID-THEM-OFF", "in": 749.2, "out": 792.0,
+   "retry_of": "ep_v5hbogs_p3/THE-DRUG-COMPANIES-PAID-THEM-OFF",
+   "start_words": "In some cases, yes",
+   "end_words": "I've been in the rooms",
+   "hook": ["Why drug companies", "get paid off"],
+   "trial_hooks": [
+    ["The no-show jobs", "regulators' kids get"],
+    ["What happens after", "FDA approval"],
+    ["It's like the", "mob, he says"],
+    ["Who really profits", "from FDA approval"],
+    ["Kevin Trudeau's claim:", "they knowingly lied"],
+    ["Paid off, then", "promoted, he says"],
+    ["10 years in prison", "for this"]
+   ],
+   "send": "Someone sends it to a friend who trusts every FDA-approved label without question - anger at being lied to for profit.",
+   "caption": "Kevin Trudeau's claim: drug and food companies often know a product isn't safe or effective, and take the money anyway.\n\nHis bigger claim: the people who approve those products sometimes see their own sons, daughters and relatives land high-paying jobs at those same companies afterward. \"It's like the mob,\" he says. \"That's how it works.\"\n\nHe says he's not guessing - he went to prison for 10 years for saying things like this on TV, and he says he knows it because he's been in the room.\n\nDoes knowing who signs off on 'safe' change how you read a label?\n\n#kevintrudeau #fda #pharmaceutical #healthtruth #wbdaily #consumerhealth"}
+ ]}

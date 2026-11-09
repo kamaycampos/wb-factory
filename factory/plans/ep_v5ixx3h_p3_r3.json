@@ -1,0 +1,20 @@
+{"source": "v5ixx3h.mp4", "brand": "KT_WHOLEFOODR3", "test": false,
+ "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 1): ep_v5ixx3h_p3/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN (1544-1655) failed on 'word repeated: \"kamu kamu,\"' - Kevin names the superfruit camu camu, and the word-repeat gate only checks punctuation on the FIRST of a repeated pair, not the second, so the real product name (first 'kamu' bare, second 'kamu,' with the list-comma) still trips it. It sits inside a single list sentence with no edge that keeps the name and drops the flag (confirmed again by the 6 Nov agent's note on this same clip). Moved past the whole ingredient-list sentence entirely: new start is the next clean sentence, 'There should be herbs,' and the clip now carries the GMO/pesticide/irradiation warning through to the original payoff, 'what we live on.'",
+ "clips": [
+  {"slug": "WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN", "in": 1563.0, "out": 1655.0,
+   "retry_of": "ep_v5ixx3h_p3/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN",
+   "start_words": "There should be herbs",
+   "end_words": "what we live on",
+   "hook": ["Why irradiation ruins", "your supplement's nutrients"],
+   "trial_hooks": [
+    ["GMO seeds grow", "your cheap supplement"],
+    ["The process that", "ruins real nutrients"],
+    ["What radiation does", "to your vitamins"],
+    ["What's missing from", "most supplements today"],
+    ["Kevin Trudeau's warning:", "irradiated ingredients"],
+    ["Pesticides, then radiation,", "then your pill"],
+    ["The step that", "ruins a superfood"]
+   ],
+   "send": "Someone sends this to the friend who just bought a cheap supplement off Amazon - anxiety that the pill they're taking daily might already be stripped of what it promised.",
+   "caption": "Kevin Trudeau's warning about cheap supplements: the plants inside are often grown from genetically modified seeds, sprayed with pesticides and herbicides, then irradiated before they ship.\n\nHis point: irradiation means real radiation hits the plant, and it wipes out the enzymes that made it worth taking in the first place. He says most of what's in a cheap bottle is already garbage by the time it's ground up.\n\nHis contrast: a true superfood is nutrient dense - a small amount carries real vitamins, minerals and enzymes, because food is what we live on.\n\nComment HEALTH for what a clean ingredient list looks like.\n\n#kevintrudeau #supplements #readthelabel #wbdaily #healthtruth #naturalhealth"}
+ ]}

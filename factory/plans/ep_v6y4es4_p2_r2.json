@@ -1,0 +1,20 @@
+{"source": "v6y4es4.mp4", "brand": "KT_NATURALFIXR4", "test": false,
+ "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 1): ep_v6y4es4_p2/THE-SUPPLEMENT-JACK-LALANNE-TOOK (1694.08-1747.44) opened mid-sentence ('don't know that', missing the 'People' before it) and ran through the natural stutters 'I just, I just throw' and 'all this, all this beef liver' - real emphasis but the comma between them doesn't survive into the burned caption text, so the repeat gate still catches it regardless. Moved the start to the previous clean sentence, 'I don't take protein shakes' (9-10s border shared with ep_v6y4es4_p2's THE-OIL-CHANGE-YOUR-BODY-NEEDS, 1606-1680s, which is allowed), and pulled the end back to 'and B vitamins' - the sentence right before the stutter clause - so the whole stutter stretch falls outside the cut.",
+ "clips": [
+  {"slug": "THE-SUPPLEMENT-JACK-LALANNE-TOOK", "in": 1670.0, "out": 1711.04,
+   "retry_of": "ep_v6y4es4_p2/THE-SUPPLEMENT-JACK-LALANNE-TOOK",
+   "start_words": "I don't take protein shakes",
+   "end_words": "all the nutrients in it and B vitamins",
+   "hook": ["What LaLanne's secret", "food: beef liver"],
+   "trial_hooks": [
+    ["The fitness icon's", "secret: organ meat"],
+    ["What LaLanne ate", "instead of protein"],
+    ["Kevin Trudeau's friend", "skipped protein shakes"],
+    ["No vegan took", "more beef liver"],
+    ["Why his friend", "never drank shakes"],
+    ["The fitness icon's", "unusual daily food"],
+    ["The wildest fact:", "beef liver daily"]
+   ],
+   "send": "Someone who just bought a tub of protein powder sends this to the friend who swears by whole foods - a little awe that a fitness icon skipped it for plain beef liver.",
+   "caption": "Kevin Trudeau doesn't take protein shakes - he says most aren't good for longevity. His example: Jack LaLanne, the fitness icon who was a friend of his.\n\nLaLanne wasn't a vegan. Kevin Trudeau's own words: the supplement LaLanne took almost every day was beef liver.\n\nOrgan meat carries nutrients and B vitamins that a processed shake doesn't. Kevin Trudeau's takeaway: real, whole food beats a manufactured substitute.\n\nWhat's actually in the supplement you take every morning?\n\n#kevintrudeau #jacklalanne #wholefood #organmeat #realfood #wbdaily"}
+ ]}

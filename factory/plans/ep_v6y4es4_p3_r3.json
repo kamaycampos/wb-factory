@@ -1,0 +1,20 @@
+{"source": "v6y4es4.mp4", "brand": "KT_RIGHTFILER3", "test": false,
+ "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 2, last chance): ep_v6y4es4_p3_r2/THE-FLUORIDE-SCIENCE-SPLIT was dropped at the hook-width gate - 'Why is fluoride / banned almost everywhere?' rendered 794px wide at 44px, over the 780px safe zone. Cause is plainly the long word 'everywhere' on line 2. Same cut, same edges, same facts - only the hook text is shortened so it fits.",
+ "clips": [
+  {"slug": "THE-FLUORIDE-SCIENCE-SPLIT", "in": 1237.84, "out": 1277.9,
+   "retry_of": "ep_v6y4es4_p3_r2/THE-FLUORIDE-SCIENCE-SPLIT",
+   "start_words": "People say follow the science",
+   "end_words": "science is not better than nature",
+   "hook": ["Why is fluoride", "banned in Europe?"],
+   "trial_hooks": [
+    ["Only 2 countries", "still fluoridate water"],
+    ["Regulators still allow", "fluoride in water"],
+    ["Most nations banned", "what we drink"],
+    ["What your water", "report leaves out"],
+    ["Kevin Trudeau's question:", "who's actually right?"],
+    ["Science changed its", "mind on fluoride"],
+    ["A gorilla's diet", "beats a lab"]
+   ],
+   "send": "A parent sends this to their partner before refilling the kitchen water filter - anger at being kept in the dark for decades.",
+   "caption": "Kevin Trudeau's question: if the science on fluoride is so settled, why do almost every other country's health agencies disagree with ours?\n\nHis claim: science has shown fluoride in drinking water is harmful enough that most nations stopped adding it, while the U.S. and New Zealand still do and call it safe.\n\nSame researchers, same data, two opposite conclusions. His own rule for sorting through claims like that: science keeps changing its mind. Real, whole food never does.\n\nWhich science are you supposed to follow?\n\n#kevintrudeau #fluoride #tapwater #wbdaily #healthtruth #realfood"}
+ ]}

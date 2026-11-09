@@ -1,0 +1,20 @@
+{"source": "v5hbogs.mp4", "brand": "KT_TALCFILER2", "test": false,
+ "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 1): ep_v5hbogs_p4/WHY-BABY-POWDER-LEFT-THE-SHELVES (531.5-579.6) opened on 'J&J, which is Johnson & Johnson, Johnson & Johnson files bankruptcy' - the company's own name is structurally 'X & X', and the repeat-word gate only checks the first two tokens for trailing punctuation, so it always flags a spoken 'Johnson & Johnson' no matter where the commas fall; that's also what 'word repeated after one: \"Johnson & Johnson\"' (reported twice) was. The next line, 'Johnson's Baby Powder. Johnson's Baby Powder.' repeats the SAME name but each occurrence ends on a full stop, which the gate does protect - so moved the start past the 'Johnson & Johnson' sentence to 'Do you remember this?', which leads straight into that safe repeat and the same payoff.",
+ "clips": [
+  {"slug": "WHY-BABY-POWDER-LEFT-THE-SHELVES", "in": 538.8, "out": 579.6,
+   "retry_of": "ep_v5hbogs_p4/WHY-BABY-POWDER-LEFT-THE-SHELVES",
+   "start_words": "Do you remember this?",
+   "end_words": "a lot of criminals",
+   "hook": ["What your bathroom", "label really says"],
+   "trial_hooks": [
+    ["The $10 billion", "talc settlement"],
+    ["Why it left", "store shelves quietly"],
+    ["What the FDA", "never admitted"],
+    ["The ingredient still", "in your bathroom"],
+    ["Kevin Trudeau's file:", "Johnson's Baby Powder"],
+    ["Pulled from shelves,", "never formally banned"],
+    ["The talc story", "nobody fully explained"]
+   ],
+   "send": "A parent sends it to whoever still has baby powder in the house - the fear of what else is sitting in the bathroom cabinet.",
+   "caption": "Kevin Trudeau's Kevin-Was-Right file: remember Johnson's Baby Powder? It's already off the market.\n\nHis point: it hasn't been formally banned by the FDA - it was pulled before that had to happen, after decades of talc lawsuits.\n\nHis view on the agencies that oversee products like this: plenty of people there are doing the job right, and some aren't - which is exactly why he says check the label yourself before you trust it.\n\nDo you know what's actually in the powder or lotion in your own bathroom cabinet?\n\n#kevintrudeau #talcum #foodlabels #consumersafety #healthtruth #wbhealth"}
+ ]}
