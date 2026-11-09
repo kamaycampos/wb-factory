@@ -854,5 +854,129 @@
    }
   ],
   "posted": null
+ },
+ "KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT": {
+  "clip": "KT_RIGHTFILER3/01_THE-FLUORIDE-SCIENCE-SPLIT_36s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V1.mp4",
+    "hook": [
+     "Only 2 countries",
+     "still fluoridate water"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V2.mp4",
+    "hook": [
+     "Regulators still allow",
+     "fluoride in water"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V3.mp4",
+    "hook": [
+     "Most nations banned",
+     "what we drink"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V4.mp4",
+    "hook": [
+     "What your water",
+     "report leaves out"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V5.mp4",
+    "hook": [
+     "Kevin Trudeau's question:",
+     "who's actually right?"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V6.mp4",
+    "hook": [
+     "Science changed its",
+     "mind on fluoride"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_RIGHTFILER3__THE-FLUORIDE-SCIENCE-SPLIT__V7.mp4",
+    "hook": [
+     "A gorilla's diet",
+     "beats a lab"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
+ },
+ "KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS": {
+  "clip": "KT_CALMRESET/01_THE-BREATHING-TRICK-FOR-STRESS_89s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V1.mp4",
+    "hook": [
+     "5 breaths that",
+     "calm your body"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V2.mp4",
+    "hook": [
+     "The nose trick",
+     "doctors don't mention"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V3.mp4",
+    "hook": [
+     "What 20 minutes",
+     "of this does"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V4.mp4",
+    "hook": [
+     "What you're missing:",
+     "a 5-breath reset"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V5.mp4",
+    "hook": [
+     "Kevin Trudeau's own",
+     "stress-reset routine"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V6.mp4",
+    "hook": [
+     "Breathe this way,",
+     "feel this fast"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_CALMRESET__THE-BREATHING-TRICK-FOR-STRESS__V7.mp4",
+    "hook": [
+     "The free fix",
+     "for stress, anxiety"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
  }
 }

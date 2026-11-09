@@ -1853,6 +1853,42 @@
     "Why your vitamin",
     "stays the same"
    ]
+  },
+  "ep_v5hbogs_p4_r2/WHY-BABY-POWDER-LEFT-THE-SHELVES": {
+   "plan": "ep_v5hbogs_p4_r2",
+   "source": "v5hbogs.mp4",
+   "brand": "KT_TALCFILER2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHY-BABY-POWDER-LEFT-THE-SHELVES_36s.mp4` - word repeated after one: \"Both in both\"; word repeated after one: \"criminals They're criminals\"; word repeated after one: \"they're criminals They're\""
+   ],
+   "slug": "WHY-BABY-POWDER-LEFT-THE-SHELVES",
+   "in": 538.8,
+   "out": 579.6,
+   "start_words": "Do you remember this?",
+   "end_words": "a lot of criminals",
+   "hook": [
+    "What your bathroom",
+    "label really says"
+   ]
+  },
+  "ep_v6y4es4_p2_r2/THE-SUPPLEMENT-JACK-LALANNE-TOOK": {
+   "plan": "ep_v6y4es4_p2_r2",
+   "source": "v6y4es4.mp4",
+   "brand": "KT_NATURALFIXR4",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_THE-SUPPLEMENT-JACK-LALANNE-TOOK_39s.mp4` - ends mid-thought on \"So he goes,\"; word repeated after one: \"who left who\""
+   ],
+   "slug": "THE-SUPPLEMENT-JACK-LALANNE-TOOK",
+   "in": 1670.0,
+   "out": 1711.04,
+   "start_words": "I don't take protein shakes",
+   "end_words": "all the nutrients in it and B vitamins",
+   "hook": [
+    "What LaLanne's secret",
+    "food: beef liver"
+   ]
   }
  },
  "attempts": {
@@ -1875,6 +1911,9 @@
   "ep_v6u9yxd_p3_r2": 2,
   "ep_v5k3hxf_p3_r4": 2,
   "ep_v5ic3lf_p5": 2,
-  "ep_v6y4es4_p3_r2": 2
+  "ep_v6y4es4_p3_r2": 2,
+  "ep_v5hbogs_p3_r3": 1,
+  "ep_v5ixx3h_p3_r3": 1,
+  "ep_v5k3hxf_p4": 1
  }
 }

@@ -1071,7 +1071,8 @@
      "What clogs",
      "your blood vessels"
     ],
-    "caption": "Kevin Trudeau's view: your doctor's cholesterol story goes like this. LDL cholesterol attaches to the artery wall and slowly blocks the flow of blood.\n\nWhen that flow slows, the whole body feels it - cold feet, a cut that stays open too long, erectile dysfunction, brain fog, trouble sleeping, weight gain, and at the far end, a heart attack so complete the artery is blocked.\n\nThat's the chain doctors describe before they reach for a prescription pad.\n\nNotice any of these in yourself? Comment HEALTH and we'll send you the questions worth asking your doctor first.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth"
+    "caption": "Kevin Trudeau's view: your doctor's cholesterol story goes like this. LDL cholesterol attaches to the artery wall and slowly blocks the flow of blood.\n\nWhen that flow slows, the whole body feels it - cold feet, a cut that stays open too long, erectile dysfunction, brain fog, trouble sleeping, weight gain, and at the far end, a heart attack so complete the artery is blocked.\n\nThat's the chain doctors describe before they reach for a prescription pad.\n\nNotice any of these in yourself? Comment HEALTH and we'll send you the questions worth asking your doctor first.\n\n#kevintrudeau #cholesterol #hearthealth #healthtruth #wbdaily #naturalhealth",
+    "locked": true
    }
   ]
  },
@@ -1088,7 +1089,8 @@
      "What's really inside",
      "your tap water"
     ],
-    "caption": "Kevin Trudeau's question: whose science are we actually following?\n\nHis point: the US says there's no proof fluoride in drinking water is harmful. Meanwhile, he says, Switzerland and more than a dozen other countries looked at the same question and banned it, calling it harmful to your health.\n\nSame water additive. Different science, different answer, depending on which country you live in.\n\nHis takeaway: before you trust 'follow the science,' ask whose science, and why it stops at the border.\n\n#kevintrudeau #tapwater #fluoride #healthtruth #wbdaily #askquestions"
+    "caption": "Kevin Trudeau's question: whose science are we actually following?\n\nHis point: the US says there's no proof fluoride in drinking water is harmful. Meanwhile, he says, Switzerland and more than a dozen other countries looked at the same question and banned it, calling it harmful to your health.\n\nSame water additive. Different science, different answer, depending on which country you live in.\n\nHis takeaway: before you trust 'follow the science,' ask whose science, and why it stops at the border.\n\n#kevintrudeau #tapwater #fluoride #healthtruth #wbdaily #askquestions",
+    "locked": true
    },
    {
     "slug": "THE-DYE-BANNED-EVERYWHERE-BUT-HERE",
@@ -1228,5 +1230,61 @@
   "brand": "KT_ROTATIONFIX",
   "note": "9 Nov 2026 - 'Kevin Trudeau: Banned, Censored, Still Speaking Truth.' (Rumble v71ktjy). Weekly agent, second pass.",
   "clips": []
+ },
+ "ep_v5hbogs_p4_r2": {
+  "source": "v5hbogs.mp4",
+  "brand": "KT_TALCFILER2",
+  "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 1): ep_v5hbogs_p4/WHY-BABY-POWDER-LEFT-THE-SHELVES (531.5-579.6) opened on 'J&J, which is Johnson & Johnson, Johnson & Johnson files bankruptcy' - the company's own name is structurally 'X & X', and the repeat-word gate only checks the first two tokens for trailing punctuation, so it always flags a spoken 'Johnson & Johnson' no matter where the commas fall; that's also what 'word repeated after one: \"Johnson & Johnson\"' (reported twice) was. The next line, 'Johnson's Baby Powder. Johnson's Baby Powder.' repeats the SAME name but each occurrence ends on a full stop, which the gate does protect - so moved the start past the 'Johnson & Johnson' sentence to 'Do you remember this?', which leads straight into that safe repeat and the same payoff.",
+  "clips": []
+ },
+ "ep_v6pdgp9_p3": {
+  "source": "v6pdgp9.mp4",
+  "brand": "KT_CALMRESET",
+  "note": "2026-11-09 - 'How To Beat Depression NOW!' (Rumble v6pdgp9). SECOND PASS by weekly agent: two new arcs from unused minutes - the breathing/meditation stretch (1676-1774s, right after THE-HERB-THAT-LIFTS-YOUR-MOOD ends and before THE-WALK-THAT-BEATS-ANXIETY begins) and the hyperbaric-oxygen/histamine stretch (1963-2047s, right after the exercise block and before the candida-cleanse recommendation). Skipped the candida-cleanse minutes (2047-2130s) - naming and endorsing a specific third-party practitioner's product by name reads as promoting something other than the one true WB offer. Also skipped the DNA/epigenetics/trauma stretch (1020-1500s) - it's a real teaching, but it's about mindset and inherited fear, not food, the body's chemistry, or how the food/drug industry works, so it reads as self-image territory (KT's lane, not WB's).",
+  "clips": [
+   {
+    "slug": "THE-BREATHING-TRICK-FOR-STRESS",
+    "in": 1684.74,
+    "out": 1774.03,
+    "hook": [
+     "What breathing does",
+     "for your stress"
+    ],
+    "caption": "Kevin Trudeau's simple stress reset: breathe in through the nose, out through the nose. Relax your face, relax your stomach, attention two inches below your belly button. Five breaths, several times a day.\n\nHis claim: your body relaxes and stress and anxiety go down.\n\nHis second tool is meditation - even five minutes, once a week, beats none. His own ideal is 20 minutes before breakfast and 20 minutes before dinner.\n\nWhich one would you actually try today, the breathing or the meditation?\n\n#kevintrudeau #stressrelief #breathing #meditation #wbdaily #healthtruth"
+   },
+   {
+    "slug": "THE-OXYGEN-TRICK-FOR-YOUR-BODY",
+    "in": 1962.82,
+    "out": 2047.65,
+    "hook": [
+     "What oxygen does",
+     "for your body"
+    ],
+    "caption": "Kevin Trudeau's next tool for stress: a hyperbaric chamber. His claim: flooding your body with oxygen - either at a medical-grade facility or a lower-pressure home unit - leaves you feeling better.\n\nHis next point: most people have a histamine issue and don't know it. Certain foods activate histamine, triggering mild allergic reactions that quietly wear you down.\n\nHis suggestion: a histamine scavenger or blocker can reduce that load.\n\nWhat's one food that always seems to leave you feeling off?\n\n#kevintrudeau #histamine #oxygentherapy #wbdaily #healthtruth #foodsensitivity"
+   }
+  ]
+ },
+ "ep_v6y4es4_p2_r2": {
+  "source": "v6y4es4.mp4",
+  "brand": "KT_NATURALFIXR4",
+  "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 1): ep_v6y4es4_p2/THE-SUPPLEMENT-JACK-LALANNE-TOOK (1694.08-1747.44) opened mid-sentence ('don't know that', missing the 'People' before it) and ran through the natural stutters 'I just, I just throw' and 'all this, all this beef liver' - real emphasis but the comma between them doesn't survive into the burned caption text, so the repeat gate still catches it regardless. Moved the start to the previous clean sentence, 'I don't take protein shakes' (9-10s border shared with ep_v6y4es4_p2's THE-OIL-CHANGE-YOUR-BODY-NEEDS, 1606-1680s, which is allowed), and pulled the end back to 'and B vitamins' - the sentence right before the stutter clause - so the whole stutter stretch falls outside the cut.",
+  "clips": []
+ },
+ "ep_v6y4es4_p3_r3": {
+  "source": "v6y4es4.mp4",
+  "brand": "KT_RIGHTFILER3",
+  "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 2, last chance): ep_v6y4es4_p3_r2/THE-FLUORIDE-SCIENCE-SPLIT was dropped at the hook-width gate - 'Why is fluoride / banned almost everywhere?' rendered 794px wide at 44px, over the 780px safe zone. Cause is plainly the long word 'everywhere' on line 2. Same cut, same edges, same facts - only the hook text is shortened so it fits.",
+  "clips": [
+   {
+    "slug": "THE-FLUORIDE-SCIENCE-SPLIT",
+    "in": 1238.62,
+    "out": 1275.07,
+    "hook": [
+     "Why is fluoride",
+     "banned in Europe?"
+    ],
+    "caption": "Kevin Trudeau's question: if the science on fluoride is so settled, why do almost every other country's health agencies disagree with ours?\n\nHis claim: science has shown fluoride in drinking water is harmful enough that most nations stopped adding it, while the U.S. and New Zealand still do and call it safe.\n\nSame researchers, same data, two opposite conclusions. His own rule for sorting through claims like that: science keeps changing its mind. Real, whole food never does.\n\nWhich science are you supposed to follow?\n\n#kevintrudeau #fluoride #tapwater #wbdaily #healthtruth #realfood"
+   }
+  ]
  }
 }
