@@ -599,7 +599,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V2.mp4",
@@ -609,7 +609,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V3.mp4",
@@ -619,7 +619,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V4.mp4",
@@ -629,7 +629,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V5.mp4",
@@ -639,7 +639,7 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V6.mp4",
@@ -647,9 +647,9 @@
      "Kevin Trudeau explains",
      "how arteries clog"
     ],
-    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'code': 10, 'type': 'OAuthException', 'error_subcode': 22070",
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    },
    {
     "rel": "_VARIANTS/VAR__KT_PLAQUEFACTS__WHAT-CLOGS-YOUR-BLOOD-VESSELS__V7.mp4",
@@ -659,10 +659,10 @@
     ],
     "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 22070",
     "id": null,
-    "tries": 2
+    "tries": 3
    }
   ],
-  "posted": null
+  "posted": "2026-11-09T14:32"
  },
  "KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER": {
   "clip": "KT_FASTTRUTH/02_HE-SURVIVED-12-DAYS-NO-WATER_128s.mp4",
