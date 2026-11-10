@@ -1626,7 +1626,11 @@
    "bytes": 23626336,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-12T11:36",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FOODSIGNAL/02_WHY-YOU-CANT-QUIT-THIS-DRUG_91s.mp4",
@@ -1635,7 +1639,11 @@
    "bytes": 52828749,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-12T19:48",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_PHARMAWATCHR3/01_THE-DRUG-COMPANIES-PAID-THEM-OFF_40s.mp4",
@@ -1644,7 +1652,11 @@
    "bytes": 35865573,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-13T11:24",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 4,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_PROOFCHECKR2/01_THE-DRUG-FDA-CALLED-SAFE_81s.mp4",
@@ -1653,7 +1665,11 @@
    "bytes": 52664698,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-13T08:50",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_PROOFCHECKR2/02_THE-STUDY-WITH-ONLY-8-KIDS_51s.mp4",
@@ -1662,7 +1678,11 @@
    "bytes": 30610644,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-12T17:14",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
