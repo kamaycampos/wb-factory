@@ -736,7 +736,10 @@
     "hook": [
      "Dr. Pompa's patient",
      "survived 35 days"
-    ]
+    ],
+    "status": "container failed 400: {'error': {'message': 'Application does not have permission for this action', 'code': 10, 'type': 'OAuthException', 'error_subcode': 22070",
+    "id": null,
+    "tries": 1
    },
    {
     "rel": "_VARIANTS/VAR__KT_FASTTRUTH__HE-SURVIVED-12-DAYS-NO-WATER__V6.mp4",
