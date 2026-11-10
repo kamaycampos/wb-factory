@@ -1118,7 +1118,8 @@
      "What you call",
      "isn't real fasting"
     ],
-    "caption": "Dr. Daniel Pompa told Kevin Trudeau that most people doing 'intermittent fasting' today aren't actually fasting at all.\n\nHis point: a real fast is water, maybe an herbal tea - nothing else. The juice fast, the liquid diet, the shortened eating window people call fasting now are modified versions, not the real thing.\n\nHis push: know which one you're actually doing before you count on the benefits of the other.\n\nWhich kind of 'fast' have you actually been doing?\n\n#kevintrudeau #fasting #guthealth #wbdaily #healthtruth #naturalhealth"
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau that most people doing 'intermittent fasting' today aren't actually fasting at all.\n\nHis point: a real fast is water, maybe an herbal tea - nothing else. The juice fast, the liquid diet, the shortened eating window people call fasting now are modified versions, not the real thing.\n\nHis push: know which one you're actually doing before you count on the benefits of the other.\n\nWhich kind of 'fast' have you actually been doing?\n\n#kevintrudeau #fasting #guthealth #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    },
    {
     "slug": "HE-SURVIVED-12-DAYS-NO-WATER",
@@ -1138,7 +1139,8 @@
      "Why your drugs",
      "are the danger"
     ],
-    "caption": "Dr. Daniel Pompa told Kevin Trudeau a number most people never hear.\n\nHis source: the former director of the FDA, who told Kevin while he was writing his own book that more people die from pharmaceutical drugs than from the diseases those drugs are prescribed for.\n\nHis one caution: never stop a medication on your own. His real point is simpler - ask your doctor what else could be driving the problem before adding another pill.\n\nHave you ever asked your doctor that question?\n\n#kevintrudeau #pharmaceuticals #healthtruth #wbdaily #naturalhealth #readthelabel"
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau a number most people never hear.\n\nHis source: the former director of the FDA, who told Kevin while he was writing his own book that more people die from pharmaceutical drugs than from the diseases those drugs are prescribed for.\n\nHis one caution: never stop a medication on your own. His real point is simpler - ask your doctor what else could be driving the problem before adding another pill.\n\nHave you ever asked your doctor that question?\n\n#kevintrudeau #pharmaceuticals #healthtruth #wbdaily #naturalhealth #readthelabel",
+    "locked": true
    }
   ]
  },
@@ -1284,6 +1286,77 @@
      "banned in Europe?"
     ],
     "caption": "Kevin Trudeau's question: if the science on fluoride is so settled, why do almost every other country's health agencies disagree with ours?\n\nHis claim: science has shown fluoride in drinking water is harmful enough that most nations stopped adding it, while the U.S. and New Zealand still do and call it safe.\n\nSame researchers, same data, two opposite conclusions. His own rule for sorting through claims like that: science keeps changing its mind. Real, whole food never does.\n\nWhich science are you supposed to follow?\n\n#kevintrudeau #fluoride #tapwater #wbdaily #healthtruth #realfood"
+   }
+  ]
+ },
+ "ep_v5hbogs_p3_r3": {
+  "source": "v5hbogs.mp4",
+  "brand": "KT_PHARMAWATCHR3",
+  "note": "2026-11-09 - SECOND CHANCE by weekly agent (tries 2, last chance): ep_v5hbogs_p3/THE-DRUG-COMPANIES-PAID-THEM-OFF (756-813) failed on 'phrase scrambled around \"these people making these\"' (Kevin's own aside about being in the room for these deals, right at 794.72 - no comma between the repeats, so the gate reads it as damage) and 'word repeated after one: \"Johnson & Johnson\"' - the company's own name is structurally X-&-X and the gate always flags it. Moved the end back to 'I've been in the rooms' (792.0), the clean clause right before the scramble, which also keeps the clip clear of the Johnson & Johnson line entirely. Moved the start forward past the 'are they just stupid?' quiz line (ends 748.16) to the next clean sentence, 'In some cases, yes' - in=749.2 keeps the 40s floor and sits just past the harsh-word lint's 8s lookback from that line.",
+  "clips": [
+   {
+    "slug": "THE-DRUG-COMPANIES-PAID-THEM-OFF",
+    "in": 751.06,
+    "out": 791.88,
+    "hook": [
+     "Why drug companies",
+     "get paid off"
+    ],
+    "caption": "Kevin Trudeau's claim: drug and food companies often know a product isn't safe or effective, and take the money anyway.\n\nHis bigger claim: the people who approve those products sometimes see their own sons, daughters and relatives land high-paying jobs at those same companies afterward. \"It's like the mob,\" he says. \"That's how it works.\"\n\nHe says he's not guessing - he went to prison for 10 years for saying things like this on TV, and he says he knows it because he's been in the room.\n\nDoes knowing who signs off on 'safe' change how you read a label?\n\n#kevintrudeau #fda #pharmaceutical #healthtruth #wbdaily #consumerhealth"
+   }
+  ]
+ },
+ "ep_v6tylxb_r2": {
+  "source": "v6tylxb.mp4",
+  "brand": "KT_PROOFCHECKR2",
+  "note": "10 Nov 2026 - re-cut of 'Government Lies Exposed: The 3 Reasons Why Your Wallet Is Shrinking' (Rumble v6tylxb): fixed edges on 2 clips that failed a build gate first time (tries 1). Weekly agent.",
+  "clips": [
+   {
+    "slug": "THE-DRUG-FDA-CALLED-SAFE",
+    "in": 1957.79,
+    "out": 2039.19,
+    "hook": [
+     "What the FDA",
+     "never tells you"
+    ],
+    "caption": "The FDA called Vioxx safe and effective. Companies spent hundreds of millions of dollars proving it in clinical trials, and the FDA studied the science and approved it.\n\nA few years later, 200,000 people who took Vioxx died. Further study found it barely worked better than a normal Tylenol.\n\nKevin Trudeau's take: this is why you can't take \"the science says\" at face value, especially about a drug you're about to swallow. Ask for the actual studies, not just the headline.\n\nWhat's one health claim you stopped believing after reading the actual research?\n\n#kevintrudeau #fda #bigpharma #questioneverything #healthfreedom #readthelabel"
+   },
+   {
+    "slug": "THE-STUDY-WITH-ONLY-8-KIDS",
+    "in": 2200.26,
+    "out": 2251.67,
+    "hook": [
+     "The sugar study",
+     "that fooled you"
+    ],
+    "caption": "A study claimed sugar doesn't make kids hyperactive. Kevin Trudeau went and found the actual research behind that headline.\n\nThe study used only eight children. Researchers gave them ten candy bars, then two more, and measured no change in activity level. Their conclusion: sugar has no effect.\n\nKevin Trudeau's take: the kids were already so sugar-jacked their activity couldn't go any higher. Of course two more candy bars changed nothing.\n\nThe next time a headline says \"studies show,\" ask how the study was actually built.\n\nWhat's a health headline you stopped trusting after reading the real study?\n\n#kevintrudeau #sugar #foodscience #readthestudy #healthfacts #questioneverything"
+   }
+  ]
+ },
+ "ep_v71ktjy_p3": {
+  "source": "v71ktjy.mp4",
+  "brand": "KT_FOODSIGNAL",
+  "note": "10 Nov 2026 - second pass on 'Kevin Trudeau: Banned, Censored, Still Speaking Truth.' (Rumble v71ktjy, 74 min, only ~5 min used by ep_v71ktjy/ep_v71ktjy_p2): two new health arcs from unused minutes - soy/corn and hormones, and the psychology of nicotine addiction. Weekly agent.",
+  "clips": [
+   {
+    "slug": "WHAT-SOY-DOES-TO-YOUR-TESTOSTERONE",
+    "in": 588.56,
+    "out": 629.49,
+    "hook": [
+     "What soy does",
+     "to your testosterone"
+    ],
+    "caption": "Kevin Trudeau says soy and high-fructose corn syrup are in nearly every processed food today, and both are tied to lower testosterone.\n\nHis reasoning: soy contains plant compounds that mimic estrogen, and a lot of corn syrup traces back to corn bred to fatten livestock fast.\n\nKevin Trudeau's take: that's part of why so many people feel tired with no drive, even when nothing else in their life changed.\n\nWorth a look next time you check a label: how far down the ingredient list is soy or corn syrup?\n\nWhat ingredient surprised you the first time you actually found it on a label?\n\n#kevintrudeau #soy #cornsyrup #hormonehealth #readthelabel #questioneverything"
+   },
+   {
+    "slug": "WHY-YOU-CANT-QUIT-THIS-DRUG",
+    "in": 3564.04,
+    "out": 3655.59,
+    "hook": [
+     "Why you can't quit",
+     "this drug"
+    ],
+    "caption": "Kevin Trudeau says the hardest part about quitting cigarettes isn't the chemical - it's the programming.\n\nHis point: nicotine withdrawal is mostly over within 24 hours. What keeps people smoking after that is psychological, built by decades of advertising linking cigarettes to coolness and rebellion, right down to the old movie scene of a cigarette as a man's last request.\n\nKevin Trudeau's take: once you see where that pull actually came from, it loses some of its grip.\n\nThe same kind of programming shows up in food ads too.\n\nWhat's a craving you traced back to an old ad once you really looked at it?\n\n#kevintrudeau #addiction #bigtobacco #psychology #quitsmoking #questioneverything"
    }
   ]
  }

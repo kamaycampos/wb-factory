@@ -980,5 +980,67 @@
    }
   ],
   "posted": null
+ },
+ "KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF": {
+  "clip": "KT_PHARMAWATCHR3/01_THE-DRUG-COMPANIES-PAID-THEM-OFF_40s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V1.mp4",
+    "hook": [
+     "The no-show jobs",
+     "regulators' kids get"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V2.mp4",
+    "hook": [
+     "What happens after",
+     "FDA approval"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V3.mp4",
+    "hook": [
+     "It's like the",
+     "mob, he says"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V4.mp4",
+    "hook": [
+     "Who really profits",
+     "from FDA approval"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V5.mp4",
+    "hook": [
+     "Kevin Trudeau's claim:",
+     "they knowingly lied"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V6.mp4",
+    "hook": [
+     "Paid off, then",
+     "promoted, he says"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_PHARMAWATCHR3__THE-DRUG-COMPANIES-PAID-THEM-OFF__V7.mp4",
+    "hook": [
+     "10 years in prison",
+     "for this"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
  }
 }

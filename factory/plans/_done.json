@@ -3,6 +3,7 @@
  "ep_v5hbogs_p2",
  "ep_v5hbogs_p3",
  "ep_v5hbogs_p3_r2",
+ "ep_v5hbogs_p3_r3",
  "ep_v5hbogs_p4",
  "ep_v5hbogs_p4_r2",
  "ep_v5hbogs_r2",
@@ -27,6 +28,7 @@
  "ep_v5ixx3h_p2",
  "ep_v5ixx3h_p3",
  "ep_v5ixx3h_p3_r2",
+ "ep_v5ixx3h_p3_r3",
  "ep_v5ixx3h_p4",
  "ep_v5ixx3h_r2",
  "ep_v5ixx3h_r3",
@@ -57,6 +59,7 @@
  "ep_v5k3hxf_p3_r2",
  "ep_v5k3hxf_p3_r3",
  "ep_v5k3hxf_p3_r4",
+ "ep_v5k3hxf_p4",
  "ep_v5k3hxf_r2",
  "ep_v5k3hxf_r3",
  "ep_v5k3hxf_r4",
@@ -79,6 +82,7 @@
  "ep_v6rjcpv_p2",
  "ep_v6tylxb",
  "ep_v6tylxb_p2",
+ "ep_v6tylxb_r2",
  "ep_v6u9yxd",
  "ep_v6u9yxd_p2",
  "ep_v6u9yxd_p2_r2",
@@ -103,5 +107,6 @@
  "ep_v6y4es4_r2",
  "ep_v6y4es4_r3",
  "ep_v71ktjy",
- "ep_v71ktjy_p2"
+ "ep_v71ktjy_p2",
+ "ep_v71ktjy_p3"
 ]
