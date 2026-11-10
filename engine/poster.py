@@ -412,8 +412,15 @@ def brand_offers(brand=""):
         return None
 
 
-def strip_promises(line):
-    """The line without any sentence that asks for a comment or promises to send something."""
+def strip_promises(line, fixed=()):
+    """The line without any sentence that asks for a comment or promises to send something.
+
+    10 Nov 2026: a caption that already carried one of the brand's fixed CTA lines lost only
+    its "Comment HEALTH..." sentence, so "Kevin Trudeau founded World's Best Nutritionals &
+    Organics." stayed in the body and the fresh CTA added it again - every WB offer post said
+    it twice. A line that is one of the fixed CTA lines goes whole."""
+    if any(line.strip() == f.strip() for f in fixed):
+        return ""
     if not _PROMISE.search(line):
         return line
     parts = re.split(r"(?<=[.!?])\s+", line)
@@ -452,7 +459,8 @@ def caption_for(platform, caption, brand="", keyword="", ask="", variant=None):
     body = [l for l in body if not l.strip().startswith("#")]
     offers = brand_offers(brand)
     if offers:
-        body = [x for x in (strip_promises(l) if l.strip() else l for l in body) if x or not x.strip()]
+        body = [x for x in (strip_promises(l, offers.get("cta_lines") or ()) if l.strip() else l for l in body)
+                if x or not x.strip()]
         body = [l for k, l in enumerate(body) if l.strip() or (k and body[k - 1].strip())]
     while body and not body[-1].strip():
         body.pop()
@@ -582,7 +590,12 @@ def caption_for(platform, caption, brand="", keyword="", ask="", variant=None):
         v = variant if isinstance(variant, int) else 0
         cta = offers["cta_lines"][v % len(offers["cta_lines"])].replace(offers.get("keyword", kw), kw)
         if platform == "youtube" and url and offers.get("youtube_line"):
-            cta += "\n\n" + offers["youtube_line"].format(url=url)
+            # 10 Nov 2026: nothing answers a YouTube comment, so "Comment HEALTH and we'll DM
+            # you" was a promise nobody kept - and the link is right here anyway.
+            line = offers["youtube_line"]
+            if "30-day money-back guarantee" in json.dumps(offers.get("offers", [])):
+                line = line.replace(": {url}", " (30-day money-back guarantee): {url}")
+            cta = line.format(url=url)
     last = next((l for l in reversed(body) if l.strip()), "")
     mine_only = cred_prefix(brand) != "AR"          # Yaren's captions are hers to change
     if mine_only and last.rstrip().endswith("?") and cta:
@@ -602,7 +615,9 @@ def caption_for(platform, caption, brand="", keyword="", ask="", variant=None):
             _fl = ""
         if _fl and _fl not in (cta or ""):
             cta = ((cta or "") + "\n" + _fl).strip()
-    if platform in ("youtube", "facebook") and cred_prefix(brand) != "AR":
+    # Instagram too (10 Nov 2026): its links do not click, so its lines NAME what waits in the
+    # bio, matching the bio Kamay set (state/extra_links.json "instagram").
+    if platform in ("youtube", "facebook", "instagram") and cred_prefix(brand) != "AR":
         more = [l for l in extra_link_lines(platform, cap) if l not in (cta or "")]
         if more:
             cta = ((cta or "") + "\n\n" + "\n".join(more)).strip()
