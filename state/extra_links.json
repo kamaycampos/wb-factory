@@ -13,11 +13,10 @@
    "FREE ebook: what Kevin Trudeau found in his research on herpes: {herpes}"
   ],
   "always": [
-   "Want the full episode this clip comes from? Watch Kevin Trudeau's shows free: {show}"
+   "Kevin Trudeau's full shows are free to watch right now. Most people only ever see the clips: {show}"
   ],
   "rotate": [
-   "Kevin's new hardcover, Nuggets of Gold: {nuggets}",
-   "Kevin's free live training - get on the list for the next one: {freecall}"
+   "Kevin's new hardcover, Nuggets of Gold: {nuggets}"
   ]
  },
  "facebook": {
@@ -25,11 +24,25 @@
    "FREE ebook: what Kevin Trudeau found in his research on herpes: {herpes}"
   ],
   "always": [
-   "Want the full episode this clip comes from? Watch Kevin Trudeau's shows free: {show}"
+   "Kevin Trudeau's full shows are free to watch right now. Most people only ever see the clips: {show}"
   ],
   "rotate": [
    "Kevin's new hardcover, Nuggets of Gold: {nuggets}"
   ]
  },
- "tiktok_follow": "Follow for the health truths nobody tells you about your food and your body."
+ "tiktok_follow": "Follow for the health truths nobody tells you about your food and your body.",
+ "dated": [
+  {
+   "name": "free_call",
+   "platforms": [
+    "youtube",
+    "facebook"
+   ],
+   "from": null,
+   "until": null,
+   "when": "",
+   "line": "FREE live training with Kevin Trudeau, {when}. Free seats are limited - save yours: {freecall}",
+   "_note": "Parked until freecallwithkevin.com posts a date. Then: when = e.g. 'Saturday, Dec 12, 11 AM Central', from = 14 days before, until = the call day. The daily strategist sets it."
+  }
+ ]
 }
