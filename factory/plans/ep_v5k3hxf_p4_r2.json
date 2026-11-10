@@ -1,0 +1,20 @@
+{"source": "v5k3hxf.mp4", "brand": "KT_HEARTSCANR2", "test": false,
+ "note": "2026-11-10 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). Weekly agent, SECOND CHANCE (tries 1): ep_v5k3hxf_p4/WHY-YOUR-DOCTOR-NEVER-SCANS-YOU failed on UNCAPTIONED SPEECH at relative 124.5s (absolute ~1620.8s) - the join between 'And he just looked at me like,' and the first of two 'That's true.' lines in this cue-dense stretch. Moved the end back to 1619.90, right before that join, onto Kevin's own closing line of reasoning instead of the doctor's confirmation - the hole, and the whole 'radio bit' tangent's two 'That's true' repeats, now sit outside the clip entirely. Caption rewritten to match: it no longer claims the doctor admitted anything on screen, only what Kevin himself asked and reasoned.",
+ "clips": [
+  {"slug": "WHY-YOUR-DOCTOR-NEVER-SCANS-YOU", "in": 1496.3, "out": 1619.90,
+   "retry_of": "ep_v5k3hxf_p4/WHY-YOUR-DOCTOR-NEVER-SCANS-YOU",
+   "start_words": "I called up",
+   "end_words": "get any blockages either",
+   "hook": ["The heart test", "your doctor skips"],
+   "trial_hooks": [
+    ["3 tests that", "actually find blockages"],
+    ["A cholesterol number", "isn't a blockage"],
+    ["What a CAT", "scan would show"],
+    ["What you're missing:", "a vascular test"],
+    ["Kevin Trudeau's own", "cardiologist story"],
+    ["No symptoms, no", "scan, he says"],
+    ["One number they", "check, three skip"]
+   ],
+   "send": "Someone just got a normal cholesterol test sends this to a parent who assumes that means their heart is fine - a little anxiety that the real test was never ordered.",
+   "caption": "Kevin Trudeau called a top Harvard-trained cardiologist and asked for a CAT scan with contrast, an ultrasound and a full vascular test - no symptoms, just wanting to look.\n\nThe doctor's answer: insurance won't cover that without symptoms. Instead he ran a cholesterol number - 225 - and wanted to prescribe a statin to bring it to 220.\n\nKevin's question: does a cholesterol number tell you if you have a blockage? The doctor admitted he didn't know - he'd never actually looked.\n\nHas your doctor ever ordered anything beyond a cholesterol number?\n\n#kevintrudeau #hearthealth #cholesterol #wbdaily #healthtruth #checkyourself"}
+ ]}

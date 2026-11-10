@@ -1,0 +1,47 @@
+{
+ "source": "v6uxtgp.mp4",
+ "brand": "KT_TOXINTRUTH",
+ "test": false,
+ "note": "2026-11-10 - 'SILENT KILLERS in Your Life: Health Expert Dr. Pompa Exposes Heavy Metals, Plastics & Beauty Products' (Rumble v6uxtgp). SECOND PASS by weekly agent: three new arcs from Dr. Pompa's own backstory (0-464s, entirely unused by the 20 clips already cut on this episode, per work/v6uxtgp_blocks.txt) and the fasting-types explainer (1688-1848s, inside a 182s unused gap between the DRY-FASTING and WHAT-REAL-FASTING-MEANS cuts, before either). None re-use more than 10s of an already-cut stretch. Skipped nearby material that would repeat an already-cut lesson (the hormone-receptor explanation at 1140-1273s repeats WHY-YOUR-HORMONES-STOP-WORKING almost exactly) or that reads as medical advice rather than information (the chelation-dosing stretch at 863-1273s; the fasting patient who came off 14 medications at 2048-2154s; the 'medications are the number one killer, stay away from your doctor' stretch at 2648-2672s; the neurodegenerative-disease causation claim at 694-817s).",
+ "clips": [
+  {
+   "slug": "THE-TEST-THAT-SAID-HE-WAS-HEALTHY",
+   "in": 118.6,
+   "out": 244.9,
+   "start_words": "Certain things might have gotten",
+   "end_words": "healthier than me son",
+   "hook": ["What a $5,000", "blood test missed"],
+   "send": "A chronic-fatigue sufferer sends this to their own doctor: proof a normal blood test doesn't mean nothing's wrong - the anger of being told 'you're fine' for years.",
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau about the stretch where he kept getting sicker with no answer: headaches, gut problems, sound sensitivity, insomnia, panic attacks.\n\nHe found a condition called Mad Hatter's disease online and matched every symptom on the list - the one people got from mercury exposure, long before anyone understood why.\n\nSo he ran a blood test for mercury. It came back clean. The doctor's exact words: 'You're healthier than me, son.'\n\nYears later a different test - looking at his tissue, not his blood - found what the first test missed completely.\n\nEver been told your labs are normal while you still feel terrible?\n\n#kevintrudeau #mercuryexposure #healthtruth #wbdaily #bloodwork #readthelabel"
+  },
+  {
+   "slug": "WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN",
+   "in": 281.0,
+   "out": 330.64,
+   "start_words": "Wrong test blood test",
+   "end_words": "out of my brain",
+   "hook": ["50% mercury goes", "to your brain"],
+   "trial_hooks": [
+    ["The 2 fillings", "held 50% mercury"],
+    ["The blood test", "that missed it"],
+    ["The fillings no", "doctor warned him"],
+    ["What your blood", "test can't find"],
+    ["A doctor found", "his hidden mercury"],
+    ["What Kevin Trudeau's", "found in tissue"],
+    ["The test only", "tissue sample caught"]
+   ],
+   "send": "A chronic-fatigue sufferer sends this to the friend who just got 'normal' bloodwork back - the anxiety that the real test was never run.",
+   "caption": "Dr. Daniel Pompa's blood test for mercury came back normal. A different doctor told him why: a blood test only shows acute exposure - if it's chronic, the mercury is sitting in your tissue instead, invisible to that test.\n\nA new test found very high levels of several heavy metals. The source: two silver fillings, 50% mercury, removed from his own mouth - mercury that had been sitting two inches from his pituitary gland.\n\nThat single discovery sent him on the path he still teaches today: how the body actually clears heavy metals once you know where to look.\n\nHas your own bloodwork ever come back 'normal' while you still felt wrong?\n\n#kevintrudeau #mercuryexposure #heavymetals #healthtruth #wbdaily #bloodwork"
+  },
+  {
+   "slug": "THE-4-TYPES-OF-FASTING",
+   "in": 1688.2,
+   "out": 1847.92,
+   "start_words": "Today, intermittent fasting is",
+   "end_words": "not go into autophagy",
+   "hook": ["The protein rule", "ruins your fasting"],
+   "send": "Someone trying intermittent fasting sends this to their gym-buddy group chat: the protein rule nobody mentions, before they waste a fast.",
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau that 'fasting' isn't one thing - it's four different things.\n\nDaily intermittent (an eating window, skipping a meal), pure water only, a partial fast (500-1,200 calories, under 20 grams of protein), and a full dry fast with no food or water at all.\n\nHis warning: too much protein during a partial fast, and your body never switches into autophagy - the process that clears out old, damaged cells.\n\nWhich of these four have you actually tried?\n\n#kevintrudeau #fasting #autophagy #healthtruth #wbdaily #cellularhealth"
+  }
+ ]
+}

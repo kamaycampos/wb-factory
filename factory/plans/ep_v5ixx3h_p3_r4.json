@@ -1,0 +1,20 @@
+{"source": "v5ixx3h.mp4", "brand": "KT_WHOLEFOODR4", "test": false,
+ "note": "2026-11-10 - 'How Your Nutritional Supplements Are Harming You | The Kevin Trudeau Show | Ep. 57' (Rumble v5ixx3h). Weekly agent, SECOND CHANCE (tries 2, last chance): ep_v5ixx3h_p3_r3/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN was dropped at render for a hook that measured 793px at the 44px floor, over the 780px safe zone - the word 'YOUR' in line 2 pushed it over by 13px. Dropped 'YOUR' and reworded the hook so it still carries the same fact (irradiation ruining a supplement's nutrients) in fewer characters; same edges, same caption facts, only the last line of the caption changed - the old one ended on a forbidden 'Comment HEALTH for...' sentence the factory would have deleted anyway, replaced with a question.",
+ "clips": [
+  {"slug": "WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN", "in": 1563.0, "out": 1655.0,
+   "retry_of": "ep_v5ixx3h_p3_r3/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN",
+   "start_words": "There should be herbs",
+   "end_words": "what we live on",
+   "hook": ["What ruins nutrients", "in your supplement"],
+   "trial_hooks": [
+    ["GMO seeds grow", "your cheap supplement"],
+    ["The process that", "ruins real nutrients"],
+    ["What radiation does", "to your vitamins"],
+    ["What's missing from", "most supplements today"],
+    ["Kevin Trudeau's warning:", "irradiated ingredients"],
+    ["Pesticides, then radiation,", "then your pill"],
+    ["The step that", "ruins a superfood"]
+   ],
+   "send": "Someone sends this to the friend who just bought a cheap supplement off Amazon - anxiety that the pill they're taking daily might already be stripped of what it promised.",
+   "caption": "Kevin Trudeau's warning about cheap supplements: the plants inside are often grown from genetically modified seeds, sprayed with pesticides and herbicides, then irradiated before they ship.\n\nHis point: irradiation means real radiation hits the plant, and it wipes out the enzymes that made it worth taking in the first place. He says most of what's in a cheap bottle is already garbage by the time it's ground up.\n\nHis contrast: a true superfood is nutrient dense - a small amount carries real vitamins, minerals and enzymes, because food is what we live on.\n\nEver checked where your own supplement's ingredients actually come from?\n\n#kevintrudeau #supplements #readthelabel #wbdaily #healthtruth #naturalhealth"}
+ ]}

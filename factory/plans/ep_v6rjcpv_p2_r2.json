@@ -1,0 +1,19 @@
+{
+ "source": "v6rjcpv.mp4",
+ "brand": "KT_BRAINHACKSR2",
+ "test": false,
+ "note": "2026-11-10 - 'NEURO WEALTH - The Forbidden Science Behind Manifestation & Success' (Rumble v6rjcpv). Weekly agent, SECOND CHANCE (tries 1): ep_v6rjcpv_p2/WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN ended off the planned words - 'growth of the hippocampus' is said three times within under a minute of this episode's hippocampus riff, so the out estimate (2386.0, the far end of a run-on cue) sat too far from the real word to snap correctly. Moved out to 2393.48 (end of the very next cue) and end_words to 'spent time in nature' - unique in this stretch and, per the clip's own caption, the actual next beat of the teaching (nature time as a shared habit of wealthy people), not a repeat of an earlier line.",
+ "clips": [
+  {
+   "slug": "WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN",
+   "retry_of": "ep_v6rjcpv_p2/WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN",
+   "in": 2341.0,
+   "out": 2393.48,
+   "start_words": "Listening to the sounds",
+   "end_words": "spent time in nature",
+   "hook": ["How nature sounds", "calm your brain"],
+   "send": "A hiker sends this to a city friend: the free reset that quiets a loud brain, with a little awe attached.",
+   "caption": "Kevin Trudeau says something as simple as the sound of birds, wind or running water does something measurable to your brain.\n\nHe says these natural sounds help synchronize your brain's left and right hemispheres, and can even stimulate growth in the hippocampus - the part of the brain tied to memory and focus.\n\nKevin points out that time in nature was one of the few habits wealthy, high-performing people kept in common - a walk outside, time near water, time away from screens.\n\nNext quiet moment you get, try stepping outside before you reach for your phone.\n\n#kevintrudeau #brainhealth #naturesounds #focus #wbdaily #healthtruth"
+  }
+ ]
+}
