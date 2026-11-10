@@ -1509,12 +1509,26 @@
    "caption": "Dr. Daniel Pompa told Kevin Trudeau about a client who nearly died, then went 12 days with no food or water at all.\n\nHis point: the man's body told him exactly when it was safe to drink again - and he knew, without being told, when it was time to eat. It took about 23 days before food came back into the picture.\n\nHis lesson: the body has its own intelligence, reading hunger and thirst as real signals, not just habit.\n\nWould you trust your body to tell you when?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #fasting #bodywisdom #wbdaily #healthtruth #naturalhealth",
    "hook": "Why you'd never survive without water",
    "bytes": 78078184,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-10T08:23",
    "cta_keyword": "HEALTH",
    "cta_variant": 2,
-   "cta_kind": "question"
+   "cta_kind": "question",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1141642961665209/",
+    "instagram": "https://www.instagram.com/reel/DfkB2WqCU6G/",
+    "youtube": "https://youtube.com/shorts/adk-ft46_yU"
+   },
+   "caption_at_post": "Dr. Daniel Pompa told Kevin Trudeau about a client who nearly died, then went 12 days with no food or water at all.\n\nHis point: the man's body told him exactly when it was safe to drink again - and he knew, without being told, when it was time to eat. It took about 23 days before food came back into the picture.\n\nHis lesson: the body has its own intelligence, reading hunger and thirst as real signals, not just habit.\n\nWould you trust your body to tell you when?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #fasting #bodywisdom #wbdaily #healthtruth #naturalhealth",
+   "posted_at": "2026-11-10T08:39"
   },
   {
    "file": "KT_HORMONEFIXR3/01_SOY-RAISES-YOUR-ESTROGEN_42s.mp4",
