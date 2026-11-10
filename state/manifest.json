@@ -1719,7 +1719,11 @@
    "bytes": 63935407,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-13T16:28",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HEARTSCANR2/01_WHY-YOUR-DOCTOR-NEVER-SCANS-YOU_124s.mp4",
@@ -1728,7 +1732,11 @@
    "bytes": 95635382,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-14T09:22",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_TOXINTRUTH/01_THE-TEST-THAT-SAID-HE-WAS-HEALTHY_124s.mp4",
@@ -1737,7 +1745,11 @@
    "bytes": 87634417,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-13T19:46",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_WHOLEFOODR4/01_WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN_91s.mp4",
@@ -1746,7 +1758,11 @@
    "bytes": 77986470,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-14T12:24",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   }
  ]
 }
