@@ -1925,6 +1925,24 @@
     "The heart test",
     "your doctor skips"
    ]
+  },
+  "ep_v6u9yxd_p2_r4/WHAT-A-PEPTIDE-REALLY-IS": {
+   "plan": "ep_v6u9yxd_p2_r4",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONEFIXR4",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHAT-A-PEPTIDE-REALLY-IS_47s.mp4: ends off the planned words: plan ends 'much better quality of life', clip ends 'and have a much better quality'"
+   ],
+   "slug": "WHAT-A-PEPTIDE-REALLY-IS",
+   "in": 2421.0,
+   "out": 2468.5,
+   "start_words": "The peptides are effectively",
+   "end_words": "much better quality of life",
+   "hook": [
+    "What peptides do",
+    "to your body"
+   ]
   }
  },
  "attempts": {
@@ -1951,6 +1969,7 @@
   "ep_v5hbogs_p3_r3": 1,
   "ep_v5ixx3h_p3_r3": 2,
   "ep_v5k3hxf_p4": 2,
-  "ep_v6u9yxd_p2_r4": 1
+  "ep_v6u9yxd_p2_r4": 2,
+  "ep_v6u9yxd_p3_r3": 1
  }
 }
