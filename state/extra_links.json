@@ -1,27 +1,35 @@
 {
- "_why": "9 Nov 2026, Kamay: push Kevin's YouTube link, the free Herpes Cure ebook and Nuggets of Gold in clips and posts. Links from the affiliate portal, pages checked open 9 Nov. Only platforms where a link CLICKS (YouTube description, Facebook post). The Herpes Cure stays off Meta captions (Dustin, 24 Sep + 15 Oct: Meta may read 'cure' as a drug) and off TikTok (takedowns) - it lives in the bio and on YouTube. WB rotates the Herpes Cure (health) and Nuggets on YouTube. Edit lines here, not in code.",
+ "_why": "10 Nov 2026, Kamay: WB pushes 1) the FREE herpes ebook, 2) supplements (the HEALTH line), then the rest; both brands send people to Kevin's free shows to find the full episode. Our words never say 'cure' (Dustin, 15 Oct: the FDA/Meta read it as a drug claim) - the book is described, not promised. Herpes stays OFF TikTok (sexual-health takedowns, state/tiktok_avoid.json). 'first' sits above the product ask. Links from the affiliate portal, checked 10 Nov. Edit lines here, not in code.",
  "links": {
   "show": "https://tv.kevintrudeau.com/?ref=a43c8j",
   "nuggets": "https://book.nuggetsofgold.com/?ref=a43c8j",
   "freewish": "https://freeyourwish.kevintrudeau.com/?ref=a43c8j",
-  "herpes": "https://herpescurebook.com/?ref=a43c8j"
+  "herpes": "https://herpescurebook.com/?ref=a43c8j",
+  "freecall": "https://freecallwithkevin.com/?ref=a43c8j",
+  "gin": "https://globalinformationnetwork.com/?ref=a43c8j"
  },
  "youtube": {
+  "first": [
+   "FREE ebook: what Kevin Trudeau found in his research on herpes: {herpes}"
+  ],
   "always": [
-   "Watch Kevin Trudeau's full shows free: {show}"
+   "Want the full episode this clip comes from? Watch Kevin Trudeau's shows free: {show}"
   ],
   "rotate": [
-   "Free ebook by Kevin Trudeau, The Herpes Cure: {herpes}",
-   "Kevin's new hardcover, Nuggets of Gold: {nuggets}"
+   "Kevin's new hardcover, Nuggets of Gold: {nuggets}",
+   "Kevin's free live training - get on the list for the next one: {freecall}"
   ]
  },
  "facebook": {
+  "first": [
+   "FREE ebook: what Kevin Trudeau found in his research on herpes: {herpes}"
+  ],
   "always": [
-   "Watch Kevin Trudeau's full shows free: {show}"
+   "Want the full episode this clip comes from? Watch Kevin Trudeau's shows free: {show}"
   ],
   "rotate": [
    "Kevin's new hardcover, Nuggets of Gold: {nuggets}"
   ]
  },
- "tiktok_follow": "Follow for the next thing your grocery store won't tell you."
+ "tiktok_follow": "Follow for the health truths nobody tells you about your food and your body."
 }
