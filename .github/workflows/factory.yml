@@ -44,6 +44,9 @@ jobs:
       - name: Stock the month's HD episodes from Rumble (factory/source_plan.json first)
         run: |
           pip install -q -U "yt-dlp[default,curl-cffi]" curl_cffi
+          # Kevin's catalogue refreshed every run (10 Nov 2026: WB's copy was from 15 Oct and
+          # missed 80 episodes listed only on his livestreams tab). Same refresher as kt-machine.
+          timeout 15m python factory/rumble_catalog.py || echo "catalogue refresh failed - using the one on disk"
           python factory/rumble_stock.py --max 16 --stock 20
 
   tlist:
