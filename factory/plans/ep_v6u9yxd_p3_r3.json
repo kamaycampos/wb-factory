@@ -1,0 +1,11 @@
+{"source": "v6u9yxd.mp4", "brand": "KT_SUNGAPR3", "test": false,
+ "note": "10 Nov 2026 - re-cut of 'How To Stay Young & Fit Forever: No B.S. Biohacking From A Fitness Rebel' (Rumble v6u9yxd): WHY-YOURE-LOW-ON-VITAMIN-D ended on a word collision twice in a row ('right foods' vs 'right supplements' a second apart); new end point uses a unique phrase instead. Weekly agent.",
+ "clips": [
+   {"slug": "WHY-YOURE-LOW-ON-VITAMIN-D", "in": 1653.9, "out": 1699.0,
+    "start_words": "What about DHEA",
+    "end_words": "to test and look at",
+    "hook": ["Why you're low", "on vitamin D"],
+    "send": "A friend sends this to someone who's always tired and blames everything but the sun - anxiety about missing something obvious.",
+    "retry_of": "ep_v6u9yxd_p3_r2/WHY-YOURE-LOW-ON-VITAMIN-D",
+    "caption": "Kevin Trudeau was asked why so many people test low on vitamin D and other hormones.\n\nHis answer starts simple: most people aren't getting enough sun. Vitamin D is one of the most commonly deficient nutrients he's seen in years of looking at people's numbers.\n\nKevin Trudeau's view: before reaching for another bottle, look at the basics first - daylight and real food are part of the equation most labs never ask about.\n\nSmall changes outdoors can move a number a supplement alone sometimes can't.\n\nWhen's the last time you actually checked your vitamin D level?\n\n#kevintrudeau #vitamind #sunlight #hormonehealth #naturalhealth #questioneverything"}
+ ]}
