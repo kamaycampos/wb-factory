@@ -1170,7 +1170,8 @@
      "Why soy raises",
      "your estrogen level"
     ],
-    "caption": "Kevin Trudeau doesn't touch soy, and won't put a client on it either.\n\nHis concern: soy can raise estrogen, and he lists what follows - water retention, higher blood pressure, lower testosterone, even brain fog. He says the industry would rather you not ask.\n\nSoy hides in more than tofu: shakes, protein bars and meat substitutes all carry it under different names.\n\nNext time you read a label, check for soy protein isolate or soy lecithin before it goes in the cart.\n\n#kevintrudeau #soy #hormonehealth #wbdaily #healthtruth #naturalhealth"
+    "caption": "Kevin Trudeau doesn't touch soy, and won't put a client on it either.\n\nHis concern: soy can raise estrogen, and he lists what follows - water retention, higher blood pressure, lower testosterone, even brain fog. He says the industry would rather you not ask.\n\nSoy hides in more than tofu: shakes, protein bars and meat substitutes all carry it under different names.\n\nNext time you read a label, check for soy protein isolate or soy lecithin before it goes in the cart.\n\n#kevintrudeau #soy #hormonehealth #wbdaily #healthtruth #naturalhealth",
+    "locked": true
    }
   ]
  },
@@ -1358,6 +1359,80 @@
      "this drug"
     ],
     "caption": "Kevin Trudeau says the hardest part about quitting cigarettes isn't the chemical - it's the programming.\n\nHis point: nicotine withdrawal is mostly over within 24 hours. What keeps people smoking after that is psychological, built by decades of advertising linking cigarettes to coolness and rebellion, right down to the old movie scene of a cigarette as a man's last request.\n\nKevin Trudeau's take: once you see where that pull actually came from, it loses some of its grip.\n\nThe same kind of programming shows up in food ads too.\n\nWhat's a craving you traced back to an old ad once you really looked at it?\n\n#kevintrudeau #addiction #bigtobacco #psychology #quitsmoking #questioneverything"
+   }
+  ]
+ },
+ "ep_v5ixx3h_p3_r4": {
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_WHOLEFOODR4",
+  "note": "2026-11-10 - 'How Your Nutritional Supplements Are Harming You | The Kevin Trudeau Show | Ep. 57' (Rumble v5ixx3h). Weekly agent, SECOND CHANCE (tries 2, last chance): ep_v5ixx3h_p3_r3/WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN was dropped at render for a hook that measured 793px at the 44px floor, over the 780px safe zone - the word 'YOUR' in line 2 pushed it over by 13px. Dropped 'YOUR' and reworded the hook so it still carries the same fact (irradiation ruining a supplement's nutrients) in fewer characters; same edges, same caption facts, only the last line of the caption changed - the old one ended on a forbidden 'Comment HEALTH for...' sentence the factory would have deleted anyway, replaced with a question.",
+  "clips": [
+   {
+    "slug": "WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN",
+    "in": 1563.62,
+    "out": 1654.15,
+    "hook": [
+     "What ruins nutrients",
+     "in your supplement"
+    ],
+    "caption": "Kevin Trudeau's warning about cheap supplements: the plants inside are often grown from genetically modified seeds, sprayed with pesticides and herbicides, then irradiated before they ship.\n\nHis point: irradiation means real radiation hits the plant, and it wipes out the enzymes that made it worth taking in the first place. He says most of what's in a cheap bottle is already garbage by the time it's ground up.\n\nHis contrast: a true superfood is nutrient dense - a small amount carries real vitamins, minerals and enzymes, because food is what we live on.\n\nEver checked where your own supplement's ingredients actually come from?\n\n#kevintrudeau #supplements #readthelabel #wbdaily #healthtruth #naturalhealth"
+   }
+  ]
+ },
+ "ep_v5k3hxf_p4_r2": {
+  "source": "v5k3hxf.mp4",
+  "brand": "KT_HEARTSCANR2",
+  "note": "2026-11-10 - 'The Three Causes Of Scarred Arteries | TKTS Clips' (Rumble v5k3hxf). Weekly agent, SECOND CHANCE (tries 1): ep_v5k3hxf_p4/WHY-YOUR-DOCTOR-NEVER-SCANS-YOU failed on UNCAPTIONED SPEECH at relative 124.5s (absolute ~1620.8s) - the join between 'And he just looked at me like,' and the first of two 'That's true.' lines in this cue-dense stretch. Moved the end back to 1619.90, right before that join, onto Kevin's own closing line of reasoning instead of the doctor's confirmation - the hole, and the whole 'radio bit' tangent's two 'That's true' repeats, now sit outside the clip entirely. Caption rewritten to match: it no longer claims the doctor admitted anything on screen, only what Kevin himself asked and reasoned.",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-DOCTOR-NEVER-SCANS-YOU",
+    "in": 1495.62,
+    "out": 1618.63,
+    "hook": [
+     "The heart test",
+     "your doctor skips"
+    ],
+    "caption": "Kevin Trudeau called a top Harvard-trained cardiologist and asked for a CAT scan with contrast, an ultrasound and a full vascular test - no symptoms, just wanting to look.\n\nThe doctor's answer: insurance won't cover that without symptoms. Instead he ran a cholesterol number - 225 - and wanted to prescribe a statin to bring it to 220.\n\nKevin's question: does a cholesterol number tell you if you have a blockage? The doctor admitted he didn't know - he'd never actually looked.\n\nHas your doctor ever ordered anything beyond a cholesterol number?\n\n#kevintrudeau #hearthealth #cholesterol #wbdaily #healthtruth #checkyourself"
+   }
+  ]
+ },
+ "ep_v6rjcpv_p2_r2": {
+  "source": "v6rjcpv.mp4",
+  "brand": "KT_BRAINHACKSR2",
+  "note": "2026-11-10 - 'NEURO WEALTH - The Forbidden Science Behind Manifestation & Success' (Rumble v6rjcpv). Weekly agent, SECOND CHANCE (tries 1): ep_v6rjcpv_p2/WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN ended off the planned words - 'growth of the hippocampus' is said three times within under a minute of this episode's hippocampus riff, so the out estimate (2386.0, the far end of a run-on cue) sat too far from the real word to snap correctly. Moved out to 2393.48 (end of the very next cue) and end_words to 'spent time in nature' - unique in this stretch and, per the clip's own caption, the actual next beat of the teaching (nature time as a shared habit of wealthy people), not a repeat of an earlier line.",
+  "clips": []
+ },
+ "ep_v6rjcpv_r2": {
+  "source": "v6rjcpv.mp4",
+  "brand": "KT_BREATHFIXR2",
+  "note": "2026-11-10 - 'NEURO WEALTH - The Forbidden Science Behind Manifestation & Success' (Rumble v6rjcpv). Weekly agent, SECOND CHANCE (tries 2, last chance): ep_v6rjcpv/GRANDMASTER-TAIS-BREATHING-FIX ended off the planned words twice ('that's where you want to be' - the last 2 words 'to be' are generic and said elsewhere in Grandmaster Tai's heavily-accented line, which likely snapped the cut to the wrong spot). New end_words 'now on autopilot' names the clip's own unique closing phrase instead - same payoff (the breathing became automatic), same out cue (2259.32-2269.72), 4.7s earlier than before so the risky 'to be' phrase never enters the search window.",
+  "clips": [
+   {
+    "slug": "GRANDMASTER-TAIS-BREATHING-FIX",
+    "in": 2177.45,
+    "out": 2270.15,
+    "hook": [
+     "How two hours",
+     "fixed your breathing"
+    ],
+    "caption": "Kevin Trudeau learned a breathing correction from his own kung fu teacher, Grandmaster Tai: breathe through the nose only, from the diaphragm, not the chest.\n\nMost people breathe shallow without noticing it - chest rising instead of the belly, mouth open instead of nose closed. His fix: put your attention two inches below your belly button, breathe in so the stomach rises, breathe out so it falls.\n\nAfter watching Kevin practice it for two hours straight, his teacher told him it had already become automatic - 'now habit, now on autopilot.'\n\nHow many hours of your own day do you spend breathing through your mouth?\n\n#kevintrudeau #breathing #wbdaily #healthtruth #energy #naturalhealth"
+   }
+  ]
+ },
+ "ep_v6uxtgp_p4": {
+  "source": "v6uxtgp.mp4",
+  "brand": "KT_TOXINTRUTH",
+  "note": "2026-11-10 - 'SILENT KILLERS in Your Life: Health Expert Dr. Pompa Exposes Heavy Metals, Plastics & Beauty Products' (Rumble v6uxtgp). SECOND PASS by weekly agent: three new arcs from Dr. Pompa's own backstory (0-464s, entirely unused by the 20 clips already cut on this episode, per work/v6uxtgp_blocks.txt) and the fasting-types explainer (1688-1848s, inside a 182s unused gap between the DRY-FASTING and WHAT-REAL-FASTING-MEANS cuts, before either). None re-use more than 10s of an already-cut stretch. Skipped nearby material that would repeat an already-cut lesson (the hormone-receptor explanation at 1140-1273s repeats WHY-YOUR-HORMONES-STOP-WORKING almost exactly) or that reads as medical advice rather than information (the chelation-dosing stretch at 863-1273s; the fasting patient who came off 14 medications at 2048-2154s; the 'medications are the number one killer, stay away from your doctor' stretch at 2648-2672s; the neurodegenerative-disease causation claim at 694-817s).",
+  "clips": [
+   {
+    "slug": "THE-TEST-THAT-SAID-HE-WAS-HEALTHY",
+    "in": 120.8,
+    "out": 245.35,
+    "hook": [
+     "What a $5,000",
+     "blood test missed"
+    ],
+    "caption": "Dr. Daniel Pompa told Kevin Trudeau about the stretch where he kept getting sicker with no answer: headaches, gut problems, sound sensitivity, insomnia, panic attacks.\n\nHe found a condition called Mad Hatter's disease online and matched every symptom on the list - the one people got from mercury exposure, long before anyone understood why.\n\nSo he ran a blood test for mercury. It came back clean. The doctor's exact words: 'You're healthier than me, son.'\n\nYears later a different test - looking at his tissue, not his blood - found what the first test missed completely.\n\nEver been told your labs are normal while you still feel terrible?\n\n#kevintrudeau #mercuryexposure #healthtruth #wbdaily #bloodwork #readthelabel"
    }
   ]
  }

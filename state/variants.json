@@ -1061,5 +1061,191 @@
    }
   ],
   "posted": null
+ },
+ "KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU": {
+  "clip": "KT_HEARTSCANR2/01_WHY-YOUR-DOCTOR-NEVER-SCANS-YOU_124s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V1.mp4",
+    "hook": [
+     "3 tests that",
+     "actually find blockages"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V2.mp4",
+    "hook": [
+     "A cholesterol number",
+     "isn't a blockage"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V3.mp4",
+    "hook": [
+     "What a CAT",
+     "scan would show"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V4.mp4",
+    "hook": [
+     "What you're missing:",
+     "a vascular test"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V5.mp4",
+    "hook": [
+     "Kevin Trudeau's own",
+     "cardiologist story"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V6.mp4",
+    "hook": [
+     "No symptoms, no",
+     "scan, he says"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_HEARTSCANR2__WHY-YOUR-DOCTOR-NEVER-SCANS-YOU__V7.mp4",
+    "hook": [
+     "One number they",
+     "check, three skip"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
+ },
+ "KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX": {
+  "clip": "KT_BREATHFIXR2/01_GRANDMASTER-TAIS-BREATHING-FIX_92s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V1.mp4",
+    "hook": [
+     "Two hours to",
+     "a new habit"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V2.mp4",
+    "hook": [
+     "Chest breathing is",
+     "sabotaging your energy"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V3.mp4",
+    "hook": [
+     "Breathe only through",
+     "your nose always"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V4.mp4",
+    "hook": [
+     "What your breath",
+     "reveals about you"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V5.mp4",
+    "hook": [
+     "Grandmaster Tai's two-hour",
+     "breathing fix"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V6.mp4",
+    "hook": [
+     "Kevin Trudeau's kung",
+     "fu breathing secret"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_BREATHFIXR2__GRANDMASTER-TAIS-BREATHING-FIX__V7.mp4",
+    "hook": [
+     "Most people breathe",
+     "wrong, every day"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
+ },
+ "KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN": {
+  "clip": "KT_WHOLEFOODR4/01_WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN_91s.mp4",
+  "arms": [
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V1.mp4",
+    "hook": [
+     "GMO seeds grow",
+     "your cheap supplement"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V2.mp4",
+    "hook": [
+     "The process that",
+     "ruins real nutrients"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V3.mp4",
+    "hook": [
+     "What radiation does",
+     "to your vitamins"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V4.mp4",
+    "hook": [
+     "What's missing from",
+     "most supplements today"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V5.mp4",
+    "hook": [
+     "Kevin Trudeau's warning:",
+     "irradiated ingredients"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V6.mp4",
+    "hook": [
+     "Pesticides, then radiation,",
+     "then your pill"
+    ],
+    "media_tag": "media"
+   },
+   {
+    "rel": "_VARIANTS/VAR__KT_WHOLEFOODR4__WHAT-YOUR-SUPPLEMENT-SHOULD-CONTAIN__V7.mp4",
+    "hook": [
+     "The step that",
+     "ruins a superfood"
+    ],
+    "media_tag": "media"
+   }
+  ],
+  "posted": null
  }
 }

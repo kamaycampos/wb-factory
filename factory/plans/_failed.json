@@ -1943,6 +1943,78 @@
     "What peptides do",
     "to your body"
    ]
+  },
+  "ep_v6rjcpv_p2_r2/WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN": {
+   "plan": "ep_v6rjcpv_p2_r2",
+   "source": "v6rjcpv.mp4",
+   "brand": "KT_BRAINHACKSR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN_51s.mp4` - opens mid-sentence on \"listening\""
+   ],
+   "slug": "WHAT-BIRDSONG-DOES-TO-YOUR-BRAIN",
+   "in": 2341.0,
+   "out": 2393.48,
+   "start_words": "Listening to the sounds",
+   "end_words": "spent time in nature",
+   "hook": [
+    "How nature sounds",
+    "calm your brain"
+   ]
+  },
+  "ep_v6u9yxd_p3_r3/WHY-YOURE-LOW-ON-VITAMIN-D": {
+   "plan": "ep_v6u9yxd_p3_r3",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_SUNGAPR3",
+   "tries": 3,
+   "why": [
+    "FAIL 01_WHY-YOURE-LOW-ON-VITAMIN-D_45s.mp4: ends off the planned words: plan ends 'to test and look at', clip ends 'know but yes dhea is another'"
+   ],
+   "slug": "WHY-YOURE-LOW-ON-VITAMIN-D",
+   "in": 1653.9,
+   "out": 1699.0,
+   "start_words": "What about DHEA",
+   "end_words": "to test and look at",
+   "hook": [
+    "Why you're low",
+    "on vitamin D"
+   ]
+  },
+  "ep_v6uxtgp_p4/WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN": {
+   "plan": "ep_v6uxtgp_p4",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINTRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN_50s.mp4` - opens mid-sentence on \"wrong test.\""
+   ],
+   "slug": "WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN",
+   "in": 281.0,
+   "out": 330.64,
+   "start_words": "Wrong test blood test",
+   "end_words": "out of my brain",
+   "hook": [
+    "50% mercury goes",
+    "to your brain"
+   ]
+  },
+  "ep_v6uxtgp_p4/THE-4-TYPES-OF-FASTING": {
+   "plan": "ep_v6uxtgp_p4",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINTRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_THE-4-TYPES-OF-FASTING_160s.mp4` - phrase scrambled around \"my hands there my\"; word repeated after one: \"it's like it's\""
+   ],
+   "slug": "THE-4-TYPES-OF-FASTING",
+   "in": 1688.2,
+   "out": 1847.92,
+   "start_words": "Today, intermittent fasting is",
+   "end_words": "not go into autophagy",
+   "hook": [
+    "The protein rule",
+    "ruins your fasting"
+   ]
   }
  },
  "attempts": {
@@ -1970,6 +2042,6 @@
   "ep_v5ixx3h_p3_r3": 2,
   "ep_v5k3hxf_p4": 2,
   "ep_v6u9yxd_p2_r4": 2,
-  "ep_v6u9yxd_p3_r3": 1
+  "ep_v6u9yxd_p3_r3": 2
  }
 }
