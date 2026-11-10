@@ -1483,12 +1483,26 @@
    "caption": "Dr. Daniel Pompa told Kevin Trudeau that most people doing 'intermittent fasting' today aren't actually fasting at all.\n\nHis point: a real fast is water, maybe an herbal tea - nothing else. The juice fast, the liquid diet, the shortened eating window people call fasting now are modified versions, not the real thing.\n\nHis push: know which one you're actually doing before you count on the benefits of the other.\n\nWhich kind of 'fast' have you actually been doing?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #fasting #guthealth #wbdaily #healthtruth #naturalhealth",
    "hook": "What you call isn't real fasting",
    "bytes": 53891990,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "scheduled_at": "2026-11-09T20:04",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1034623153007971/",
+    "instagram": "https://www.instagram.com/reel/Dfis_TsFZQ1/",
+    "youtube": "https://youtube.com/shorts/EhHtqnCuV9U"
+   },
+   "caption_at_post": "Dr. Daniel Pompa told Kevin Trudeau that most people doing 'intermittent fasting' today aren't actually fasting at all.\n\nHis point: a real fast is water, maybe an herbal tea - nothing else. The juice fast, the liquid diet, the shortened eating window people call fasting now are modified versions, not the real thing.\n\nHis push: know which one you're actually doing before you count on the benefits of the other.\n\nWhich kind of 'fast' have you actually been doing?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #fasting #guthealth #wbdaily #healthtruth #naturalhealth",
+   "posted_at": "2026-11-09T20:17"
   },
   {
    "file": "KT_FASTTRUTH/02_HE-SURVIVED-12-DAYS-NO-WATER_128s.mp4",
