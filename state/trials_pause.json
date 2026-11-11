@@ -1,4 +1,4 @@
 {
- "until": "2026-12-31T00:00",
- "why": "10 Nov 2026: 70 of 70 WB trials refused 'Application does not have permission for this action' (code 10) - the WB Meta app lacks the trial-reels permission; nothing can post until it is granted. Delete this file to try again."
+ "until": "2026-11-18T00:00",
+ "why": "too few followers for Instagram trial reels (code 10/2207081; WB has 22, Instagram needs ~200) - rechecks by itself weekly"
 }
