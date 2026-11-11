@@ -2015,6 +2015,42 @@
     "The protein rule",
     "ruins your fasting"
    ]
+  },
+  "ep_v5k3hxf_p3_r5/WHY-RESTAURANT-WATER-HAS-CHLORINE": {
+   "plan": "ep_v5k3hxf_p3_r5",
+   "source": "v5k3hxf.mp4",
+   "brand": "KT_ARTERYFACTSR5",
+   "tries": 3,
+   "why": [
+    "NOT QUEUED** `01_WHY-RESTAURANT-WATER-HAS-CHLORINE_100s.mp4` - opens mid-sentence on \"which is why\""
+   ],
+   "slug": "WHY-RESTAURANT-WATER-HAS-CHLORINE",
+   "in": 1297.1,
+   "out": 1397.2,
+   "start_words": "When I go to a restaurant",
+   "end_words": "because it has chlorine in it",
+   "hook": [
+    "Why your water",
+    "still has chlorine"
+   ]
+  },
+  "ep_v6uxtgp_p4_r2/THE-PARTIAL-FAST-PROTEIN-RULE": {
+   "plan": "ep_v6uxtgp_p4_r2",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINTRUTHR2",
+   "tries": 2,
+   "why": [
+    "FAIL 02_THE-PARTIAL-FAST-PROTEIN-RULE_59s.mp4: ends off the planned words: plan ends 'source while you're fasting', clip ends 'energy source while you are fasting'"
+   ],
+   "slug": "THE-PARTIAL-FAST-PROTEIN-RULE",
+   "in": 1746.0,
+   "out": 1811.44,
+   "start_words": "There's what is known now",
+   "end_words": "source while you're fasting",
+   "hook": [
+    "The protein rule",
+    "ruins your fasting"
+   ]
   }
  },
  "attempts": {
@@ -2042,6 +2078,7 @@
   "ep_v5ixx3h_p3_r3": 2,
   "ep_v5k3hxf_p4": 2,
   "ep_v6u9yxd_p2_r4": 2,
-  "ep_v6u9yxd_p3_r3": 2
+  "ep_v6u9yxd_p3_r3": 2,
+  "ep_v6pdgp9_p2_r3": 1
  }
 }
