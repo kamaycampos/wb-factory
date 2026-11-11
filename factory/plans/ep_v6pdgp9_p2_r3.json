@@ -1,0 +1,11 @@
+{"source": "v6pdgp9.mp4", "brand": "KT_MOODFIXR3", "test": false,
+ "note": "2026-11-11 - re-cut by weekly agent (SECOND CHANCES, PLANNING.md step 2c), retry of ep_v6pdgp9_p2_r2/WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING (tries 2): the refusal was 'ends off the planned words: plan ends to get rid of the Candida, clip ends and this will cause some depress' - the target phrase sat at the very tail of a long 10-second cue that also repeats 'get rid of the Candida' earlier in the same breath, so the word search locked onto the wrong spot. Fix: pull the end back one sentence, to 'because the Candida feeds on sugar' - the only occurrence of that line in the clip, inside a single short cue, and still the exact fact the hook promises (why the sugar craving happens).",
+ "clips": [
+  {"slug": "WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING", "in": 620.0, "out": 685.0,
+   "retry_of": "ep_v6pdgp9_p2_r2/WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING",
+   "start_words": "There's one other cause",
+   "end_words": "because the Candida feeds on sugar",
+   "hook": ["What your sugar", "cravings are hiding"],
+   "send": "A parent sends it to whoever just finished a round of antibiotics - why the sugar cravings started right after, and the worry of what's really going on in their gut.",
+   "caption": "Kevin Trudeau connects a habit most people brush off - sugar cravings, bloating, gas - back to one root cause: Candida yeast overgrowth.\n\nAntibiotics kill bacteria, which is the point when you're sick. But they don't just kill the bad bacteria - they wipe out good flora in the gut too. Candida, a yeast that's normally kept in check, moves in and overgrows, he says, and it feeds on sugar.\n\nHis view: if you crave bread, wine or dairy more than you used to, or deal with gas and bloating, it's worth asking whether gut yeast - not willpower - is driving it.\n\nHave you taken antibiotics in the last year?\n\n#kevintrudeau #guthealth #candida #antibiotics #foodtruth #wbhealth"}
+ ]}

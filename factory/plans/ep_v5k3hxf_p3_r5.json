@@ -1,0 +1,11 @@
+{"source": "v5k3hxf.mp4", "brand": "KT_ARTERYFACTSR5", "test": false,
+ "note": "2026-11-11 - re-cut by weekly agent (SECOND CHANCES, PLANNING.md step 2c), retry of ep_v5k3hxf_p3_r3/WHY-RESTAURANT-WATER-HAS-CHLORINE (tries 2): the refusal was a captions-vs-sound timing mismatch ('the spoken word was on screen in only 6 of 9 moments'), a known quirk the playbook says to fix by moving both edges to different sentence boundaries. First attempt at a new window (1238-1313s) collided with CHLORINE-TABLETS-CLOGGED-THEIR-ARTERIES' own range (1180-1294s); moved start past it to the clean gap at 1297s. New window starts on the restaurant/ice line and runs through the coffee, soup and spaghetti-sauce examples to Kevin's own closing rule, ending right before the already-cut skin clip picks up at 1399.5s - a different, wider payoff than the narrow coffee line the last two attempts used.",
+ "clips": [
+  {"slug": "WHY-RESTAURANT-WATER-HAS-CHLORINE", "in": 1297.1, "out": 1397.2,
+   "retry_of": "ep_v5k3hxf_p3_r3/WHY-RESTAURANT-WATER-HAS-CHLORINE",
+   "start_words": "When I go to a restaurant",
+   "end_words": "because it has chlorine in it",
+   "hook": ["Why your water", "still has chlorine"],
+   "send": "A parent who just installed a whole-house filter sends this to the friend who still orders tap water at restaurants - the anxiety of missing an obvious source, from the coffee to the ice.",
+   "caption": "Kevin Trudeau says putting chlorine in city water is genuinely smart - it clears out the bacteria, viruses and parasites that would otherwise make tap water dangerous.\n\nHis point is what comes after: you still don't want to drink that chlorine yourself. Soup, tea, coffee, even jarred spaghetti sauce from the store - if it started as tap water, the chlorine rides along no matter what color it turns.\n\nSo at a restaurant, his rule is simple: bottled or spring water, no ice, since most ice machines run off the same municipal line.\n\nWhat's the last drink you didn't think to check?\n\n#kevintrudeau #tapwater #chlorine #healthtruth #wbdaily #wellness"}
+ ]}

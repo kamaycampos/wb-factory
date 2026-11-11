@@ -1,0 +1,39 @@
+{
+ "source": "v6uxtgp.mp4",
+ "brand": "KT_TOXINTRUTHR2",
+ "test": false,
+ "note": "2026-11-11 - re-cut by weekly agent (SECOND CHANCES, PLANNING.md step 2c). WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN (tries 1, 'opens mid-sentence on wrong test.'): moved the start back to a clean standalone sentence, 'I did a different test and I had very odd high levels of a lot of different heavy metals,' which also folds in the earlier mercury-test context so the clip clears the 40s floor. Same end. THE-4-TYPES-OF-FASTING (tries 1, 'phrase scrambled around my hands there my; word repeated after one: it's like it's'): both damaged phrases sit inside an off-topic tangent about a phone notification sound (1707-1823s) in the middle of the original cut, so no edge move could keep the full 'four types' overview clean. Narrowed instead to the one clean, undamaged arc inside that same span: Albert Mazer's partial-fast story and Pompa's exact definition (500-1,200 calories, under 20g protein, still getting autophagy), ending right before the same tangent resumes. Renamed the slug since it no longer covers all four types; retry_of keeps the lineage.",
+ "clips": [
+  {
+   "slug": "WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN",
+   "in": 287.12,
+   "out": 330.64,
+   "retry_of": "ep_v6uxtgp_p4/WHAT-HIS-SILVER-FILLINGS-SENT-TO-HIS-BRAIN",
+   "start_words": "I did a different test",
+   "end_words": "out of my brain",
+   "hook": ["50% mercury goes", "to your brain"],
+   "trial_hooks": [
+    ["The 2 fillings", "held 50% mercury"],
+    ["The blood test", "that missed it"],
+    ["The fillings no", "doctor warned him"],
+    ["What your blood", "test can't find"],
+    ["A doctor found", "his hidden mercury"],
+    ["What Kevin Trudeau's", "found in tissue"],
+    ["The test only", "tissue sample caught"]
+   ],
+   "send": "A chronic-fatigue sufferer sends this to the friend who just got 'normal' bloodwork back - the anxiety that the real test was never run.",
+   "caption": "Dr. Daniel Pompa's blood test for mercury came back normal. A different doctor told him why: a blood test only shows acute exposure - if it's chronic, the mercury is sitting in your tissue instead, invisible to that test.\n\nA new test found very high levels of several heavy metals. The source: two silver fillings, 50% mercury, removed from his own mouth - mercury that had been sitting two inches from his pituitary gland.\n\nThat single discovery sent him on the path he still teaches today: how the body actually clears heavy metals once you know where to look.\n\nHas your own bloodwork ever come back 'normal' while you still felt wrong?\n\n#kevintrudeau #mercuryexposure #heavymetals #healthtruth #wbdaily #bloodwork"
+  },
+  {
+   "slug": "THE-PARTIAL-FAST-PROTEIN-RULE",
+   "in": 1746.00,
+   "out": 1811.44,
+   "retry_of": "ep_v6uxtgp_p4/THE-4-TYPES-OF-FASTING",
+   "start_words": "There's what is known now",
+   "end_words": "source while you're fasting",
+   "hook": ["The protein rule", "ruins your fasting"],
+   "send": "Someone trying intermittent fasting sends this to their gym-buddy group chat: the protein number nobody mentioned, before they waste another fast - the anxiety of doing it wrong.",
+   "caption": "Dr. Daniel Pompa told Kevin Trudeau where 'partial fasting' actually came from: a Frenchman named Albert Mazer, who used it to slowly refeed people who had been very sick, and found they kept improving the longer he went.\n\nPompa's own rule for it: 500 to 1,200 calories a day depending on body size, and under 20 grams of protein. Stay under that line and your body still gets autophagy - clearing out old, damaged cells for energy while you fast.\n\nGo over on protein, he says, and that switch never flips.\n\nEver tried fasting and wondered if you were doing it right?\n\n#kevintrudeau #fasting #autophagy #healthtruth #wbdaily #cellularhealth"
+  }
+ ]
+}
