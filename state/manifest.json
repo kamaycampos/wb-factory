@@ -1614,13 +1614,27 @@
    "caption": "Kevin Trudeau says most 'organic' products are barely organic at all - and his own grocery story proves it.\n\nPick up a hundred bottles of organic Italian salad dressing. Almost none of them use olive oil. Instead: sunflower oil, canola oil, soybean oil, avocado oil - all labeled organic, none of it what a real Italian dressing is made with.\n\nKevin says the real ingredient is simply too expensive, so companies swap it and keep the organic label anyway.\n\nNext time you flip an 'organic' bottle over, read past the front label. What's the first oil actually listed?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #organicfood #readthelabel #foodtruth #wbdaily #healthtruth",
    "hook": "The oil hiding in your organic",
    "bytes": 23429299,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-10T19:39",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1141908854869374/",
+    "instagram": "https://www.instagram.com/reel/DflPHQVAGZB/",
+    "youtube": "https://youtube.com/shorts/VufJUURBhgs"
+   },
+   "caption_at_post": "Kevin Trudeau says most 'organic' products are barely organic at all - and his own grocery story proves it.\n\nPick up a hundred bottles of organic Italian salad dressing. Almost none of them use olive oil. Instead: sunflower oil, canola oil, soybean oil, avocado oil - all labeled organic, none of it what a real Italian dressing is made with.\n\nKevin says the real ingredient is simply too expensive, so companies swap it and keep the organic label anyway.\n\nNext time you flip an 'organic' bottle over, read past the front label. What's the first oil actually listed?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\n\n#kevintrudeau #organicfood #readthelabel #foodtruth #wbdaily #healthtruth",
+   "posted_at": "2026-11-10T19:54"
   },
   {
    "file": "KT_CALMRESET/01_THE-BREATHING-TRICK-FOR-STRESS_89s.mp4",
