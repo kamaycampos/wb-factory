@@ -1,0 +1,28 @@
+{
+  "source": "v6uxtgp.mp4",
+  "brand": "KT_TOXINTRUTHR3",
+  "test": false,
+  "note": "2026-11-11 - re-cut by weekly agent (SECOND CHANCES, PLANNING.md step 2c). THE-PARTIAL-FAST-PROTEIN-RULE (tries 2, 'ends off the planned words: plan ends \"source while you're fasting\", clip ends \"energy source while you are fasting\"'): the SRT line itself reads 'as an energy source while you're fasting' - the planned end_words only quoted the tail of that sentence. Kept the exact same in/out and widened end_words to the sentence's own full wording so it matches the cue verbatim.",
+  "clips": [
+    {
+      "slug": "THE-PARTIAL-FAST-PROTEIN-RULE",
+      "in": 1746.0,
+      "out": 1811.44,
+      "retry_of": "ep_v6uxtgp_p4/THE-4-TYPES-OF-FASTING",
+      "start_words": "There's what is known now",
+      "end_words": "as an energy source while you're fasting",
+      "hook": ["The protein rule", "ruins your fasting"],
+      "send": "Someone trying intermittent fasting sends this to their gym-buddy group chat: the protein number nobody mentioned, before they waste another fast - the anxiety of doing it wrong.",
+      "caption": "Dr. Daniel Pompa told Kevin Trudeau where 'partial fasting' actually came from: a Frenchman named Albert Mazer, who used it to slowly refeed people who had been very sick, and found they kept improving the longer he went.\n\nPompa's own rule for it: 500 to 1,200 calories a day depending on body size, and under 20 grams of protein. Stay under that line and your body still gets autophagy - clearing out old, damaged cells for energy while you fast.\n\nGo over on protein, he says, and that switch never flips.\n\nEver tried fasting and wondered if you were doing it right?\n\n#kevintrudeau #fasting #autophagy #healthtruth #wbdaily #cellularhealth",
+      "trial_hooks": [
+        ["The 20-gram protein", "fasting rule"],
+        ["Too much protein", "ruins your fast"],
+        ["Fasting's hidden protein", "limit, nobody mentions"],
+        ["The fasting number", "nobody tells you"],
+        ["A Frenchman's method", "helped the sickest"],
+        ["Kevin Trudeau's rule", "for partial fasting"],
+        ["Fast wrong, autophagy", "never even starts"]
+      ]
+    }
+  ]
+}

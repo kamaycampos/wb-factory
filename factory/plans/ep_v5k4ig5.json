@@ -1,0 +1,27 @@
+{
+  "source": "v5k4ig5.mp4",
+  "brand": "KT_CUFFTRICK",
+  "test": false,
+  "note": "2026-11-11 - 'The Secret To Preventing High Blood Pressure | TKTS Clips' (Rumble v5k4ig5). Weekly agent, WB health lane. Skipped the first 4.5 minutes of this short episode entirely: it is Kevin recommending intravenous chelation for artery blockage ('that is the natural cure for this... you've now cured'), a medical-procedure claim with the word 'cure' spoken inside - off the WB law. The only clean, actionable stretch left is the arm-position/blood-pressure-test bit used here.",
+  "clips": [
+    {
+      "slug": "WHY-YOUR-BLOOD-PRESSURE-TEST-LIES",
+      "in": 302.5,
+      "out": 373.0,
+      "start_words": "One thing about blood pressure",
+      "end_words": "need high blood pressure medication",
+      "hook": ["Why your blood", "pressure test lies"],
+      "send": "Someone who just got a high blood pressure reading sends this to their spouse: the anxiety of being sold medication for a number that might be measured wrong.",
+      "caption": "Kevin Trudeau got sidetracked on his own show and never finished talking about blood pressure that day. But he left one fact on the table first.\n\nAn article on arm positions during blood pressure checks was published, then quietly disappeared. His point: the standard arm position used at most checkups can read higher than your real number.\n\nHis comparison: it's like a mechanic pulling a spark plug to sell you a $2,000 repair you never needed. Look at the test, scare you, sell the fix.\n\nNext time you're tested, ask whether your arm was positioned the way the research says it should be.\n\n#kevintrudeau #bloodpressure #healthtruth #medicalbilling #wbdaily #bodyawareness",
+      "trial_hooks": [
+        ["The $2,000 repair", "you never needed"],
+        ["The arm position", "trick doctors use"],
+        ["Your blood pressure", "can be faked"],
+        ["What your doctor", "skips about pressure"],
+        ["Kevin Trudeau's mechanic", "analogy, explained"],
+        ["Kevin Trudeau exposes", "the pressure test"],
+        ["A $2,000 spark", "plug lesson"]
+      ]
+    }
+  ]
+}
