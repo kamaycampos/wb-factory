@@ -2177,6 +2177,42 @@
     "The protein rule",
     "ruins your fasting"
    ]
+  },
+  "ep_v4ka7rn/WHAT-ORGANIC-FOOD-REALLY-COSTS": {
+   "plan": "ep_v4ka7rn",
+   "source": "v4ka7rn.mp4",
+   "brand": "KT_BURGERMATH",
+   "tries": 1,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-ORGANIC-FOOD-REALLY-COSTS",
+   "in": 1619.0,
+   "out": 1663.0,
+   "start_words": "If you go buy organic flour",
+   "end_words": "cheaper than what you're doing now",
+   "hook": [
+    "Organic costs 2%",
+    "to 40% more"
+   ]
+  },
+  "ep_v4ka7rn/WHAT-A-HOME-BURGER-REALLY-COSTS": {
+   "plan": "ep_v4ka7rn",
+   "source": "v4ka7rn.mp4",
+   "brand": "KT_BURGERMATH",
+   "tries": 1,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-A-HOME-BURGER-REALLY-COSTS",
+   "in": 1806.0,
+   "out": 1909.0,
+   "start_words": "you get seven ounces",
+   "end_words": "It's scrumptious and nutritious",
+   "hook": [
+    "The $8.50 meal",
+    "that costs $2.20"
+   ]
   }
  },
  "attempts": {
@@ -2208,6 +2244,6 @@
   "ep_v6pdgp9_p2_r3": 2,
   "ep_v4ki1z0": 2,
   "ep_v6uxtgp_p4_r3": 2,
-  "ep_v4ka7rn": 1
+  "ep_v4ka7rn": 2
  }
 }
