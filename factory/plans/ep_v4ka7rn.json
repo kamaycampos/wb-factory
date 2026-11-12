@@ -1,0 +1,37 @@
+{
+ "source": "v4ka7rn.mp4",
+ "brand": "KT_BURGERMATH",
+ "test": false,
+ "note": "2026-11-12 - 'Kevin Trudeau discusses buying organic creates a healthy you' (Rumble v4ka7rn). Weekly agent, WB health lane. Only 2 clips: this old 360p radio-show episode spends most of its hour on taxes, celebrity gossip, FDA/TSA/WikiLeaks politics, a priest-abuse scandal, and a colloidal-silver/MMS/hydrogen-peroxide supplement pitch - all off the WB health-information lane or explicitly against the WB law. The only two clean, actionable, compliant stretches are the organic-food cost breakdown and the burger cost experiment, both from the same 'can't afford organic' segment.",
+ "clips": [
+  {
+   "slug": "WHAT-ORGANIC-FOOD-REALLY-COSTS",
+   "in": 1619.0,
+   "out": 1663.0,
+   "start_words": "If you go buy organic flour",
+   "end_words": "cheaper than what you're doing now",
+   "hook": ["Organic costs 2%", "to 40% more"],
+   "send": "A grocery-budget parent sends this to the one who swore off organic as 'too expensive': the real price gap, item by item - the anxiety of a tight budget, answered with real numbers.",
+   "caption": "Kevin Trudeau breaks down what 'going organic' actually costs, item by item.\n\nOrganic flour: about 2% more. Organic tomatoes: about 20% more. Organic lettuce or celery: about 10% more. Across a normal grocery list, it averages out to somewhere between 2% and 40% more, depending what's in your cart.\n\nHis point: that's still less than what most people spend eating out. Buy the organic groceries, cook them at home, and the total comes out cheaper than the fast-food and takeout habit it replaces.\n\nWhich number surprised you more?\n\n#kevintrudeau #organicfood #grocerybudget #foodtruth #wbdaily #realfood"
+  },
+  {
+   "slug": "WHAT-A-HOME-BURGER-REALLY-COSTS",
+   "in": 1806.0,
+   "out": 1909.0,
+   "start_words": "you get seven ounces",
+   "end_words": "It's scrumptious and nutritious",
+   "hook": ["The $8.50 meal", "that costs $2.20"],
+   "trial_hooks": [
+    ["The $8.50 burger", "cut to $2.20"],
+    ["The restaurant markup", "on your burger"],
+    ["Your lunch costs", "4x too much"],
+    ["What your burger", "bill is hiding"],
+    ["Kevin's test beat", "an $8.50 lunch"],
+    ["Kevin Trudeau tested", "an $8 burger"],
+    ["Your burger could", "cost 75% less"]
+   ],
+   "send": "Someone who just paid $9 for a drive-thru burger sends this to their roommate: the real math on cooking it at home instead - the anger of realizing how much the markup really is.",
+   "caption": "A food-savings study put a fast-casual burger up against one made at home.\n\nRestaurant burger, with tax and tip: $8.50. The same ingredients, made at home: $2.20. That's over 50% saved on one meal.\n\nKevin Trudeau ran it again using 100% organic, grass-fed beef instead of the regular kind. His result: still over 50% cheaper than eating out - and he says it tasted better too.\n\nThe lesson isn't to skip real food because it's organic. It's to skip the restaurant markup.\n\nWhat's the last meal you paid 4x too much for?\n\n#kevintrudeau #organicfood #grassfedbeef #foodtruth #wbdaily #healthyeating"
+  }
+ ]
+}
