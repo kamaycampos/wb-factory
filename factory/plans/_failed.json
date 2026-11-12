@@ -2213,6 +2213,60 @@
     "The $8.50 meal",
     "that costs $2.20"
    ]
+  },
+  "ep_v6u9yxd_p4/WHAT-LOW-TESTOSTERONE-FEELS-LIKE": {
+   "plan": "ep_v6u9yxd_p4",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONETRUTH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHAT-LOW-TESTOSTERONE-FEELS-LIKE_49s.mp4` - opens mid-sentence on \"out because when\""
+   ],
+   "slug": "WHAT-LOW-TESTOSTERONE-FEELS-LIKE",
+   "in": 749.0,
+   "out": 802.0,
+   "start_words": "When you have low testosterone",
+   "end_words": "easier ability to gain muscle",
+   "hook": [
+    "Why your testosterone",
+    "feels low"
+   ]
+  },
+  "ep_v6u9yxd_p4/NO-ONE-CHECKS-YOUR-THYROID": {
+   "plan": "ep_v6u9yxd_p4",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONETRUTH",
+   "tries": 1,
+   "why": [
+    "FAIL 01_NO-ONE-CHECKS-YOUR-THYROID_36s.mp4: ends off the planned words: plan ends 'all of the hormones', clip ends 'have to look at all of'"
+   ],
+   "slug": "NO-ONE-CHECKS-YOUR-THYROID",
+   "in": 1495.0,
+   "out": 1538.0,
+   "start_words": "A lot of it could",
+   "end_words": "all of the hormones",
+   "hook": [
+    "Why your thyroid",
+    "never gets checked"
+   ]
+  },
+  "ep_v6uxtgp_p4_r4/THE-PARTIAL-FAST-PROTEIN-RULE": {
+   "plan": "ep_v6uxtgp_p4_r4",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINTRUTHR4",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_THE-PARTIAL-FAST-PROTEIN-RULE_65s.mp4` - stray full stop: \"Amen. and\""
+   ],
+   "slug": "THE-PARTIAL-FAST-PROTEIN-RULE",
+   "in": 1746.0,
+   "out": 1811.44,
+   "start_words": "There's what is known now",
+   "end_words": "energy source while you are fasting",
+   "hook": [
+    "The protein rule",
+    "ruins your fasting"
+   ]
   }
  },
  "attempts": {
@@ -2244,6 +2298,7 @@
   "ep_v6pdgp9_p2_r3": 2,
   "ep_v4ki1z0": 2,
   "ep_v6uxtgp_p4_r3": 2,
-  "ep_v4ka7rn": 2
+  "ep_v4ka7rn": 2,
+  "ep_v4ki1z0_r2": 1
  }
 }
