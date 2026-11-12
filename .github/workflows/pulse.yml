@@ -11,6 +11,7 @@ on:
     - cron: "7 */6 * * *"        # restarts the heartbeat if the chain ever breaks
 permissions:
   actions: write
+  contents: write                 # the DM pass commits state/dms.json
 concurrency:
   group: pulse
   cancel-in-progress: false
@@ -22,17 +23,69 @@ jobs:
     env:
       GH_TOKEN: ${{ github.token }}
       GH_REPO: ${{ github.repository }}
+      # COMMENT "EBOOK" -> THE FREE EBOOK BY DM, WITHIN SECONDS (12 Nov 2026, Kamay: "some of them
+      # has to have the supplements and some the herpes [ebook], both for comment"). Meta's own
+      # rule answers HEALTH with the supplement link, instantly, and stays as it is. This bot
+      # answers ONLY the second word (my_brand/offers.json "ebook"), looking every 5 seconds.
+      # It is the only writer of state/dms.json.
+      DM_AUTO: "on"
+      KT_CTA_KEYWORDS: "EBOOK"
+      OFFER_URL: "https://herpescurebook.com/?ref=a43c8j"
+      DM_TEXT: "Hey! Thanks for commenting. Here is the free ebook, what Kevin Trudeau found in his research on herpes: {link}"
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
     steps:
-      - name: Start post.yml every 20 minutes
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Start post.yml every 20 minutes, answer EBOOK comments every 5 seconds
         run: |
+          git config user.name  "wb-factory"
+          git config user.email "noreply@github.com"
+          save_dms() {
+            git diff --quiet -- state/dms.json && return 0
+            git add state/dms.json 2>/dev/null || true
+            git diff --staged --quiet && return 0
+            git commit -q -m "dms: $(date -u +%FT%TZ)"
+            for k in 1 2 3; do
+              git pull -q --rebase --autostash && git push -q && return 0
+              git rebase --abort 2>/dev/null || true; sleep 3
+            done
+            echo "::warning::dms.json push failed - sent DMs are still marked by the public reply"
+          }
+          dm_pass() {   # the ordinary pass: fresh checkout, Instagram and Facebook
+            git pull -q --rebase --autostash || git rebase --abort 2>/dev/null || true
+            DM_RECENT_POSTS=$1 timeout 120 python dm/dm_reply.py || echo "DM pass failed - next one soon"
+            save_dms
+          }
+          dm_fast() {   # the newest 25 posts: one call unless a comment count moved (dm_reply DM_FAST)
+            DM_FAST=1 DM_RECENT_POSTS=25 timeout 60 python dm/dm_reply.py > /tmp/dmf.log 2>&1 || true
+            git diff --quiet -- state/dms.json && return 0
+            cat /tmp/dmf.log
+            save_dms
+          }
           for i in $(seq 1 17); do
+            start=$SECONDS
             gh workflow run post.yml -f dry_run=false || echo "dispatch $i failed - next one in 20 min"
             # GitHub's own timer skipped every cadence run and a TikTok-stats run (17 Oct
             # 2026); the heartbeat never sleeps through, so it carries them: cadence every
             # 2 h (the 4-6/day rule), TikTok stats once per heartbeat (~6 h).
             if [ $((i % 6)) -eq 1 ]; then gh workflow run cadence.yml || echo "cadence dispatch failed"; fi
             if [ "$i" -eq 1 ]; then gh workflow run tiktok_stats.yml || echo "stats dispatch failed"; fi
-            sleep 1200
+            dm_pass 25
+            n=0
+            while [ $((SECONDS - start)) -lt 1050 ]; do
+              sleep 5
+              n=$((n + 1))
+              if [ $((n % 25)) -eq 0 ]; then dm_pass 6; else dm_fast; fi
+            done
+            left=$((1200 - (SECONDS - start)))
+            if [ $left -gt 0 ]; then sleep $left; fi
           done
       - name: Hand over to the next heartbeat
         if: ${{ !cancelled() }}

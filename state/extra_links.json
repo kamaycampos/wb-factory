@@ -1,5 +1,5 @@
 {
- "_why": "10 Nov 2026, Kamay: WB pushes 1) the FREE herpes ebook, 2) supplements (the HEALTH line), then the rest; both brands send people to Kevin's free shows to find the full episode. Our words never say 'cure' (Dustin, 15 Oct: the FDA/Meta read it as a drug claim) - the book is described, not promised. Herpes stays OFF TikTok (sexual-health takedowns, state/tiktok_avoid.json). 'first' sits above the product ask. Links from the affiliate portal, checked 10 Nov. Edit lines here, not in code. Instagram (10 Nov): links do not click, so the lines name what is in the bio Kamay set: 1) the free herpes ebook, 2) World's Best Daily.",
+ "_why": "10 Nov 2026, Kamay: WB pushes 1) the FREE herpes ebook, 2) supplements (the HEALTH line), then the rest; both brands send people to Kevin's free shows to find the full episode. Our words never say 'cure' (Dustin, 15 Oct: the FDA/Meta read it as a drug claim) - the book is described, not promised. Herpes stays OFF TikTok (sexual-health takedowns, state/tiktok_avoid.json). 'first' sits above the product ask. Links from the affiliate portal, checked 10 Nov. Edit lines here, not in code. Instagram (10 Nov): links do not click, so the lines name what is in the bio Kamay set: 1) the free herpes ebook, 2) World's Best Daily. 12 Nov 2026, Kamay: 'no telling to go to the bio' - the Instagram bio line is gone; the ebook is asked for by comment on the clips that fit it (my_brand/offers.json 'ebook').",
  "links": {
   "show": "https://tv.kevintrudeau.com/?ref=a43c8j",
   "nuggets": "https://book.nuggetsofgold.com/?ref=a43c8j",
@@ -46,8 +46,6 @@
   }
  ],
  "instagram": {
-  "first": [
-   "FREE ebook: what Kevin Trudeau found in his research on herpes. It's the first link in our bio."
-  ]
+  "first": []
  }
 }

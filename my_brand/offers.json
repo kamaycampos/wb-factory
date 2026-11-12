@@ -3,22 +3,47 @@
   "keyword": "HEALTH",
   "dm_sends": "World's Best Daily (Daily Nutritional Supplement - 1 Month Pack)",
   "offers": [
-    {"name": "World's Best Daily", "full_name": "Daily Nutritional Supplement - 1 Month Pack",
-     "url": "https://worldsbestnutritionals.com/daily?ref=a43c8j", "price": "$795/month subscribe, $850 one time",
-     "facts": ["created by Kevin Trudeau, founder of World's Best Nutritionals & Organics",
-               "a whole-food nutrition system, not a multivitamin",
-               "220+ whole-food ingredients, none sourced from China",
-               "60 different servings a month: one AM and one PM sachet a day",
-               "made in the USA, GMP certified facilities, third-party tested, GMO free",
-               "30-day money-back guarantee"]},
-    {"name": "World's Best Vitamin & Mineral line", "url": "https://worldsbestnutritionals.com/collections/vitamin-mineral?ref=a43c8j",
-     "items": ["Calcium-Magnesium (from $69.95)", "Vitamin C (from $65.95)", "Vitamin D3 (from $69.95)", "Zinc (from $69.95)", "Vitamin E (from $79.95)"],
-     "note": "Not sent by the HEALTH DM. Never promised in a caption until a DM delivers it."}
+    {
+      "name": "World's Best Daily",
+      "full_name": "Daily Nutritional Supplement - 1 Month Pack",
+      "url": "https://worldsbestnutritionals.com/daily?ref=a43c8j",
+      "price": "$795/month subscribe, $850 one time",
+      "facts": [
+        "created by Kevin Trudeau, founder of World's Best Nutritionals & Organics",
+        "a whole-food nutrition system, not a multivitamin",
+        "220+ whole-food ingredients, none sourced from China",
+        "60 different servings a month: one AM and one PM sachet a day",
+        "made in the USA, GMP certified facilities, third-party tested, GMO free",
+        "30-day money-back guarantee"
+      ]
+    },
+    {
+      "name": "World's Best Vitamin & Mineral line",
+      "url": "https://worldsbestnutritionals.com/collections/vitamin-mineral?ref=a43c8j",
+      "items": [
+        "Calcium-Magnesium (from $69.95)",
+        "Vitamin C (from $65.95)",
+        "Vitamin D3 (from $69.95)",
+        "Zinc (from $69.95)",
+        "Vitamin E (from $79.95)"
+      ],
+      "note": "Not sent by the HEALTH DM. Never promised in a caption until a DM delivers it."
+    }
   ],
   "cta_lines": [
     "Kevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.",
     "Comment HEALTH and we'll DM you the link to World's Best Daily, Kevin Trudeau's whole-food daily supplement (220+ whole-food ingredients).",
     "Comment HEALTH for the link to World's Best Daily, the whole-food system Kevin Trudeau created. 30-day money-back guarantee."
   ],
-  "youtube_line": "World's Best Daily, the whole-food supplement Kevin Trudeau created: {url}"
+  "youtube_line": "World's Best Daily, the whole-food supplement Kevin Trudeau created: {url}",
+  "ebook": {
+    "_why": "12 Nov 2026, Kamay: 'some of them has to have the supplements and some the herpes [ebook], both for comment. No telling to go to the bio.' A clip whose caption matches gets this ask on Instagram and Facebook instead of the HEALTH line. Our own bot (pulse.yml, every 5 s) answers EBOOK with the ebook link; Meta's own rule keeps answering HEALTH. Our words never say 'cure'. Never on TikTok.",
+    "keyword": "EBOOK",
+    "dm_sends": "the free ebook (herpescurebook.com with our ref)",
+    "match": "herpes|cold sore|shingles|\\bvirus|\\bviral\\b|immune|big pharma|drug compan|pharmaceutical|\\bfda\\b|side effect|prescription|antibiotic|vaccine",
+    "cta_lines": [
+      "Kevin Trudeau wrote a free ebook on what he found in his research on herpes. Comment EBOOK and we'll DM it to you.",
+      "Comment EBOOK and we'll DM you Kevin Trudeau's free ebook: what he found in his research on herpes."
+    ]
+  }
 }

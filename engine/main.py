@@ -497,6 +497,10 @@ def plan(man):
                     nxt["cta_keyword"] = (poster.keyword_for_clip(nxt, kws, last_kw.get(acct))
                                           if acct in poster.FALLBACK_BRANDS
                                           else kws[placed % len(kws)])
+                # the clip that fits the brand's second offer asks for ITS word (poster.ebook_offer)
+                _eb = poster.ebook_offer(poster.brand_offers(brand_of(nxt)), nxt.get("caption") or "")
+                if _eb and _eb.get("keyword"):
+                    nxt["cta_keyword"] = _eb["keyword"]
                 last_kw[acct] = nxt["cta_keyword"]
                 # The WORDING rotates too, in posting order and for the same
                 # reason - so two posts in a row never read identically.

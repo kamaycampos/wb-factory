@@ -21,6 +21,7 @@ variable DM_AUTO = on, which the member's Claude sets during `post`.
 
     python3 dm/dm_reply.py            # one pass
     python3 dm/dm_reply.py --dry      # show what it would send, send nothing
+    DM_BRAND=AR_ python3 dm/dm_reply.py   # Awakened Rise: AR_* keys, state/dms_ar.json
 """
 import json
 import os
@@ -31,18 +32,51 @@ from datetime import datetime, timedelta, timezone
 import requests
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-STATE = os.path.join(ROOT, "state", "dms.json")
+# AWAKENED RISE TOO (2 Nov 2026). Her captions ask for RISE/LUCKY and Meta's own rule
+# answered none of them: 7 keyword comments, 0 replies. DM_BRAND=AR_ runs this same bot
+# on her AR_* keys with her own link and its own state file - never Kevin's text or link.
+BRAND = os.environ.get("DM_BRAND", "")
+STATE = os.path.join(ROOT, "state", "dms_ar.json" if BRAND == "AR_" else "dms.json")
+# ANSWERED BY HAND BEFORE THE BOT COULD (3 Nov 2026, Yaren: "i already manually sent
+# messages to the people who commented"). A DM sent by hand leaves no public reply, so the
+# bot cannot see it: everything older than this is hers, never DMed a second time.
+SINCE = os.environ.get("DM_SINCE") or {"AR_": "2026-11-03T03:30:00"}.get(BRAND, "")
 G = "https://graph.facebook.com/v21.0"
 T = 30
 WINDOW = timedelta(days=7)           # Meta's private-reply window
-RECENT_POSTS = 25                    # comments arrive on the newest posts
+# comments arrive on the newest posts. The 2-3 minute pass (pulse.yml) reads only the
+# newest few to stay far under Meta's rate limits; the 20-minute sweep reads 25.
+RECENT_POSTS = int(os.environ.get("DM_RECENT_POSTS") or 25)
 MAX_PER_RUN = 60                     # stay far under Meta's messaging limits
-DISCLOSURE = "#ad - I earn a commission if you buy through my link."
-DEFAULT_TEXT = "Here it is: {link}\n\n{disclosure}"
+# THE FAST PASS (12 Nov 2026, Kamay: "it needs to be instantly"). A reply waited up to 2.5 min on
+# the newest 6 posts and up to 20 min on any older clip. DM_FAST=1 is a pass cheap enough to run
+# every 15 seconds on the newest 25 posts: ONE call lists them with their comment counts, and a
+# post's comments are read only when its count moved since the last pass (kept in /tmp, the
+# heartbeat's own disk). Instagram only; Facebook and anything a fast pass failed on are still
+# caught by the ordinary pass every 2.5 minutes.
+FAST = os.environ.get("DM_FAST") == "1"
+COUNTS = f"/tmp/dm_counts_{BRAND or 'KT'}.json"
+
+
+def _counts():
+    try:
+        return json.load(open(COUNTS))
+    except (OSError, ValueError):
+        return {}
+# 14 Oct 2026, Kamay: the "#ad - I earn a commission" line is gone from the DM.
+# {disclosure} stays accepted (empty) so an older DM_TEXT never breaks the send.
+DEFAULT_TEXT = "Here it is: {link}"
+
+
+def env(name):
+    return os.environ.get(BRAND + name, "")
 
 
 def keywords():
-    raw = os.environ.get("KT_CTA_KEYWORDS", "") or "WISH,KT,FREE,YES"
+    if BRAND:                            # fail closed: never answer Kevin's words on her account
+        raw = env("CTA_KEYWORDS")
+    else:
+        raw = os.environ.get("KT_CTA_KEYWORDS", "") or "WISH,KT,FREE,YES"
     return [k.strip().upper() for k in raw.split(",") if k.strip()]
 
 
@@ -94,17 +128,32 @@ def instagram_comments(ig, tok):
                                        "access_token": tok}).get("data", [])
     diag = os.environ.get("DM_DIAG") == "1"
     out = []
+    seen_counts = _counts()
     for m in media:
         if _ts(m["timestamp"]) < datetime.now(timezone.utc) - WINDOW - timedelta(days=30):
             continue
+        if m.get("comments_count") == 0 and not diag:
+            continue                     # nothing to read: save the call
+        if FAST and seen_counts.get(m["id"]) == m.get("comments_count"):
+            continue                     # nobody commented since the last look
         cs = _get(f"{G}/{m['id']}/comments", {"fields": "id,text,timestamp,username,replies{username}",
                                                "limit": 50, "access_token": tok}).get("data", [])
         if diag:
             print(f"  post {m['timestamp'][:16]}: says {m.get('comments_count')} comments, API gave {len(cs)}"
                   f" {[(c.get('text') or '')[:12] for c in cs]}")
-        out += [(c["id"], c.get("text", ""), c["timestamp"], m["id"], c.get("username", ""),
+        # A COMMENT WITH NO TEXT IS NEVER AN ASK (4 Nov 2026). A GIF or sticker comes back with no
+        # text - and so does a real "RISE" whose words Instagram withheld (a flagged account).
+        # Nothing in the API tells them apart, so for one evening blanks on a "Comment RISE" post
+        # were DMed; Yaren: a GIF-only comment "got the link, that's not right". Instagram also
+        # hid that DM from the flagged account, so answering blanks gained nothing. Only words count.
+        out += [(c["id"], c.get("text") or "", c["timestamp"], m["id"], c.get("username", ""),
                  {r.get("username", "") for r in (c.get("replies") or {}).get("data", [])})
                 for c in cs]
+        seen_counts[m["id"]] = m.get("comments_count")
+    try:
+        json.dump(seen_counts, open(COUNTS, "w"))
+    except OSError:
+        pass
     return out
 
 
@@ -139,36 +188,47 @@ def run(dry=False):
     if os.environ.get("DM_AUTO", "").lower() != "on" and not dry:
         print("comment -> DM is off (repository variable DM_AUTO is not 'on')")
         return 0
-    link = os.environ.get("OFFER_URL", "").strip()
+    link = env("OFFER_URL").strip()
     if not link.startswith("https://"):
         print("comment -> DM needs your link: set the OFFER_URL secret")
         return 0
-    text = (os.environ.get("DM_TEXT") or DEFAULT_TEXT).format(link=link, disclosure=DISCLOSURE)
-    if DISCLOSURE not in text:
-        text += "\n\n" + DISCLOSURE              # the disclosure is never optional
+    # DM_TEXT is Kevin's (his links are written into it); a brand uses its own or the plain line
+    text = (env("DM_TEXT") or (BRAND and "Hey! Thanks for commenting. Here it is: {link}")
+            or DEFAULT_TEXT).format(link=link, disclosure="").strip()
     kws, d, now = keywords(), load(), datetime.now(timezone.utc)
-    page, ftok = os.environ.get("FB_PAGE_ID", ""), os.environ.get("FB_ACCESS_TOKEN", "")
-    ig, itok = os.environ.get("IG_USER_ID", ""), os.environ.get("IG_ACCESS_TOKEN", "")
+    if not kws:
+        print(f"comment -> DM ({BRAND or 'KT'}): no keywords set ({BRAND}CTA_KEYWORDS)")
+        return 0
+    page, ftok = env("FB_PAGE_ID"), env("FB_ACCESS_TOKEN")
+    ig, itok = env("IG_USER_ID"), env("IG_ACCESS_TOKEN")
     me = {page, ig}
     if ig and itok:                      # their own replies never DM themselves
-        try:
-            me.add(_get(f"{G}/{ig}", {"fields": "username", "access_token": itok}).get("username", ""))
-        except Exception:
-            pass
+        name = _counts().get("_me") if FAST else None
+        if not name:
+            try:
+                name = _get(f"{G}/{ig}", {"fields": "username", "access_token": itok}).get("username", "")
+                c_ = _counts()
+                c_["_me"] = name
+                json.dump(c_, open(COUNTS, "w"))
+            except Exception:
+                name = ""
+        me.add(name or "")
     sources = []
     if ig and itok and page:
         # Read with the Page token when there is one: it carries instagram_manage_comments.
         # 14 Oct 2026: the Instagram token saw 5 comments in a week and missed a real
         # "Money" - it was never granted comment access.
         sources.append(("instagram", lambda: instagram_comments(ig, ftok or itok), ftok or itok))
-    if page and ftok:
+    if page and ftok and not FAST:
         sources.append(("facebook", lambda: facebook_comments(page, ftok), ftok))
     if not sources:
         print("comment -> DM needs Instagram/Facebook connected (type `post` in Claude)")
         return 0
     sent = 0
-    tally = {"keyword comments": 0, "already answered": 0, "outside 7 days": 0, "failed": 0}
+    tally = {"keyword comments": 0, "already answered": 0, "outside 7 days": 0, "failed": 0,
+             "waiting for permission": 0}
     for platform, fetch, tok in sources:
+        blocked = False
         try:
             comments = fetch()
         except Exception as e:
@@ -176,6 +236,11 @@ def run(dry=False):
             print(f"{platform}: could not read comments - {e}")
             continue
         for cid, body, when, post, author, repliers in comments:
+            if blocked:
+                if (matched(body, kws) and cid not in d["sent"] and cid not in d["seen"]
+                        and author not in me and not repliers & me):
+                    tally["waiting for permission"] += 1
+                continue
             if cid in d["sent"] or cid in d["seen"] or author in me:
                 continue
             # ALREADY ANSWERED BY THE ACCOUNT ITSELF (14 Oct 2026). Meta's own comment
@@ -187,6 +252,8 @@ def run(dry=False):
                 tally["already answered"] += matched(body, kws) is not None
                 continue
             d["seen"][cid] = now.isoformat()
+            if SINCE and when[:19] < SINCE:
+                continue
             kw = matched(body, kws)
             if not kw:
                 continue
@@ -219,8 +286,19 @@ def run(dry=False):
                     except Exception as e:
                         rec["public_reply"] = f"error: {type(e).__name__}"
             except Exception as e:
+                d["errors"] = [x for x in d["errors"] if x.get("error") != str(e) or x.get("platform") != platform]
                 d["errors"].append({"at": now.isoformat(), "platform": platform,
                                     "comment": cid, "error": str(e)})
+                # THE KEY CANNOT SEND AT ALL (2 Nov 2026: Awakened Rise's key had no
+                # instagram_manage_messages). That is not this viewer's failure: spending
+                # their 3 tries would drop them before the key is fixed. Leave every keyword
+                # comment unanswered-and-unseen, so the first pass with the right key sends.
+                if "permission" in str(e).lower() or "(#230)" in str(e) or "(#10)" in str(e):
+                    d["seen"].pop(cid, None)
+                    tally["waiting for permission"] += 1
+                    blocked = True
+                    print(f"{platform}: the key cannot send DMs - {e}")
+                    continue
                 tally["failed"] += 1
                 # A FAILED SEND IS NOT A HANDLED COMMENT (14 Oct 2026). It stayed "seen",
                 # so when the missing permission was granted, the viewer who asked
@@ -232,7 +310,7 @@ def run(dry=False):
                     d["seen"].pop(cid, None)
     if not dry:
         save(d)
-    print(f"comment -> DM: {sent} sent this run, {len(d['sent'])} total | "
+    print(f"comment -> DM{' (' + BRAND.strip('_') + ')' if BRAND else ''}: {sent} sent this run, {len(d['sent'])} total | "
           + ", ".join(f"{k} {v}" for k, v in tally.items()))
     return 0
 

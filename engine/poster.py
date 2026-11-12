@@ -412,6 +412,20 @@ def brand_offers(brand=""):
         return None
 
 
+def ebook_offer(offers, text):
+    """The brand's SECOND comment offer when this clip is the right one for it (12 Nov 2026,
+    Kamay: "some of them has to have the supplements and some the herpes [ebook], both for
+    comment. No telling to go to the bio"). my_brand/offers.json "ebook": its own keyword, its
+    own lines, and "match" - the topics it belongs under. None = the usual offer."""
+    eb = (offers or {}).get("ebook")
+    if not eb or not eb.get("cta_lines") or not eb.get("match"):
+        return None
+    try:
+        return eb if re.search(eb["match"], text or "", re.I) else None
+    except re.error:
+        return None
+
+
 def strip_promises(line, fixed=()):
     """The line without any sentence that asks for a comment or promises to send something.
 
@@ -459,7 +473,7 @@ def caption_for(platform, caption, brand="", keyword="", ask="", variant=None):
     body = [l for l in body if not l.strip().startswith("#")]
     offers = brand_offers(brand)
     if offers:
-        body = [x for x in (strip_promises(l, offers.get("cta_lines") or ()) if l.strip() else l for l in body)
+        body = [x for x in (strip_promises(l, list(offers.get("cta_lines") or []) + list((offers.get("ebook") or {}).get("cta_lines") or [])) if l.strip() else l for l in body)
                 if x or not x.strip()]
         body = [l for k, l in enumerate(body) if l.strip() or (k and body[k - 1].strip())]
     while body and not body[-1].strip():
@@ -596,6 +610,12 @@ def caption_for(platform, caption, brand="", keyword="", ask="", variant=None):
             if "30-day money-back guarantee" in json.dumps(offers.get("offers", [])):
                 line = line.replace(": {url}", " (30-day money-back guarantee): {url}")
             cta = line.format(url=url)
+    # THE SECOND ASK: on Instagram and Facebook, where a comment is answered with a DM. Never on
+    # TikTok (the topic is taken down there) and not on YouTube (nothing answers a comment there;
+    # its link line already carries the ebook).
+    _eb = ebook_offer(offers, caption)
+    if _eb and platform in ("instagram", "facebook"):
+        cta = _eb["cta_lines"][(variant if isinstance(variant, int) else 0) % len(_eb["cta_lines"])]
     last = next((l for l in reversed(body) if l.strip()), "")
     mine_only = cred_prefix(brand) != "AR"          # Yaren's captions are hers to change
     if mine_only and last.rstrip().endswith("?") and cta:
