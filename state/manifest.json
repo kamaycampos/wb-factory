@@ -1881,7 +1881,11 @@
    "bytes": 66044675,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-15T11:35",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4",
@@ -1890,7 +1894,11 @@
    "bytes": 53512812,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-15T08:48",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
