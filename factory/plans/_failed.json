@@ -2051,6 +2051,132 @@
     "The protein rule",
     "ruins your fasting"
    ]
+  },
+  "ep_v4ki1z0/WHAT-YOUR-FOOD-LABEL-IS-HIDING": {
+   "plan": "ep_v4ki1z0",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTH",
+   "tries": 1,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-YOUR-FOOD-LABEL-IS-HIDING",
+   "in": 3271.0,
+   "out": 3375.56,
+   "start_words": "Just look at the label",
+   "end_words": "sucralose, throw it away",
+   "hook": [
+    "What your label",
+    "is hiding"
+   ]
+  },
+  "ep_v4ki1z0/WHY-HE-FELT-LIKE-SUPERMAN": {
+   "plan": "ep_v4ki1z0",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTH",
+   "tries": 1,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHY-HE-FELT-LIKE-SUPERMAN",
+   "in": 3457.0,
+   "out": 3564.5,
+   "start_words": "If you want to increase",
+   "end_words": "It's a natural hormone",
+   "hook": [
+    "Why grass-fed beef",
+    "raises your testosterone"
+   ]
+  },
+  "ep_v4ki1z0/WHAT-MCDONALDS-USED-TO-FRY-IN": {
+   "plan": "ep_v4ki1z0",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTH",
+   "tries": 1,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-MCDONALDS-USED-TO-FRY-IN",
+   "in": 3674.0,
+   "out": 3751.0,
+   "start_words": "What made McDonald's french fries",
+   "end_words": "it is healthy for you",
+   "hook": [
+    "Why this oil",
+    "lowers your testosterone"
+   ]
+  },
+  "ep_v4ki1z0/WHAT-SOY-DOES-TO-YOUR-TESTOSTERONE": {
+   "plan": "ep_v4ki1z0",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTH",
+   "tries": 1,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-SOY-DOES-TO-YOUR-TESTOSTERONE",
+   "in": 2879.64,
+   "out": 2929.88,
+   "start_words": "Your body is the largest organ",
+   "end_words": "dramatically reduces testosterone",
+   "hook": [
+    "Why soy lowers",
+    "your testosterone"
+   ]
+  },
+  "ep_v5y9n6n/WHAT-YOUR-SKIN-ABSORBS": {
+   "plan": "ep_v5y9n6n",
+   "source": "v5y9n6n.mp4",
+   "brand": "KT_QUIETRULES",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-YOUR-SKIN-ABSORBS_67s.mp4: ends off the planned words: plan ends 'don't put it on your skin', clip ends 'it dont put it on your'"
+   ],
+   "slug": "WHAT-YOUR-SKIN-ABSORBS",
+   "in": 3808.0,
+   "out": 3875.0,
+   "start_words": "Whatever you put on",
+   "end_words": "don't put it on your skin",
+   "hook": [
+    "What touches skin",
+    "enters your blood"
+   ]
+  },
+  "ep_v6pdgp9_p2_r3/WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING": {
+   "plan": "ep_v6pdgp9_p2_r3",
+   "source": "v6pdgp9.mp4",
+   "brand": "KT_MOODFIXR3",
+   "tries": 3,
+   "why": [
+    "FAIL 01_WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING_64s.mp4: ends off the planned words: plan ends 'because the Candida feeds on sugar', clip ends 'depressed because the candida feeds on'"
+   ],
+   "slug": "WHAT-YOUR-SUGAR-CRAVINGS-ARE-HIDING",
+   "in": 620.0,
+   "out": 685.0,
+   "start_words": "There's one other cause",
+   "end_words": "because the Candida feeds on sugar",
+   "hook": [
+    "What your sugar",
+    "cravings are hiding"
+   ]
+  },
+  "ep_v6uxtgp_p4_r3/THE-PARTIAL-FAST-PROTEIN-RULE": {
+   "plan": "ep_v6uxtgp_p4_r3",
+   "source": "v6uxtgp.mp4",
+   "brand": "KT_TOXINTRUTHR3",
+   "tries": 2,
+   "why": [
+    "FAIL 01_THE-PARTIAL-FAST-PROTEIN-RULE_59s.mp4: ends off the planned words: plan ends 'as an energy source while you're fasting', clip ends 'energy source while you are fasting'"
+   ],
+   "slug": "THE-PARTIAL-FAST-PROTEIN-RULE",
+   "in": 1746.0,
+   "out": 1811.44,
+   "start_words": "There's what is known now",
+   "end_words": "as an energy source while you're fasting",
+   "hook": [
+    "The protein rule",
+    "ruins your fasting"
+   ]
   }
  },
  "attempts": {
@@ -2079,8 +2205,9 @@
   "ep_v5k3hxf_p4": 2,
   "ep_v6u9yxd_p2_r4": 2,
   "ep_v6u9yxd_p3_r3": 2,
-  "ep_v6pdgp9_p2_r3": 1,
-  "ep_v4ki1z0": 1,
-  "ep_v6uxtgp_p4_r3": 1
+  "ep_v6pdgp9_p2_r3": 2,
+  "ep_v4ki1z0": 2,
+  "ep_v6uxtgp_p4_r3": 2,
+  "ep_v4ka7rn": 1
  }
 }
