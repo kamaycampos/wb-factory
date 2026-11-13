@@ -2056,7 +2056,11 @@
    "bytes": 37235269,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-17T09:02",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_SLEEPFILE/01_FIVE-MINUTES-REVEALS-YOUR-SLEEP_52s.mp4",
@@ -2065,7 +2069,11 @@
    "bytes": 35446884,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-16T20:03",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_SLEEPFILE/01_THE-CHEMICALS-IN-YOUR-LAUNDRY-SOAP_56s.mp4",
@@ -2074,7 +2082,11 @@
    "bytes": 36139719,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-17T16:22",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_SLEEPFILE/01_WHY-AMERICAN-MEN-NEED-ED-PILLS_54s.mp4",
@@ -2083,7 +2095,11 @@
    "bytes": 35858464,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-17T12:21",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 2,
+   "cta_kind": "question"
   }
  ]
 }
