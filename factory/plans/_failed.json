@@ -2267,6 +2267,114 @@
     "The protein rule",
     "ruins your fasting"
    ]
+  },
+  "ep_v4ki1z0_r2/WHAT-YOUR-FOOD-LABEL-IS-HIDING": {
+   "plan": "ep_v4ki1z0_r2",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTHR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-YOUR-FOOD-LABEL-IS-HIDING",
+   "in": 3271.0,
+   "out": 3375.56,
+   "start_words": "Just look at the label",
+   "end_words": "sucralose, throw it away",
+   "hook": [
+    "What your label",
+    "is hiding"
+   ]
+  },
+  "ep_v4ki1z0_r2/WHY-HE-FELT-LIKE-SUPERMAN": {
+   "plan": "ep_v4ki1z0_r2",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTHR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHY-HE-FELT-LIKE-SUPERMAN",
+   "in": 3457.0,
+   "out": 3564.5,
+   "start_words": "If you want to increase",
+   "end_words": "It's a natural hormone",
+   "hook": [
+    "Why grass-fed beef",
+    "raises your testosterone"
+   ]
+  },
+  "ep_v4ki1z0_r2/WHAT-MCDONALDS-USED-TO-FRY-IN": {
+   "plan": "ep_v4ki1z0_r2",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTHR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-MCDONALDS-USED-TO-FRY-IN",
+   "in": 3674.0,
+   "out": 3751.0,
+   "start_words": "What made McDonald's french fries",
+   "end_words": "it is healthy for you",
+   "hook": [
+    "Why this oil",
+    "lowers your testosterone"
+   ]
+  },
+  "ep_v4ki1z0_r2/WHAT-SOY-DOES-TO-YOUR-TESTOSTERONE": {
+   "plan": "ep_v4ki1z0_r2",
+   "source": "v4ki1z0.mp4",
+   "brand": "KT_TESTOTRUTHR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-SOY-DOES-TO-YOUR-TESTOSTERONE",
+   "in": 2879.64,
+   "out": 2929.88,
+   "start_words": "Your body is the largest organ",
+   "end_words": "dramatically reduces testosterone",
+   "hook": [
+    "Why soy lowers",
+    "your testosterone"
+   ]
+  },
+  "ep_v6u9yxd_p4_r2/WHAT-LOW-TESTOSTERONE-FEELS-LIKE": {
+   "plan": "ep_v6u9yxd_p4_r2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONETRUTHR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHAT-LOW-TESTOSTERONE-FEELS-LIKE_49s.mp4` - opens mid-sentence on \"out because when\""
+   ],
+   "slug": "WHAT-LOW-TESTOSTERONE-FEELS-LIKE",
+   "in": 750.2,
+   "out": 802.0,
+   "start_words": "When you have low testosterone",
+   "end_words": "easier ability to gain muscle",
+   "hook": [
+    "Why your testosterone",
+    "feels low"
+   ]
+  },
+  "ep_v6u9yxd_p4_r2/NO-ONE-CHECKS-YOUR-THYROID": {
+   "plan": "ep_v6u9yxd_p4_r2",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONETRUTHR2",
+   "tries": 2,
+   "why": [
+    "FAIL 02_NO-ONE-CHECKS-YOUR-THYROID_36s.mp4: ends off the planned words: plan ends 'all of the hormones', clip ends 'have to look at all of'"
+   ],
+   "slug": "NO-ONE-CHECKS-YOUR-THYROID",
+   "in": 1495.0,
+   "out": 1539.3,
+   "start_words": "A lot of it could",
+   "end_words": "all of the hormones",
+   "hook": [
+    "Why your thyroid",
+    "never gets checked"
+   ]
   }
  },
  "attempts": {
@@ -2299,6 +2407,7 @@
   "ep_v4ki1z0": 2,
   "ep_v6uxtgp_p4_r3": 2,
   "ep_v4ka7rn": 2,
-  "ep_v4ki1z0_r2": 1
+  "ep_v4ki1z0_r2": 2,
+  "ep_v6u9yxd_p2_r5": 1
  }
 }
