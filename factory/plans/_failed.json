@@ -2483,6 +2483,78 @@
     "What peptides do",
     "to your body"
    ]
+  },
+  "ep_v5kg9ip_r2/WHY-YOUR-BLOOD-PRESSURE-TEST-LIES": {
+   "plan": "ep_v5kg9ip_r2",
+   "source": "v5kg9ip.mp4",
+   "brand": "KT_PRESSUREFIXR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHY-YOUR-BLOOD-PRESSURE-TEST-LIES_51s.mp4: ends off the planned words: plan ends 'give you that false read', clip ends 'there are certain arm positions that'"
+   ],
+   "slug": "WHY-YOUR-BLOOD-PRESSURE-TEST-LIES",
+   "in": 919.0,
+   "out": 973.0,
+   "start_words": "I don't even know",
+   "end_words": "give you that false read",
+   "hook": [
+    "Why your blood pressure",
+    "test lies"
+   ]
+  },
+  "ep_v5kg9ip_r2/THE-BATH-THAT-LOWERS-BLOOD-PRESSURE": {
+   "plan": "ep_v5kg9ip_r2",
+   "source": "v5kg9ip.mp4",
+   "brand": "KT_PRESSUREFIXR2",
+   "tries": 2,
+   "why": [
+    "FAIL 02_THE-BATH-THAT-LOWERS-BLOOD-PRESSURE_40s.mp4: ends off the planned words: plan ends 'something that I take', clip ends 'any commission on this but th'"
+   ],
+   "slug": "THE-BATH-THAT-LOWERS-BLOOD-PRESSURE",
+   "in": 1424.52,
+   "out": 1471.0,
+   "start_words": "Epsom salts, and there's",
+   "end_words": "something that I take",
+   "hook": [
+    "The magnesium bath",
+    "lowers your pressure"
+   ]
+  },
+  "ep_v5sykye/WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP": {
+   "plan": "ep_v5sykye",
+   "source": "v5sykye.mp4",
+   "brand": "KT_SLEEPFILE",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_72s.mp4: [FAIL] 02_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_72s.mp4          25 captions vs the sound  median +0.08s  worst-10% 1.75s  | words captioned 100%  UNCAPTIONED SPEECH [(47.2, 50.2)]"
+   ],
+   "slug": "WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP",
+   "in": 2884.5,
+   "out": 2965.8,
+   "start_words": "Where is your phone",
+   "end_words": "it'll calm the brain down",
+   "hook": [
+    "Why your phone",
+    "disrupts your sleep"
+   ]
+  },
+  "ep_v5sykye/HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE": {
+   "plan": "ep_v5sykye",
+   "source": "v5sykye.mp4",
+   "brand": "KT_SLEEPFILE",
+   "tries": 1,
+   "why": [
+    "FAIL 02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4: [FAIL] 02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4           8 captions vs the sound  median +0.01s  worst-10% 1.47s  | words captioned 99%"
+   ],
+   "slug": "HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE",
+   "in": 3402.5,
+   "out": 3458.3,
+   "start_words": "You want to be asleep",
+   "end_words": "it's the elixir of youth",
+   "hook": [
+    "How to trigger",
+    "your youth hormone"
+   ]
   }
  },
  "attempts": {
