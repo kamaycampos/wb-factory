@@ -2272,7 +2272,7 @@
    "plan": "ep_v4ki1z0_r2",
    "source": "v4ki1z0.mp4",
    "brand": "KT_TESTOTRUTHR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "no clip came out of the render"
    ],
@@ -2290,7 +2290,7 @@
    "plan": "ep_v4ki1z0_r2",
    "source": "v4ki1z0.mp4",
    "brand": "KT_TESTOTRUTHR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "no clip came out of the render"
    ],
@@ -2308,7 +2308,7 @@
    "plan": "ep_v4ki1z0_r2",
    "source": "v4ki1z0.mp4",
    "brand": "KT_TESTOTRUTHR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "no clip came out of the render"
    ],
@@ -2326,7 +2326,7 @@
    "plan": "ep_v4ki1z0_r2",
    "source": "v4ki1z0.mp4",
    "brand": "KT_TESTOTRUTHR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "no clip came out of the render"
    ],
@@ -2344,7 +2344,7 @@
    "plan": "ep_v6u9yxd_p4_r2",
    "source": "v6u9yxd.mp4",
    "brand": "KT_HORMONETRUTHR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "NOT QUEUED** `01_WHAT-LOW-TESTOSTERONE-FEELS-LIKE_49s.mp4` - opens mid-sentence on \"out because when\""
    ],
@@ -2362,7 +2362,7 @@
    "plan": "ep_v6u9yxd_p4_r2",
    "source": "v6u9yxd.mp4",
    "brand": "KT_HORMONETRUTHR2",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "FAIL 02_NO-ONE-CHECKS-YOUR-THYROID_36s.mp4: ends off the planned words: plan ends 'all of the hormones', clip ends 'have to look at all of'"
    ],
@@ -2374,6 +2374,114 @@
    "hook": [
     "Why your thyroid",
     "never gets checked"
+   ]
+  },
+  "ep_v5h647u/THE-WALK-THAT-CALMS-YOUR-BRAIN": {
+   "plan": "ep_v5h647u",
+   "source": "v5h647u.mp4",
+   "brand": "KT_TRUTHFILE",
+   "tries": 1,
+   "why": [
+    "FAIL 02_THE-WALK-THAT-CALMS-YOUR-BRAIN_45s.mp4: ends off the planned words: plan ends 'go for a walk', clip ends 'she goes get outside and go'"
+   ],
+   "slug": "THE-WALK-THAT-CALMS-YOUR-BRAIN",
+   "in": 2742.0,
+   "out": 2788.16,
+   "start_words": "When you're struggling with",
+   "end_words": "go for a walk",
+   "hook": [
+    "The walk that calms",
+    "your brain"
+   ]
+  },
+  "ep_v5h647u/WHY-NUTRITION-FIXES-YOUR-DANDRUFF": {
+   "plan": "ep_v5h647u",
+   "source": "v5h647u.mp4",
+   "brand": "KT_TRUTHFILE",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHY-NUTRITION-FIXES-YOUR-DANDRUFF_69s.mp4: [FAIL] 02_WHY-NUTRITION-FIXES-YOUR-DANDRUFF_69s.mp4           18 captions vs the sound  median +0.04s  worst-10% 0.49s  | words captioned 100%  UNCAPTIONED SPEECH [(30.0, 32.1)]"
+   ],
+   "slug": "WHY-NUTRITION-FIXES-YOUR-DANDRUFF",
+   "in": 3244.9,
+   "out": 3313.16,
+   "start_words": "The worst thing somebody",
+   "end_words": "no dandruff",
+   "hook": [
+    "Why nutrition fixes",
+    "your dandruff"
+   ]
+  },
+  "ep_v5kg9ip/WHY-YOUR-BLOOD-PRESSURE-TEST-LIES": {
+   "plan": "ep_v5kg9ip",
+   "source": "v5kg9ip.mp4",
+   "brand": "KT_PRESSUREFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-YOUR-BLOOD-PRESSURE-TEST-LIES_51s.mp4: ends off the planned words: plan ends 'give you that false read', clip ends 'there are certain arm positions that'"
+   ],
+   "slug": "WHY-YOUR-BLOOD-PRESSURE-TEST-LIES",
+   "in": 919.0,
+   "out": 970.52,
+   "start_words": "I don't even know",
+   "end_words": "give you that false read",
+   "hook": [
+    "Why your blood pressure",
+    "test lies"
+   ]
+  },
+  "ep_v5kg9ip/THE-BATH-THAT-LOWERS-BLOOD-PRESSURE": {
+   "plan": "ep_v5kg9ip",
+   "source": "v5kg9ip.mp4",
+   "brand": "KT_PRESSUREFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 01_THE-BATH-THAT-LOWERS-BLOOD-PRESSURE_40s.mp4: ends off the planned words: plan ends 'something that I take', clip ends 'any commission on this but th'"
+   ],
+   "slug": "THE-BATH-THAT-LOWERS-BLOOD-PRESSURE",
+   "in": 1424.52,
+   "out": 1466.52,
+   "start_words": "Epsom salts, and there's",
+   "end_words": "something that I take",
+   "hook": [
+    "The magnesium bath",
+    "lowers your pressure"
+   ]
+  },
+  "ep_v5kg9ip/THE-LIGHT-THATS-RUINING-YOUR-SLEEP": {
+   "plan": "ep_v5kg9ip",
+   "source": "v5kg9ip.mp4",
+   "brand": "KT_PRESSUREFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_THE-LIGHT-THATS-RUINING-YOUR-SLEEP_56s.mp4` - word repeated after one: \"their in their\""
+   ],
+   "slug": "THE-LIGHT-THATS-RUINING-YOUR-SLEEP",
+   "in": 1997.52,
+   "out": 2053.52,
+   "start_words": "You need to have pitch",
+   "end_words": "help with circulation",
+   "hook": [
+    "The light that's",
+    "ruining your sleep"
+   ]
+  },
+  "ep_v6u9yxd_p2_r5/WHAT-A-PEPTIDE-REALLY-IS": {
+   "plan": "ep_v6u9yxd_p2_r5",
+   "source": "v6u9yxd.mp4",
+   "brand": "KT_HORMONEFIXR5",
+   "tries": 3,
+   "why": [
+    "FAIL 01_WHAT-A-PEPTIDE-REALLY-IS_47s.mp4: ends off the planned words: plan ends 'much better quality of life', clip ends 'and have a much better quality'"
+   ],
+   "slug": "WHAT-A-PEPTIDE-REALLY-IS",
+   "in": 2421.0,
+   "out": 2470.0,
+   "start_words": "The peptides are effectively",
+   "end_words": "much better quality of life",
+   "hook": [
+    "What peptides do",
+    "to your body"
    ]
   }
  },
@@ -2407,7 +2515,7 @@
   "ep_v4ki1z0": 2,
   "ep_v6uxtgp_p4_r3": 2,
   "ep_v4ka7rn": 2,
-  "ep_v4ki1z0_r2": 2,
-  "ep_v6u9yxd_p2_r5": 1
+  "ep_v4ki1z0_r2": 3,
+  "ep_v6u9yxd_p2_r5": 2
  }
 }

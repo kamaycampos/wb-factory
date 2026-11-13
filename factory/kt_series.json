@@ -1541,5 +1541,59 @@
   "brand": "KT_HORMONETRUTHR2",
   "note": "13 Nov 2026 - re-cut of 'How To Stay Young & Fit Forever: No B.S. Biohacking From A Fitness Rebel' (Rumble v6u9yxd): WHAT-LOW-TESTOSTERONE-FEELS-LIKE opened mid-sentence ('out because when...'); start moved to the next clause, 'When you have low testosterone'. NO-ONE-CHECKS-YOUR-THYROID ended before 'the hormones' was spoken; out moved slightly later into the same caption cue. Weekly agent.",
   "clips": []
+ },
+ "ep_v5h647u": {
+  "source": "v5h647u.mp4",
+  "brand": "KT_TRUTHFILE",
+  "note": "13 Nov 2026 - 'Kevin's Shocking Predictions Are Coming True Now! | The Kevin Trudeau Show | Ep. 53' (Rumble v5h647u). Weekly agent, HEALTH INSIDE OTHER EPISODES (PLANNING.md): the episode is mostly his legal story, politics and crypto talk; every clip here lives entirely inside its short health-only stretches (fluoride/water, a walk for mood, and processed-food chemicals). The legal-story and political stretches were read and skipped on purpose, as was the statin/cholesterol rant (laced with 'stupid'/'moron'/'ignorant').",
+  "clips": [
+   {
+    "slug": "WHAT-FLUORIDE-DOES-TO-YOUR-THYROID",
+    "in": 2272.99,
+    "out": 2319.63,
+    "hook": [
+     "What fluoride does",
+     "to your thyroid"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out that fluoride in drinking water is banned in many countries, where it's treated as a health risk rather than a benefit.\n\nHis list of what he ties to it: thyroid problems, weight gain, low metabolism and low mood.\n\nHis reminder: your skin is the largest organ in your body, and whatever touches it in the shower gets absorbed too - not just what you drink.\n\nDo you know whether your tap water or your shower is actually filtered?\n\n#kevintrudeau #fluoride #waterfilter #thyroidhealth #tapwater #wbdaily"
+   },
+   {
+    "slug": "WHY-ULTRA-PROCESSED-FOOD-HURTS-YOUR-HEALTH",
+    "in": 3184.34,
+    "out": 3229.85,
+    "hook": [
+     "Why ultra-processed food",
+     "hurts your health"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau cites a study claiming more than 3,600 chemicals can leach into food during manufacturing, processing, packaging and storage - before it ever reaches a plate.\n\nHis point isn't just what's added to food. It's what the processing itself adds along the way, chemical by chemical, that ends up in the body.\n\nHis view: that's a real reason ultra-processed food is worse for you than whole food, beyond the sugar and the label.\n\nHow much of what's in your fridge is processed versus whole food?\n\n#kevintrudeau #ultraprocessedfood #foodchemicals #foodlabels #cleaneating #wbdaily"
+   }
+  ]
+ },
+ "ep_v5kg9ip": {
+  "source": "v5kg9ip.mp4",
+  "brand": "KT_PRESSUREFIX",
+  "note": "13 Nov 2026 - 'How To Make $25K per Month Online! | The Kevin Trudeau Show | Ep. 60' (Rumble v5kg9ip). Weekly agent, HEALTH INSIDE OTHER EPISODES (PLANNING.md): the episode is a money interview, but minutes 900-2100 are a long, dense stretch where Kevin talks only about blood pressure, food and sleep. Every clip lives entirely inside that stretch.",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-FOOD-RAISES-BLOOD-PRESSURE",
+    "in": 1145.74,
+    "out": 1203.53,
+    "hook": [
+     "Why your food",
+     "raises blood pressure"
+    ],
+    "caption": "Kevin Trudeau, on The Kevin Trudeau Show, cites an article saying 60% of the average American diet is ultra-processed food - and says even people who think they eat healthy rarely realize how much of their own food fits that description.\n\nHis point lands hardest on one group: vegans. Being vegan doesn't mean eating mostly fruit and vegetables, he says - a lot of vegan food, like a frozen vegan pizza, is still heavily processed.\n\nHe lists it as one of the biggest hidden causes behind rising blood pressure numbers.\n\nWhen's the last time you checked how much of your own plate was actually whole food?\n\n#kevintrudeau #ultraprocessedfood #bloodpressure #healthtips #foodlabels #wbdaily"
+   },
+   {
+    "slug": "WHY-YOUR-DORITOS-RAISE-BLOOD-PRESSURE",
+    "in": 1558.38,
+    "out": 1607.27,
+    "hook": [
+     "Why your Doritos",
+     "raise blood pressure"
+    ],
+    "caption": "Kevin Trudeau, on The Kevin Trudeau Show, walks through a short list of everyday ingredients he ties to high blood pressure: genetically modified corn, unfermented high-gluten wheat, and excitotoxins like monosodium glutamate.\n\nHis example is blunt: eat a bag of Doritos with MSG in it, he says, and your blood pressure goes up.\n\nIf you look at the label, monosodium glutamate is right there in the ingredient list - not hidden, just not read.\n\nWhen's the last time you actually turned the bag over?\n\n#kevintrudeau #msg #bloodpressure #foodlabels #ultraprocessedfood #wbdaily"
+   }
+  ]
  }
 }
