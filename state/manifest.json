@@ -1976,7 +1976,11 @@
    "bytes": 34790608,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-15T20:08",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_PRESSUREFIX/02_WHY-YOUR-FOOD-RAISES-BLOOD-PRESSURE_58s.mp4",
@@ -1985,7 +1989,11 @@
    "bytes": 40124696,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-16T11:30",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_TRUTHFILE/01_WHAT-FLUORIDE-DOES-TO-YOUR-THYROID_46s.mp4",
@@ -1994,7 +2002,11 @@
    "bytes": 35518374,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-16T16:37",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_TRUTHFILE/01_WHY-ULTRA-PROCESSED-FOOD-HURTS-YOUR-HEALTH_45s.mp4",
@@ -2003,7 +2015,11 @@
    "bytes": 32878448,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-16T08:52",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
