@@ -1,0 +1,23 @@
+{"source": "v6u9yxd.mp4", "brand": "KT_HORMONETRUTHR2", "test": false,
+ "note": "13 Nov 2026 - re-cut of 'How To Stay Young & Fit Forever: No B.S. Biohacking From A Fitness Rebel' (Rumble v6u9yxd): WHAT-LOW-TESTOSTERONE-FEELS-LIKE opened mid-sentence ('out because when...'); start moved to the next clause, 'When you have low testosterone'. NO-ONE-CHECKS-YOUR-THYROID ended before 'the hormones' was spoken; out moved slightly later into the same caption cue. Weekly agent.",
+ "clips": [
+  {"slug": "WHAT-LOW-TESTOSTERONE-FEELS-LIKE", "in": 750.2, "out": 802.0,
+   "start_words": "When you have low testosterone", "end_words": "easier ability to gain muscle",
+   "hook": ["Why your testosterone", "feels low"],
+   "retry_of": "ep_v6u9yxd_p4/WHAT-LOW-TESTOSTERONE-FEELS-LIKE",
+   "trial_hooks": [["Why your testosterone", "feels low"],
+                    ["Six signs of", "low testosterone"],
+                    ["The fog doctors", "call aging"],
+                    ["What you're missing", "if you're tired"],
+                    ["A guy's testosterone", "crashed at 35"],
+                    ["Kevin Trudeau's guest", "on low T"],
+                    ["Tired isn't normal,", "it's a number"]],
+   "send": "A guy sends this to his workout partner who's been exhausted and irritable for months - recognition, anxiety.",
+   "caption": "On The Kevin Trudeau Show, a hormone specialist lists what low testosterone actually feels like: trouble burning fat, lower libido, brain fog, worse sleep, a harder time building muscle, even low-grade irritability that doesn't seem to have a cause.\n\nHis point: most men chalk this up to getting older or working too hard, when it's a hormone number a simple blood panel can catch.\n\nThe fix starts with a number, not a guess.\n\nHow many of these have you been blaming on stress instead of testing for?\n\n#kevintrudeau #lowtestosterone #hormonehealth #menshealth #testosterone #wbdaily"},
+  {"slug": "NO-ONE-CHECKS-YOUR-THYROID", "in": 1495.0, "out": 1539.3,
+   "start_words": "A lot of it could", "end_words": "all of the hormones",
+   "hook": ["Why your thyroid", "never gets checked"],
+   "retry_of": "ep_v6u9yxd_p4/NO-ONE-CHECKS-YOUR-THYROID",
+   "send": "A woman sends this to her sister in menopause who's only ever had her testosterone checked, never her thyroid.",
+   "caption": "On The Kevin Trudeau Show, a hormone specialist says most people who start testosterone therapy never had their thyroid checked at all - even though it runs the rest of the hormone system.\n\nHis advice for women going through menopause: creatine and simple diet changes can help before jumping straight to hormone therapy, but every hormone, including thyroid, needs checking starting in your 30s and 40s.\n\nOne test almost everyone skips, standing right in front of the one most people ask for.\n\nHas your doctor ever actually checked your thyroid?\n\n#kevintrudeau #thyroidhealth #hormonehealth #menopause #testosterone #wbdaily"}
+ ]}
