@@ -233,6 +233,268 @@ def cinema_label_draw(hook, y=CINEMA_LABEL_Y, upper=True, size=60):
 
 
 
+# --- LOOK "archive", 11 Nov 2026 -----------------------------------------------------------
+# Kamay, showing instagram.com/trudeau_files: "the way his clips are placed in the space of the
+# phone ... comfortable to watch and very calling." Measured there and prototyped twice
+# (factory/frame_preview.py, factory/ARCHIVE_LOOK.md); he picked this one:
+#   - the picture is a 9:8 window in the MIDDLE of the phone (y 480-1440). From a 16:9 source
+#     that shows 63% of the width and a 1080p picture is scaled DOWN, never up x1.78.
+#   - the hook is a HEADLINE above the picture for the whole clip: ivory serif, as written,
+#     the last line italic in aged gold.
+#   - captions are calm sentence pieces INSIDE the picture "where the tie was", a soft shade
+#     behind them so ivory reads on a white shirt.
+#   - one small line under the picture ("Kevin Trudeau - Your Wish Is Your Command"): the book,
+#     every clip, spaced repetition. It is burned into a file that goes to every platform, so
+#     it may only say what is true on all of them - never "link below" (TikTok has no link).
+#   - the bottom quarter stays plain: the platform's own name, caption and buttons sit there.
+# KT_LOOK=archive, or a share of the plans through LOOK_TEST. Any other look: nothing here runs.
+ARCHIVE = LOOK == "archive"
+ARCH_SERIF = os.path.join(_ASSETS, "cinema_archive_serif.ttf")           # Cormorant Garamond 600
+ARCH_SERIF_I = os.path.join(_ASSETS, "cinema_archive_serif_italic.ttf")
+ARCH_SANS = os.path.join(_ASSETS, "cinema_archive_sans.ttf")             # Montserrat 600
+# THE WHOLE WIDE PICTURE (13 Nov 2026). Kamay, with screenshots from his own feed: the Jordan
+# view is "the ideal view, you want to see what is in the back of kt, ywiyc book"; the tight
+# crop is "too close, uncomfortable"; and where the wide picture sat in the old 960-tall window
+# the headline and the small line floated far from it ("why is there a separation"). So the
+# window IS the 16:9 picture now, the headline sits right on top of it and the line right
+# under it - one compact block in the middle of the phone, like kevintrudeau_insights in the feed.
+ARCH_PIC_H = 608
+ARCH_PIC_Y = (1920 - ARCH_PIC_H) // 2
+ARCH_CANVAS = "0x0D0D0F"
+ARCH_IVORY, ARCH_GOLD = (243, 236, 221), (185, 151, 91)
+ARCH_GRADE = "eq=contrast=1.06:saturation=0.9:brightness=-0.01,colorbalance=rs=0.025:bs=-0.035"
+ARCH_TAIL = f"pad={W}:{H}:0:(oh-ih)/2:color={ARCH_CANVAS},noise=alls=5:allf=t,setsar=1,fps=30"
+ARCH_SAFE_W = 850             # a tall phone crops ~10% off each side of a Short
+ARCH_CAP_SIZE = 50
+# NOTHING UNDER THE PICTURE (13 Nov 2026, Kamay on the standard clip: "delete the bottom words,
+# the kt ywiyc words, I want nothing there"). A brand that wants a line sets the repo variable
+# KT_ARCHIVE_LINE (WB: "KEVIN TRUDEAU  ·  WORLD'S BEST ORGANICS") or style.json "archive_line".
+ARCH_LINE = os.environ.get("KT_ARCHIVE_LINE") or STYLE.get("archive_line") or ""
+if ARCH_LINE.strip().lower() in ("none", "off", "-"):
+    ARCH_LINE = ""
+# PLAY CAPTIONS (13 Nov 2026): the Episode clips' way of writing, in every standard clip.
+ARCH_PLAY = os.environ.get("KT_CAPS", "play") != "calm"
+if ARCHIVE:
+    CAP_MAX = 26              # one calm line that fits the safe width at 50 px
+
+
+def _shot_expr(vals, shots, off=0.0):
+    """One value per camera shot as an ffmpeg expression of t (see _x_expr). off = seconds
+    the render starts after the clip the shots were measured on (the YouTube window)."""
+    expr = str(vals[-1])
+    for sh, v in zip(reversed(shots[:-1]), reversed(vals[:-1])):
+        if sh["end"] - off > 0:
+            expr = f"if(lt(t\\,{sh['end'] - off:.2f})\\,{v}\\,{expr})"
+    return expr
+
+
+def archive_plan(src, t_in, cx, shots=None, off=0.0):
+    """Where the 9:8 window sits on the source, shot by shot, and where the captions go.
+
+    One window SIZE for the clip (ffmpeg cannot resize a crop mid-stream): his face about a
+    third of the picture's height on the clip's usual shot, never scaled up more than x1.35.
+    Its POSITION follows every camera: centred on his face, his face 42% from the top."""
+    sw, sh = source_size(src)
+    faces = [(max(0.1, s["end"] - s.get("start", 0.0)), s["cx"], s.get("cy") or 0.40,
+              (s.get("fw") or 0.0) * sw * 1.28) for s in (shots or [])]
+    faces = [f for f in faces if f[3] > 0]
+    tracked = bool(faces) and len(faces) == len(shots or [])
+    if not tracked:                       # a fixed crop (or a re-aimed one): measure the opening
+        band = face_band(src, t_in)
+        fh = (band[1] - band[0]) / 1.73 / H * sh if band else 0.30 * sh
+        cy = (band[0] / H * sh + 1.05 * fh) / sh if band else 0.40
+        faces = [(1.0, cx, cy, fh)]
+    order, acc = sorted(faces, key=lambda f: f[3]), 0.0
+    fmed = order[-1][3]
+    for f in order:
+        acc += f[0]
+        if acc >= sum(x[0] for x in faces) / 2:
+            fmed = f[3]
+            break
+    ch = sh // 2 * 2                      # the whole picture, every shot (13 Nov 2026)
+    cw = min(sw, int(ch * W / ARCH_PIC_H) // 2 * 2)
+    xs = [max(0, (sw - cw) // 2) for f in faces]
+    ys = [0 for f in faces]
+    k = ARCH_PIC_H / ch
+    chins = [ARCH_PIC_Y + (f[2] * sh + f[3] / 2 - y) * k for f, y in zip(faces, ys)]
+    mid = min(range(len(faces)), key=lambda i: abs(faces[i][3] - fmed))
+    long_ = [c for f, c in zip(faces, chins) if f[0] >= 2.0] or chins
+    cap_y = max(chins[mid] + 0.45 * fmed * k, max(long_) + 50, ARCH_PIC_Y + int(ARCH_PIC_H * 0.62))
+    cap_y = int(min(cap_y, ARCH_PIC_Y + ARCH_PIC_H - 70))
+    if tracked and len(faces) > 1:
+        xe, ye = _shot_expr(xs, shots, off), _shot_expr(ys, shots, off)
+    else:
+        xe, ye = xs[0], ys[0]
+    geo = (f"crop={cw}:{ch}:{xe}:{ye},scale={W}:{ARCH_PIC_H}:flags=lanczos,{ARCH_GRADE},"
+           + ARCH_TAIL)
+    ends = [s["end"] for s in shots] if tracked else [1e9]
+
+    def crop_at(t):                       # what the window shows at t, as fractions of the width
+        i = next((j for j, e in enumerate(ends) if t < e), len(ends) - 1)
+        return xs[i] / sw, (xs[i] + cw) / sw
+    _f = faces[mid]                       # his face on the 1080x1920 canvas: centre x, centre y, height
+    face = (W * (_f[1] * sw - xs[min(mid, len(xs) - 1)]) / cw, ARCH_PIC_Y + (_f[2] * sh - ys[min(mid, len(ys) - 1)]) * k, _f[3] * k)
+    return {"geo": geo, "cap_y": cap_y, "crop_at": crop_at, "scale": k, "window": (cw, ch), "face": face}
+
+
+def archive_fit(geo, spans):
+    """Kevin's own on-screen words are never sliced (kt_textsafe): for those seconds the whole
+    wide picture sits in the window, same grade, same canvas."""
+    if not spans:
+        return geo
+    en = "+".join(f"between(t,{a:.2f},{b:.2f})" for a, b in spans)
+    return (f"split=2[tsc][tsw];[tsc]{geo}[tscc];[tsw]scale={W}:-2,{ARCH_GRADE},{ARCH_TAIL}[tsww];"
+            f"[tscc][tsww]overlay=0:0:enable='{en}'")
+
+
+def archive_overlay(lines, path, cap_y, line=None):
+    """Everything that does not move, as one transparent 1080x1920 PNG: the headline, the two
+    gold hairlines, the small line under the picture, the shade behind the captions."""
+    from PIL import Image, ImageDraw, ImageFont
+    line = ARCH_LINE if line is None else line
+    text = [l.strip() for l in lines if l.strip()][:3]
+    img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(img)
+    top_, bot_ = ARCH_PIC_Y, ARCH_PIC_Y + ARCH_PIC_H
+    for yy in range(max(top_, cap_y - 90), min(bot_, cap_y + 90)):
+        k = 1 - abs(yy - cap_y) / 90
+        d.line((0, yy, W, yy), fill=(8, 8, 10, int(118 * k * k * (3 - 2 * k))))
+    if text:
+        size = 84 if len(text) < 3 else 72
+        def fonts(sz):
+            return [ImageFont.truetype(ARCH_SERIF_I if (i == len(text) - 1 and len(text) > 1) else ARCH_SERIF, sz)
+                    for i in range(len(text))]
+        fs = fonts(size)
+        while size > 46 and max(f.getlength(t) for f, t in zip(fs, text)) > ARCH_SAFE_W:
+            size -= 2
+            fs = fonts(size)
+        step = int(size * 1.08)
+        y0 = top_ - 34 - step * len(text)
+        for i, (f, t) in enumerate(zip(fs, text)):
+            gold = i == len(text) - 1 and len(text) > 1
+            d.text(((W - f.getlength(t)) / 2, y0 + i * step), t, font=f,
+                   fill=(ARCH_GOLD if gold else ARCH_IVORY) + (255,))
+    for yy in (top_ - 1, bot_):
+        d.line((0, yy, W, yy), fill=ARCH_GOLD + (120,), width=2)
+    if line:
+        size, track = 22, 5.0
+        fo = ImageFont.truetype(ARCH_SANS, size)
+        wid = lambda: sum(fo.getlength(c) for c in line) + track * (len(line) - 1)
+        while wid() > ARCH_SAFE_W and track > 1:
+            track -= 0.5
+        while wid() > ARCH_SAFE_W and size > 13:
+            size -= 1
+            fo = ImageFont.truetype(ARCH_SANS, size)
+        x = (W - wid()) / 2
+        for c in line:
+            d.text((x, bot_ + 30), c, font=fo, fill=ARCH_IVORY + (150,))
+            x += fo.getlength(c) + track
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    img.save(path)
+    return path, W, H
+
+
+_PLAY_BIG = re.compile(r"[$%]|\d|^(million|billion|trillion|thousand|hundred|money|rich|wealth|wealthy|broke|poor|"
+                       r"never|always|nothing|everything|secret|free|power|success|fail|failure|win|lose|lost|"
+                       r"truth|lie|lies|rule|law|mind|dream|dreams|god|universe|energy|love|fear|death|life|"
+                       r"millionaire|billionaire|debt|cash|gold|bank|banks|no|yes|stop)s?$", re.I)
+
+
+def play_ass(words, path, arch, src=None, t_in=0.0, t_out=None, dur=None):
+    """The standard clip's captions, written the way the Episode clips are (13 Nov 2026).
+
+    Kamay: "add the same captions way and style for this standard one ... very playful like the
+    movie clips, sometimes if it is 2 words in one phrase put it on a left side of kt and on the
+    right side of kt, and play around with it in a way that hypnotises and draws people to read
+    and stay."
+
+    Three ways a caption can land, chosen by what the words are:
+      SPLIT  a two-word caption with room beside his face: the first word to his left, the
+             second to his right as he says it;
+      BIG    a caption holding a word he leans on, a number or a money / power word: that word
+             large, in capitals, gold, popping in; the words around it small;
+      PLAIN  everything else: small, as spoken, under his chin.
+    One typeface (Montserrat Black, the only one libass is proven to find here), so the play is
+    in size, place, case and colour. Returns (subtitles filter, [(a, b, text)] shown)."""
+    groups = word_groups(words)
+    emph = word_emphasis(words, groups, src, t_in, t_out) if src else set()
+    end_all = dur if dur is not None else (words[-1][1] + 0.6 if words else 0.0)
+    fx, fy, fh = arch.get("face") or (W / 2, ARCH_PIC_Y + ARCH_PIC_H * 0.4, ARCH_PIC_H * 0.34)
+    cap_y = int(arch["cap_y"])
+    half = fh * 0.50                                            # half his head's width, with air
+    lz = (40, max(40, fx - half))                               # room to his left, room to his right
+    rz = (min(W - 40, fx + half), W - 40)
+    side_y = int(min(max(fy + fh * 0.05, ARCH_PIC_Y + 70), ARCH_PIC_Y + ARCH_PIC_H - 110))
+    gold = "&H005B97B9&"                                        # ARCH_GOLD as ASS BGR
+    LEAD = 0.10
+    clean = lambda w_: re.sub(r"[{}\\]", "", w_)
+    core = lambda w_: re.sub(r"[^A-Za-z0-9$%']", "", w_)
+    starts = [max(0.0, words[g[0]][0] - LEAD) for g in groups]
+    ev, shown, n_split, last_split = [], [], 0, -9
+
+    def fit(word, room, top):
+        return int(max(0, min(top, room / (0.66 * max(3, len(word))))))
+
+    for k, g in enumerate(groups):
+        nxt = starts[k + 1] if k + 1 < len(groups) else None
+        g_end = nxt if nxt is not None and nxt - words[g[-1]][1] < 1.5 else min(words[g[-1]][1] + 0.4, end_all)
+        a = starts[k]
+        if g_end <= a:
+            continue
+        text = [clean(words[j][2]) for j in g]
+        shown.append((round(a, 3), round(g_end, 3), " ".join(text)))
+        bigs = [i for i, j in enumerate(g) if j in emph or _PLAY_BIG.search(core(words[j][2]))]
+        fad = "\\fad(70,0)"
+        if len(g) == 2 and k - last_split > 1:
+            s1, s2 = fit(text[0], lz[1] - lz[0], 92), fit(text[1], rz[1] - rz[0], 92)
+            if min(s1, s2) >= 44:                                # SPLIT: left of him, then right of him
+                n_split += 1
+                last_split = k
+                b2 = max(a + 0.04, words[g[1]][0] - 0.05)
+                for i, (t0, xz, sz) in enumerate(((a, lz, s1), (b2, rz, s2))):
+                    col = "\\c" + gold if i in bigs else ""
+                    ev.append(f"Dialogue: 0,{_ts(t0)},{_ts(g_end)},Play,,0,0,0,,{{\\an5\\pos({int((xz[0] + xz[1]) / 2)},{side_y})"
+                              f"\\fs{sz}{col}{fad}}}{text[i].upper()}")
+                continue
+        if bigs:                                                 # BIG: the word he leans on
+            b_ = bigs[-1]
+            room = W - 120
+            small = 54
+            big_sz = fit(text[b_], room * (1.0 if len(g) == 1 else 0.62), 124)
+            parts = []
+            for i, t_ in enumerate(text):
+                if i == b_:
+                    t0 = int(max(0, (words[g[i]][0] - LEAD - a)) * 1000)
+                    parts.append(f"{{\\fs{big_sz}\\c{gold}\\fscx118\\fscy118\\t({t0},{t0 + 140},\\fscx100\\fscy100)}}{t_.upper()}{{\\r\\fs{small}}}")
+                else:
+                    parts.append(t_)
+            ev.append(f"Dialogue: 0,{_ts(a)},{_ts(g_end)},Play,,0,0,0,,{{\\an5\\pos({W // 2},{cap_y})\\fs{small}{fad}}}" + " ".join(parts))
+            continue
+        ev.append(f"Dialogue: 0,{_ts(a)},{_ts(g_end)},Play,,0,0,0,,{{\\an5\\pos({W // 2},{cap_y})\\fs62{fad}}}" + " ".join(text))
+    head = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\nWrapStyle: 2\n\n"
+            "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, "
+            "BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, "
+            "Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
+            "Style: Play,Montserrat Black,52,&H00DDECF3,&H00DDECF3,&H00000000,&H96000000,0,0,0,0,100,100,0,0,"
+            "1,4,2,5,40,40,0,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, "
+            "Effect, Text\n")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    open(path, "w").write(head + "\n".join(ev) + "\n")
+    print(f"      play captions: {len(shown)} captions, {n_split} beside his face, "
+          f"{sum(1 for e in ev if 'fscx118' in e)} big")
+    return f"subtitles=filename={path}:fontsdir={_ASSETS}", shown
+
+
+def archive_caption_chain(ps, y):
+    """Sentence pieces on his tie: ivory, a thin soft border, one colour."""
+    f = font_arg(ARCH_SANS)
+    return [f"drawtext=fontfile={f}:text='{esc(text)}':fontsize={ARCH_CAP_SIZE}"
+            f":fontcolor=0xF3ECDD:shadowx=0:shadowy=3:shadowcolor=black@0.85"
+            f":borderw=3:bordercolor=black@0.55"
+            f":x=(w-tw)/2:y={y}-th/2:enable='gte(t,{a:.2f})*lt(t,{b:.2f})'"
+            for a, b, text in ps]
+
+
 # --- LOOK "word" (E), 3 Nov 2026 ---------------------------------------------------------
 # Kamay chose it from five samples rendered on one Kevin moment (work/style_preview_nov3):
 # the hook a bigger serif line in his own words, fading out like the cinema label - "the
@@ -983,7 +1245,7 @@ def thumb(video, prefer=None, card=None):
     # so the window reaches to 4.0s, and a frame with a face is preferred above
     # all else. No face anywhere in the window = the old choice, and a note.
     LATE = [2.6 + 0.2 * i for i in range(8) if 2.6 + 0.2 * i <= min(4.0, HOOK_SECS - 0.4)]
-    LOOK = "crop=iw*0.7:ih*0.34:iw*0.15:ih*0.02"
+    LOOK = "crop=iw*0.5:ih*0.15:iw*0.25:ih*0.355" if ARCHIVE else "crop=iw*0.7:ih*0.34:iw*0.15:ih*0.02"
 
     def _gray(t, tag):
         q = dest + f".{tag}.png"
@@ -1179,7 +1441,7 @@ def make_story(dest):
     size = fit_size([STORY_TAIL], 58)
     draw = (f"drawtext=fontfile={f}:text='{esc(STORY_TAIL)}':fontsize={size}"
             f":fontcolor=white{SHADOW}:box=1:boxcolor=black@0.55:boxborderw=26"
-            f":x=(w-tw)/2:y=h*0.72:enable='between(t,{card_from:.2f},{end:.2f})'")
+            f":x=(w-tw)/2:y={'1440' if ARCHIVE else 'h*0.72'}:enable='between(t,{card_from:.2f},{end:.2f})'")
     out = story_path(dest)
     r = subprocess.run([FFMPEG, "-y", "-loglevel", "error", "-t", f"{end:.2f}",
                         "-i", dest, "-vf", draw,
@@ -1655,6 +1917,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
            hook_y=None, yt_win=None, slug=None, fix=None, shots=None,
            track=None, cuts=None, opener=None, geo=None, label=None):
     burn.MAX_CHARS = CAP_MAX          # short bursts, not subtitle lines
+    if ARCHIVE and opener:
+        print("      opener skipped: the archive look opens on Kevin, in the window")
+        opener = None
     # Real word timings when we have them; the old estimate only as a fallback.
     import kt_words
     wkey = os.path.basename(os.path.dirname(dest)) + "/" + slug
@@ -1740,6 +2005,18 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
     # geo: an explicit crop for a layout the face tracker cannot read (a podcast
     # screen with the speaker in a side panel). None = the usual tracked crop.
     ext_geo = bool(geo)
+    arch = None
+    if ARCHIVE:
+        arch = archive_plan(src, t_in, cx, shots)
+        if ext_geo and f"scale={W}:{ARCH_PIC_H}:" in geo:      # a podcast panel, already cut to the window's shape
+            geo = f"{geo},{ARCH_GRADE},{ARCH_TAIL}"
+        elif ext_geo:              # a hand-made 9:16 layout: the whole of it, upright, in the window
+            geo = (f"{geo},scale=-2:{ARCH_PIC_H}:flags=lanczos,{ARCH_GRADE},"
+                   f"pad={W}:{H}:(ow-iw)/2:(oh-ih)/2:color={ARCH_CANVAS},noise=alls=5:allf=t,setsar=1,fps=30")
+        else:
+            geo = arch["geo"]
+            print(f"      archive window {arch['window'][0]}x{arch['window'][1]} of the source "
+                  f"(x{arch['scale']:.2f}), captions at y={arch['cap_y']}")
     geo = geo or fill_crop(src, cx, zoom, shots)
     base_geo = geo
     # KEVIN'S OWN WORDS ON SCREEN ARE NEVER CUT IN HALF (kt_textsafe, 4 Nov 2026): where the source
@@ -1756,15 +2033,27 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
                     c_ = next((sh["cx"] for sh in _shots if t < sh["end"]), _shots[-1]["cx"])
                 x0 = max(0.0, min(c_ - cwn / 2, 1.0 - cwn))
                 return x0, x0 + cwn
-            tspans = kt_textsafe.cut_text_spans(src, t_in, t_out, crop_at)
+            tspans = (kt_textsafe.cut_text_spans(src, t_in, t_out, arch["crop_at"], min_h=0.034) if arch
+                      else kt_textsafe.cut_text_spans(src, t_in, t_out, crop_at))
             if tspans:
-                geo = kt_textsafe.with_fit(geo, tspans)
+                geo = archive_fit(geo, tspans) if arch else kt_textsafe.with_fit(geo, tspans)
                 print("      source text kept whole (full picture): "
                       + ", ".join(f"{a:.1f}-{b:.1f}s" for a, b in tspans))
         except Exception as e:                       # framing polish never costs a clip
             sys.stderr.write(f"      text-safe framing skipped: {type(e).__name__}: {e}\n")
             tspans = []
-    caps = [word_caps] if word_caps else (cinema_caption_chain(ps) if CINEMA else caption_chain(ps))
+    if arch and ARCH_PLAY and words and not word_caps:
+        try:
+            word_caps, ps = play_ass(words, os.path.join(CARDS, (slug or "clip").replace("/", "_") + "_play.ass"),
+                                     arch, src, t_in, t_out, t_out - t_in)
+            if apply:                        # the record must be what was burned (kt_sync_check reads it)
+                json.dump([[a, b, t] for a, b, t in ps], open(os.path.splitext(dest)[0] + "__caps.json", "w"))
+        except Exception as e:               # the calm captions are always there to fall back on
+            sys.stderr.write(f"      play captions skipped: {type(e).__name__}: {e}\n")
+            word_caps = None
+    caps = [word_caps] if word_caps else (cinema_caption_chain(ps) if CINEMA
+                                          else archive_caption_chain(ps, arch["cap_y"]) if arch
+                                          else caption_chain(ps))
     # SHOW THE LABEL (kt_label, 4 Nov 2026): the product's real ingredient list, the ingredient
     # circled on the word he says it. No field, no card: this graph is byte-for-byte the old one.
     lab = None
@@ -1808,6 +2097,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
     if CINEMA or WORD:             # the quiet serif label, high, no box (1 Nov 2026); bigger, as written, for E
         card, _cw, _ch = cinema_label(hlines, cpath, upper=not WORD, size=WORD_HOOK_SIZE if WORD else 66)
         cy_px = cinema_label_y(src, t_in, _ch)
+    elif arch:                     # the headline, hairlines, book line and caption shade: one still layer
+        card, _cw, _ch = archive_overlay(hlines, cpath, arch["cap_y"])
+        cy_px = 0
     elif fit:                      # shrink it into the gap under his chin
         card, _cw, _ch = hook_card(hlines, cpath, max_h=fit)
     else:
@@ -1850,10 +2142,16 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
            f"[vv][lb]overlay=x=(W-w)/2:y={lab['y']}:eof_action=pass[vl];[vl]" if lab else "[vv]") +
           f"fade=t=out:st={dur - fs:.2f}:d={fs:.2f}[v];"
           f"{ain}{asrc}afade=t=out:st={dur - fs:.2f}:d={fs:.2f}[a]")
+    if arch:
+        # The still layer stays for the whole clip and goes UNDER the captions (its shade is
+        # what they are read against), so the order is: picture, layer, captions, fade.
+        fc = (f"[0:v]{geo}[bg];[1:v]format=rgba[hk];[bg][hk]overlay=0:0,"
+              + ",".join(caps + [f"fade=t=out:st={dur - fs:.2f}:d={fs:.2f}"]) + "[v];"
+              f"[0:a]afade=t=out:st={dur - fs:.2f}:d={fs:.2f}[a]")
     vf = ["-filter_complex", fc, "-map", "[v]", "-map", "[a]"]
     cmd = [FFMPEG, "-y", "-loglevel", "error", "-ss", f"{t_in:.2f}",
            "-t", f"{t_out - t_in:.2f}", "-i", src,
-           "-loop", "1", "-framerate", "30", "-t", f"{HOOK_SECS:.2f}",
+           "-loop", "1", "-framerate", "30", "-t", f"{(dur if arch else HOOK_SECS):.2f}",
            "-i", card, *extra,
            *(["-framerate", "30", "-i", lab["pattern"]] if lab else []),
            *vf, "-c:v", "libx264", "-preset", "medium", "-crf", "19",
@@ -1885,7 +2183,20 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
     # so any clip already under 60 seconds got no cover at all and YouTube picked
     # its own frame - which is the exact problem covers exist to solve. Yaren's
     # 50-second clip was the one that exposed it.
-    thumb(dest, prefer=main_person(shots), card=(card, cy_px))
+    thumb(dest, prefer=main_person(shots), card=None if arch else (card, cy_px))
+    # THE DESIGNED COVER (13 Nov 2026, Kamay: "the thumbnails going out posting are with the
+    # background black ... make a profesional thumbnails" from Kevin as he looks in the clip).
+    # Built from the clean SOURCE frame by kt_cover; it replaces __thumb.jpg (YouTube) and adds
+    # __cover.jpg (Instagram's cover_url). Kamay's brands only: a visible change on Yaren's AR
+    # waits for her yes. Never a reason to lose a clip.
+    _brand = os.path.basename(os.path.dirname(dest))
+    if os.environ.get("KT_COVER", "on") != "off" and _brand.startswith(("KT_", "MINDSET_")):
+        try:
+            import kt_cover
+            _c = kt_cover.make(src, t_in, t_out, [l for l in hook if l.strip()], os.path.splitext(dest)[0])
+            print(f"      cover: {os.path.basename(_c[0]) if _c and _c[0] else 'none (no frame)'}")
+        except Exception as _e:
+            print(f"      cover skipped: {type(_e).__name__}: {_e}")
 
     # The YouTube cut, only when the full clip would break the 60s rule.
     if t_out - t_in > YT_MAX:
@@ -1956,6 +2267,34 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
                        f"fade=t=out:st={yd - yfs:.2f}:d={yfs:.2f}[v]")
                 ycmd = [FFMPEG, "-y", "-loglevel", "error", "-ss", f"{ys:.2f}",
                         "-t", f"{yd:.2f}", "-i", src, "-framerate", "30", "-i", lab["pattern"],
+                        "-filter_complex", yfc, "-map", "[v]", "-map", "0:a",
+                        "-af", f"afade=t=out:st={yd - yfs:.2f}:d={yfs:.2f}",
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "19",
+                        "-maxrate", "9000k", "-bufsize", "18000k",
+                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+                        "-movflags", "+faststart", yt_path(dest)]
+            if arch:
+                # THE SAME LOOK, on this window's own clock: shots, captions and headline.
+                yd = ye - ys
+                ya = archive_plan(src, ys, cx, shots, off=ys - t_in)
+                ygeo = base_geo if ext_geo else ya["geo"]
+                if tspans:
+                    ygeo = archive_fit(ygeo, [x for x in ysp if x[1] - x[0] > 0.2])
+                ycap = arch["cap_y"] if ext_geo else ya["cap_y"]
+                ycard = archive_overlay(_yl, cpath[:-4] + "_yt.png", ycap)[0]
+                ycaps = archive_caption_chain(yps, ycap)
+                if ARCH_PLAY and ywords:
+                    try:
+                        ycaps = [play_ass(ywords, os.path.join(CARDS, (slug or "clip").replace("/", "_") + "_yt_play.ass"),
+                                          dict(ya if not ext_geo else arch, cap_y=ycap), src, ys, ye, ye - ys)[0]]
+                    except Exception as e:
+                        sys.stderr.write(f"      play captions (YouTube cut) skipped: {type(e).__name__}: {e}\n")
+                yfc = (f"[0:v]{ygeo}[yb];[1:v]format=rgba[hk];[yb][hk]overlay=0:0,"
+                       + ",".join(ycaps
+                                  + [f"fade=t=out:st={yd - yfs:.2f}:d={yfs:.2f}"]) + "[v]")
+                ycmd = [FFMPEG, "-y", "-loglevel", "error", "-ss", f"{ys:.2f}",
+                        "-t", f"{yd:.2f}", "-i", src,
+                        "-loop", "1", "-framerate", "30", "-t", f"{yd:.2f}", "-i", ycard,
                         "-filter_complex", yfc, "-map", "[v]", "-map", "0:a",
                         "-af", f"afade=t=out:st={yd - yfs:.2f}:d={yfs:.2f}",
                         "-c:v", "libx264", "-preset", "medium", "-crf", "19",
@@ -2139,7 +2478,8 @@ def run_series(key, spec, apply, only):
         if not c.get("no_layout"):
             try:
                 import kt_layout
-                lgeo, lwhy = kt_layout.panel_geo(src, float(c["in"]), float(c["out"]))
+                lgeo, lwhy = (kt_layout.panel_geo_wide(src, float(c["in"]), float(c["out"]), W, ARCH_PIC_H) if ARCHIVE
+                              else kt_layout.panel_geo(src, float(c["in"]), float(c["out"])))
                 if lgeo:
                     print(f"      {lwhy}")
             except Exception as e:               # a measurement never costs a clip

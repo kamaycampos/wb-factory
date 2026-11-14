@@ -28,6 +28,8 @@ env:
   PIXABAY_KEY: ${{ secrets.PIXABAY_KEY }}          # cinematic openers (kt_opener.py)
   OPENER_LIVE: ${{ vars.OPENER_LIVE }}             # "on" after Kamay approves the first automatic one
   KT_LOOK: ${{ vars.KT_LOOK }}                     # 'cinema' = Kamay's look B (1 Nov 2026)
+  KT_ARCHIVE_LINE: ${{ vars.KT_ARCHIVE_LINE }}      # the small line under the picture in the wide look (14 Nov 2026)
+  KT_COVER: 'off'                                  # designed covers are KT's for now
   GH_TOKEN: ${{ github.token }}
 jobs:
   stock:
