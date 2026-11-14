@@ -2555,6 +2555,60 @@
     "How to trigger",
     "your youth hormone"
    ]
+  },
+  "ep_v596rrd/WHAT-WALKING-DOES-TO-YOUR-BODY": {
+   "plan": "ep_v596rrd",
+   "source": "v596rrd.mp4",
+   "brand": "KT_WALKFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHAT-WALKING-DOES-TO-YOUR-BODY_91s.mp4` - opens mid-sentence on \"day.\""
+   ],
+   "slug": "WHAT-WALKING-DOES-TO-YOUR-BODY",
+   "in": 2315.9,
+   "out": 2407.2,
+   "start_words": "What happens to your",
+   "end_words": "and you walk for one hour",
+   "hook": [
+    "What walking does",
+    "to your body"
+   ]
+  },
+  "ep_v5bjssb/WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT": {
+   "plan": "ep_v5bjssb",
+   "source": "v5bjssb.mp4",
+   "brand": "KT_IMMUNEFACTS",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT_79s.mp4: [FAIL] 02_WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT_79s.mp4        10 captions vs the sound  median +0.01s  worst-10% 1.54s  | words captioned 100%"
+   ],
+   "slug": "WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT",
+   "in": 3773.76,
+   "out": 3854.8,
+   "start_words": "The problem is the",
+   "end_words": "follow the regime until it's done",
+   "hook": [
+    "What antibiotics destroy",
+    "in your gut"
+   ]
+  },
+  "ep_v5bjssb/HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH": {
+   "plan": "ep_v5bjssb",
+   "source": "v5bjssb.mp4",
+   "brand": "KT_IMMUNEFACTS",
+   "tries": 1,
+   "why": [
+    "FAIL 01_HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH_40s.mp4: ends off the planned words: plan ends 'you literally lose the game', clip ends 'until it is liquid you literally'"
+   ],
+   "slug": "HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH",
+   "in": 484.2,
+   "out": 525.24,
+   "start_words": "Your stomach doesn't have",
+   "end_words": "you literally lose the game",
+   "hook": [
+    "How your body blends",
+    "without teeth"
+   ]
   }
  },
  "attempts": {
@@ -2588,6 +2642,7 @@
   "ep_v6uxtgp_p4_r3": 2,
   "ep_v4ka7rn": 2,
   "ep_v4ki1z0_r2": 3,
-  "ep_v6u9yxd_p2_r5": 2
+  "ep_v6u9yxd_p2_r5": 2,
+  "ep_v5zv1nk": 1
  }
 }
