@@ -2609,6 +2609,24 @@
     "How your body blends",
     "without teeth"
    ]
+  },
+  "ep_v5zv1nk/THE-THREE-KINDS-OF-FAT": {
+   "plan": "ep_v5zv1nk",
+   "source": "v5zv1nk.mp4",
+   "brand": "KT_FATTYPES",
+   "tries": 1,
+   "why": [
+    "FAIL 01_THE-THREE-KINDS-OF-FAT_143s.mp4: ends off the planned words: plan ends 'That's how the body's designed', clip ends 'thats how the body is designed'"
+   ],
+   "slug": "THE-THREE-KINDS-OF-FAT",
+   "in": 1159.0,
+   "out": 1302.48,
+   "start_words": "Simeon has also discovered",
+   "end_words": "That's how the body's designed",
+   "hook": [
+    "The fat your body",
+    "won't burn"
+   ]
   }
  },
  "attempts": {
@@ -2643,6 +2661,6 @@
   "ep_v4ka7rn": 2,
   "ep_v4ki1z0_r2": 3,
   "ep_v6u9yxd_p2_r5": 2,
-  "ep_v5zv1nk": 1
+  "ep_v5zv1nk": 2
  }
 }
