@@ -2136,7 +2136,11 @@
    "bytes": 28426664,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-17T20:35",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_IMMUNEFACTS/01_THE-325-ENZYMES-YOUR-BODY-MAKES_51s.mp4",
@@ -2145,7 +2149,11 @@
    "bytes": 34623361,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-18T17:08",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_IMMUNEFACTS/02_WHY-JUICE-NEVER-HYDRATES-YOUR-BRAIN_48s.mp4",
@@ -2154,7 +2162,11 @@
    "bytes": 31857879,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-18T11:41",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_WALKFACTS/01_WHAT-KEVIN-DRINKS-BEFORE-EVERY-MEAL_58s.mp4",
@@ -2163,7 +2175,11 @@
    "bytes": 44744695,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-18T09:11",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
