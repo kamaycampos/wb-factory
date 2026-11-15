@@ -6,40 +6,40 @@ edges, compliance, `my_brand/lane.json` or `my_brand/BRAND.md`. Every order carr
 
 **Score: $11.70 earned of $1,777,000** (all brands, 30 Sept; WB has earned $0 so far).
 
-## 14 Nov 2026 (strategist; WB measured alone; all LOW; 7d = posted 6 Nov 09h to 13 Nov 09h, 24h+ scored, n=29 vs 30 Oct-5 Nov n=26; splits use the last 14 days scored, n=55)
+## 15 Nov 2026 (strategist; WB measured alone; all LOW; 7d = posted 8 Nov 10h to 14 Nov 10h, 24h+ scored, n=24 vs the 7 before n=28; splits use the last 14 days scored, n=52)
 
-### BUSINESS MOVE OF THE DAY: Kamay puts the FREE ebook in the @wb_organics Instagram bio (3 minutes, by hand)
-**Do:** Kamay by hand, in Instagram on @wb_organics: Edit profile -> Links -> the free-ebook link from state/extra_links.json (herpescurebook.com with Kamay's ref code), and the bio line "Free ebook: what Kevin Trudeau found in his research on herpes" (our words never say 'cure'; Instagram only, never TikTok). The machine already puts this ebook first on every YouTube and Facebook post; Instagram is the one platform where it has no link at all (instagram.first is empty). Today the machine keeps the Instagram caption line "free ebook, link in bio".
-**Why:** 55 clips measured, 0 DMs ever, $0 earned: the ebook (free, 8% of page visitors take a free gift, locked to us for life) has no click path on Instagram, where WB posts 4 a day. The bio link is the only free path there. **Expected:** the first portal clicks on the ebook link by Monday 16 Nov; Kamay reads the portal and tells me. **Who:** Kamay (bio), machine (caption line).
-**Still open from yesterday:** TikTok series on @wb_organics (2 inbox drafts a day, "Food rule #N", no link, never the ebook); Kamay reads the follower count on 19 Nov (last known 55).
+### BUSINESS MOVE OF THE DAY: Kamay checks why @wb_organics Instagram views collapsed on 10 Nov (Account status, 3 minutes, by hand)
+**Do:** Kamay by hand, in the Instagram app on @wb_organics: Settings -> Account status (also "Account Status" under Professional dashboard). Tell me what it says (any "not eligible for recommendations", removed content, or restricted reach). If there is a removed or flagged post, send me its hook. The machine keeps posting 4 a day and, until it is clear, leads every Instagram caption with the EBOOK or HEALTH comment ask on the clips that fit (no bio talk, as Kamay said 12 Nov).
+**Why:** Instagram is where the comment-to-DM funnel (free ebook, World's Best Daily) lives, and its reach fell from about 130 views per clip (6-9 Nov) to under 15 on most clips since 10 Nov (10 Nov [36,47,30,6], 11 Nov [7,11,11,132], 13 Nov [7,10,0,13], 14 Nov [0,0,23,3]). With 0 DMs ever and $0 earned, a reach block would explain it; a fix, or knowing the cause, is worth more than any new offer today. **Expected:** Kamay's answer today; if clean, the machine tests one clip with a hook from the 6-9 Nov winners and reads it Tuesday 17 Nov. **Who:** Kamay (check), machine (caption ask, test clip).
+**Still open:** TikTok series on @wb_organics (2 inbox drafts a day, "Food rule #N", no link, never the ebook); follower count read on 19 Nov (last known 55).
 
 ### What the numbers say
-- **Pace:** exactly 4 a day on every day 4-13 Nov (yesterday 4). Settled range is 4-6; a fifth slot would add reach. Nothing posted yet today.
-- **Instagram 7d vs prior (n=29 vs 26):** median views **122 vs 124.5** (flat); skip **50.0% vs 47.8%** (target under 40); avg watch 11.1s vs 12.4s; shares+saves per 1k reach median 0 in both; comments median 0.
-- **YouTube (n=29 vs 27):** median **0 vs 2** views, but a tail from three clips: "Why your grocery bag outlasts you" 1,286, "Why pork made Kevin feel sluggish" 1,107, "The fish rule that protects you" 1,106. YouTube is where WB gets views, from a few "everyday thing" clips; the rest get ~0.
-- **Facebook:** only likes/comments stored, no reach number. **TikTok @wb_organics:** no API (state/tiktok.json is empty); last known 55 followers, best clips 1,204 and 455 views (OPPORTUNITIES.md, cholesterol / pressure: weak on Instagram, best on TikTok). Unmeasured here, not zero.
+- **Pace:** exactly 4 a day on every day 5-14 Nov (yesterday 4). Settled range is 4-6; a fifth slot is Kamay's call, so no order. Nothing seen posted yet today.
+- **Instagram 7d vs prior (n=24 vs 27):** median views **39.5 vs 125** (down 68%); skip **52.2% vs 47.6%** (target under 40); avg watch 10.2s vs 11.5s; shares+saves per 1k reach 9.3 vs 7.3; comments median 0. By day the drop starts 10 Nov: 6-9 Nov most clips 119-206, from 10 Nov most clips 0-47 with one or two ~130 survivors (11 Nov 132, 12 Nov 126 and 131).
+- **YouTube (n=24 vs 28):** median **0 vs 1.5**, with a tail from a few "everyday thing" clips: "The fish rule that protects you" 1,106, "Why soy raises your estrogen level" 906, "What you call isn't real fasting" 848.
+- **Facebook:** only likes/comments stored, no reach number. **TikTok @wb_organics:** no API (state/tiktok.json is empty); last known 55 followers, best clips 1,204 and 455 views (cholesterol / pressure: weak on Instagram, best on TikTok). Unmeasured here, not zero.
 - **DMs:** 0 ever. WB earned $0.
-- **Top 3 (14d, Instagram):** "The fish rule that protects you" 206 views, skip 40.1 (9h, question, YT 1,106); "What your cholesterol won't tell you" 206, skip 40.1 (17h); "Why your grocery bag outlasts you" 202, skip 32.0 (9h, YT 1,286).
-- **Bottom 3:** "What the FDA never tells you" 6 views, skip 40 (8h); "What's hiding in your protein shake" 5, skip 50 (8h); "5 times food your grandparents ate" 4, skip 66.7 (17h).
-- **Splits (14d):** object words in the hook (41) 122, skip 50 vs none (14) 128.5, skip 47.1: no edge (LOW). CTA question (10) median 83.5, skip 47.6 vs offer (45) 125, skip 50.0 (LOW). Opener: The (7) skip 41.9 best, Why (21) 128, What (17) skip 50.9. Hour (NY): 09h (7) median 127, skip 42.6; 12h (8) 131.5, skip 44.8; 16h (4) skip 41.4; **17h (10) median 78, skip 61.2** worst; 08h (6) median 21.5. Source (n>=3): KT_BODYLOAD (4) median 28; KT_FASTTRUTH (3) median 53.
+- **Top 3 (14d, Instagram):** "The fish rule that protects you" 206 views, skip 40.1 (9h, question, YT 1,106); "What your cholesterol won't tell you" 206, skip 40.1 (17h); "Why your milk never goes bad" 192, skip 35.2 (11h). All three posted 6 Nov or earlier, before the drop.
+- **Bottom 3:** "5 times food your grandparents ate" 4, skip 66.7 (17h); "The heart test your doctor skips" 0 (9h, question); "How two hours fixed your breathing" 0 (16h; YT 29).
+- **Splits (14d):** the 10 Nov drop confounds every split, so all are LOW. Opener: The (7) 121, skip 40.5 best; Why (18) 125; What (17) 119, skip 51.9; How (3) 9. Hour (NY): 09h (6) 119.5, skip 42.8; 12h (7) 129, skip 46.0; 16h (4) skip 39.2; **17h (9) median 35, skip 66.7 worst**; 08h (6) 21.5. CTA question (11) 43, skip 47.2 vs offer (40) 121.5, skip 50.5. Object words in the hook (6) 78.5 vs none (45) 122. Source (n>=3): KT_BODYLOAD (4) median 28; KT_FASTTRUTH (3) 53.
 
 ### HOOKS THE TRIALS PROVED
 - **No WB experiment has a winner.** 70 of 70 arms refused (container fail: Instagram Trial Reels needs about 200 followers; WB has ~22), 0 posted, over a third. state/trials_pause.json holds trials until 18 Nov. Nothing to learn.
-- **Shape that works on single clips (LOW):** `The <everyday thing> rule ...`, `Why your <object> ...`. Examples where the moment says it: `The fish rule that protects you` (proven) / `The label rule most people skip` / `Why your grocery bag outlasts you` (proven; sibling for another daily object, e.g. `Why your water bottle ...`).
+- **Shape that works on single clips (LOW):** `The <everyday thing> rule ...`, `Why your <object> ...`. Examples where the moment says it: `The fish rule that protects you` (proven) / `The label rule most people skip` / `Why your milk never goes bad` (proven; a sibling for another daily object, e.g. `Why your water bottle ...`).
 
 ### Orders for the planner
-1. **4-5 a day on every platform** (Instagram, Facebook, YouTube; TikTok inbox), best clip first, 5+ stocked. Fifth slot at 16:00 (skip 41.4, LOW).
-2. **Topics (YouTube, Instagram):** everyday objects and "what do I do" rules: fish, grocery bag, pork, labels, water, sleep; 2 more from the fish, grocery-bag and pork source episodes. **TikTok inbox:** everyday-object rules lead, cholesterol / pressure only through the gate; keep herpes and every topic in state/tiktok_avoid.json out.
-3. **Hooks:** `The <thing> rule ...`, `Why your <object> ...`, `What your <food> ...`. No digit hooks, no body-worry lines, no "lies/wastes/stealing/hiding", no "What the FDA never tells you" (6 views). Health information, never claims, never the word cure.
-4. **CTA / offers (only offers.json and OPPORTUNITIES.md):** the free ebook stays first on Instagram (bio link), Facebook and YouTube, never TikTok; World's Best Daily on 1 in 3 elsewhere; question CTA on at most 1 a day. TikTok drafts end "Follow for rule #N+1".
+1. **4-5 a day on every platform** (Instagram, Facebook, YouTube; TikTok inbox), best clip first, 5+ stocked.
+2. **Topics (YouTube, Instagram):** everyday objects and "what do I do" rules: fish, milk, grocery bag, labels, water, sleep, soy/fasting (YouTube 850-910). **TikTok inbox:** everyday-object rules lead; keep herpes and every topic in state/tiktok_avoid.json out (two TikTok strikes already; 2 more could ban the account).
+3. **Hooks:** `The <thing> rule ...`, `Why your <object> ...`. No digit hooks ("5 times ...", 4 views), no body-worry or doctor lines ("The heart test your doctor skips", 0), no "lies/wastes/stealing/hiding", no "What the FDA never tells you". Health information, never claims, never the word cure.
+4. **CTA / offers (only offers.json and OPPORTUNITIES.md):** the EBOOK comment ask on clips whose caption matches (Instagram, Facebook); HEALTH / World's Best Daily on the rest; free ebook first on YouTube and Facebook; never on TikTok. Question CTA on at most 1 a day (43 vs 121.5, LOW). TikTok drafts end "Follow for rule #N+1".
 5. **Skip moments:** vaccines, cancer, stopping medication, harsh words, medical-advice lines on cholesterol/pressure/antidepressants unless the gate passes. Hold KT_PILLTRUTH, KT_WHOLEFOOD, KT_BODYLOAD, KT_BRAINHACKS, KT_PROOFCHECKR2, protein-shake and organic-oil lines.
 6. **Length:** 35-75s with one payoff.
-7. **Hours (NY):** 09:00 and 12:00 first; 16:00 test; drop 08:00 (median 21.5) and 17:00 (median 78, skip 61.2); 20:00 last.
+7. **Hours (NY):** 09:00 and 12:00 first; 16:00 test; drop 08:00 (median 21.5) and 17:00 (median 35, skip 66.7); 20:00 last.
 
 ### Watch list
-- **Instagram skip 50.0%**, at the 50 line and up from 47.8%; views flat at ~122.
-- **Trial Reels:** 70 of 70 arms refused, paused to 18 Nov (Instagram followers ~22, need ~200). Nothing learns.
-- 0 DMs ever and $0: the free-ebook path (bio, YouTube, Facebook) is the first test; Kamay reads the portal on Monday.
+- **Instagram views down 68% since 10 Nov** (39.5 vs 125 median), skip 52.2%: possible reach restriction; Kamay checks Account status (today's move).
+- **Trial Reels:** 70 of 70 arms refused, paused to 18 Nov (followers ~22, need ~200). Nothing learns.
+- 0 DMs ever and $0; Kamay reads the portal on Monday 16 Nov for the first ebook clicks.
 - Compliance: cholesterol, pressure and antidepressant lines sit on the medical edge; the gate must check each.
-- **Free call page unreadable** (freecallwithkevin.com: proxy 403 from this cloud session): Kamay, tell me the date (Dustin's call today, Sat 14 Nov 11:00 Central). state/extra_links.json left unchanged.
-- Any third TikTok takedown. TikTok Shop needs 1,000 followers on one account (the KT account is closer).
+- **Free call page unreadable** (freecallwithkevin.com: no connection from this cloud session, status 000): Kamay, tell me the date. state/extra_links.json left unchanged.
+- Any third TikTok takedown (2 strikes now). TikTok Shop needs 1,000 followers on one account (the KT account is closer).
