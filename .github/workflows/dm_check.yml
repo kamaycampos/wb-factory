@@ -22,3 +22,4 @@ jobs:
         with: { python-version: "3.11" }
       - run: pip install -r requirements.txt
       - run: DM_RECENT_POSTS=8 python dm/dm_reply.py --dry
+      - run: python dm/kw_diag.py
