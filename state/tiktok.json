@@ -1,19 +1,19 @@
 {
- "at": "2026-11-15T14:23",
+ "at": "2026-11-15T19:05",
  "account": "wb_organics",
  "profile": {
   "follower_count": 69,
   "following_count": 2,
-  "likes_count": 635,
+  "likes_count": 650,
   "video_count": 61
  },
  "videos": {
   "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4": {
    "id": "7708397962895871262",
-   "view_count": 1,
-   "like_count": 0,
+   "view_count": 132,
+   "like_count": 10,
    "comment_count": 0,
-   "share_count": 0,
+   "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708397962895871262?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 75,
    "posted": "2026-11-15T14:01"
@@ -40,8 +40,8 @@
   },
   "KT_BREATHFIXR2/01_GRANDMASTER-TAIS-BREATHING-FIX_92s.mp4": {
    "id": "7707787554484997389",
-   "view_count": 212,
-   "like_count": 6,
+   "view_count": 215,
+   "like_count": 7,
    "comment_count": 0,
    "share_count": 2,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7707787554484997389?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -120,7 +120,7 @@
   },
   "KT_BRAINHACKS/01_THE-BREATHING-RULE-HE-NEVER-BREAKS_76s.mp4": {
    "id": "7706745870506659085",
-   "view_count": 452,
+   "view_count": 453,
    "like_count": 31,
    "comment_count": 0,
    "share_count": 4,
@@ -280,7 +280,7 @@
   },
   "KT_BODYLOAD/02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s.mp4": {
    "id": "7704662294655012127",
-   "view_count": 238,
+   "view_count": 239,
    "like_count": 2,
    "comment_count": 3,
    "share_count": 0,
@@ -470,7 +470,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2246,
+   "view_count": 2267,
    "like_count": 66,
    "comment_count": 11,
    "share_count": 20,
@@ -510,7 +510,7 @@
   },
   "KT_REALFOOD/02_WHAT-100-HEALTHY-90-YEAR-OLDS-ATE_148s.mp4": {
    "id": "7696998104599514381",
-   "view_count": 1252,
+   "view_count": 1256,
    "like_count": 87,
    "comment_count": 2,
    "share_count": 6,
