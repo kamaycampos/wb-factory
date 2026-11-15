@@ -58,6 +58,18 @@ FAST = os.environ.get("DM_FAST") == "1"
 COUNTS = f"/tmp/dm_counts_{BRAND or 'KT'}.json"
 
 
+PAGE_CAP = int(os.environ.get("DM_PAGE_CAP") or 40)      # pages of 50 comments read per post per pass
+WITHHELD = {}                        # media id -> what Instagram counted but did not hand over (or None)
+
+
+def _known_ids():
+    try:
+        d_ = json.load(open(STATE))
+        return set(d_.get("sent", {})) | set(d_.get("seen", {}))
+    except (OSError, ValueError):
+        return set()
+
+
 def _counts():
     try:
         return json.load(open(COUNTS))
