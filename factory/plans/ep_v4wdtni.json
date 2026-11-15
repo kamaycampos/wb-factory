@@ -1,0 +1,47 @@
+{
+ "source": "v4wdtni.mp4",
+ "brand": "KT_PILLFACTS",
+ "test": false,
+ "note": "2026-11-15 - 'Your Nutritional Supplements Are Killing You! | The Kevin Trudeau Show | Ep. 14' (Rumble v4wdtni). Weekly agent, WB health lane. Three clean, actionable stretches on supplement and food quality; skipped the ascorbic-acid/vitamin-C and niacin/niacinamide label segments (already covered by KT_VITAMINC and KT_NIACIN), and skipped every stretch naming a harsh word or drug/FDA conspiracy framing.",
+ "clips": [
+  {
+   "slug": "WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF",
+   "in": 1251.0,
+   "out": 1300.0,
+   "start_words": "What kind of capsule are they using",
+   "end_words": "throw it away",
+   "hook": ["What your vitamin", "capsule's made of"],
+   "send": "Someone who just bought a year's supply of vitamins sends this to the friend who talked them into it: one line on the bottle they never read - the unease of finding out after you already paid for it.",
+   "caption": "Kevin Trudeau on the one word to find on your supplement bottle before you swallow anything.\n\nMany vitamin and mineral capsules are plastic, the same material as a water bottle, just small enough to swallow. His advice: flip the bottle over and read the ingredient list. It should say cellulose capsule, ideally organic cellulose capsule.\n\nIf it doesn't say that, he says skip the whole bottle, not just that one ingredient.\n\nGo check your own bottle right now. What does it say?\n\n#kevintrudeau #supplements #labelreading #wbdaily #vitamins #foodtruth"
+  },
+  {
+   "slug": "WHY-YOUR-DIET-SHOULD-CHANGE-DAILY",
+   "in": 1875.0,
+   "out": 1931.0,
+   "start_words": "The body is not designed",
+   "end_words": "the body is designed",
+   "hook": ["Why your diet", "should change daily"],
+   "send": "A meal-prepper sends this to the friend who eats the same chicken and rice every day: the body doesn't want the same thing twice - the nagging doubt of wondering if your routine is working against you.",
+   "caption": "Kevin Trudeau's point about why your body resists routine.\n\nYou already do this without thinking: salad one day, spinach the next, chicken today, fish tomorrow, rice one night, potatoes the next. Nobody eats the exact same meal every single day, because the body isn't designed to live on repetition.\n\nHis argument: that's exactly why taking the identical supplement, in the identical amount, every day of the year, works against the same body that insists on variety at every meal.\n\nWhen's the last time you ate the same thing two days running?\n\n#kevintrudeau #nutrition #foodtruth #wbdaily #healthyeating #wholefood"
+  },
+  {
+   "slug": "WHY-YOUR-FOOD-HAS-LESS-NUTRITION",
+   "in": 3274.0,
+   "out": 3345.0,
+   "start_words": "You'd have to eat five times",
+   "end_words": "virtually almost no nutritional value",
+   "hook": ["Why your food", "has less nutrition"],
+   "trial_hooks": [
+    ["Five times more", "food needed today"],
+    ["The soil is", "losing its nutrients"],
+    ["Why onions stopped", "making you cry"],
+    ["Your food is", "missing its nutrients"],
+    ["Dr. Saraskin found", "food lost nutrients"],
+    ["Kevin Trudeau says", "food got weaker"],
+    ["The onion test", "that proves it"]
+   ],
+   "send": "A home cook sends this to the grandparent who always says food doesn't taste like it used to: the actual reason, backed by a doctor's math - the quiet grief of realizing today's food is thinner than it looks.",
+   "caption": "Kevin Trudeau cites a doctor's claim that you'd need to eat five times as much food today to get the nutrition your grandparents got from one plate, decades ago.\n\nHis proof is one you can test yourself. Cut an onion from decades past and the whole house would smell like onion, and whoever cut it would start crying within seconds. Cut most onions today and you can chop a whole handful and barely notice a smell at all.\n\nSame with garlic: it can take eight or ten cloves now to get the flavor one clove used to carry.\n\nWhen did you last cry cutting an onion?\n\n#kevintrudeau #nutrition #soilhealth #wbdaily #foodtruth #wholefood"
+  }
+ ]
+}
