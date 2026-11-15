@@ -2364,7 +2364,11 @@
    "bytes": 43247606,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-20T19:47",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4",
@@ -2373,7 +2377,11 @@
    "bytes": 24624016,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-20T17:10",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FASTRESET/02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4",
@@ -2382,7 +2390,11 @@
    "bytes": 46510706,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-21T08:29",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   }
  ]
 }
