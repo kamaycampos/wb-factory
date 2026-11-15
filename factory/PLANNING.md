@@ -147,6 +147,12 @@ Do NOT add an `"opener"` field. Every WB clip opens on the speaker. The switch (
 6. Commit only the new plan files (plus `source_plan.json` if you extended it; only ever append to it) with the message `weekly plans: <episode titles>`, and push them to a new branch named `claude/plans-<YYYY-MM-DD>`. A GitHub job checks them again, merges only the plan files into main and starts the factory, which builds, checks and queues the clips. Never push to main, and never edit anything outside `factory/plans/` and `factory/source_plan.json`.
 7. End with a short report: the episodes planned, the clip titles, and anything you skipped and why. If something you saw contradicts `factory/MASTERY.md`, say so in the report - do not edit that file.
 
+## TIKTOK STRIKES: TWO LEFT BEFORE A BAN (14 Nov 2026, TikTok's own Account strike page)
+Strike 1: "who actually owns your vitamin company". Strike 2: "The FDA called Vioxx safe and effective ... 200,000 people who took Vioxx died". TikTok says two more for a similar violation could ban @wb_organics.
+- Descriptions never state a death count, never name a drug or the FDA as the villain, never say doctors or companies lie or hide something, and never carry #bigpharma, #healthfreedom or #questioneverything.
+- Write what TO DO (food, sleep, water, walking, reading a label), in Kevin's words, as his view: "Kevin Trudeau says ...".
+- A clip whose subject IS a drug, a disease, a death or a cover-up may still be planned for Instagram, Facebook and YouTube; `state/tiktok_avoid.json` keeps it out of the TikTok inbox.
+
 ## INTERVIEWS: KEVIN ON SCREEN (14 Nov 2026, Kamay, on the mercury clip)
 "If it is an interview it should look like that for the whole clip [both people side by side] ... instead it shows more the other guy, we dont want that."
 The clip shows the whole wide picture, so it shows whatever the episode shows. Measured on that clip: the episode cut to the guest alone for 48 of its 50 seconds. Our renderer cannot put Kevin back in a picture he is not in. So on an interview episode:
