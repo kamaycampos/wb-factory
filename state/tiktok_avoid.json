@@ -6,7 +6,8 @@
   "GMO": "2 of 2 removed: the pig gene in the tomato, Doritos ('genetically organized organisms')",
   "sexual health": "1 of 1 removed: Viagra / prostate (six essentials)",
   "junk-food brand": "Doritos removed; McDonald's fries live at 16 views",
-  "STRIKES 14 Nov 2026": "TikTok's own Account strike page (Kamay's screenshots): strike 1 'who actually owns your vitamin company' (posted 31 Oct, first warning, deleted); strike 2 'The FDA called Vioxx safe and effective ... 200,000 people who took Vioxx died' (posted 13 Nov, removed). The page says 2 more strikes for a similar violation could ban the account. Three topic groups added the same day; they are deliberately wide - a clip held from TikTok still posts on Instagram, Facebook and YouTube."
+  "STRIKES 14 Nov 2026": "TikTok's own Account strike page (Kamay's screenshots): strike 1 'who actually owns your vitamin company' (posted 31 Oct, first warning, deleted); strike 2 'The FDA called Vioxx safe and effective ... 200,000 people who took Vioxx died' (posted 13 Nov, removed). The page says 2 more strikes for a similar violation could ban the account. Three topic groups added the same day; they are deliberately wide - a clip held from TikTok still posts on Instagram, Facebook and YouTube.",
+  "15 Nov 2026": "'lying' matched 'lying down' in a breathing clip and held it from TikTok for nothing: it now needs 'is / are / they're lying' and never 'lying down / on / in / flat'."
  },
  "topics": {
   "mental health": "depress|anxiet|antidepress|prozac|psychiat|mental illness|suicid",
@@ -17,6 +18,6 @@
   "drugs / FDA / pharma": "\\bfda\\b|pharma|vioxx|tylenol|\\bdrugs?\\b|medication|prescri|clinical trial|vaccin|chemo|statin|antibiotic|side effect|doctors? (won't|don't|never)|the science says",
   "death / disease claims": "\\bdied\\b|\\bdeaths?\\b|\\bkill(s|ed|ing)?\\b|cancer|diabet|alzheimer|dementia|heart attack|stroke|tumou?r|autis|herpes|\\bcures?\\b|\\bheal(s|ed)? ",
   "who owns / hides it": "who (actually |really )?owns|never tells? you|won't tell you|don't want you to know|hiding|cover.?up|#bigpharma|#healthfreedom|#questioneverything",
-  "medical distrust": "fluorid|\\blies\\b|\\blying\\b|misdiagnos|couldn't say|not allowed to (say|tell)|toxic|poison|mercury"
+  "medical distrust": "fluorid|\\blies\\b|(?:is|are|was|were|been|they're|you're|he's|she's) lying(?! (?:down|on|in|flat))|misdiagnos|couldn't say|not allowed to (say|tell)|toxic|poison|mercury"
  }
 }

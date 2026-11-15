@@ -2104,7 +2104,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-15T16:47",
+   "scheduled_at": "2026-11-20T17:10",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
    "cta_kind": "offer"
@@ -2117,7 +2117,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-15T20:08",
+   "scheduled_at": "2026-11-21T16:42",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
    "cta_kind": "offer"
@@ -2378,7 +2378,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-20T17:10",
+   "scheduled_at": "2026-11-15T16:47",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
    "cta_kind": "offer"
@@ -2417,7 +2417,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-21T16:42",
+   "scheduled_at": "2026-11-15T20:08",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
    "cta_kind": "offer"

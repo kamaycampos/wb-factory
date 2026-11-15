@@ -87,6 +87,9 @@ jobs:
           IG_API_VERSION: ${{ inputs.api_version }}
         run: python diag_insights.py
 
+      - name: Every day has clips for TikTok (swaps waiting clips' hours, factory/tiktok_balance.py)
+        env: { KT_TZ: "${{ vars.KT_TZ }}" }
+        run: python factory/tiktok_balance.py || echo "tiktok balance skipped"
       - name: Publish what is due
         if: ${{ inputs.trial == '' }}
         env:
