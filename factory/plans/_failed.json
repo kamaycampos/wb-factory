@@ -2627,6 +2627,42 @@
     "The fat your body",
     "won't burn"
    ]
+  },
+  "ep_v4wdtni/WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF": {
+   "plan": "ep_v4wdtni",
+   "source": "v4wdtni.mp4",
+   "brand": "KT_PILLFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF_48s.mp4` - sentence starts with no stop: \"it It\"; word repeated: \"it It\""
+   ],
+   "slug": "WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF",
+   "in": 1251.0,
+   "out": 1300.0,
+   "start_words": "What kind of capsule are they using",
+   "end_words": "throw it away",
+   "hook": [
+    "What your vitamin",
+    "capsule's made of"
+   ]
+  },
+  "ep_v4wsipz/STRESS-HORMONE-GIVES-YOU-BELLY-FAT": {
+   "plan": "ep_v4wsipz",
+   "source": "v4wsipz.mp4",
+   "brand": "KT_BREATHRULE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_STRESS-HORMONE-GIVES-YOU-BELLY-FAT_46s.mp4` - opens mid-sentence on \"hard and protects\""
+   ],
+   "slug": "STRESS-HORMONE-GIVES-YOU-BELLY-FAT",
+   "in": 1357.72,
+   "out": 1404.32,
+   "start_words": "There's a hormone called cortisol",
+   "end_words": "by breathing correctly",
+   "hook": [
+    "Why stress hormones",
+    "make you fat"
+   ]
   }
  },
  "attempts": {
