@@ -2403,7 +2403,11 @@
    "bytes": 30367697,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-21T12:29",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4",
@@ -2412,7 +2416,11 @@
    "bytes": 16146015,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-21T16:42",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
