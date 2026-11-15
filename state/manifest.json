@@ -2258,7 +2258,11 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "endcard": "ebook"
+   "endcard": "ebook",
+   "scheduled_at": "2026-11-19T20:26",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BREADFILE/02_WHY-YOUR-BREAD-MIGHT-BE-POISON_53s.mp4",
@@ -2267,7 +2271,11 @@
    "bytes": 20216892,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-19T08:56",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BREATHRULE/01_NOSE-BREATHING-FILTERS-YOUR-AIR_70s.mp4",
@@ -2276,7 +2284,11 @@
    "bytes": 28517380,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-20T08:22",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 4,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BREATHRULE/02_DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY_55s.mp4",
@@ -2285,7 +2297,11 @@
    "bytes": 21664617,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-19T16:29",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_PILLFACTS/01_WHY-YOUR-FOOD-HAS-LESS-NUTRITION_72s.mp4",
@@ -2294,7 +2310,11 @@
    "bytes": 29955488,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-20T11:39",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 5,
+   "cta_kind": "question"
   },
   {
    "file": "KT_PILLFACTS/02_WHY-YOUR-DIET-SHOULD-CHANGE-DAILY_56s.mp4",
@@ -2303,7 +2323,11 @@
    "bytes": 24088652,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-19T11:59",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
