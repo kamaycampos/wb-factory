@@ -2663,6 +2663,24 @@
     "Why stress hormones",
     "make you fat"
    ]
+  },
+  "ep_v58xdrp/WHATS-IN-YOUR-BONELESS-WINGS": {
+   "plan": "ep_v58xdrp",
+   "source": "v58xdrp.mp4",
+   "brand": "KT_FOODSCAM",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHATS-IN-YOUR-BONELESS-WINGS_168s.mp4` - word repeated after one: \"I've had I've\""
+   ],
+   "slug": "WHATS-IN-YOUR-BONELESS-WINGS",
+   "in": 2329.0,
+   "out": 2496.0,
+   "start_words": "There's something called boneless",
+   "end_words": "chicken wing they lied",
+   "hook": [
+    "What's really",
+    "in your wing meat"
+   ]
   }
  },
  "attempts": {
@@ -2697,6 +2715,7 @@
   "ep_v4ka7rn": 2,
   "ep_v4ki1z0_r2": 3,
   "ep_v6u9yxd_p2_r5": 2,
-  "ep_v5zv1nk": 2
+  "ep_v5zv1nk": 2,
+  "ep_v4ka7rn_r2": 1
  }
 }
