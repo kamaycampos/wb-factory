@@ -27,6 +27,7 @@ print("locked now published:", kt_lock.sync())
 series = json.load(open(SERIES))
 done = json.load(open(os.path.join(HERE, "plans", "_done.json")))
 brands, kinds, report = set(), {}, []
+carded = set()                                    # clips that got the free-ebook end card (endcard.py)
 # SECOND CHANCES. 6 Oct 2026: 205 clips planned, 103 queued - and every clip that
 # failed a gate was simply gone, because a plan that yields one clip is "built".
 # Both accounts ran dry. A failed clip is now written here with why it failed,
@@ -133,6 +134,17 @@ for plan, rs in sorted(by_plan.items()):
                 slug = next((c for c in passed if f"_{c['slug']}_" in f), {})
                 if slug.get("cta_kind"):
                     kinds[f"{p['brand']}/{f}"] = slug["cta_kind"]
+    # THE FREE-EBOOK END CARD (14 Nov 2026, factory/endcard.py): only on a clip whose caption
+    # gets the EBOOK ask, after the last gate, on the file in the posting folder.
+    try:
+        import endcard
+        for c in passed:
+            for f in os.listdir(bdir):
+                if f.endswith(".mp4") and "__" not in f and f"_{c['slug']}_" in f and not p.get("test"):
+                    if endcard.attach(os.path.join(bdir, f), c.get("caption", "")):
+                        carded.add(f"{p['brand']}/{f}")
+    except Exception as _e:
+        print("end card skipped:", type(_e).__name__, _e)
     brands.add(p["brand"])
 json.dump(series, open(SERIES, "w"), indent=1, ensure_ascii=False)
 shutil.copy(SERIES, os.path.join(HERE, "kt_series.json"))
@@ -152,6 +164,8 @@ if brands:
     for c in man["clips"]:
         if kinds.get(c["file"]) and not c.get("posted_at") and not c.get("cta_kind"):
             c["cta_kind"] = kinds[c["file"]]
+        if c["file"] in carded and not c.get("posted_at"):
+            c["endcard"] = "ebook"                # the poster keeps such a clip out of the TikTok inbox
     json.dump(man, open(man_p, "w"), indent=1)
     subprocess.run([sys.executable, "make_thumbs.py"], cwd=MACHINE, capture_output=True)
 # TRIAL REEL VARIANTS (1 Nov 2026, build_shard.py): upload each to the media release and list

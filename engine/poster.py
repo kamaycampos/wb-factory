@@ -1529,6 +1529,10 @@ def tiktok_risk(clip):
     except (OSError, ValueError):
         return ""
     text = ((clip.get("hook") or "") + " " + (clip.get("caption") or "")).lower()
+    # A CLIP THAT CARRIES THE FREE-EBOOK END CARD NEVER GOES TO TIKTOK (14 Nov 2026): the card
+    # shows the book's own cover, and the account has two strikes (factory/endcard.py).
+    if clip.get("endcard"):
+        return "the free-ebook end card"
     for name, rx in topics.items():
         if re.search(rx, text):
             return name
