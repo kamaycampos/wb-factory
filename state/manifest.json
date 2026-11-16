@@ -2499,7 +2499,11 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "endcard": "ebook"
+   "endcard": "ebook",
+   "scheduled_at": "2026-11-22T12:25",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4",
@@ -2508,7 +2512,11 @@
    "bytes": 11570218,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-22T09:18",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4",
@@ -2517,7 +2525,11 @@
    "bytes": 23383931,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-22T17:24",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   }
  ]
 }
