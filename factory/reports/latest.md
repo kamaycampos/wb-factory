@@ -1,7 +1,7 @@
 ## ep_v5bjssb_r2: 1 of 2 clip(s) passed every gate
 
 
-## 2026-11-16 17:06
+## 2026-11-16 17:50
   note KT_IMMUNEFACTSR2/WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT: end snapped 3867.03 -> 3867.93s (after 'build back all your bowel flora')
   note KT_IMMUNEFACTSR2/WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT: ending kept on the planner's words 'build back all your bowel flora' (ends on 'does')
   note KT_IMMUNEFACTSR2/HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH: end snapped 525.21 -> 525.10s (after 'literally lose the game')
@@ -18,7 +18,7 @@ TEST MODE - passing clips NOT uploaded or queued: KT_IMMUNEFACTSR2
 ## ep_v5h647u_r2: 0 of 1 clip(s) passed every gate
 
 
-## 2026-11-16 16:43
+## 2026-11-16 17:27
   note KT_TRUTHFILER2/THE-WALK-THAT-CALMS-YOUR-BRAIN: end snapped 2788.99 -> 2788.55s (after 'Get outside and go for a walk')
 ep_v5h647u_r2__s0 (KT_TRUTHFILER2): 1 of 1 passed pre-render gates
 
@@ -26,12 +26,12 @@ RENDER ep_v5h647u_r2__s0
   FAIL 01_THE-WALK-THAT-CALMS-YOUR-BRAIN_45s.mp4: ends off the planned words: plan ends 'Get outside and go for a walk', clip ends 'she goes get outside and go'
 
 
-- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+- **RETIRED** after 3 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
 
 ## ep_v5kg9ip_r3: 0 of 2 clip(s) passed every gate
 
 
-## 2026-11-16 16:55
+## 2026-11-16 17:38
   note KT_PRESSUREFIXR3/WHY-YOUR-BLOOD-PRESSURE-TEST-LIES: end snapped 971.67 -> 971.35s (after 'arm positions that give you that false read')
   note KT_PRESSUREFIXR3/WHY-YOUR-BLOOD-PRESSURE-TEST-LIES: ending kept on the planner's words 'arm positions that give you that false read' (ends inside a quote)
   note KT_PRESSUREFIXR3/THE-BATH-THAT-LOWERS-BLOOD-PRESSURE: end snapped 1468.23 -> 1466.18s (after 'this is something that I take')
@@ -43,12 +43,12 @@ RENDER ep_v5kg9ip_r3__s0
   FAIL 02_THE-BATH-THAT-LOWERS-BLOOD-PRESSURE_40s.mp4: ends off the planned words: plan ends 'this is something that I take', clip ends 'any commission on this but th'
 
 
-- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+- **RETIRED** after 3 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
 
 ## ep_v5sykye_r2: 2 of 2 clip(s) passed every gate
 
 
-## 2026-11-16 17:03
+## 2026-11-16 17:45
   note KT_SLEEPFILER2/WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP: end snapped 2924.85 -> 2923.93s (after 'So you don't want that')
   note KT_SLEEPFILER2/WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP: ending kept on the planner's words 'So you don't want that' (cuts mid-sentence)
   note KT_SLEEPFILER2/HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE: end snapped 3458.67 -> 3459.02s (after 'it's the elixir of youth')
@@ -67,15 +67,4 @@ TEST MODE - passing clips NOT uploaded or queued: KT_SLEEPFILER2
 
 
 ## UPLOAD
-3 clip(s) to add:
-   KT_IMMUNEFACTSR2/02_WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT_90s.mp4  (58 MB)
-   KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4  (12 MB)
-   KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4  (23 MB)
-      + 02_WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT_90s__story.mp4
-      + 02_WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT_90s__yt59.mp4
-   added KT_IMMUNEFACTSR2/02_WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT_90s.mp4  (release media)
-   added KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4  (release media)
-   added KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4  (release media)
-
-manifest now holds 111 clips
-commit and push state/manifest.json to let the machine see them
+nothing new to add
