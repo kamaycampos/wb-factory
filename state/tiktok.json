@@ -1,11 +1,11 @@
 {
- "at": "2026-11-16T06:57",
+ "at": "2026-11-16T07:14",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 687,
-  "video_count": 62,
   "follower_count": 72,
-  "following_count": 2
+  "following_count": 2,
+  "likes_count": 687,
+  "video_count": 62
  },
  "videos": {
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
@@ -20,7 +20,7 @@
   },
   "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4": {
    "id": "7708397962895871262",
-   "view_count": 396,
+   "view_count": 398,
    "like_count": 29,
    "comment_count": 2,
    "share_count": 2,
@@ -480,7 +480,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2337,
+   "view_count": 2339,
    "like_count": 66,
    "comment_count": 11,
    "share_count": 21,
