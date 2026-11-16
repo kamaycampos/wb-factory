@@ -1,27 +1,47 @@
 {
- "at": "2026-11-16T13:11",
+ "at": "2026-11-16T18:17",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 688,
-  "video_count": 63,
   "follower_count": 72,
-  "following_count": 2
+  "following_count": 2,
+  "likes_count": 696,
+  "video_count": 65
  },
  "videos": {
-  "KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4": {
-   "id": "7708746742258502925",
-   "view_count": 98,
-   "like_count": 1,
+  "KT_PRESSUREFIX/02_WHY-YOUR-FOOD-RAISES-BLOOD-PRESSURE_58s.mp4": {
+   "id": "7708834074000919822",
+   "view_count": 4,
+   "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7708834074000919822?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 57,
+   "posted": "2026-11-16T18:13"
+  },
+  "KT_TRUTHFILE/01_WHY-ULTRA-PROCESSED-FOOD-HURTS-YOUR-HEALTH_45s.mp4": {
+   "id": "7708797820748303630",
+   "view_count": 122,
+   "like_count": 2,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7708797820748303630?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 44,
+   "posted": "2026-11-16T15:52"
+  },
+  "KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4": {
+   "id": "7708746742258502925",
+   "view_count": 171,
+   "like_count": 4,
+   "comment_count": 0,
+   "share_count": 2,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708746742258502925?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 41,
    "posted": "2026-11-16T12:34"
   },
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
    "id": "7708530339861269790",
-   "view_count": 323,
-   "like_count": 17,
+   "view_count": 330,
+   "like_count": 18,
    "comment_count": 0,
    "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708530339861269790?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -30,8 +50,8 @@
   },
   "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4": {
    "id": "7708397962895871262",
-   "view_count": 406,
-   "like_count": 29,
+   "view_count": 411,
+   "like_count": 30,
    "comment_count": 2,
    "share_count": 2,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708397962895871262?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -60,7 +80,7 @@
   },
   "KT_BREATHFIXR2/01_GRANDMASTER-TAIS-BREATHING-FIX_92s.mp4": {
    "id": "7707787554484997389",
-   "view_count": 222,
+   "view_count": 223,
    "like_count": 8,
    "comment_count": 0,
    "share_count": 2,
@@ -140,7 +160,7 @@
   },
   "KT_BRAINHACKS/01_THE-BREATHING-RULE-HE-NEVER-BREAKS_76s.mp4": {
    "id": "7706745870506659085",
-   "view_count": 454,
+   "view_count": 455,
    "like_count": 31,
    "comment_count": 0,
    "share_count": 4,
@@ -490,7 +510,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2348,
+   "view_count": 2359,
    "like_count": 66,
    "comment_count": 11,
    "share_count": 22,
@@ -530,8 +550,8 @@
   },
   "KT_REALFOOD/02_WHAT-100-HEALTHY-90-YEAR-OLDS-ATE_148s.mp4": {
    "id": "7696998104599514381",
-   "view_count": 1264,
-   "like_count": 87,
+   "view_count": 1267,
+   "like_count": 88,
    "comment_count": 2,
    "share_count": 6,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7696998104599514381?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
