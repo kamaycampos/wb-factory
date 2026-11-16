@@ -1,0 +1,24 @@
+{
+ "source": "v596rrd.mp4",
+ "brand": "KT_WALKFACTSW",
+ "test": false,
+ "note": "16 Nov 2026 - re-build of queued clip(s) in the wide standard (whole picture). Same words, same edges. See queue.py 'replaces'.",
+ "replaces": {
+  "WHAT-KEVIN-DRINKS-BEFORE-EVERY-MEAL": "KT_WALKFACTS/01_WHAT-KEVIN-DRINKS-BEFORE-EVERY-MEAL_58s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "WHAT-KEVIN-DRINKS-BEFORE-EVERY-MEAL",
+   "in": 1935.6,
+   "out": 1992.38,
+   "start_words": "Write this down",
+   "end_words": "before every meal",
+   "hook": [
+    "What Kevin drinks before",
+    "every meal"
+   ],
+   "send": "A friend trying every supplement sends this to someone who swears by one cheap bottle, awe at how simple it is.",
+   "caption": "Kevin Trudeau says there's one simple habit he swears by before every meal: a tablespoon of raw, organic apple cider vinegar, the kind with 'the mother' still in it.\n\nHe drinks it straight, or sometimes mixes it into a salad dressing with olive oil. It's cheap, it's one ingredient, and it takes ten seconds before you sit down to eat.\n\nNot everyone can stomach the taste - he says that's the only real downside.\n\nWould you try it before your next meal?\n\n#kevintrudeau #applecidervinegar #wellness #healthhabits #nutritiontips #realfoodfacts"
+  }
+ ]
+}

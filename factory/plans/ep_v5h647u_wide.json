@@ -1,0 +1,24 @@
+{
+ "source": "v5h647u.mp4",
+ "brand": "KT_TRUTHFILEW",
+ "test": false,
+ "note": "16 Nov 2026 - re-build of queued clip(s) in the wide standard (whole picture). Same words, same edges. See queue.py 'replaces'.",
+ "replaces": {
+  "WHAT-FLUORIDE-DOES-TO-YOUR-THYROID": "KT_TRUTHFILE/01_WHAT-FLUORIDE-DOES-TO-YOUR-THYROID_46s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "WHAT-FLUORIDE-DOES-TO-YOUR-THYROID",
+   "in": 2272.0,
+   "out": 2318.76,
+   "start_words": "Remember, fluoride in the water",
+   "end_words": "absorbed into the body",
+   "hook": [
+    "What fluoride does",
+    "to your thyroid"
+   ],
+   "send": "A mom sends this to her partner who says tap water is fine - anxiety, a reason to finally filter it.",
+   "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out that fluoride in drinking water is banned in many countries, where it's treated as a health risk rather than a benefit.\n\nHis list of what he ties to it: thyroid problems, weight gain, low metabolism and low mood.\n\nHis reminder: your skin is the largest organ in your body, and whatever touches it in the shower gets absorbed too - not just what you drink.\n\nDo you know whether your tap water or your shower is actually filtered?\n\n#kevintrudeau #fluoride #waterfilter #thyroidhealth #tapwater #wbdaily"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "source": "v6u9yxd.mp4",
+ "brand": "KT_HORMONETRUTHW",
+ "test": false,
+ "note": "16 Nov 2026 - re-build of queued clip(s) in the wide standard (whole picture). Same words, same edges. See queue.py 'replaces'.",
+ "replaces": {
+  "WHAT-WOMEN-MISTAKE-FOR-ALZHEIMERS": "KT_HORMONETRUTH/02_WHAT-WOMEN-MISTAKE-FOR-ALZHEIMERS_41s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "WHAT-WOMEN-MISTAKE-FOR-ALZHEIMERS",
+   "in": 1424.0,
+   "out": 1467.0,
+   "start_words": "Women absolutely need to look",
+   "end_words": "run the proper blood panels",
+   "hook": [
+    "What mimics Alzheimer's",
+    "is low testosterone"
+   ],
+   "send": "A daughter sends this to her mom who's convinced she's getting Alzheimer's - relief and anxiety at once.",
+   "caption": "On The Kevin Trudeau Show, a hormone specialist says women with low testosterone can lose their libido and start forgetting things so badly they wonder if it's early Alzheimer's - when it's actually a hormone problem a basic checkup never catches.\n\nThe reason: a general practitioner visit is often three minutes long, with a basic blood panel that skips testosterone and progesterone entirely.\n\nHis advice for any woman over 30: ask for the full hormone panel, not just the standard bloodwork.\n\nWould you know the difference between a hormone crash and something more serious?\n\n#kevintrudeau #womenshealth #hormonehealth #menopause #testosterone #wbdaily"
+  }
+ ]
+}

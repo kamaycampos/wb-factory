@@ -1,0 +1,24 @@
+{
+ "source": "v4rcljt.mp4",
+ "brand": "KT_ADFILEW",
+ "test": false,
+ "note": "16 Nov 2026 - re-build of queued clip(s) in the wide standard (whole picture). Same words, same edges. See queue.py 'replaces'.",
+ "replaces": {
+  "THE-TOOTHACHE-DROPS-MADE-OF-COCAINE": "KT_ADFILE/01_THE-TOOTHACHE-DROPS-MADE-OF-COCAINE_54s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "THE-TOOTHACHE-DROPS-MADE-OF-COCAINE",
+   "in": 684.0,
+   "out": 738.0,
+   "start_words": "Cocaine toothache drops",
+   "end_words": "it is physically addicting",
+   "hook": [
+    "What doctors sold",
+    "you as medicine"
+   ],
+   "send": "A dad sends this to his buddy mid-joke about 'the good old days': anger that a real company sold an addictive drug as children's medicine and knew it.",
+   "caption": "Kevin Trudeau holds up a real old pharmacy ad: toothache drops from Lloyd Manufacturing, marketed as an instant fix for pain.\n\nThe active ingredient was cocaine. It wasn't hidden - doctors and the manufacturer both knew, and sold it anyway, until cocaine itself became illegal.\n\nHis point: the shelf has always been where the selling happens, not the proof. A product can look medical and still be built to keep you buying.\n\nNext time a label promises a quick fix, read what's actually inside it, not just what the box claims.\n\nThe names on the shelf change. The trick doesn't.\n\n#kevintrudeau #foodlabels #toxins #wellness #naturalhealth #readthelabel"
+  }
+ ]
+}

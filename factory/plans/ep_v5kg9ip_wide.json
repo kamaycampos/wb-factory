@@ -1,0 +1,30 @@
+{
+ "source": "v5kg9ip.mp4",
+ "brand": "KT_PRESSUREFIXW",
+ "test": false,
+ "note": "16 Nov 2026 - re-build of queued clip(s) in the wide standard (whole picture). Same words, same edges. See queue.py 'replaces'.",
+ "replaces": {
+  "WHY-YOUR-DORITOS-RAISE-BLOOD-PRESSURE": "KT_PRESSUREFIX/02_WHY-YOUR-DORITOS-RAISE-BLOOD-PRESSURE_49s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "WHY-YOUR-DORITOS-RAISE-BLOOD-PRESSURE",
+   "in": 1557.52,
+   "out": 1606.52,
+   "start_words": "In America and around",
+   "end_words": "going up, period in the story",
+   "hook": [
+    "Why your Doritos",
+    "raise blood pressure"
+   ],
+   "label": {
+    "code": "0028400516464",
+    "circle": "monosodium glutamate",
+    "circle_on": "monosodium glutamate",
+    "product": "Doritos Nacho Cheese"
+   },
+   "send": "A parent sends this to a teenager who lives on chips - a little anger at what's really in the bag.",
+   "caption": "Kevin Trudeau, on The Kevin Trudeau Show, walks through a short list of everyday ingredients he ties to high blood pressure: genetically modified corn, unfermented high-gluten wheat, and excitotoxins like monosodium glutamate.\n\nHis example is blunt: eat a bag of Doritos with MSG in it, he says, and your blood pressure goes up.\n\nIf you look at the label, monosodium glutamate is right there in the ingredient list - not hidden, just not read.\n\nWhen's the last time you actually turned the bag over?\n\n#kevintrudeau #msg #bloodpressure #foodlabels #ultraprocessedfood #wbdaily"
+  }
+ ]
+}

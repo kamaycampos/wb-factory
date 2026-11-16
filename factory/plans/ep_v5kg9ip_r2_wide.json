@@ -1,0 +1,24 @@
+{
+ "source": "v5kg9ip.mp4",
+ "brand": "KT_PRESSUREFIXR2W",
+ "test": false,
+ "note": "16 Nov 2026 - re-build of queued clip(s) in the wide standard (whole picture). Same words, same edges. See queue.py 'replaces'.",
+ "replaces": {
+  "THE-LIGHT-THATS-RUINING-YOUR-SLEEP": "KT_PRESSUREFIXR2/01_THE-LIGHT-THATS-RUINING-YOUR-SLEEP_51s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "THE-LIGHT-THATS-RUINING-YOUR-SLEEP",
+   "in": 2002.52,
+   "out": 2053.52,
+   "start_words": "You shut off all the lights",
+   "end_words": "help with circulation",
+   "hook": [
+    "The light that's",
+    "ruining your sleep"
+   ],
+   "send": "A friend sends this to someone who always says they can't sleep - a small, immediate fix to actually try.",
+   "caption": "On The Kevin Trudeau Show, Kevin Trudeau says almost nobody's bedroom is actually dark - a smoke detector light, a charger, a crack under the door, it all adds up.\n\nHis fix: a thick black silk sleep mask, which he says boosts melatonin and gets people into deeper, more soundly sleep almost immediately.\n\nHe also uses a magnetic mattress pad under the sheets, which he says helps circulation while he sleeps.\n\nHow many small lights are actually on in your room right now?\n\n#kevintrudeau #sleep #melatonin #healthtips #sleephacks #wbdaily"
+  }
+ ]
+}
