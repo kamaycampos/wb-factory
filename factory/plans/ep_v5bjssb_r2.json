@@ -1,0 +1,36 @@
+{
+  "source": "v5bjssb.mp4",
+  "brand": "KT_IMMUNEFACTSR2",
+  "test": false,
+  "note": "16 Nov 2026 - second chances, 'Learn How To Boost Your Immune System with Cindy Sellers | The Kevin Trudeau Show | Ep. 40' (Rumble v5bjssb). Weekly agent. WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT: caption-vs-sound gate failed (timing only, 100% captioned); extended the end to the next full sentence - the actual rebuild-your-flora instruction - which re-times every caption and also makes the payoff more complete. HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH: ended off the planned words because the clip stutters 'you, you, you literally lose the game' - end_words starting on 'you' was ambiguous against the repeated word; dropped the leading 'you' so the words match only the final, unrepeated instance.",
+  "clips": [
+    {
+      "slug": "WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT",
+      "retry_of": "ep_v5bjssb/WHAT-ANTIBIOTICS-DESTROY-IN-YOUR-GUT",
+      "in": 3773.76,
+      "out": 3864.96,
+      "start_words": "The problem is the",
+      "end_words": "build back all your bowel flora",
+      "hook": [
+        "What antibiotics destroy",
+        "in your gut"
+      ],
+      "send": "Someone just prescribed antibiotics sends this to a friend already reaching for probiotics, anxiety about wasting the fix.",
+      "caption": "Kevin Trudeau's guest Cindy Sellers named a mistake she sees constantly: people take probiotics while they're still on antibiotics, trying to protect their gut.\n\nIt backfires. The antibiotic can't tell the difference - it takes out the good bacteria you just added right along with the infection it's supposed to be fighting.\n\nHer advice: finish the antibiotic first, nothing else, then rebuild with yogurt, sauerkraut or a probiotic for a couple of weeks after, until your bowel flora is back.\n\nTiming the flora, not skipping it, is the part nobody explains.\n\n#kevintrudeau #guthealth #probiotics #wellness #healthfacts #nutritiontips"
+    },
+    {
+      "slug": "HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH",
+      "retry_of": "ep_v5bjssb/HOW-YOUR-BODY-BLENDS-WITHOUT-TEETH",
+      "in": 484.2,
+      "out": 525.24,
+      "start_words": "Your stomach doesn't have",
+      "end_words": "literally lose the game",
+      "hook": [
+        "How your body blends",
+        "without teeth"
+      ],
+      "send": "A fast eater sends this to someone who always finishes first at the table, anxiety about missing nutrients.",
+      "caption": "Kevin Trudeau's guest Cindy Sellers pointed out something easy to forget mid-meal: your stomach has no teeth. Neither does your esophagus or your intestines.\n\nYour teeth are the only blender you've got. Swallow food in chunks and your body has to work much harder to pull out the nutrition - some of it never makes it through at all.\n\nHer habit: chew until food turns liquid before swallowing, every bite.\n\nHow many chews does your last bite usually get?\n\n#kevintrudeau #digestion #guthealth #wellness #healthfacts #nutritiontips"
+    }
+  ]
+}

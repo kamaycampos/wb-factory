@@ -1,0 +1,36 @@
+{
+  "source": "v5sykye.mp4",
+  "brand": "KT_SLEEPFILER2",
+  "test": false,
+  "note": "16 Nov 2026 - second chances, 'Conquer Your Sleep Insomnia: DO THIS To Sleep Through The Night | The Kevin Trudeau Show | Ep. 68' (Rumble v5sykye). Weekly agent. WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP: caption-vs-sound gate failed, named an uncaptioned stretch around 47s in - that lands exactly on a Harvard-professor cross-talk aside ('with deference to our Harvard professor, yes, you're talking about me?'). Cut the clip short, ending on the phone/Wi-Fi payoff before that aside, which also keeps it comfortably inside the 40-190s window. HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE: same gate failed on timing only (99% captioned); re-aligned both edges exactly onto the surrounding cue boundaries, a few seconds earlier/later, to re-time every caption.",
+  "clips": [
+    {
+      "slug": "WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP",
+      "retry_of": "ep_v5sykye/WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP",
+      "in": 2884.5,
+      "out": 2929.36,
+      "start_words": "Where is your phone",
+      "end_words": "So you don't want that",
+      "hook": [
+        "Why your phone",
+        "disrupts your sleep"
+      ],
+      "send": "A friend sends this to someone who always sleeps with their phone on the pillow - a little anxiety, an easy fix to try tonight.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out what's quietly wrecking people's sleep: the phone sitting on the nightstand.\n\nHe says switching it to silent isn't enough. A muted phone is still searching for Wi-Fi, and that signal adds to everything already stirring in the room while you sleep.\n\nHis fix is simple: shut the phone off completely, and if you can, keep it in another room overnight.\n\nWhere does your phone spend the night - on your nightstand, or somewhere else?\n\n#kevintrudeau #sleep #wifi #naturalhealth #healthtips #wbdaily"
+    },
+    {
+      "slug": "HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE",
+      "retry_of": "ep_v5sykye/HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE",
+      "in": 3402.32,
+      "out": 3459.44,
+      "start_words": "You want to be asleep",
+      "end_words": "it's the elixir of youth",
+      "hook": [
+        "How to trigger",
+        "your youth hormone"
+      ],
+      "send": "A friend sends this to someone obsessed with anti-aging creams - a little awe, the free fix they're missing.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau says there's a two-hour window almost nobody protects: midnight to 2 a.m., the only hours the body naturally releases human growth hormone.\n\nMiss that window night after night, he says, and the body recovers slower and ages faster. Hit it consistently - lights out by 10 to 10:30 - and he calls the result the real elixir of youth, made by your own body, not injected into it.\n\nNo supplement replaces that window. Only deep sleep during it does.\n\nWhat time did you actually fall asleep last night?\n\n#kevintrudeau #sleep #antiaging #naturalhealth #hgh #wbdaily"
+    }
+  ]
+}
