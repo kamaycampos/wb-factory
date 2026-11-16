@@ -1,19 +1,29 @@
 {
- "at": "2026-11-15T19:36",
+ "at": "2026-11-16T01:16",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 69,
+  "follower_count": 72,
   "following_count": 2,
-  "likes_count": 656,
-  "video_count": 61
+  "likes_count": 683,
+  "video_count": 62
  },
  "videos": {
-  "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4": {
-   "id": "7708397962895871262",
-   "view_count": 165,
-   "like_count": 16,
+  "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
+   "id": "7708530339861269790",
+   "view_count": 301,
+   "like_count": 15,
    "comment_count": 0,
    "share_count": 1,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7708530339861269790?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 54,
+   "posted": "2026-11-15T22:34"
+  },
+  "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4": {
+   "id": "7708397962895871262",
+   "view_count": 355,
+   "like_count": 27,
+   "comment_count": 2,
+   "share_count": 2,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708397962895871262?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 75,
    "posted": "2026-11-15T14:01"
@@ -30,7 +40,7 @@
   },
   "KT_HEARTSCANR2/01_WHY-YOUR-DOCTOR-NEVER-SCANS-YOU_124s.mp4": {
    "id": "7707876089577655566",
-   "view_count": 2,
+   "view_count": 4,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -40,8 +50,8 @@
   },
   "KT_BREATHFIXR2/01_GRANDMASTER-TAIS-BREATHING-FIX_92s.mp4": {
    "id": "7707787554484997389",
-   "view_count": 215,
-   "like_count": 7,
+   "view_count": 220,
+   "like_count": 8,
    "comment_count": 0,
    "share_count": 2,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7707787554484997389?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -50,7 +60,7 @@
   },
   "KT_PHARMAWATCHR3/01_THE-DRUG-COMPANIES-PAID-THEM-OFF_40s.mp4": {
    "id": "7707753242582666526",
-   "view_count": 118,
+   "view_count": 120,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 3,
@@ -150,7 +160,7 @@
   },
   "KT_FASTTRUTH/01_WHAT-REAL-FASTING-MEANS_72s.mp4": {
    "id": "7706366689004277006",
-   "view_count": 287,
+   "view_count": 288,
    "like_count": 8,
    "comment_count": 1,
    "share_count": 0,
@@ -240,7 +250,7 @@
   },
   "KT_ARTERYFACTSR2/01_WHY-YOUR-MILK-NEVER-GOES-BAD_134s.mp4": {
    "id": "7705137486888013069",
-   "view_count": 196,
+   "view_count": 197,
    "like_count": 6,
    "comment_count": 0,
    "share_count": 2,
@@ -250,7 +260,7 @@
   },
   "KT_HORMONEFIX/01_YOUR-TESTOSTERONE-BOOSTER-IS-MARKETING_116s.mp4": {
    "id": "7704873565727821069",
-   "view_count": 168,
+   "view_count": 169,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 1,
@@ -260,7 +270,7 @@
   },
   "KT_PORKPOLITE/01_WHAT-CUTTING-PORK-DOES-TO-YOU_67s.mp4": {
    "id": "7704804862554328333",
-   "view_count": 4,
+   "view_count": 5,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -320,7 +330,7 @@
   },
   "KT_BPHABITS/02_WHATS-HIDING-IN-YOUR-PROTEIN-SHAKE_37s.mp4": {
    "id": "7704081240747494670",
-   "view_count": 305,
+   "view_count": 306,
    "like_count": 10,
    "comment_count": 0,
    "share_count": 1,
@@ -460,7 +470,7 @@
   },
   "KT_PRESSURER2/01_WHY-YOUR-VEGAN-FOOD-ISNT-HEALTHY_42s.mp4": {
    "id": "7699647861083966734",
-   "view_count": 463,
+   "view_count": 464,
    "like_count": 11,
    "comment_count": 0,
    "share_count": 0,
@@ -470,10 +480,10 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2267,
+   "view_count": 2308,
    "like_count": 66,
    "comment_count": 11,
-   "share_count": 20,
+   "share_count": 21,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 112,
    "posted": "2026-10-22T00:44"
@@ -510,7 +520,7 @@
   },
   "KT_REALFOOD/02_WHAT-100-HEALTHY-90-YEAR-OLDS-ATE_148s.mp4": {
    "id": "7696998104599514381",
-   "view_count": 1256,
+   "view_count": 1258,
    "like_count": 87,
    "comment_count": 2,
    "share_count": 6,
