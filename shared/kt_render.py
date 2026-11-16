@@ -476,6 +476,18 @@ def play_ass(words, path, arch, src=None, t_in=0.0, t_out=None, dur=None):
                     parts.append((f"{{{hide}}}{t_}{{\\r\\fs{small}}}") if hide else t_)
             ev.append(f"Dialogue: 0,{_ts(a)},{_ts(g_end)},Play,,0,0,0,,{{\\an5\\pos({W // 2},{cap_y})\\fs{small}{fad}}}" + " ".join(parts))
             continue
+        # PLAIN, BUILT WORD BY WORD (14 Nov 2026, the caption-style study in factory/VIRALITY.md).
+        # The one style every 2026 source agrees on is the caption that moves WITH the voice: the
+        # line is there to be read ahead, but each word only turns full when he says it (the
+        # words still to come wait at 45%). Kamay's own rule says the same thing: a word must
+        # land on the exact second he says it. One colour, no jump, no box.
+        if len(g) > 1 and os.environ.get("KT_PLAY_BUILD", "1") != "0":
+            parts = []
+            for i, t_ in enumerate(text):
+                t0 = int(max(0, (words[g[i]][0] - 0.04 - a)) * 1000)
+                parts.append(f"{{\\alpha&H8C&\\t({t0},{t0 + 60},\\alpha&H00&)}}{t_}" if i and t0 > 60 else t_)
+            ev.append(f"Dialogue: 0,{_ts(a)},{_ts(g_end)},Play,,0,0,0,,{{\\an5\\pos({W // 2},{cap_y})\\fs62{fad}}}" + " ".join(parts))
+            continue
         ev.append(f"Dialogue: 0,{_ts(a)},{_ts(g_end)},Play,,0,0,0,,{{\\an5\\pos({W // 2},{cap_y})\\fs62{fad}}}" + " ".join(text))
     head = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\nWrapStyle: 2\n\n"
             "[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, "
@@ -1451,8 +1463,8 @@ def make_story(dest):
     out = story_path(dest)
     r = subprocess.run([FFMPEG, "-y", "-loglevel", "error", "-t", f"{end:.2f}",
                         "-i", dest, "-vf", draw,
-                        "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
-                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "18",
+                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                         "-movflags", "+faststart", out], capture_output=True, text=True)
     if r.returncode or not os.path.exists(out):
         sys.stderr.write("story cut failed: " + r.stderr[-300:] + "\n")
@@ -2160,9 +2172,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
            "-loop", "1", "-framerate", "30", "-t", f"{(dur if arch else HOOK_SECS):.2f}",
            "-i", card, *extra,
            *(["-framerate", "30", "-i", lab["pattern"]] if lab else []),
-           *vf, "-c:v", "libx264", "-preset", "medium", "-crf", "19",
-           "-maxrate", "9000k", "-bufsize", "18000k",
-           "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+           *vf, "-c:v", "libx264", "-preset", "medium", "-crf", "17",
+           "-maxrate", "12000k", "-bufsize", "24000k",
+           "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
            "-movflags", "+faststart", dest]
     if not apply:
         return len(ps)
@@ -2260,9 +2272,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
             ycmd = [FFMPEG, "-y", "-loglevel", "error", "-ss", f"{ys:.2f}",
                     "-t", f"{ye - ys:.2f}", "-i", src, *yvf,
                     "-af", f"afade=t=out:st={ye - ys - yfs:.2f}:d={yfs:.2f}",
-                    "-c:v", "libx264", "-preset", "medium", "-crf", "19",
-           "-maxrate", "9000k", "-bufsize", "18000k",
-                    "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+                    "-c:v", "libx264", "-preset", "medium", "-crf", "17",
+           "-maxrate", "12000k", "-bufsize", "24000k",
+                    "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                     "-movflags", "+faststart", yt_path(dest)]
             # THE LABEL RIDES ALONG when its whole moment is inside this window (kt_label).
             if lab and not opener and ys - t_in <= lab["t"][0] and lab["t"][3] <= ye - t_in:
@@ -2275,9 +2287,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
                         "-t", f"{yd:.2f}", "-i", src, "-framerate", "30", "-i", lab["pattern"],
                         "-filter_complex", yfc, "-map", "[v]", "-map", "0:a",
                         "-af", f"afade=t=out:st={yd - yfs:.2f}:d={yfs:.2f}",
-                        "-c:v", "libx264", "-preset", "medium", "-crf", "19",
-                        "-maxrate", "9000k", "-bufsize", "18000k",
-                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "17",
+                        "-maxrate", "12000k", "-bufsize", "24000k",
+                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                         "-movflags", "+faststart", yt_path(dest)]
             if arch:
                 # THE SAME LOOK, on this window's own clock: shots, captions and headline.
@@ -2303,9 +2315,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
                         "-loop", "1", "-framerate", "30", "-t", f"{yd:.2f}", "-i", ycard,
                         "-filter_complex", yfc, "-map", "[v]", "-map", "0:a",
                         "-af", f"afade=t=out:st={yd - yfs:.2f}:d={yfs:.2f}",
-                        "-c:v", "libx264", "-preset", "medium", "-crf", "19",
-                        "-maxrate", "9000k", "-bufsize", "18000k",
-                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "17",
+                        "-maxrate", "12000k", "-bufsize", "24000k",
+                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                         "-movflags", "+faststart", yt_path(dest)]
             if opener:
                 # THE YOUTUBE CUT OPENS THE SAME WAY (17 Oct 2026, Kamay: "YouTube and
@@ -2320,9 +2332,9 @@ def render(src, dest, t_in, t_out, hook, cues, cx, apply, zoom=1.0,
                         "-t", f"{yd:.2f}", "-i", src,
                         "-ss", f"{float(opener.get('start', 0)):.2f}", "-i", opener["path"],
                         "-i", OP.sting(), "-filter_complex", yfc, "-map", "[v]", "-map", "[a]",
-                        "-c:v", "libx264", "-preset", "medium", "-crf", "19",
-                        "-maxrate", "9000k", "-bufsize", "18000k",
-                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+                        "-c:v", "libx264", "-preset", "medium", "-crf", "17",
+                        "-maxrate", "12000k", "-bufsize", "24000k",
+                        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
                         "-movflags", "+faststart", yt_path(dest)]
             ry = subprocess.run(ycmd, capture_output=True, text=True)
             if ry.returncode:
