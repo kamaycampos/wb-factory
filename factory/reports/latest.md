@@ -1,80 +1,65 @@
 ## ep_v4ka7rn_r2: 0 of 2 clip(s) passed every gate
 
-## ep_v58xdrp: 2 of 2 clip(s) passed every gate
+- **RETIRED** after 2 runs with nothing passing; its clips go back to the planner (factory/plans/_failed.json)
+
+## ep_v5ao7jx: 1 of 3 clip(s) passed every gate
 
 
-## 2026-11-15 18:06
-  note KT_FOODSCAM/WHATS-IN-YOUR-BONELESS-WINGS: end snapped 2498.59 -> 2497.88s (after 'chicken wing they lied')
-ep_v58xdrp__s0 (KT_FOODSCAM): 2 of 2 passed pre-render gates
+## 2026-11-16 04:55
+  note KT_HYDRATEFIX/WHAT-WATER-DID-FOR-30000-PATIENTS: end snapped 3655.95 -> 3655.30s (after 'all caused by dehydration')
+  note KT_HYDRATEFIX/WHAT-WATER-DID-FOR-30000-PATIENTS: ending kept on the planner's words 'all caused by dehydration' (next line completes it)
+ep_v5ao7jx__s1 (KT_HYDRATEFIX): 1 of 1 passed pre-render gates
 
-RENDER ep_v58xdrp__s0
-  PASS 01_WHATS-IN-YOUR-BONELESS-WINGS_168s.mp4  01_WHATS-IN-YOUR-BONELESS-WINGS_168s.mp4               54 captions vs the sound  median +0
-       FIRST 5s : There's something called boneless chicken wings. | LAST  8s : And they called it a boneless chicken wing. It's not a boneless chicken wing. They lied.
-  PASS 02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4  02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4        22 captions vs the sound  median +0
-       FIRST 5s : 85% of the food that is consumed in the United States | LAST  8s : Like maybe it's 70% or 80% is organic, but still, they took an organic product and then ultra-processed it.
-TEST MODE - passing clips NOT uploaded or queued: KT_FOODSCAM
-  test clip kept in previews: TEST_KT_FOODSCAM--01_WHATS-IN-YOUR-BONELESS-WINGS_168s.mp4
-  test clip kept in previews: TEST_KT_FOODSCAM--02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4
-
-
-- **NOT QUEUED** `01_WHATS-IN-YOUR-BONELESS-WINGS_168s.mp4` - word repeated after one: "I've had I've"
-
-## ep_v64asb7: 3 of 3 clip(s) passed every gate
-
-
-## 2026-11-15 17:51
-  note KT_FASTRESET/WHAT-TO-EAT-BEFORE-YOU-FAST: end snapped 967.07 -> 966.70s (after 'your body gets kind of adjusted')
-  note KT_FASTRESET/WHAT-TO-EAT-BEFORE-YOU-FAST: ending kept on the planner's words 'your body gets kind of adjusted' (cuts mid-sentence)
-  note KT_FASTRESET/THE-4-OUNCE-JUICE-FASTING-RULE: end snapped 1352.68 -> 1353.55s (after 'it's kind of rotating around')
-  note KT_FASTRESET/THE-4-OUNCE-JUICE-FASTING-RULE: ending kept on the planner's words 'it's kind of rotating around' (cuts mid-sentence)
-ep_v64asb7__s0 (KT_FASTRESET): 2 of 2 passed pre-render gates
-
-RENDER ep_v64asb7__s0
-  PASS 01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4  01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4                 13 captions vs the sound  median +0
-       FIRST 5s : You know, you have to do what's called a pre-fast, which means two or three days | LAST  8s : If you do have vegetables, steam them so they are very, very soft. That way, your body gets kind of adjusted.
-  PASS 02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4  02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4             48 captions vs the sound  median +0
-       FIRST 5s : And so the protocol was you wake up in the morning and you have your | LAST  8s : And that was the next day. Then it would go back, and it would just repeat. So this way, it's kind of rotating around.
-TEST MODE - passing clips NOT uploaded or queued: KT_FASTRESET
-  test clip kept in previews: TEST_KT_FASTRESET--01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4
-  test clip kept in previews: TEST_KT_FASTRESET--02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4
+RENDER ep_v5ao7jx__s1
+  FAIL 01_WHAT-WATER-DID-FOR-30000-PATIENTS_63s.mp4: [FAIL] 01_WHAT-WATER-DID-FOR-30000-PATIENTS_63s.mp4           11 captions vs the sound  median +0.07s  worst-10% 0.50s  | words captioned 99%  UNCAPTIONED SPEECH [(57.1, 58.4)]
 
 
 
-## 2026-11-15 17:52
-  note KT_FASTRESET/HOW-TO-BREAK-A-FAST-RIGHT: end snapped 3644.87 -> 3643.05s (after 'pretty much good to go')
-  note KT_FASTRESET/HOW-TO-BREAK-A-FAST-RIGHT: ending kept on the planner's words 'pretty much good to go' (cuts mid-sentence)
-ep_v64asb7__s1 (KT_FASTRESET): 1 of 1 passed pre-render gates
+## 2026-11-16 05:25
+  note KT_HYDRATEFIX/WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE: end snapped 2914.51 -> 2914.17s (after 'and you got no problem')
+  note KT_HYDRATEFIX/THE-SWEETENER-RULE-YOURE-GETTING-WRONG: end snapped 3320.29 -> 3319.39s (after 'really your three best sweeteners')
+ep_v5ao7jx__s0 (KT_HYDRATEFIX): 2 of 2 passed pre-render gates
 
-RENDER ep_v64asb7__s1
-  RETIME 01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4: captions +0.44s off throughout - re-rendering once
-  PASS 01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4  01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4                  38 captions vs the sound  median +0
-       FIRST 5s : How do you break the fast? You don't go down... | LAST  8s : Flounder, haddock, mackerel, cod. Perhaps you can have some fish. And then from there forward, you're pretty much good to go.
-TEST MODE - passing clips NOT uploaded or queued: KT_FASTRESET
-  test clip kept in previews: TEST_KT_FASTRESET--01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4
-
-
-## ep_v6y4es4_p3_r4: 1 of 1 clip(s) passed every gate
+RENDER ep_v5ao7jx__s0
+  PASS 01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4  01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4         41 captions vs the sound  median +0
+       FIRST 5s : When you drink your coffee in the morning on an empty stomach, the tannic acid in the con | LAST  8s : Take one egg and eat it. Then make your coffee. Now drink your coffee and you get no problem.
+  FAIL 02_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_84s.mp4: ends off the planned words: plan ends 'really your three best sweeteners', clip ends 'the outside what honey used for'
+TEST MODE - passing clips NOT uploaded or queued: KT_HYDRATEFIX
+  test clip kept in previews: TEST_KT_HYDRATEFIX--01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4
 
 
-## 2026-11-15 17:37
-  note KT_RIGHTFILER4/THE-FUEL-THAT-BEATS-BRAIN-FOG: end snapped 2143.35 -> 2143.63s (after 'difficult to make money')
-ep_v6y4es4_p3_r4__s0 (KT_RIGHTFILER4): 1 of 1 passed pre-render gates
+## ep_v5h647u_r2: 0 of 1 clip(s) passed every gate
 
-RENDER ep_v6y4es4_p3_r4__s0
-  PASS 01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4  01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4               10 captions vs the sound  median +0
-       FIRST 5s : It's called fuel, which is food. It isn't caffeine, although I do drink a lot. | LAST  8s : You don't have the ability to focus, you don't get brain fog. If you have all these symptoms, it's just going to be more difficult to make money.
-TEST MODE - passing clips NOT uploaded or queued: KT_RIGHTFILER4
-  test clip kept in previews: TEST_KT_RIGHTFILER4--01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4
+
+## 2026-11-16 04:51
+  note KT_TRUTHFILER2/THE-WALK-THAT-CALMS-YOUR-BRAIN: end snapped 2788.99 -> 2788.55s (after 'Get outside and go for a walk')
+ep_v5h647u_r2__s0 (KT_TRUTHFILER2): 1 of 1 passed pre-render gates
+
+RENDER ep_v5h647u_r2__s0
+  FAIL 01_THE-WALK-THAT-CALMS-YOUR-BRAIN_45s.mp4: ends off the planned words: plan ends 'Get outside and go for a walk', clip ends 'she goes get outside and go'
+
+
+## ep_v5kg9ip_r3: 0 of 2 clip(s) passed every gate
+
+
+## 2026-11-16 05:00
+  note KT_PRESSUREFIXR3/WHY-YOUR-BLOOD-PRESSURE-TEST-LIES: end snapped 971.67 -> 971.35s (after 'arm positions that give you that false read')
+  note KT_PRESSUREFIXR3/WHY-YOUR-BLOOD-PRESSURE-TEST-LIES: ending kept on the planner's words 'arm positions that give you that false read' (ends inside a quote)
+  note KT_PRESSUREFIXR3/THE-BATH-THAT-LOWERS-BLOOD-PRESSURE: end snapped 1468.23 -> 1466.18s (after 'this is something that I take')
+  note KT_PRESSUREFIXR3/THE-BATH-THAT-LOWERS-BLOOD-PRESSURE: ending kept on the planner's words 'this is something that I take' (cuts mid-sentence)
+ep_v5kg9ip_r3__s0 (KT_PRESSUREFIXR3): 2 of 2 passed pre-render gates
+
+RENDER ep_v5kg9ip_r3__s0
+  FAIL 01_WHY-YOUR-BLOOD-PRESSURE-TEST-LIES_51s.mp4: ends off the planned words: plan ends 'arm positions that give you that false read', clip ends 'and there certain arm positions that'
+  FAIL 02_THE-BATH-THAT-LOWERS-BLOOD-PRESSURE_40s.mp4: ends off the planned words: plan ends 'this is something that I take', clip ends 'any commission on this but th'
 
 
 ## UPLOAD
-2 clip(s) to add:
-   KT_FOODSCAM/02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4  (30 MB)
-   KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4  (16 MB)
-      + 02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s__story.mp4
-      + 02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s__yt59.mp4
-   added KT_FOODSCAM/02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4  (release media)
-   added KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4  (release media)
+1 clip(s) to add:
+   KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4  (70 MB)
+      + 01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s__story.mp4
+      + 01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s__yt59.mp4
+   added KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4  (release media)
 
-manifest now holds 107 clips
+manifest now holds 108 clips
 commit and push state/manifest.json to let the machine see them

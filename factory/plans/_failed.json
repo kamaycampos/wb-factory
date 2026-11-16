@@ -2681,6 +2681,78 @@
     "What's really",
     "in your wing meat"
    ]
+  },
+  "ep_v4ka7rn_r2/WHAT-ORGANIC-FOOD-REALLY-COSTS": {
+   "plan": "ep_v4ka7rn_r2",
+   "source": "v4ka7rn.mp4",
+   "brand": "KT_BURGERMATHR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-ORGANIC-FOOD-REALLY-COSTS",
+   "in": 1619.0,
+   "out": 1663.0,
+   "start_words": "If you go buy organic flour",
+   "end_words": "cheaper than what you're doing now",
+   "hook": [
+    "Organic costs 2%",
+    "to 40% more"
+   ]
+  },
+  "ep_v4ka7rn_r2/WHAT-A-HOME-BURGER-REALLY-COSTS": {
+   "plan": "ep_v4ka7rn_r2",
+   "source": "v4ka7rn.mp4",
+   "brand": "KT_BURGERMATHR2",
+   "tries": 2,
+   "why": [
+    "no clip came out of the render"
+   ],
+   "slug": "WHAT-A-HOME-BURGER-REALLY-COSTS",
+   "in": 1806.0,
+   "out": 1909.0,
+   "start_words": "you get seven ounces",
+   "end_words": "It's scrumptious and nutritious",
+   "hook": [
+    "The $8.50 meal",
+    "that costs $2.20"
+   ]
+  },
+  "ep_v5ao7jx/THE-SWEETENER-RULE-YOURE-GETTING-WRONG": {
+   "plan": "ep_v5ao7jx",
+   "source": "v5ao7jx.mp4",
+   "brand": "KT_HYDRATEFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 02_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_84s.mp4: ends off the planned words: plan ends 'really your three best sweeteners', clip ends 'the outside what honey used for'"
+   ],
+   "slug": "THE-SWEETENER-RULE-YOURE-GETTING-WRONG",
+   "in": 3233.4,
+   "out": 3320.0,
+   "start_words": "What sweetener should you eat",
+   "end_words": "really your three best sweeteners",
+   "hook": [
+    "The sweetener rule",
+    "you're getting wrong"
+   ]
+  },
+  "ep_v5ao7jx/WHAT-WATER-DID-FOR-30000-PATIENTS": {
+   "plan": "ep_v5ao7jx",
+   "source": "v5ao7jx.mp4",
+   "brand": "KT_HYDRATEFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-WATER-DID-FOR-30000-PATIENTS_63s.mp4: [FAIL] 01_WHAT-WATER-DID-FOR-30000-PATIENTS_63s.mp4           11 captions vs the sound  median +0.07s  worst-10% 0.50s  | words captioned 99%  UNCAPTIONED SPEECH [(57.1, 58.4)]"
+   ],
+   "slug": "WHAT-WATER-DID-FOR-30000-PATIENTS",
+   "in": 3590.3,
+   "out": 3655.0,
+   "start_words": "Your body is 70% water",
+   "end_words": "all caused by dehydration",
+   "hook": [
+    "What water did",
+    "for their pain"
+   ]
   }
  },
  "attempts": {
@@ -2716,6 +2788,8 @@
   "ep_v4ki1z0_r2": 3,
   "ep_v6u9yxd_p2_r5": 2,
   "ep_v5zv1nk": 2,
-  "ep_v4ka7rn_r2": 1
+  "ep_v4ka7rn_r2": 2,
+  "ep_v5h647u_r2": 1,
+  "ep_v5kg9ip_r3": 1
  }
 }
