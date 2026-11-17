@@ -1935,7 +1935,8 @@
      "Why your phone",
      "disrupts your sleep"
     ],
-    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out what's quietly wrecking people's sleep: the phone sitting on the nightstand.\n\nHe says switching it to silent isn't enough. A muted phone is still searching for Wi-Fi, and that signal adds to everything already stirring in the room while you sleep.\n\nHis fix is simple: shut the phone off completely, and if you can, keep it in another room overnight.\n\nWhere does your phone spend the night - on your nightstand, or somewhere else?\n\n#kevintrudeau #sleep #wifi #naturalhealth #healthtips #wbdaily"
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out what's quietly wrecking people's sleep: the phone sitting on the nightstand.\n\nHe says switching it to silent isn't enough. A muted phone is still searching for Wi-Fi, and that signal adds to everything already stirring in the room while you sleep.\n\nHis fix is simple: shut the phone off completely, and if you can, keep it in another room overnight.\n\nWhere does your phone spend the night - on your nightstand, or somewhere else?\n\n#kevintrudeau #sleep #wifi #naturalhealth #healthtips #wbdaily",
+    "locked": true
    },
    {
     "slug": "HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE",
@@ -2225,7 +2226,8 @@
      "Why your testosterone",
      "needs deep sleep"
     ],
-    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out a connection most people never make: poor sleep and low testosterone.\n\nWhen you don't reach deep sleep, your body makes less human growth hormone and less testosterone. Kevin Trudeau says that's one real reason America has the highest rate of men needing ED medication of any country on earth.\n\nHis point isn't about the pill. It's about the sleep that comes before it - the deep, uninterrupted kind most men never reach.\n\nBefore reaching for a prescription, how many nights this week did you actually sleep through the night?\n\n#kevintrudeau #sleep #testosterone #menshealth #naturalhealth #wbdaily"
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out a connection most people never make: poor sleep and low testosterone.\n\nWhen you don't reach deep sleep, your body makes less human growth hormone and less testosterone. Kevin Trudeau says that's one real reason America has the highest rate of men needing ED medication of any country on earth.\n\nHis point isn't about the pill. It's about the sleep that comes before it - the deep, uninterrupted kind most men never reach.\n\nBefore reaching for a prescription, how many nights this week did you actually sleep through the night?\n\n#kevintrudeau #sleep #testosterone #menshealth #naturalhealth #wbdaily",
+    "locked": true
    }
   ]
  },
@@ -2261,5 +2263,75 @@
   "brand": "KT_HYDRATEFIXR2",
   "note": "17 Nov 2026 - 'Government Censorship & Health Hacks That Will Change Your Life! | The Kevin Trudeau Show | Ep. 38' (Rumble v5ao7jx). Weekly agent: retries of 2 second-chance clips (tries 1). THE-SWEETENER-RULE-YOURE-GETTING-WRONG failed 'ends off the planned words' - end_words corrected to the full sentence as the cue actually has it ('Those are really your three best sweeteners'), out moved to the exact end of that cue. WHAT-WATER-DID-FOR-30000-PATIENTS failed on uncaptioned speech ~57s into the clip (the rapid 'pain went away... pain went away... pain went away' list); both edges moved to an earlier, cleaner sentence boundary that ends on the same core finding (30,000 patients, mostly dehydrated) before that stretch.",
   "clips": []
+ },
+ "ep_v5ao7jx_r3": {
+  "source": "v5ao7jx.mp4",
+  "brand": "KT_HYDRATEFIXR3",
+  "note": "17 Nov 2026 - second chance re-cut: WHAT-WATER-DID-FOR-30000-PATIENTS opened mid-sentence on the tail of the prior cue ('problems.'); start nudged to the next cue's exact boundary ('Your body is 70% water'). Weekly agent.",
+  "clips": []
+ },
+ "ep_v5ixx3h_p5": {
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_FOODPROOF",
+  "note": "17 Nov 2026 - 'How Your Nutritional Supplements Are Harming You' (Rumble v5ixx3h), second pass - new arcs from unused minutes, WB health lane only. Weekly agent.",
+  "clips": [
+   {
+    "slug": "WHY-YOUR-SKIN-DRINKS-TOXINS-TOO",
+    "in": 2644.58,
+    "out": 2689.01,
+    "hook": [
+     "Why your skin",
+     "drinks toxins too"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau makes a simple point: your skin is your body's largest organ, and whatever touches it gets absorbed.\n\nHis list - an unfiltered shower, tap water, coffee, tea, soda, energy drinks, and conventional food all add toxins to your body, every single day, not just once.\n\nKevin Trudeau's view: toxin load is the number one driver of illness, with nutrient deficiency close behind it.\n\nStart with the shower you take without thinking about it. Would a filter change that?\n\n#kevintrudeau #toxins #skinhealth #cleanwater #naturalhealth #wbdaily"
+   },
+   {
+    "slug": "HOW-YOUR-FOOD-GOT-GMO-GENES",
+    "in": 2766.14,
+    "out": 2839.11,
+    "hook": [
+     "How your food",
+     "got GMO genes"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau tells the story behind genetically modified produce.\n\nHis example: a tomato engineered with a gene from a pig so it resists a pest on its own, so a spray can be built into the seed instead of applied on top. Then the seed gets patented.\n\nKevin Trudeau's view, repeated twice in this clip for a reason - \"Science is not better than nature.\"\n\nHis point isn't that science can't improve on a plant. It's that profit, not health, usually decides how.\n\nWould you look at produce differently knowing what might be engineered into it?\n\n#kevintrudeau #gmo #foodtruth #organicfood #labelreading #wbdaily"
+   }
+  ]
+ },
+ "ep_v5y9n6n_p2": {
+  "source": "v5y9n6n.mp4",
+  "brand": "KT_CAREFACTS",
+  "note": "17 Nov 2026 - 'Delay, Deny, Depose: The U.S. Healthcare System Is Killing Us' (Rumble v5y9n6n), second pass - new arcs from unused minutes, WB health lane only. Weekly agent.",
+  "clips": [
+   {
+    "slug": "WHAT-WATER-DOES-FOR-YOUR-BRAIN",
+    "in": 3646.12,
+    "out": 3699.15,
+    "hook": [
+     "What water does",
+     "for your brain"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau walks through his own morning routine.\n\nHe says he falls asleep within minutes, sleeps seven to eight hours straight, and doesn't wake up at night. The moment he's up, before coffee, before anything else, he drinks about 16 ounces of water.\n\nHis reasoning: the brain runs on water, so the first thing it needs each morning is hydration, not caffeine.\n\nKevin Trudeau's view: better sleep and a glass of water before your first cup of coffee can change your energy, your digestion and your mood for the whole day.\n\nWhat's the first thing you put in your body each morning?\n\n#kevintrudeau #hydration #morningroutine #sleephealth #naturalhealth #wbdaily"
+   },
+   {
+    "slug": "HOW-YOUR-CANDY-DYE-GOT-BANNED",
+    "in": 2516.22,
+    "out": 2561.77,
+    "hook": [
+     "How your candy",
+     "dye got banned"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points to a real headline: the FDA moving to outlaw certain food dyes used in candy, soda and cakes.\n\nHis point, made for over 30 years before this became news: those dyes are already illegal in other countries. He says the only reason they ever made it into American food was profit, not safety.\n\nKevin Trudeau's view: a dye banned in one country and sold to kids in another tells you something about who the rules are really protecting.\n\nNext time you check a label, look for the dye, not just the sugar.\n\n#kevintrudeau #fooddyes #labelreading #foodsafety #cleaneating #wbdaily"
+   },
+   {
+    "slug": "THE-PLAN-BEHIND-YOUR-DOCTOR-VISIT",
+    "in": 523.42,
+    "out": 605.79,
+    "hook": [
+     "The plan behind",
+     "your doctor visit"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau tells the story of how healthcare became a business.\n\nHis account: in the early 1900s, John D. Rockefeller noticed most people weren't going to doctors, so drug sales stayed slow. Kevin says Rockefeller helped found the American Medical Association and backed the drug companies that needed patients walking through the door.\n\nThe fix, in Kevin's telling: insurance. Get people to visit a doctor every year, and give doctors a reason to prescribe.\n\nKevin Trudeau's view: that single idea, more than a century old, still shapes why you go to the doctor today.\n\n#kevintrudeau #healthcare #medicalhistory #naturalhealth #askquestions #wbdaily"
+   }
+  ]
  }
 }
