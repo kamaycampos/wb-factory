@@ -1,0 +1,28 @@
+{
+  "source": "v5ao7jx.mp4",
+  "brand": "KT_HYDRATEFIXR3",
+  "test": false,
+  "note": "17 Nov 2026 - second chance re-cut: WHAT-WATER-DID-FOR-30000-PATIENTS opened mid-sentence on the tail of the prior cue ('problems.'); start nudged to the next cue's exact boundary ('Your body is 70% water'). Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHAT-WATER-DID-FOR-30000-PATIENTS",
+      "in": 3590.5,
+      "out": 3643.42,
+      "start_words": "Your body is 70% water",
+      "end_words": "most of them were dehydrated",
+      "retry_of": "ep_v5ao7jx/WHAT-WATER-DID-FOR-30000-PATIENTS",
+      "hook": ["What water did", "for their pain"],
+      "trial_hooks": [
+        ["30,000 patients,", "lost their pain"],
+        ["The habit draining", "your hydration"],
+        ["70% of you", "is just water"],
+        ["What you're missing", "every single day"],
+        ["Dr. Stoddard's patients,", "pain-free again"],
+        ["Kevin Trudeau's water", "rule for pain"],
+        ["One glass fixed", "30,000 people's pain"]
+      ],
+      "send": "Someone sends this to a parent who complains about joint pain every day - hope, a reason to try water before another pill.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau points to a doctor named Darrell Stoddard, who worked with over 30,000 chronic pain patients.\n\nHis finding: most of them were simply dehydrated. Once they drank enough water and got properly hydrated, the pain eased - joint pain, back pain, headaches.\n\nKevin's own rule: eight glasses of pure water a day, one or two of them first thing in the morning, more if you drink a lot of coffee.\n\nYour body is 70% water. When was the last time you drank a full glass that wasn't coffee, tea or juice?\n\n#kevintrudeau #hydration #water #chronicpain #naturalhealth #wbdaily"
+    }
+  ]
+}

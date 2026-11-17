@@ -1,0 +1,47 @@
+{
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_FOODPROOF",
+  "test": false,
+  "note": "17 Nov 2026 - 'How Your Nutritional Supplements Are Harming You' (Rumble v5ixx3h), second pass - new arcs from unused minutes, WB health lane only. Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHY-YOUR-SKIN-DRINKS-TOXINS-TOO",
+      "in": 2644.0,
+      "out": 2689.0,
+      "start_words": "Your skin is the largest",
+      "end_words": "is nutritional deficiencies",
+      "hook": ["Why your skin", "drinks toxins too"],
+      "send": "Someone sends this to a friend who showers without a second thought - anxiety about how much is being absorbed without them knowing.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau makes a simple point: your skin is your body's largest organ, and whatever touches it gets absorbed.\n\nHis list - an unfiltered shower, tap water, coffee, tea, soda, energy drinks, and conventional food all add toxins to your body, every single day, not just once.\n\nKevin Trudeau's view: toxin load is the number one driver of illness, with nutrient deficiency close behind it.\n\nStart with the shower you take without thinking about it. Would a filter change that?\n\n#kevintrudeau #toxins #skinhealth #cleanwater #naturalhealth #wbdaily"
+    },
+    {
+      "slug": "HOW-YOUR-FOOD-GOT-GMO-GENES",
+      "in": 2766.0,
+      "out": 2839.0,
+      "start_words": "Science is not better",
+      "end_words": "Think about that",
+      "hook": ["How your food", "got GMO genes"],
+      "trial_hooks": [
+        ["One gene, one patent,", "a killing"],
+        ["Monsanto's gene inside", "your tomato"],
+        ["Your tomato may", "carry pig DNA"],
+        ["What's really modified", "in your food"],
+        ["Kevin Trudeau's answer:", "not GMO"],
+        ["Kevin Trudeau explains", "the pig gene"],
+        ["Science calls this", "better than nature"]
+      ],
+      "send": "A shopper sends this to a friend who never reads where their produce comes from - awe and unease at what might actually be inside it.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau tells the story behind genetically modified produce.\n\nHis example: a tomato engineered with a gene from a pig so it resists a pest on its own, so a spray can be built into the seed instead of applied on top. Then the seed gets patented.\n\nKevin Trudeau's view, repeated twice in this clip for a reason - \"Science is not better than nature.\"\n\nHis point isn't that science can't improve on a plant. It's that profit, not health, usually decides how.\n\nWould you look at produce differently knowing what might be engineered into it?\n\n#kevintrudeau #gmo #foodtruth #organicfood #labelreading #wbdaily"
+    },
+    {
+      "slug": "WHAT-YOUR-FOOD-SCIENCE-CANT-EXPLAIN",
+      "in": 2982.0,
+      "out": 3069.0,
+      "start_words": "When you take food",
+      "end_words": "it's a whole food concentrate",
+      "hook": ["What your food", "science can't explain"],
+      "send": "Someone sends this to a friend who swears by their synthetic multivitamin - doubt, and curiosity about what a lab-made pill can't actually replace.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau explains why he trusts whole-food supplements over synthetic ones.\n\nHis claim: when scientists analyze a vegetable like broccoli or a carrot, about 30% of what's in it still doesn't match anything in their database. They know it's there. They just haven't identified it yet.\n\nKevin Trudeau's view: a synthetic vitamin can only replace what's already been identified, never the 30% that hasn't been.\n\nNext time you read a supplement label, ask whether it came from real food or a lab.\n\n#kevintrudeau #wholefood #nutrition #supplements #labelreading #wbdaily"
+    }
+  ]
+}
