@@ -1,17 +1,27 @@
 {
- "at": "2026-11-17T11:18",
+ "at": "2026-11-17T16:59",
  "account": "wb_organics",
  "profile": {
   "follower_count": 74,
   "following_count": 2,
-  "likes_count": 723,
-  "video_count": 66
+  "likes_count": 728,
+  "video_count": 67
  },
  "videos": {
+  "KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4": {
+   "id": "7709150767751482638",
+   "view_count": 131,
+   "like_count": 0,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7709150767751482638?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 30,
+   "posted": "2026-11-17T14:42"
+  },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 299,
-   "like_count": 14,
+   "view_count": 312,
+   "like_count": 15,
    "comment_count": 0,
    "share_count": 7,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708897334675000590?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -20,7 +30,7 @@
   },
   "KT_PRESSUREFIX/02_WHY-YOUR-FOOD-RAISES-BLOOD-PRESSURE_58s.mp4": {
    "id": "7708834074000919822",
-   "view_count": 117,
+   "view_count": 119,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 0,
@@ -30,8 +40,8 @@
   },
   "KT_TRUTHFILE/01_WHY-ULTRA-PROCESSED-FOOD-HURTS-YOUR-HEALTH_45s.mp4": {
    "id": "7708797820748303630",
-   "view_count": 198,
-   "like_count": 8,
+   "view_count": 207,
+   "like_count": 10,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708797820748303630?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -40,8 +50,8 @@
   },
   "KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4": {
    "id": "7708746742258502925",
-   "view_count": 266,
-   "like_count": 6,
+   "view_count": 269,
+   "like_count": 7,
    "comment_count": 0,
    "share_count": 3,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708746742258502925?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -50,7 +60,7 @@
   },
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
    "id": "7708530339861269790",
-   "view_count": 339,
+   "view_count": 340,
    "like_count": 18,
    "comment_count": 0,
    "share_count": 1,
@@ -520,10 +530,10 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2413,
-   "like_count": 69,
+   "view_count": 2426,
+   "like_count": 70,
    "comment_count": 11,
-   "share_count": 22,
+   "share_count": 23,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 112,
    "posted": "2026-10-22T00:44"
@@ -560,7 +570,7 @@
   },
   "KT_REALFOOD/02_WHAT-100-HEALTHY-90-YEAR-OLDS-ATE_148s.mp4": {
    "id": "7696998104599514381",
-   "view_count": 1276,
+   "view_count": 1277,
    "like_count": 89,
    "comment_count": 2,
    "share_count": 6,
