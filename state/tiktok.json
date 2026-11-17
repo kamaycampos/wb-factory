@@ -1,16 +1,16 @@
 {
- "at": "2026-11-17T08:27",
+ "at": "2026-11-17T11:18",
  "account": "wb_organics",
  "profile": {
+  "follower_count": 74,
   "following_count": 2,
-  "likes_count": 722,
-  "video_count": 66,
-  "follower_count": 74
+  "likes_count": 723,
+  "video_count": 66
  },
  "videos": {
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 296,
+   "view_count": 299,
    "like_count": 14,
    "comment_count": 0,
    "share_count": 7,
@@ -20,7 +20,7 @@
   },
   "KT_PRESSUREFIX/02_WHY-YOUR-FOOD-RAISES-BLOOD-PRESSURE_58s.mp4": {
    "id": "7708834074000919822",
-   "view_count": 116,
+   "view_count": 117,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 0,
@@ -30,8 +30,8 @@
   },
   "KT_TRUTHFILE/01_WHY-ULTRA-PROCESSED-FOOD-HURTS-YOUR-HEALTH_45s.mp4": {
    "id": "7708797820748303630",
-   "view_count": 194,
-   "like_count": 7,
+   "view_count": 198,
+   "like_count": 8,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7708797820748303630?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -40,7 +40,7 @@
   },
   "KT_RIGHTFILER4/01_THE-FUEL-THAT-BEATS-BRAIN-FOG_42s.mp4": {
    "id": "7708746742258502925",
-   "view_count": 256,
+   "view_count": 266,
    "like_count": 6,
    "comment_count": 0,
    "share_count": 3,
@@ -50,7 +50,7 @@
   },
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
    "id": "7708530339861269790",
-   "view_count": 338,
+   "view_count": 339,
    "like_count": 18,
    "comment_count": 0,
    "share_count": 1,
@@ -170,10 +170,10 @@
   },
   "KT_BRAINHACKS/01_THE-BREATHING-RULE-HE-NEVER-BREAKS_76s.mp4": {
    "id": "7706745870506659085",
-   "view_count": 455,
+   "view_count": 456,
    "like_count": 31,
    "comment_count": 0,
-   "share_count": 4,
+   "share_count": 5,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7706745870506659085?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 76,
    "posted": "2026-11-11T03:10"
@@ -520,7 +520,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2410,
+   "view_count": 2413,
    "like_count": 69,
    "comment_count": 11,
    "share_count": 22,
