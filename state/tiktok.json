@@ -1,16 +1,16 @@
 {
- "at": "2026-11-17T21:18",
+ "at": "2026-11-17T22:39",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 737,
-  "video_count": 67,
   "follower_count": 74,
-  "following_count": 2
+  "following_count": 2,
+  "likes_count": 737,
+  "video_count": 67
  },
  "videos": {
   "KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4": {
    "id": "7709150767751482638",
-   "view_count": 184,
+   "view_count": 200,
    "like_count": 7,
    "comment_count": 0,
    "share_count": 2,
@@ -20,7 +20,7 @@
   },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 317,
+   "view_count": 319,
    "like_count": 16,
    "comment_count": 0,
    "share_count": 7,
@@ -70,7 +70,7 @@
   },
   "KT_QUIETRULES/02_THE-ONE-HABIT-TO-ADD-FIRST_75s.mp4": {
    "id": "7708397962895871262",
-   "view_count": 422,
+   "view_count": 423,
    "like_count": 30,
    "comment_count": 2,
    "share_count": 2,
@@ -530,7 +530,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2438,
+   "view_count": 2439,
    "like_count": 71,
    "comment_count": 11,
    "share_count": 23,
