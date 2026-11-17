@@ -1,7 +1,7 @@
 ## ep_v5ao7jx_r3: 1 of 1 clip(s) passed every gate
 
 
-## 2026-11-17 17:00
+## 2026-11-17 18:11
   note KT_HYDRATEFIXR3/WHAT-WATER-DID-FOR-30000-PATIENTS: end snapped 3644.12 -> 3644.00s (after 'most of them were dehydrated')
 ep_v5ao7jx_r3__s0 (KT_HYDRATEFIXR3): 1 of 1 passed pre-render gates
 
@@ -17,7 +17,7 @@ TEST MODE - passing clips NOT uploaded or queued: KT_HYDRATEFIXR3
 ## ep_v5ixx3h_p5: 2 of 3 clip(s) passed every gate
 
 
-## 2026-11-17 17:13
+## 2026-11-17 18:15
   note KT_FOODPROOF/WHY-YOUR-SKIN-DRINKS-TOXINS-TOO: end snapped 2689.01 -> 2688.86s (after 'is nutritional deficiencies')
   note KT_FOODPROOF/HOW-YOUR-FOOD-GOT-GMO-GENES: end snapped 2839.11 -> 2838.88s (after 'Think about that')
   note KT_FOODPROOF/HOW-YOUR-FOOD-GOT-GMO-GENES: ending kept on the planner's words 'Think about that' (ends on 'that')
@@ -34,7 +34,7 @@ TEST MODE - passing clips NOT uploaded or queued: KT_FOODPROOF
 
 
 
-## 2026-11-17 17:07
+## 2026-11-17 18:12
   note KT_FOODPROOF/WHAT-YOUR-FOOD-SCIENCE-CANT-EXPLAIN: end snapped 3068.67 -> 3068.32s (after 'it's a whole food concentrate')
 ep_v5ixx3h_p5__s1 (KT_FOODPROOF): 1 of 1 passed pre-render gates
 
@@ -45,7 +45,7 @@ RENDER ep_v5ixx3h_p5__s1
 ## ep_v5y9n6n_p2: 4 of 4 clip(s) passed every gate
 
 
-## 2026-11-17 17:29
+## 2026-11-17 18:44
   note KT_CAREFACTS/WHY-HIS-KNEE-NEVER-NEEDED-SURGERY: end snapped 3322.87 -> 3324.30s (after 'healed and it's unheard of')
   note KT_CAREFACTS/WHY-HIS-KNEE-NEVER-NEEDED-SURGERY: ending kept on the planner's words 'healed and it's unheard of' (cuts mid-sentence)
   note KT_CAREFACTS/WHAT-WATER-DOES-FOR-YOUR-BRAIN: end snapped 3699.15 -> 3699.04s (after 'water feeds the brain')
@@ -63,7 +63,7 @@ TEST MODE - passing clips NOT uploaded or queued: KT_CAREFACTS
 
 
 
-## 2026-11-17 17:40
+## 2026-11-17 18:37
   note KT_CAREFACTS/HOW-YOUR-CANDY-DYE-GOT-BANNED: end snapped 2561.77 -> 2562.69s (after 'in other countries, they're illegal')
   note KT_CAREFACTS/THE-PLAN-BEHIND-YOUR-DOCTOR-VISIT: end snapped 605.79 -> 604.38s (after 'the plan was insurance')
 ep_v5y9n6n_p2__s1 (KT_CAREFACTS): 2 of 2 passed pre-render gates
@@ -82,22 +82,4 @@ TEST MODE - passing clips NOT uploaded or queued: KT_CAREFACTS
 - **NOT QUEUED** `01_WHY-HIS-KNEE-NEVER-NEEDED-SURGERY_177s.mp4` - stray full stop: "MRI. see"
 
 ## UPLOAD
-5 clip(s) to add:
-   KT_CAREFACTS/01_THE-PLAN-BEHIND-YOUR-DOCTOR-VISIT_81s.mp4  (70 MB)
-   KT_CAREFACTS/02_HOW-YOUR-CANDY-DYE-GOT-BANNED_46s.mp4  (39 MB)
-   KT_CAREFACTS/02_WHAT-WATER-DOES-FOR-YOUR-BRAIN_53s.mp4  (49 MB)
-   KT_FOODPROOF/01_WHY-YOUR-SKIN-DRINKS-TOXINS-TOO_44s.mp4  (44 MB)
-   KT_FOODPROOF/02_HOW-YOUR-FOOD-GOT-GMO-GENES_73s.mp4  (73 MB)
-      + 01_THE-PLAN-BEHIND-YOUR-DOCTOR-VISIT_81s__story.mp4
-      + 01_THE-PLAN-BEHIND-YOUR-DOCTOR-VISIT_81s__yt59.mp4
-   added KT_CAREFACTS/01_THE-PLAN-BEHIND-YOUR-DOCTOR-VISIT_81s.mp4  (release media)
-      + 02_HOW-YOUR-CANDY-DYE-GOT-BANNED_46s__yt59.mp4
-   added KT_CAREFACTS/02_HOW-YOUR-CANDY-DYE-GOT-BANNED_46s.mp4  (release media)
-   added KT_CAREFACTS/02_WHAT-WATER-DOES-FOR-YOUR-BRAIN_53s.mp4  (release media)
-   added KT_FOODPROOF/01_WHY-YOUR-SKIN-DRINKS-TOXINS-TOO_44s.mp4  (release media)
-      + 02_HOW-YOUR-FOOD-GOT-GMO-GENES_73s__story.mp4
-      + 02_HOW-YOUR-FOOD-GOT-GMO-GENES_73s__yt59.mp4
-   added KT_FOODPROOF/02_HOW-YOUR-FOOD-GOT-GMO-GENES_73s.mp4  (release media)
-
-manifest now holds 118 clips
-commit and push state/manifest.json to let the machine see them
+nothing new to add

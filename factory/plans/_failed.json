@@ -2866,7 +2866,7 @@
    "plan": "ep_v5ao7jx_r3",
    "source": "v5ao7jx.mp4",
    "brand": "KT_HYDRATEFIXR3",
-   "tries": 2,
+   "tries": 3,
    "why": [
     "NOT QUEUED** `01_WHAT-WATER-DID-FOR-30000-PATIENTS_52s.mp4` - opens mid-sentence on \"problems.\""
    ],
@@ -2884,7 +2884,7 @@
    "plan": "ep_v5ixx3h_p5",
    "source": "v5ixx3h.mp4",
    "brand": "KT_FOODPROOF",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "FAIL 01_WHAT-YOUR-FOOD-SCIENCE-CANT-EXPLAIN_86s.mp4: ends off the planned words: plan ends 'it's a whole food concentrate', clip ends 'unless it a whole food concentration'"
    ],
@@ -2902,7 +2902,7 @@
    "plan": "ep_v5y9n6n_p2",
    "source": "v5y9n6n.mp4",
    "brand": "KT_CAREFACTS",
-   "tries": 1,
+   "tries": 2,
    "why": [
     "NOT QUEUED** `01_WHY-HIS-KNEE-NEVER-NEEDED-SURGERY_177s.mp4` - stray full stop: \"MRI. see\""
    ],
