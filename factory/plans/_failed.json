@@ -2825,6 +2825,42 @@
     "The magnesium bath",
     "lowers your pressure"
    ]
+  },
+  "ep_v5ao7jx_r2/THE-SWEETENER-RULE-YOURE-GETTING-WRONG": {
+   "plan": "ep_v5ao7jx_r2",
+   "source": "v5ao7jx.mp4",
+   "brand": "KT_HYDRATEFIXR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_84s.mp4: ends off the planned words: plan ends 'Those are really your three best sweeteners', clip ends 'the outside what honey used for'"
+   ],
+   "slug": "THE-SWEETENER-RULE-YOURE-GETTING-WRONG",
+   "in": 3233.4,
+   "out": 3319.78,
+   "start_words": "What sweetener should you eat",
+   "end_words": "Those are really your three best sweeteners",
+   "hook": [
+    "The sweetener rule",
+    "you're getting wrong"
+   ]
+  },
+  "ep_v5ao7jx_r2/WHAT-WATER-DID-FOR-30000-PATIENTS": {
+   "plan": "ep_v5ao7jx_r2",
+   "source": "v5ao7jx.mp4",
+   "brand": "KT_HYDRATEFIXR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `02_WHAT-WATER-DID-FOR-30000-PATIENTS_52s.mp4` - opens mid-sentence on \"problems.\""
+   ],
+   "slug": "WHAT-WATER-DID-FOR-30000-PATIENTS",
+   "in": 3590.3,
+   "out": 3643.42,
+   "start_words": "Your body is 70% water",
+   "end_words": "most of them were dehydrated",
+   "hook": [
+    "What water did",
+    "for their pain"
+   ]
   }
  },
  "attempts": {
