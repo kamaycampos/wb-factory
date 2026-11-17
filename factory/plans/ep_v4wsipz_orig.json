@@ -1,0 +1,38 @@
+{
+ "source": "v4wsipz.mp4",
+ "brand": "KT_BREATHRULEO",
+ "test": false,
+ "note": "16 Nov 2026 - re-build so the clip carries Kevin's sound exactly as recorded (the copy in the queue had its pauses cleaned; Kamay: '100% original sound'). Same words, same edges.",
+ "replaces": {
+  "NOSE-BREATHING-FILTERS-YOUR-AIR": "KT_BREATHRULE/01_NOSE-BREATHING-FILTERS-YOUR-AIR_70s.mp4",
+  "DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY": "KT_BREATHRULE/02_DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY_55s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "NOSE-BREATHING-FILTERS-YOUR-AIR",
+   "in": 981.72,
+   "out": 1060.16,
+   "start_words": "A baby knows how to breathe",
+   "end_words": "stop particles as it's going in",
+   "hook": [
+    "How your body",
+    "filters bad air"
+   ],
+   "send": "A new parent sends this to their partner after clearing a newborn's nose: breathing through the nose is the body's own air filter - the quiet worry of wanting to protect a baby's lungs.",
+   "caption": "Kevin Trudeau on something nobody teaches but every baby already knows: breathe through the nose, not the mouth.\n\nA baby never needs a course in breathing. It breathes in and out through its nose automatically, because the nose is built to filter the air before it reaches your lungs. Nose hairs physically stop particles from going in. The mouth was built for eating and drinking, not breathing.\n\nMost adults lost the habit somewhere along the way.\n\nWhich one are you, nose breather or mouth breather?\n\n#kevintrudeau #breathing #nosebreathing #wbdaily #healthhabits #naturalhealth"
+  },
+  {
+   "slug": "DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY",
+   "in": 1086.92,
+   "out": 1147.48,
+   "start_words": "If you look at a baby",
+   "end_words": "helps oxygenate the entire system",
+   "hook": [
+    "How your belly",
+    "breath boosts energy"
+   ],
+   "send": "A yoga-curious friend sends this to the one who says they're too stressed to meditate: the one-breath fix that massages your organs while you just sit there - the relief of a fix that takes no extra time.",
+   "caption": "Kevin Trudeau on the way a baby breathes that most adults have forgotten.\n\nWatch a baby lying down breathe: the stomach moves first, not the chest. That's diaphragmatic breathing, air pulled low so the lungs expand fully, lower, middle and upper, like a bellow. The stomach isn't filling with air; it just moves to make room for the lungs underneath it.\n\nHis point: this kind of breathing massages your internal organs and helps oxygenate your entire system, every single breath.\n\nNext time you breathe, notice: chest first, or stomach first?\n\n#kevintrudeau #breathing #diaphragm #wbdaily #healthhabits #wellness"
+  }
+ ]
+}

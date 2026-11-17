@@ -1,0 +1,24 @@
+{
+ "source": "v5bjssb.mp4",
+ "brand": "KT_IMMUNEFACTSWO",
+ "test": false,
+ "note": "16 Nov 2026 - re-build so the clip carries Kevin's sound exactly as recorded (the copy in the queue had its pauses cleaned; Kamay: '100% original sound'). Same words, same edges.",
+ "replaces": {
+  "8-OUNCES-OF-SODA-WEAKENS-YOU": "KT_IMMUNEFACTSW/01_8-OUNCES-OF-SODA-WEAKENS-YOU_42s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "8-OUNCES-OF-SODA-WEAKENS-YOU",
+   "in": 753.56,
+   "out": 797.12,
+   "start_words": "There was a new",
+   "end_words": "susceptible to viral infections",
+   "hook": [
+    "8 ounces of soda",
+    "weakens you"
+   ],
+   "send": "A parent sends this to the grandparent who still drinks soda daily, anxiety about getting sick needlessly.",
+   "caption": "Kevin Trudeau's guest, health educator Cindy Sellers, pointed to a study most soda drinkers have never heard of: eight ounces of anything carbonated - even plain sparkling water - can suppress the immune system for up to twelve hours.\n\nNo sugar needed, no extra additives. The bubbles alone are enough to leave your body more open to whatever is going around that day.\n\nReach for something carbonated every day, and that's twelve hours, every single day.\n\nWhat's actually in your glass right now?\n\n#kevintrudeau #immunesystem #healthfacts #wellness #nutritiontips #realfoodfacts"
+  }
+ ]
+}

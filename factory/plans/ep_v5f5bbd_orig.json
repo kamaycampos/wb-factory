@@ -1,0 +1,24 @@
+{
+ "source": "v5f5bbd.mp4",
+ "brand": "KT_BREADFILEO",
+ "test": false,
+ "note": "16 Nov 2026 - re-build so the clip carries Kevin's sound exactly as recorded (the copy in the queue had its pauses cleaned; Kamay: '100% original sound'). Same words, same edges.",
+ "replaces": {
+  "WHY-YOUR-BREAD-HAS-YOGA-MAT-CHEMICAL": "KT_BREADFILE/01_WHY-YOUR-BREAD-HAS-YOGA-MAT-CHEMICAL_104s.mp4"
+ },
+ "clips": [
+  {
+   "slug": "WHY-YOUR-BREAD-HAS-YOGA-MAT-CHEMICAL",
+   "in": 256.72,
+   "out": 363.84,
+   "start_words": "One of the ingredients that are in food",
+   "end_words": "contain the yoga mat compound",
+   "hook": [
+    "Why your bread",
+    "has yoga-mat chemical"
+   ],
+   "send": "Someone who packs school lunches sends this to the other parent on sandwich duty: the actual ingredient, and why it's legal - the quiet alarm of finding out what's really in the bread you hand your kid every morning.",
+   "caption": "Kevin Trudeau on an ingredient most people have never heard of, in bread most people eat every week.\n\nIt's called azodicarbonamide. It's also used to make yoga mats and shoe soles. As a dough conditioner, it's added to bread to make it spongier and keep it from crumbling, and studies have linked it to asthma and other health problems.\n\nThe FDA calls it toxic but allows it in small amounts. One report once found it in close to 500 foods, including a 100% whole wheat loaf.\n\nDoes your bread's label mention a dough conditioner?\n\n#kevintrudeau #foodtruth #labelreading #wbdaily #breadingredients #realfood"
+  }
+ ]
+}
