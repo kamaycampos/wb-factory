@@ -2951,6 +2951,24 @@
     "Why cholesterol is secretly",
     "saving you"
    ]
+  },
+  "ep_v5y9n6n_r2/WHAT-YOUR-SKIN-ABSORBS": {
+   "plan": "ep_v5y9n6n_r2",
+   "source": "v5y9n6n.mp4",
+   "brand": "KT_QUIETRULESR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHAT-YOUR-SKIN-ABSORBS_67s.mp4: ends off the planned words: plan ends 'don't put it on your skin', clip ends 'it do put it on your'"
+   ],
+   "slug": "WHAT-YOUR-SKIN-ABSORBS",
+   "in": 3808.0,
+   "out": 3878.0,
+   "start_words": "Whatever you put on",
+   "end_words": "don't put it on your skin",
+   "hook": [
+    "What touches skin",
+    "enters your blood"
+   ]
   }
  },
  "attempts": {
@@ -2989,6 +3007,6 @@
   "ep_v4ka7rn_r2": 2,
   "ep_v5h647u_r2": 3,
   "ep_v5kg9ip_r3": 3,
-  "ep_v5y9n6n_r2": 1
+  "ep_v5y9n6n_r2": 2
  }
 }
