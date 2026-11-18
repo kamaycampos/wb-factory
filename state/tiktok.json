@@ -1,37 +1,47 @@
 {
- "at": "2026-11-18T15:40",
+ "at": "2026-11-18T20:52",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 75,
+  "follower_count": 77,
   "following_count": 3,
-  "likes_count": 760,
-  "video_count": 69
+  "likes_count": 773,
+  "video_count": 70
  },
  "videos": {
+  "KT_IMMUNEFACTSW/02_WHY-JUICE-NEVER-HYDRATES-YOUR-BRAIN_48s.mp4": {
+   "id": "7709567463364545823",
+   "view_count": 22,
+   "like_count": 1,
+   "comment_count": 0,
+   "share_count": 1,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7709567463364545823?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 48,
+   "posted": "2026-11-18T17:39"
+  },
   "KT_FASTRESET/01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4": {
    "id": "7709535630606355725",
-   "view_count": 1,
-   "like_count": 0,
+   "view_count": 163,
+   "like_count": 7,
    "comment_count": 0,
-   "share_count": 0,
+   "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7709535630606355725?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 102,
    "posted": "2026-11-18T15:36"
   },
   "KT_SLEEPFILEWO/02_THE-CHEMICALS-IN-YOUR-LAUNDRY-SOAP_56s.mp4": {
    "id": "7709335804014775566",
-   "view_count": 225,
-   "like_count": 9,
+   "view_count": 294,
+   "like_count": 12,
    "comment_count": 0,
-   "share_count": 0,
+   "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7709335804014775566?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 57,
    "posted": "2026-11-18T02:40"
   },
   "KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4": {
    "id": "7709150767751482638",
-   "view_count": 286,
-   "like_count": 14,
+   "view_count": 291,
+   "like_count": 15,
    "comment_count": 0,
    "share_count": 5,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7709150767751482638?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -40,7 +50,7 @@
   },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 348,
+   "view_count": 352,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 7,
@@ -50,7 +60,7 @@
   },
   "KT_PRESSUREFIX/02_WHY-YOUR-FOOD-RAISES-BLOOD-PRESSURE_58s.mp4": {
    "id": "7708834074000919822",
-   "view_count": 121,
+   "view_count": 122,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 0,
@@ -80,7 +90,7 @@
   },
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
    "id": "7708530339861269790",
-   "view_count": 343,
+   "view_count": 344,
    "like_count": 18,
    "comment_count": 0,
    "share_count": 1,
@@ -550,10 +560,10 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2479,
-   "like_count": 72,
+   "view_count": 2499,
+   "like_count": 73,
    "comment_count": 12,
-   "share_count": 24,
+   "share_count": 25,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 112,
    "posted": "2026-10-22T00:44"
@@ -590,7 +600,7 @@
   },
   "KT_REALFOOD/02_WHAT-100-HEALTHY-90-YEAR-OLDS-ATE_148s.mp4": {
    "id": "7696998104599514381",
-   "view_count": 1283,
+   "view_count": 1285,
    "like_count": 89,
    "comment_count": 2,
    "share_count": 6,
