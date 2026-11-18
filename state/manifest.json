@@ -2658,7 +2658,11 @@
    "bytes": 40202690,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-25T08:23",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HEARTFACTS/01_WHAT-YOUR-DOCTOR-MUST-PRESCRIBE_63s.mp4",
@@ -2668,7 +2672,11 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "endcard": "ebook"
+   "endcard": "ebook",
+   "scheduled_at": "2026-11-26T08:56",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 4,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HEARTFACTS/01_WHY-YOUR-WATER-HAS-HIDDEN-CHLORINE_42s.mp4",
@@ -2677,7 +2685,11 @@
    "bytes": 38666373,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-24T19:51",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HEARTFACTS/02_2-WORDS-THAT-SCAR-YOUR-HEART_50s.mp4",
@@ -2686,7 +2698,11 @@
    "bytes": 45935252,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-25T11:34",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_HEARTFACTS/02_WHATS-HIDING-IN-YOUR-MILK_51s.mp4",
@@ -2695,7 +2711,11 @@
    "bytes": 47105707,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-25T17:34",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   }
  ]
 }
