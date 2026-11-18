@@ -1,0 +1,87 @@
+{
+  "source": "v5jqctd.mp4",
+  "brand": "KT_HEARTFACTS",
+  "test": false,
+  "note": "2026-11-18 - 'The Shocking Truth About Cholesterol | The Kevin Trudeau Show | Ep. 59' (Rumble v5jqctd). Weekly agent, WB health lane. A full episode on cholesterol: skipped the Kraft American cheese aside (PLANNING.md 'CHECK THE LABEL' - the real US label contradicts it), the insurance-fraud joke aside, the chelation/CAT-scan medical-procedure segment, and every stretch within ~30s of 'stupid/moron/ignoramus' (cues near 780-870, 1950-1990, 2090-2140, 2780-2825). 7 clips, all information not claims, each paying a concrete fact.",
+  "clips": [
+    {
+      "slug": "THE-800-CHOLESTEROL-COUNT",
+      "in": 369.0,
+      "out": 420.0,
+      "start_words": "Is there anybody out there",
+      "end_words": "has a 240 cholesterol count",
+      "hook": ["The 800 cholesterol count", "that's healthy"],
+      "send": "A son sends this to his dad who just got put on a statin for a 240 number - awe at the people who carry 800 and never have a blocked artery.",
+      "trial_hooks": [
+        ["800 cholesterol count", "zero heart disease"],
+        ["A test built to", "scare you"],
+        ["90 year olds with", "800 cholesterol"],
+        ["What your number hides", "from you"],
+        ["A Harvard doctor proved", "him right"],
+        ["Kevin Trudeau's question for", "Harvard doctors"],
+        ["The wildest fact doctors", "won't admit"]
+      ],
+      "caption": "Kevin Trudeau says doctors chase one number: your cholesterol count. But he points out there are people walking around with a count of 600, 700, even 800 who never get a blocked artery, never have a stroke, and live to 90 with no heart disease.\n\nMeanwhile someone with a 'normal' 240 can be handed a prescription on the spot - by protocol, before any real test is run.\n\nHis view: the number on the blood test isn't the full story. What matters is whether your arteries are actually damaged, not what's floating in your blood. Next time a number scares you, ask what test would actually show the truth.\n\n#kevintrudeau #cholesterol #hearthealth #healthfacts #labelreading #naturalhealth"
+    },
+    {
+      "slug": "WHY-CHOLESTEROL-SECRETLY-SAVES-YOU",
+      "in": 1025.0,
+      "out": 1139.0,
+      "start_words": "The LDL cholesterol is so",
+      "end_words": "I'm doing a good job",
+      "hook": ["Why cholesterol is secretly", "saving you"],
+      "send": "A daughter sends this to her mom who's scared of her own cholesterol test - awe at finding out the thing she fears is actually patrolling her arteries.",
+      "caption": "Kevin Trudeau tells it almost like a character study: your LDL cholesterol isn't the villain doctors make it out to be.\n\nHis view - it's patrolling your arteries, and the moment it finds a scar or a weak spot, it sacrifices itself and patches the damage so the wall doesn't rupture.\n\nThe catch, in his words: if the damage keeps happening, the patch keeps happening too - over and over, until the artery is clogged. So the real question isn't how much cholesterol you have. It's what's damaging your arteries in the first place.\n\n#kevintrudeau #cholesterol #hearthealth #healthfacts #ldl #naturalhealth"
+    },
+    {
+      "slug": "2-WORDS-THAT-SCAR-YOUR-HEART",
+      "in": 1869.0,
+      "out": 1919.0,
+      "start_words": "The hydrogenated oil or trans",
+      "end_words": "setting you up for stroke",
+      "hook": ["2 words that scar", "your heart"],
+      "send": "A parent sends this to whoever does the family's grocery shopping, right before the next trip - anger at how common these two words are on the shelf.",
+      "caption": "Kevin Trudeau's label rule: look for 'hydrogenated oil' or 'partially hydrogenated oil' on anything in your pantry - salad dressing, peanut butter, packaged cookies.\n\nHis view is that it scars your arteries from the inside, the same spot your body keeps having to patch. Depending on where you live, the label may also list the exact grams of trans fat sitting in that one product.\n\nHis fix is simple: read the label before it goes in the cart, not after.\n\n#kevintrudeau #labelreading #hearthealth #healthfacts #cholesterol #naturalhealth"
+    },
+    {
+      "slug": "WHAT-YOUR-DOCTOR-MUST-PRESCRIBE",
+      "in": 420.0,
+      "out": 488.0,
+      "start_words": "I am a medical doctor",
+      "end_words": "about the money isn't it",
+      "hook": ["What your doctor must", "prescribe anyway"],
+      "send": "A patient sends this to a friend who just got told to start a statin - anger at finding out the prescription was never really about their own number.",
+      "caption": "Kevin Trudeau explains a detail most people never hear at the doctor's office: once a blood test crosses a set number, many doctors follow a standing protocol to prescribe a cholesterol-lowering drug - whether you ever take it or not.\n\nHis view: that protocol is about following procedure, not necessarily about your personal risk. Either way, it goes in your file that the recommendation was made.\n\nWhether you fill the prescription is still your choice. His point is simply to understand why it was written in the first place.\n\n#kevintrudeau #cholesterol #hearthealth #healthfacts #wellness #naturalhealth"
+    },
+    {
+      "slug": "WHATS-HIDING-IN-YOUR-MILK",
+      "in": 1476.0,
+      "out": 1530.0,
+      "start_words": "Nature intended you to consume",
+      "end_words": "They scar your artery",
+      "hook": ["What's hiding inside", "your morning milk"],
+      "send": "Someone sends this to whoever buys the family's milk, right before the next grocery run - awe at what one extra manufacturing step quietly does.",
+      "caption": "Kevin Trudeau says nature intended milk to be consumed close to how the cow, goat or buffalo actually made it.\n\nHis view: once milk is homogenized, the fat molecules are broken down so small the body responds to them differently - he describes the result as tiny particles that behave like little knives moving through your arteries.\n\nHe points to what happens over time: more damage to the artery wall, long before anyone has a symptom. His tip - look for 'non-homogenized' or 'cream-top' on the label.\n\n#kevintrudeau #dairy #hearthealth #healthfacts #labelreading #naturalhealth"
+    },
+    {
+      "slug": "6-WARNING-SIGNS-FOR-YOUR-HEART",
+      "in": 251.0,
+      "out": 295.0,
+      "start_words": "When the blood flow is",
+      "end_words": "a stroke or a heart attack",
+      "hook": ["6 warning signs", "for your heart"],
+      "send": "A wife sends this to her husband who keeps putting off his cholesterol test - anxiety at realizing his tiredness and cold feet might be the same thing.",
+      "caption": "Kevin Trudeau walks through what poor circulation can look like long before anyone connects it to the heart: cold feet, a cut that's slow to close up, skin that starts to sag, trouble sleeping, low energy, and feeling irritable for no clear reason.\n\nHis view: these aren't random, separate problems. They're the same blood flow issue showing up in different places in the body.\n\nHe says the real warning isn't one symptom on its own - it's noticing a few of them show up together.\n\n#kevintrudeau #hearthealth #healthfacts #cholesterol #circulation #naturalhealth"
+    },
+    {
+      "slug": "WHY-YOUR-WATER-HAS-HIDDEN-CHLORINE",
+      "in": 2415.0,
+      "out": 2456.0,
+      "start_words": "Some people have a reverse",
+      "end_words": "Bottled spring water no ice",
+      "hook": ["Why your water has", "hidden chlorine"],
+      "send": "A traveler sends this to a friend right before their next restaurant dinner - awe at how simple the fix turns out to be.",
+      "caption": "Kevin Trudeau's water rule: city tap water is treated with chlorine to kill bacteria - necessary for the public supply, but his view is you don't want to actually drink it.\n\nHe filters his own water at home, and when he's out, he asks for bottled spring water with no ice, since restaurant ice is usually made from the same tap water.\n\nHis simple fix: a home filtration system, or at minimum, knowing what's actually in the water before you drink it.\n\n#kevintrudeau #water #hearthealth #healthfacts #cleanwater #naturalhealth"
+    }
+  ]
+}

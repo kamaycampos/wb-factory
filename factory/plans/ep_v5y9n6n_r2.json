@@ -1,0 +1,22 @@
+{
+  "source": "v5y9n6n.mp4",
+  "brand": "KT_QUIETRULESR2",
+  "test": false,
+  "note": "2026-11-18 - second chance (PLANNING.md step 2c, tries 1): WHAT-YOUR-SKIN-ABSORBS ended off the planned words ('it dont put it on your', missing 'skin') because out=3875.0 cut the word 'skin' short. Same source cue, same start/end words, out pushed to 3878.0 to give the renderer room to finish the word before the next sentence starts at 3876. Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHAT-YOUR-SKIN-ABSORBS",
+      "in": 3808.0,
+      "out": 3878.0,
+      "retry_of": "ep_v5y9n6n/WHAT-YOUR-SKIN-ABSORBS",
+      "start_words": "Whatever you put on",
+      "end_words": "don't put it on your skin",
+      "hook": [
+        "What touches skin",
+        "enters your blood"
+      ],
+      "send": "Someone who just grabbed a drugstore body spray sends this to the friend who reads every food label but never flips the lotion bottle over: the same rule applies to both - the anxiety of realizing what's been soaking into their skin for years.",
+      "caption": "Kevin Trudeau's rule for anything you put on your body: if you wouldn't eat it, don't put it on your skin either.\n\nWhatever touches your skin gets absorbed into your bloodstream, he says - it's the same reason drug companies deliver medicine through skin patches instead of pills. The skin is a fast way in.\n\nSo he points to the label on most full-body deodorants: 'not for human consumption, if ingested call poison control.' If it's dangerous to swallow, he asks, why is it fine to rub into your skin every day?\n\nNext time you reach for a lotion or spray, flip it over and read what it actually says.\n\n#kevintrudeau #cleanbeauty #skincare #toxins #wbdaily #healthtruth"
+    }
+  ]
+}
