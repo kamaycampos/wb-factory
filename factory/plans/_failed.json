@@ -2915,6 +2915,42 @@
     "Why his body",
     "never needed surgery"
    ]
+  },
+  "ep_v5jqctd/THE-800-CHOLESTEROL-COUNT": {
+   "plan": "ep_v5jqctd",
+   "source": "v5jqctd.mp4",
+   "brand": "KT_HEARTFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_THE-800-CHOLESTEROL-COUNT_44s.mp4` - phrase scrambled around \"there anybody out there\""
+   ],
+   "slug": "THE-800-CHOLESTEROL-COUNT",
+   "in": 369.0,
+   "out": 420.0,
+   "start_words": "Is there anybody out there",
+   "end_words": "has a 240 cholesterol count",
+   "hook": [
+    "The 800 cholesterol count",
+    "that's healthy"
+   ]
+  },
+  "ep_v5jqctd/WHY-CHOLESTEROL-SECRETLY-SAVES-YOU": {
+   "plan": "ep_v5jqctd",
+   "source": "v5jqctd.mp4",
+   "brand": "KT_HEARTFACTS",
+   "tries": 1,
+   "why": [
+    "drop KT_HEARTFACTS/WHY-CHOLESTEROL-SECRETLY-SAVES-YOU: hook - 788px wide at 44px - over the 780px safe zone, will be cut off on a phone"
+   ],
+   "slug": "WHY-CHOLESTEROL-SECRETLY-SAVES-YOU",
+   "in": 1025.0,
+   "out": 1139.0,
+   "start_words": "The LDL cholesterol is so",
+   "end_words": "I'm doing a good job",
+   "hook": [
+    "Why cholesterol is secretly",
+    "saving you"
+   ]
   }
  },
  "attempts": {
@@ -2952,6 +2988,7 @@
   "ep_v5zv1nk": 2,
   "ep_v4ka7rn_r2": 2,
   "ep_v5h647u_r2": 3,
-  "ep_v5kg9ip_r3": 3
+  "ep_v5kg9ip_r3": 3,
+  "ep_v5y9n6n_r2": 1
  }
 }

@@ -1848,7 +1848,8 @@
      "Why your first meal",
      "matters most"
     ],
-    "caption": "Kevin Trudeau's juice fast protocol doesn't end the moment the fast does. Breaking it wrong, he says, can undo the benefit.\n\nDay one after the fast: the same soft food as the pre-fast, pureed soup and fruit, nothing solid yet.\n\nDay two: rice finally comes back. He recommends jasmine or white rice over brown, which he says is too rough on a system that just went without food.\n\nDay three: real chewing returns, with raw or cooked vegetables, a salad, and fish.\n\nHis rule: no burger, no steak, straight off a fast. The body gets three days back in, the same way it got three days to prepare.\n\nWould you have the patience for day one?\n\n#kevintrudeau #fasting #guthealth #healthtruth #naturalhealth #wbdaily"
+    "caption": "Kevin Trudeau's juice fast protocol doesn't end the moment the fast does. Breaking it wrong, he says, can undo the benefit.\n\nDay one after the fast: the same soft food as the pre-fast, pureed soup and fruit, nothing solid yet.\n\nDay two: rice finally comes back. He recommends jasmine or white rice over brown, which he says is too rough on a system that just went without food.\n\nDay three: real chewing returns, with raw or cooked vegetables, a salad, and fish.\n\nHis rule: no burger, no steak, straight off a fast. The body gets three days back in, the same way it got three days to prepare.\n\nWould you have the patience for day one?\n\n#kevintrudeau #fasting #guthealth #healthtruth #naturalhealth #wbdaily",
+    "locked": true
    }
   ]
  },
@@ -1963,7 +1964,8 @@
      "What Kevin drinks before",
      "every meal"
     ],
-    "caption": "Kevin Trudeau says there's one simple habit he swears by before every meal: a tablespoon of raw, organic apple cider vinegar, the kind with 'the mother' still in it.\n\nHe drinks it straight, or sometimes mixes it into a salad dressing with olive oil. It's cheap, it's one ingredient, and it takes ten seconds before you sit down to eat.\n\nNot everyone can stomach the taste - he says that's the only real downside.\n\nWould you try it before your next meal?\n\n#kevintrudeau #applecidervinegar #wellness #healthhabits #nutritiontips #realfoodfacts"
+    "caption": "Kevin Trudeau says there's one simple habit he swears by before every meal: a tablespoon of raw, organic apple cider vinegar, the kind with 'the mother' still in it.\n\nHe drinks it straight, or sometimes mixes it into a salad dressing with olive oil. It's cheap, it's one ingredient, and it takes ten seconds before you sit down to eat.\n\nNot everyone can stomach the taste - he says that's the only real downside.\n\nWould you try it before your next meal?\n\n#kevintrudeau #applecidervinegar #wellness #healthhabits #nutritiontips #realfoodfacts",
+    "locked": true
    }
   ]
  },
@@ -2331,6 +2333,63 @@
      "your doctor visit"
     ],
     "caption": "On The Kevin Trudeau Show, Kevin Trudeau tells the story of how healthcare became a business.\n\nHis account: in the early 1900s, John D. Rockefeller noticed most people weren't going to doctors, so drug sales stayed slow. Kevin says Rockefeller helped found the American Medical Association and backed the drug companies that needed patients walking through the door.\n\nThe fix, in Kevin's telling: insurance. Get people to visit a doctor every year, and give doctors a reason to prescribe.\n\nKevin Trudeau's view: that single idea, more than a century old, still shapes why you go to the doctor today.\n\n#kevintrudeau #healthcare #medicalhistory #naturalhealth #askquestions #wbdaily"
+   }
+  ]
+ },
+ "ep_v5jqctd": {
+  "source": "v5jqctd.mp4",
+  "brand": "KT_HEARTFACTS",
+  "note": "2026-11-18 - 'The Shocking Truth About Cholesterol | The Kevin Trudeau Show | Ep. 59' (Rumble v5jqctd). Weekly agent, WB health lane. A full episode on cholesterol: skipped the Kraft American cheese aside (PLANNING.md 'CHECK THE LABEL' - the real US label contradicts it), the insurance-fraud joke aside, the chelation/CAT-scan medical-procedure segment, and every stretch within ~30s of 'stupid/moron/ignoramus' (cues near 780-870, 1950-1990, 2090-2140, 2780-2825). 7 clips, all information not claims, each paying a concrete fact.",
+  "clips": [
+   {
+    "slug": "2-WORDS-THAT-SCAR-YOUR-HEART",
+    "in": 1870.94,
+    "out": 1920.43,
+    "hook": [
+     "2 words that scar",
+     "your heart"
+    ],
+    "caption": "Kevin Trudeau's label rule: look for 'hydrogenated oil' or 'partially hydrogenated oil' on anything in your pantry - salad dressing, peanut butter, packaged cookies.\n\nHis view is that it scars your arteries from the inside, the same spot your body keeps having to patch. Depending on where you live, the label may also list the exact grams of trans fat sitting in that one product.\n\nHis fix is simple: read the label before it goes in the cart, not after.\n\n#kevintrudeau #labelreading #hearthealth #healthfacts #cholesterol #naturalhealth"
+   },
+   {
+    "slug": "WHAT-YOUR-DOCTOR-MUST-PRESCRIBE",
+    "in": 424.33,
+    "out": 487.91,
+    "hook": [
+     "What your doctor must",
+     "prescribe anyway"
+    ],
+    "caption": "Kevin Trudeau explains a detail most people never hear at the doctor's office: once a blood test crosses a set number, many doctors follow a standing protocol to prescribe a cholesterol-lowering drug - whether you ever take it or not.\n\nHis view: that protocol is about following procedure, not necessarily about your personal risk. Either way, it goes in your file that the recommendation was made.\n\nWhether you fill the prescription is still your choice. His point is simply to understand why it was written in the first place.\n\n#kevintrudeau #cholesterol #hearthealth #healthfacts #wellness #naturalhealth"
+   },
+   {
+    "slug": "WHATS-HIDING-IN-YOUR-MILK",
+    "in": 1476.94,
+    "out": 1528.23,
+    "hook": [
+     "What's hiding inside",
+     "your morning milk"
+    ],
+    "caption": "Kevin Trudeau says nature intended milk to be consumed close to how the cow, goat or buffalo actually made it.\n\nHis view: once milk is homogenized, the fat molecules are broken down so small the body responds to them differently - he describes the result as tiny particles that behave like little knives moving through your arteries.\n\nHe points to what happens over time: more damage to the artery wall, long before anyone has a symptom. His tip - look for 'non-homogenized' or 'cream-top' on the label.\n\n#kevintrudeau #dairy #hearthealth #healthfacts #labelreading #naturalhealth"
+   },
+   {
+    "slug": "6-WARNING-SIGNS-FOR-YOUR-HEART",
+    "in": 251.8,
+    "out": 295.91,
+    "hook": [
+     "6 warning signs",
+     "for your heart"
+    ],
+    "caption": "Kevin Trudeau walks through what poor circulation can look like long before anyone connects it to the heart: cold feet, a cut that's slow to close up, skin that starts to sag, trouble sleeping, low energy, and feeling irritable for no clear reason.\n\nHis view: these aren't random, separate problems. They're the same blood flow issue showing up in different places in the body.\n\nHe says the real warning isn't one symptom on its own - it's noticing a few of them show up together.\n\n#kevintrudeau #hearthealth #healthfacts #cholesterol #circulation #naturalhealth"
+   },
+   {
+    "slug": "WHY-YOUR-WATER-HAS-HIDDEN-CHLORINE",
+    "in": 2416.18,
+    "out": 2458.43,
+    "hook": [
+     "Why your water has",
+     "hidden chlorine"
+    ],
+    "caption": "Kevin Trudeau's water rule: city tap water is treated with chlorine to kill bacteria - necessary for the public supply, but his view is you don't want to actually drink it.\n\nHe filters his own water at home, and when he's out, he asks for bottled spring water with no ice, since restaurant ice is usually made from the same tap water.\n\nHis simple fix: a home filtration system, or at minimum, knowing what's actually in the water before you drink it.\n\n#kevintrudeau #water #hearthealth #healthfacts #cleanwater #naturalhealth"
    }
   ]
  }
