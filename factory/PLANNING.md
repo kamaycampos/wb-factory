@@ -11,6 +11,11 @@ on the second-chance backlog, hit the account's usage limit, and pushed nothing.
 each plan passes `check_plan.py`**, to the same branch - the merge job takes each push - so a run that is
 cut off still keeps the plans it finished.
 
+## READ factory/KEVIN_SELLING.md (18 Nov 2026)
+Kevin's own selling rules from his public shows (believe it, don't sell, facts tell / stories sell, show proof,
+ask don't tell, make yes easy). Every hook, caption and closing question follows them. Health claims still pass
+every WB gate first: proof means Kevin's own words and a real label, never a promise of a cure.
+
 ## CHECK THE LABEL BEFORE YOU CUT A BRAND CLAIM (4 Nov 2026)
 Kevin names real brands. Before planning a clip that says what a named product IS or CONTAINS, look up
 its current label (Open Food Facts: world.openfoodfacts.org). If the label contradicts him, do not cut
