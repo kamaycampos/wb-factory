@@ -1,0 +1,22 @@
+{
+  "source": "v5ixx3h.mp4",
+  "brand": "KT_WHOLEFOODR5",
+  "test": false,
+  "note": "19 Nov 2026 - second chance retry of ep_v5ixx3h_p3_r2/YOUR-STOMACH-HAS-NO-TEETH (tries 2): moved the start past an uncaptioned gap at 13.8-15.9s, kept the stomach/teeth payoff, and ended before the minutes already used by WHY-WHOLE-FRUIT-BEATS-JUICE (ep_v5ixx3h_r3, 1945-2020s) to avoid re-using them. Weekly agent.",
+  "clips": [
+    {
+      "slug": "YOUR-STOMACH-HAS-NO-TEETH",
+      "in": 1878.0,
+      "out": 1945.0,
+      "start_words": "Nutritional supplements",
+      "end_words": "break down the food",
+      "hook": [
+        "Why your body",
+        "can't chew food"
+      ],
+      "retry_of": "ep_v5ixx3h_p3_r2/YOUR-STOMACH-HAS-NO-TEETH",
+      "send": "A parent sends it to a fast-eating teen, mild anxiety, with a reason to chew more.",
+      "caption": "Kevin Trudeau's reminder: a supplement is called that for a reason - it's meant to be in addition to food, never instead of it.\n\nYour body runs on whole food, chewed slowly. Your stomach has no teeth, so swallowing instead of chewing puts digestion behind before it starts.\n\nIt's also why a whole orange beats a glass of juice: the fiber slows things down so the vitamin C is absorbed in the intestine, not wasted in the stomach.\n\nEven animals in the wild just eat the fruit whole.\n\nHow many times did you chew your last bite?\n\n#kevintrudeau #digestion #wholefood #nutrition #guthealth #healthtips"
+    }
+  ]
+}

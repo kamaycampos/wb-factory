@@ -1,0 +1,21 @@
+{
+  "source": "v596rrd.mp4",
+  "brand": "KT_PUREWATCH",
+  "test": false,
+  "note": "19 Nov 2026 - replacement for KT_WALKFACTSW/WHAT-KEVIN-DRINKS-BEFORE-EVERY-MEAL, taken down by TikTok. Same episode ('How To Lose Belly Fat', Rumble v596rrd), different moment and angle: the gummy-vitamin label warning instead of the morning-drink routine. Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHATS-REALLY-IN-YOUR-GUMMY",
+      "in": 2100.88,
+      "out": 2150.28,
+      "start_words": "Never ever under any",
+      "end_words": "worst thing in the world",
+      "hook": [
+        "What's really inside",
+        "your gummy vitamins"
+      ],
+      "send": "A shopper sends it to a friend who takes gummy vitamins every morning, mild alarm.",
+      "caption": "Kevin Trudeau held up two supplement labels on his show: a plain capsule and a gummy vitamin.\n\nThe capsule's label was short - pure apple cider vinegar, no fillers. The gummy needed sugar, gelatin and extra additives just to hold its shape.\n\nHis own view: gummies are the worst way to take a vitamin, because of what has to go in them to make them chewable.\n\nNext time you're in the vitamin aisle, flip the bottle over first.\n\nWhat's actually in the supplement you take every morning?\n\n#kevintrudeau #vitamins #supplements #labelreading #wholefood #healthtips"
+    }
+  ]
+}

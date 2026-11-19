@@ -1,0 +1,86 @@
+{
+  "source": "v5vyhjt.mp4",
+  "brand": "KT_FOODFILE",
+  "test": false,
+  "note": "19 Nov 2026 - 'The 10 Foods That Will Supercharge Your Sex Life' (Rumble v5vyhjt). Six clips cut strictly from the episode's food-ingredient and label-reading passages (chocolate, bread, MSG, fried oil, soy, sweeteners) - every libido/sex-framed passage and any passage naming Cargill was skipped. Weekly agent.",
+  "clips": [
+    {
+      "slug": "WHY-YOUR-CHOCOLATE-NEEDS-2-INGREDIENTS",
+      "in": 122.0,
+      "out": 172.0,
+      "start_words": "Read the ingredient list",
+      "end_words": "percentage of cacao the better",
+      "hook": [
+        "Why your chocolate",
+        "needs 2 ingredients"
+      ],
+      "send": "A shopper sends it to a friend buying candy-store dark chocolate, mild surprise.",
+      "caption": "Kevin Trudeau's grocery rule for dark chocolate: flip the bag over first.\n\nReal dark chocolate needs two or three ingredients, max - organic cacao, maybe sugar, maybe lecithin. That's it.\n\nA longer ingredient list, in his view, means it isn't really dark chocolate anymore - it's candy wearing a health label.\n\nHis other tell: the darker and more bitter it is, the higher the cacao, and the better it is for you.\n\nHow many ingredients does your bar actually have?\n\n#kevintrudeau #darkchocolate #ingredients #labelreading #realfood #healthtips"
+    },
+    {
+      "slug": "WHY-YOUR-BREAD-NEVER-GOES-STALE",
+      "in": 1327.0,
+      "out": 1368.0,
+      "start_words": "If you take real",
+      "end_words": "they're poisons",
+      "hook": [
+        "Why your bread",
+        "never goes stale"
+      ],
+      "send": "A home baker sends it to a friend who buys grocery-store bread, mild anxiety.",
+      "caption": "Kevin Trudeau's test for real bread: leave it out overnight.\n\nIn France or Italy, a baker makes the loaf that morning, and by the next day it's hard as a rock - nothing in it to keep it soft.\n\nA loaf in America, he points out, can stay soft for a week without going moldy. Those extras don't even have to be listed on the label. They're called dough conditioners.\n\nTry it with your own loaf: how long before it goes hard?\n\n#kevintrudeau #bread #ingredients #labelreading #realfood #foodfacts"
+    },
+    {
+      "slug": "WHAT-NO-MSG-ADDED-REALLY-MEANS",
+      "in": 1449.0,
+      "out": 1496.0,
+      "start_words": "Next monosodium glutamate MSG",
+      "end_words": "it's called an excitotoxin",
+      "hook": [
+        "What your label",
+        "hides about MSG"
+      ],
+      "send": "A parent sends it to a friend who reads 'no MSG added' as safe, mild anger.",
+      "caption": "Kevin Trudeau's warning about a label trick: \"no MSG added.\"\n\nHe says that phrase almost guarantees MSG is in there, just not listed as MSG. Look for \"hydrolyzed vegetable protein\" instead - a natural source of the same compound, made through ultra-processing.\n\nHe calls it an excitotoxin, and says it's why so many packaged foods leave people hungry again within the hour.\n\nNext time a label brags \"no MSG added,\" turn it over and read the rest.\n\nWhat's hiding behind that claim on your shelf?\n\n#kevintrudeau #msg #labelreading #ingredients #foodfacts #healthtips"
+    },
+    {
+      "slug": "WHY-YOUR-FRIES-USE-BAD-OIL",
+      "in": 1148.0,
+      "out": 1198.0,
+      "start_words": "If you're going to",
+      "end_words": "really really bad for you",
+      "hook": [
+        "Why your fries",
+        "use bad oil"
+      ],
+      "send": "A dad sends it to a friend who deep-fries at home, mild anger at the oil industry.",
+      "caption": "Kevin Trudeau's history lesson on french fries: McDonald's once cooked them in beef fat.\n\nHe says that's why they tasted the way people still remember - and when the oil changed, the company had to add chemicals just to bring some flavor back.\n\nHis bigger point is the oil, not the frying: a rancid soybean or trans-fat oil is the real problem in most fried food, at a restaurant or from a bag of chips.\n\nHis fix at home: beef lard from grass-fed cows, or duck fat.\n\nWhat oil is your favorite fried food cooked in?\n\n#kevintrudeau #friedfood #cookingoil #labelreading #realfood #healthtips"
+    },
+    {
+      "slug": "WHY-SOY-RAISES-YOUR-ESTROGEN",
+      "in": 929.0,
+      "out": 975.0,
+      "start_words": "Almost all soy is",
+      "end_words": "and ideally from Japan",
+      "hook": [
+        "Why soy raises",
+        "your estrogen"
+      ],
+      "send": "A wife sends it to her husband who drinks soy protein shakes, mild alarm.",
+      "caption": "Kevin Trudeau's claim about soy: it quietly works against men's hormones.\n\nHe says when men eat soy regularly, testosterone drops while estrogen rises - and soy hides in more products than most people realize, especially as \"soy oil\" in salad dressings and anything canned or boxed.\n\nHis one exception: organic, traditionally fermented tofu, ideally from Japan.\n\nEverywhere else, his view is simple - read the ingredients, and if soy is hiding in there, skip it.\n\nHave you checked your own pantry for soy oil?\n\n#kevintrudeau #soy #hormones #labelreading #ingredients #healthtips"
+    },
+    {
+      "slug": "WHAT-YOUR-SWEETENER-DOES-TO-HORMONES",
+      "in": 1512.0,
+      "out": 1552.0,
+      "start_words": "Next artificial sweeteners",
+      "end_words": "going to increase",
+      "hook": [
+        "What your sweetener",
+        "does to hormones"
+      ],
+      "send": "A friend sends it to someone who swapped sugar for diet soda, mild anger.",
+      "caption": "Kevin Trudeau's split on sweeteners: one kind is fine, the other isn't.\n\nOrganic cane sugar, in his view, was never the problem. What he warns against are the substitutes people switched to - aspartame (sold as NutraSweet), sucralose and xylitol.\n\nHe says they raise appetite instead of curbing it, and throw hormones off balance instead of protecting them.\n\nHis rule: a label leaning on an artificial sweetener instead of real sugar isn't the healthy swap it was sold as.\n\nWhich one is in your coffee or soda right now?\n\n#kevintrudeau #sweeteners #aspartame #labelreading #ingredients #healthtips"
+    }
+  ]
+}
