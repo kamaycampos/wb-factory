@@ -1,26 +1,36 @@
 {
- "at": "2026-11-19T14:21",
+ "at": "2026-11-19T20:02",
  "account": "wb_organics",
  "profile": {
+  "follower_count": 82,
   "following_count": 3,
-  "likes_count": 835,
-  "video_count": 72,
-  "follower_count": 82
+  "likes_count": 843,
+  "video_count": 73
  },
  "videos": {
+  "KT_PILLFACTSO/01_WHY-YOUR-DIET-SHOULD-CHANGE-DAILY_56s.mp4": {
+   "id": "7709961368639638814",
+   "view_count": 47,
+   "like_count": 1,
+   "comment_count": 1,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7709961368639638814?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 55,
+   "posted": "2026-11-19T19:07"
+  },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 376,
-   "like_count": 35,
+   "view_count": 407,
+   "like_count": 39,
    "comment_count": 0,
-   "share_count": 7,
+   "share_count": 9,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7709722250802449677?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 56,
    "posted": "2026-11-19T03:40"
   },
   "KT_IMMUNEFACTSW/01_THE-325-ENZYMES-YOUR-BODY-MAKES_51s.mp4": {
    "id": "7709659205476683022",
-   "view_count": 284,
+   "view_count": 292,
    "like_count": 14,
    "comment_count": 0,
    "share_count": 1,
@@ -40,8 +50,8 @@
   },
   "KT_FASTRESET/01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4": {
    "id": "7709535630606355725",
-   "view_count": 287,
-   "like_count": 15,
+   "view_count": 290,
+   "like_count": 16,
    "comment_count": 0,
    "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7709535630606355725?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -50,7 +60,7 @@
   },
   "KT_SLEEPFILEWO/02_THE-CHEMICALS-IN-YOUR-LAUNDRY-SOAP_56s.mp4": {
    "id": "7709335804014775566",
-   "view_count": 311,
+   "view_count": 315,
    "like_count": 14,
    "comment_count": 0,
    "share_count": 1,
@@ -60,7 +70,7 @@
   },
   "KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4": {
    "id": "7709150767751482638",
-   "view_count": 307,
+   "view_count": 308,
    "like_count": 15,
    "comment_count": 0,
    "share_count": 5,
@@ -70,7 +80,7 @@
   },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 365,
+   "view_count": 369,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 7,
@@ -580,10 +590,10 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2543,
-   "like_count": 75,
+   "view_count": 2564,
+   "like_count": 77,
    "comment_count": 12,
-   "share_count": 28,
+   "share_count": 29,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 112,
    "posted": "2026-10-22T00:44"
