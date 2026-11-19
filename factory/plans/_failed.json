@@ -2969,6 +2969,42 @@
     "What touches skin",
     "enters your blood"
    ]
+  },
+  "ep_v5vyhjt/WHY-YOUR-BREAD-NEVER-GOES-STALE": {
+   "plan": "ep_v5vyhjt",
+   "source": "v5vyhjt.mp4",
+   "brand": "KT_FOODFILE",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHY-YOUR-BREAD-NEVER-GOES-STALE_40s.mp4: ends off the planned words: plan ends 'they're poisons', clip ends 'ingredients that listed on the label'"
+   ],
+   "slug": "WHY-YOUR-BREAD-NEVER-GOES-STALE",
+   "in": 1327.0,
+   "out": 1368.0,
+   "start_words": "If you take real",
+   "end_words": "they're poisons",
+   "hook": [
+    "Why your bread",
+    "never goes stale"
+   ]
+  },
+  "ep_v5vyhjt/WHY-YOUR-FRIES-USE-BAD-OIL": {
+   "plan": "ep_v5vyhjt",
+   "source": "v5vyhjt.mp4",
+   "brand": "KT_FOODFILE",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-FRIES-USE-BAD-OIL_50s.mp4` - opens mid-sentence on \"process.\""
+   ],
+   "slug": "WHY-YOUR-FRIES-USE-BAD-OIL",
+   "in": 1148.0,
+   "out": 1198.0,
+   "start_words": "If you're going to",
+   "end_words": "really really bad for you",
+   "hook": [
+    "Why your fries",
+    "use bad oil"
+   ]
   }
  },
  "attempts": {
