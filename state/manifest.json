@@ -2778,7 +2778,11 @@
    "bytes": 38812893,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-21T08:05",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_FOODFILE/01_WHY-YOUR-CHOCOLATE-NEEDS-2-INGREDIENTS_49s.mp4",
@@ -2787,7 +2791,11 @@
    "bytes": 44325239,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-24T07:33",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 5,
+   "cta_kind": "question"
   },
   {
    "file": "KT_FOODFILE/02_WHAT-NO-MSG-ADDED-REALLY-MEANS_47s.mp4",
@@ -2796,7 +2804,11 @@
    "bytes": 39485651,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-23T08:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 4,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FOODFILE/02_WHAT-YOUR-SWEETENER-DOES-TO-HORMONES_40s.mp4",
@@ -2805,7 +2817,11 @@
    "bytes": 33761836,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-19T07:34",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_PUREWATCH/01_WHATS-REALLY-IN-YOUR-GUMMY_49s.mp4",
@@ -2814,7 +2830,11 @@
    "bytes": 46238477,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-20T07:54",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4",
@@ -2823,7 +2843,11 @@
    "bytes": 66614517,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-22T08:33",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   }
  ]
 }
