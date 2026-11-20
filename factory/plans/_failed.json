@@ -3005,6 +3005,60 @@
     "Why your fries",
     "use bad oil"
    ]
+  },
+  "ep_v5i1vo4/WHAT-MSG-DOES-TO-YOUR-APPETITE": {
+   "plan": "ep_v5i1vo4",
+   "source": "v5i1vo4.mp4",
+   "brand": "KT_LABELWATCH",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHAT-MSG-DOES-TO-YOUR-APPETITE_50s.mp4` - opens mid-sentence on \"sodium\""
+   ],
+   "slug": "WHAT-MSG-DOES-TO-YOUR-APPETITE",
+   "in": 5288.6,
+   "out": 5343.98,
+   "start_words": "monosodium glutamate also known",
+   "end_words": "buy anything from that company again",
+   "hook": [
+    "What hides inside",
+    "your favorite chips"
+   ]
+  },
+  "ep_v5i1vo4/WHY-YOUR-BREAD-IS-FERMENTED-FOR-8-HOURS": {
+   "plan": "ep_v5i1vo4",
+   "source": "v5i1vo4.mp4",
+   "brand": "KT_LABELWATCH",
+   "tries": 1,
+   "why": [
+    "drop KT_LABELWATCH/WHY-YOUR-BREAD-IS-FERMENTED-FOR-8-HOURS: ending - cuts mid-sentence"
+   ],
+   "slug": "WHY-YOUR-BREAD-IS-FERMENTED-FOR-8-HOURS",
+   "in": 5395.1,
+   "out": 5497.54,
+   "start_words": "You don't want hard",
+   "end_words": "fermented for 48 hours",
+   "hook": [
+    "Your wheat: 8",
+    "hours, not 48"
+   ]
+  },
+  "ep_v5i1vo4/WHY-SOYBEAN-OIL-LOWERS-YOUR-TESTOSTERONE": {
+   "plan": "ep_v5i1vo4",
+   "source": "v5i1vo4.mp4",
+   "brand": "KT_LABELWATCH",
+   "tries": 1,
+   "why": [
+    "drop KT_LABELWATCH/WHY-SOYBEAN-OIL-LOWERS-YOUR-TESTOSTERONE: hook - 798px wide at 44px - over the 780px safe zone, will be cut off on a phone"
+   ],
+   "slug": "WHY-SOYBEAN-OIL-LOWERS-YOUR-TESTOSTERONE",
+   "in": 5557.56,
+   "out": 5606.06,
+   "start_words": "Almost all soy now",
+   "end_words": "to make a vinegarette",
+   "hook": [
+    "Why soy is",
+    "lowering your testosterone"
+   ]
   }
  },
  "attempts": {
