@@ -2834,13 +2834,27 @@
    "caption": "Kevin Trudeau's label rule: look for 'hydrogenated oil' or 'partially hydrogenated oil' on anything in your pantry - salad dressing, peanut butter, packaged cookies.\n\nHis view is that it scars your arteries from the inside, the same spot your body keeps having to patch. Depending on where you live, the label may also list the exact grams of trans fat sitting in that one product.\n\nHis fix is simple: read the label before it goes in the cart, not after.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #labelreading #hearthealth #healthfacts #cholesterol #naturalhealth",
    "hook": "2 words that scar your heart",
    "bytes": 45935252,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T17:10",
    "cta_keyword": "HEALTH",
    "cta_variant": 2,
-   "cta_kind": "question"
+   "cta_kind": "question",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/4653565181456136/",
+    "instagram": "https://www.instagram.com/reel/Df-uHaQFXW4/",
+    "youtube": "https://youtube.com/shorts/bJrWtFln3rM"
+   },
+   "caption_at_post": "Kevin Trudeau's label rule: look for 'hydrogenated oil' or 'partially hydrogenated oil' on anything in your pantry - salad dressing, peanut butter, packaged cookies.\n\nHis view is that it scars your arteries from the inside, the same spot your body keeps having to patch. Depending on where you live, the label may also list the exact grams of trans fat sitting in that one product.\n\nHis fix is simple: read the label before it goes in the cart, not after.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #labelreading #hearthealth #healthfacts #cholesterol #naturalhealth",
+   "posted_at": "2026-11-20T17:26"
   },
   {
    "file": "KT_HEARTFACTS/02_WHATS-HIDING-IN-YOUR-MILK_51s.mp4",
