@@ -1,18 +1,18 @@
 {
- "at": "2026-11-19T20:57",
+ "at": "2026-11-20T01:42",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 82,
-  "following_count": 3,
   "likes_count": 843,
-  "video_count": 73
+  "video_count": 74,
+  "follower_count": 83,
+  "following_count": 4
  },
  "videos": {
-  "KT_PILLFACTSO/01_WHY-YOUR-DIET-SHOULD-CHANGE-DAILY_56s.mp4": {
+  "KT_BREATHRULEO/02_DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY_55s.mp4": {
    "id": "7709961368639638814",
-   "view_count": 47,
+   "view_count": 50,
    "like_count": 1,
-   "comment_count": 1,
+   "comment_count": 2,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7709961368639638814?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 55,
@@ -20,7 +20,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 412,
+   "view_count": 422,
    "like_count": 39,
    "comment_count": 0,
    "share_count": 9,
@@ -50,7 +50,7 @@
   },
   "KT_FASTRESET/01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4": {
    "id": "7709535630606355725",
-   "view_count": 291,
+   "view_count": 292,
    "like_count": 16,
    "comment_count": 0,
    "share_count": 1,
@@ -160,7 +160,7 @@
   },
   "KT_BREATHFIXR2/01_GRANDMASTER-TAIS-BREATHING-FIX_92s.mp4": {
    "id": "7707787554484997389",
-   "view_count": 223,
+   "view_count": 224,
    "like_count": 8,
    "comment_count": 0,
    "share_count": 2,
@@ -590,7 +590,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2565,
+   "view_count": 2578,
    "like_count": 77,
    "comment_count": 12,
    "share_count": 29,
