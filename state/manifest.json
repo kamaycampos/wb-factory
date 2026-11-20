@@ -2926,7 +2926,11 @@
    "bytes": 42936488,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-25T10:53",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_LABELWATCH/01_WHAT-YOUR-BEEF-WAS-REALLY-FED_56s.mp4",
@@ -2936,7 +2940,11 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "endcard": "ebook"
+   "endcard": "ebook",
+   "scheduled_at": "2026-11-26T08:04",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_LABELWATCH/01_WHY-YOUR-MILK-IS-HEATED-TO-180_80s.mp4",
@@ -2945,7 +2953,11 @@
    "bytes": 69480946,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-26T11:42",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_LABELWATCH/02_WHY-HYDROGENATED-OIL-HURTS-YOUR-HEART_48s.mp4",
@@ -2954,7 +2966,11 @@
    "bytes": 42621646,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-25T08:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   }
  ]
 }
