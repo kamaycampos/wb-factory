@@ -1,16 +1,16 @@
 {
- "at": "2026-11-20T18:43",
+ "at": "2026-11-20T20:42",
  "account": "wb_organics",
  "profile": {
+  "follower_count": 85,
   "following_count": 4,
   "likes_count": 849,
-  "video_count": 75,
-  "follower_count": 85
+  "video_count": 75
  },
  "videos": {
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 381,
+   "view_count": 383,
    "like_count": 3,
    "comment_count": 0,
    "share_count": 1,
@@ -30,7 +30,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 461,
+   "view_count": 462,
    "like_count": 40,
    "comment_count": 0,
    "share_count": 9,
@@ -600,7 +600,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2643,
+   "view_count": 2648,
    "like_count": 79,
    "comment_count": 14,
    "share_count": 31,
