@@ -1,17 +1,17 @@
 {
- "at": "2026-11-20T07:43",
+ "at": "2026-11-20T13:03",
  "account": "wb_organics",
  "profile": {
+  "video_count": 75,
   "follower_count": 85,
   "following_count": 4,
-  "likes_count": 847,
-  "video_count": 75
+  "likes_count": 849
  },
  "videos": {
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 303,
-   "like_count": 2,
+   "view_count": 333,
+   "like_count": 3,
    "comment_count": 0,
    "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7710092417076137247?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -30,7 +30,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 440,
+   "view_count": 449,
    "like_count": 40,
    "comment_count": 0,
    "share_count": 9,
@@ -40,7 +40,7 @@
   },
   "KT_IMMUNEFACTSW/01_THE-325-ENZYMES-YOUR-BODY-MAKES_51s.mp4": {
    "id": "7709659205476683022",
-   "view_count": 298,
+   "view_count": 300,
    "like_count": 14,
    "comment_count": 0,
    "share_count": 1,
@@ -70,7 +70,7 @@
   },
   "KT_SLEEPFILEWO/02_THE-CHEMICALS-IN-YOUR-LAUNDRY-SOAP_56s.mp4": {
    "id": "7709335804014775566",
-   "view_count": 318,
+   "view_count": 321,
    "like_count": 14,
    "comment_count": 0,
    "share_count": 1,
@@ -90,7 +90,7 @@
   },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 369,
+   "view_count": 370,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 7,
@@ -290,7 +290,7 @@
   },
   "KT_FASTTRUTH/01_THE-NUMBER-ONE-KILLER-IN-AMERICA_65s.mp4": {
    "id": "7706310300496104734",
-   "view_count": 303,
+   "view_count": 304,
    "like_count": 11,
    "comment_count": 0,
    "share_count": 10,
@@ -600,8 +600,8 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2598,
-   "like_count": 78,
+   "view_count": 2609,
+   "like_count": 79,
    "comment_count": 13,
    "share_count": 30,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
