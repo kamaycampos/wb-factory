@@ -1,18 +1,18 @@
 {
- "at": "2026-11-21T11:44",
+ "at": "2026-11-21T17:24",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 85,
-  "following_count": 4,
   "likes_count": 859,
-  "video_count": 76
+  "video_count": 76,
+  "follower_count": 86,
+  "following_count": 4
  },
  "videos": {
   "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4": {
    "id": "7710459896222780686",
-   "view_count": 150,
+   "view_count": 165,
    "like_count": 4,
-   "comment_count": 1,
+   "comment_count": 2,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7710459896222780686?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 68,
@@ -20,7 +20,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 402,
+   "view_count": 406,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -40,7 +40,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 474,
+   "view_count": 475,
    "like_count": 40,
    "comment_count": 0,
    "share_count": 10,
@@ -70,7 +70,7 @@
   },
   "KT_FASTRESET/01_HOW-TO-BREAK-A-FAST-RIGHT_102s.mp4": {
    "id": "7709535630606355725",
-   "view_count": 298,
+   "view_count": 299,
    "like_count": 16,
    "comment_count": 0,
    "share_count": 1,
@@ -140,7 +140,7 @@
   },
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
    "id": "7708530339861269790",
-   "view_count": 346,
+   "view_count": 347,
    "like_count": 18,
    "comment_count": 0,
    "share_count": 1,
@@ -610,10 +610,10 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2691,
+   "view_count": 2699,
    "like_count": 83,
    "comment_count": 14,
-   "share_count": 32,
+   "share_count": 33,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 112,
    "posted": "2026-10-22T00:44"
