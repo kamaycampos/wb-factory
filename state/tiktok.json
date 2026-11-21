@@ -1,16 +1,16 @@
 {
- "at": "2026-11-21T06:03",
+ "at": "2026-11-21T07:40",
  "account": "wb_organics",
  "profile": {
+  "likes_count": 856,
+  "video_count": 76,
   "follower_count": 85,
-  "following_count": 4,
-  "likes_count": 855,
-  "video_count": 76
+  "following_count": 4
  },
  "videos": {
   "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4": {
    "id": "7710459896222780686",
-   "view_count": 139,
+   "view_count": 144,
    "like_count": 3,
    "comment_count": 1,
    "share_count": 0,
@@ -20,7 +20,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 398,
+   "view_count": 399,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -40,7 +40,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 472,
+   "view_count": 474,
    "like_count": 40,
    "comment_count": 0,
    "share_count": 10,
@@ -610,8 +610,8 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2688,
-   "like_count": 81,
+   "view_count": 2690,
+   "like_count": 82,
    "comment_count": 14,
    "share_count": 32,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
