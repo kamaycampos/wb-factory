@@ -1,16 +1,16 @@
 {
- "at": "2026-11-21T17:24",
+ "at": "2026-11-21T19:45",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 859,
-  "video_count": 76,
   "follower_count": 86,
-  "following_count": 4
+  "following_count": 4,
+  "likes_count": 859,
+  "video_count": 76
  },
  "videos": {
   "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4": {
    "id": "7710459896222780686",
-   "view_count": 165,
+   "view_count": 175,
    "like_count": 4,
    "comment_count": 2,
    "share_count": 0,
@@ -20,7 +20,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 406,
+   "view_count": 409,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -300,7 +300,7 @@
   },
   "KT_FASTTRUTH/01_THE-NUMBER-ONE-KILLER-IN-AMERICA_65s.mp4": {
    "id": "7706310300496104734",
-   "view_count": 304,
+   "view_count": 305,
    "like_count": 11,
    "comment_count": 0,
    "share_count": 10,
@@ -420,7 +420,7 @@
   },
   "KT_BODYLOAD/02_WHY-YOUR-CHOLESTEROL-NUMBER-LIES_61s.mp4": {
    "id": "7704662294655012127",
-   "view_count": 239,
+   "view_count": 240,
    "like_count": 2,
    "comment_count": 3,
    "share_count": 0,
@@ -570,7 +570,7 @@
   },
   "KT_TOXINWATCH/02_WHY-YOUR-COOKING-OIL-BACKFIRES_121s.mp4": {
    "id": "7701527479600581901",
-   "view_count": 205,
+   "view_count": 206,
    "like_count": 9,
    "comment_count": 0,
    "share_count": 5,
@@ -610,7 +610,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2699,
+   "view_count": 2700,
    "like_count": 83,
    "comment_count": 14,
    "share_count": 33,
