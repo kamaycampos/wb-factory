@@ -1,17 +1,17 @@
 {
- "at": "2026-11-21T07:40",
+ "at": "2026-11-21T11:44",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 856,
-  "video_count": 76,
   "follower_count": 85,
-  "following_count": 4
+  "following_count": 4,
+  "likes_count": 859,
+  "video_count": 76
  },
  "videos": {
   "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4": {
    "id": "7710459896222780686",
-   "view_count": 144,
-   "like_count": 3,
+   "view_count": 150,
+   "like_count": 4,
    "comment_count": 1,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7710459896222780686?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -20,7 +20,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 399,
+   "view_count": 402,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -450,8 +450,8 @@
   },
   "KT_BODYLOAD/02_WHY-DETOX-TAKES-YEARS-NOT-DAYS_44s.mp4": {
    "id": "7704285340235812110",
-   "view_count": 319,
-   "like_count": 4,
+   "view_count": 320,
+   "like_count": 5,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7704285340235812110?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -610,8 +610,8 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2690,
-   "like_count": 82,
+   "view_count": 2691,
+   "like_count": 83,
    "comment_count": 14,
    "share_count": 32,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7699286475640179982?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
