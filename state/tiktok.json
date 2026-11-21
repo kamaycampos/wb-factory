@@ -1,16 +1,26 @@
 {
- "at": "2026-11-21T19:45",
+ "at": "2026-11-21T23:04",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 86,
+  "follower_count": 87,
   "following_count": 4,
-  "likes_count": 859,
-  "video_count": 76
+  "likes_count": 861,
+  "video_count": 77
  },
  "videos": {
+  "KT_FASTRESET/02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4": {
+   "id": "7710742872928046349",
+   "view_count": 38,
+   "like_count": 2,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7710742872928046349?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 108,
+   "posted": "2026-11-21T21:40"
+  },
   "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4": {
    "id": "7710459896222780686",
-   "view_count": 175,
+   "view_count": 178,
    "like_count": 4,
    "comment_count": 2,
    "share_count": 0,
@@ -20,7 +30,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 409,
+   "view_count": 412,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -610,7 +620,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2700,
+   "view_count": 2701,
    "like_count": 83,
    "comment_count": 14,
    "share_count": 33,
