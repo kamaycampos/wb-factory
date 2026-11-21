@@ -3049,7 +3049,11 @@
    "bytes": 85850155,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-26T17:44",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HORMONEFACTS/02_WHY-GRASS-FED-BEEF-RAISES-TESTOSTERONE_100s.mp4",
@@ -3058,7 +3062,11 @@
    "bytes": 88434239,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-27T12:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HORMONEFACTS/02_WHY-YOUR-LABEL-LIES-ABOUT-NATURAL_54s.mp4",
@@ -3067,7 +3075,11 @@
    "bytes": 47320686,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-26T14:36",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_LABELWATCHR2/01_WHAT-MSG-DOES-TO-YOUR-APPETITE_41s.mp4",
@@ -3076,7 +3088,11 @@
    "bytes": 35728035,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-27T07:42",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_LABELWATCHR2/01_WHY-SOYBEAN-OIL-LOWERS-YOUR-TESTOSTERONE_52s.mp4",
@@ -3085,7 +3101,11 @@
    "bytes": 45660529,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-27T14:47",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 4,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_LABELWATCHR2/02_WHY-YOUR-BREAD-IS-FERMENTED-FOR-8-HOURS_53s.mp4",
@@ -3094,7 +3114,11 @@
    "bytes": 46179578,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-27T17:16",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 5,
+   "cta_kind": "question"
   }
  ]
 }
