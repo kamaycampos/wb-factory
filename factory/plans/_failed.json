@@ -3059,6 +3059,42 @@
     "Why soy is",
     "lowering your testosterone"
    ]
+  },
+  "ep_v56da5e/WHY-YOUR-WATER-HOLDS-DRUG-TRACES": {
+   "plan": "ep_v56da5e",
+   "source": "v56da5e.mp4",
+   "brand": "KT_HORMONEFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_WHY-YOUR-WATER-HOLDS-DRUG-TRACES_44s.mp4` - opens mid-sentence on \"water supplies around\""
+   ],
+   "slug": "WHY-YOUR-WATER-HOLDS-DRUG-TRACES",
+   "in": 1275.18,
+   "out": 1318.68,
+   "start_words": "Water supplies around the",
+   "end_words": "these reduce testosterone",
+   "hook": [
+    "What your water",
+    "actually holds"
+   ]
+  },
+  "ep_v56da5e/9-LABEL-WORDS-THAT-MEAN-THROW-IT-AWAY": {
+   "plan": "ep_v56da5e",
+   "source": "v56da5e.mp4",
+   "brand": "KT_HORMONEFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_9-LABEL-WORDS-THAT-MEAN-THROW-IT-AWAY_57s.mp4` - sentence starts with no stop: \"it And\""
+   ],
+   "slug": "9-LABEL-WORDS-THAT-MEAN-THROW-IT-AWAY",
+   "in": 1749.92,
+   "out": 1813.4,
+   "start_words": "Soy if it has",
+   "end_words": "it's a product from Italy",
+   "hook": [
+    "What your label",
+    "hides from you"
+   ]
   }
  },
  "attempts": {
