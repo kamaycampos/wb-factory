@@ -2610,11 +2610,25 @@
    "caption": "Kevin Trudeau's guest Cindy Sellers named a mistake she sees constantly: people take probiotics while they're still on antibiotics, trying to protect their gut.\n\nIt backfires. The antibiotic can't tell the difference - it takes out the good bacteria you just added right along with the infection it's supposed to be fighting.\n\nHer advice: finish the antibiotic first, nothing else, then rebuild with yogurt, sauerkraut or a probiotic for a couple of weeks after, until your bowel flora is back.\n\nTiming the flora, not skipping it, is the part nobody explains.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #guthealth #probiotics #wellness #healthfacts #nutritiontips",
    "hook": "What antibiotics destroy in your gut",
    "bytes": 84611139,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - the free-ebook end card (state/tiktok_avoid.json)"
+   },
    "media_tag": "media",
    "endcard": "ebook",
-   "scheduled_at": "2026-11-22T12:25"
+   "scheduled_at": "2026-11-22T12:25",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/2195001317719152/",
+    "instagram": "https://www.instagram.com/reel/DgDVudDgJ_a/",
+    "youtube": "https://youtube.com/shorts/MhvtWn5MX0I"
+   },
+   "caption_at_post": "Kevin Trudeau's guest Cindy Sellers named a mistake she sees constantly: people take probiotics while they're still on antibiotics, trying to protect their gut.\n\nIt backfires. The antibiotic can't tell the difference - it takes out the good bacteria you just added right along with the infection it's supposed to be fighting.\n\nHer advice: finish the antibiotic first, nothing else, then rebuild with yogurt, sauerkraut or a probiotic for a couple of weeks after, until your bowel flora is back.\n\nTiming the flora, not skipping it, is the part nobody explains.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #guthealth #probiotics #wellness #healthfacts #nutritiontips",
+   "posted_at": "2026-11-22T12:28"
   },
   {
    "file": "KT_IMMUNEFACTSWO/01_8-OUNCES-OF-SODA-WEAKENS-YOU_42s.mp4",
