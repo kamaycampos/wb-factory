@@ -2608,11 +2608,25 @@
    "caption": "Kevin Trudeau's guest, health educator Cindy Sellers, pointed to a study most soda drinkers have never heard of: eight ounces of anything carbonated - even plain sparkling water - can suppress the immune system for up to twelve hours.\n\nNo sugar needed, no extra additives. The bubbles alone are enough to leave your body more open to whatever is going around that day.\n\nReach for something carbonated every day, and that's twelve hours, every single day.\n\nWhat's actually in your glass right now?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #immunesystem #healthfacts #wellness #nutritiontips #realfoodfacts",
    "hook": "8 ounces of soda weakens you",
    "bytes": 39266102,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - the free-ebook end card (state/tiktok_avoid.json)"
+   },
    "media_tag": "media",
    "endcard": "ebook",
-   "scheduled_at": "2026-11-22T08:33"
+   "scheduled_at": "2026-11-22T08:33",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1080196441731475/",
+    "instagram": "https://www.instagram.com/reel/DgC8dNCiPNQ/",
+    "youtube": "https://youtube.com/shorts/Xmb00BTDh6I"
+   },
+   "caption_at_post": "Kevin Trudeau's guest, health educator Cindy Sellers, pointed to a study most soda drinkers have never heard of: eight ounces of anything carbonated - even plain sparkling water - can suppress the immune system for up to twelve hours.\n\nNo sugar needed, no extra additives. The bubbles alone are enough to leave your body more open to whatever is going around that day.\n\nReach for something carbonated every day, and that's twelve hours, every single day.\n\nWhat's actually in your glass right now?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #immunesystem #healthfacts #wellness #nutritiontips #realfoodfacts",
+   "posted_at": "2026-11-22T08:47"
   },
   {
    "file": "KT_PILLFACTSO/01_WHY-YOUR-DIET-SHOULD-CHANGE-DAILY_56s.mp4",
