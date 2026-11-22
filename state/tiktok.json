@@ -1,17 +1,17 @@
 {
- "at": "2026-11-22T19:57",
+ "at": "2026-11-22T21:46",
  "account": "wb_organics",
  "profile": {
-  "video_count": 80,
   "follower_count": 88,
   "following_count": 4,
-  "likes_count": 874
+  "likes_count": 877,
+  "video_count": 80
  },
  "videos": {
   "KT_PRESSUREFIXR2/01_THE-LIGHT-THATS-RUINING-YOUR-SLEEP_51s.mp4": {
    "id": "7711043453781691678",
-   "view_count": 118,
-   "like_count": 3,
+   "view_count": 133,
+   "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711043453781691678?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -20,8 +20,8 @@
   },
   "KT_IMMUNEFACTSWO/01_8-OUNCES-OF-SODA-WEAKENS-YOU_42s.mp4": {
    "id": "7711004630833990942",
-   "view_count": 182,
-   "like_count": 6,
+   "view_count": 214,
+   "like_count": 8,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711004630833990942?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -390,7 +390,7 @@
   },
   "KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4": {
    "id": "7705610229148290335",
-   "view_count": 339,
+   "view_count": 340,
    "like_count": 8,
    "comment_count": 0,
    "share_count": 1,
@@ -430,7 +430,7 @@
   },
   "KT_HORMONEFIX/01_YOUR-TESTOSTERONE-BOOSTER-IS-MARKETING_116s.mp4": {
    "id": "7704873565727821069",
-   "view_count": 169,
+   "view_count": 170,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 1,
