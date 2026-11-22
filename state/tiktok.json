@@ -1,11 +1,11 @@
 {
- "at": "2026-11-22T07:25",
+ "at": "2026-11-22T10:25",
  "account": "wb_organics",
  "profile": {
+  "follower_count": 88,
   "following_count": 4,
   "likes_count": 864,
-  "video_count": 78,
-  "follower_count": 88
+  "video_count": 78
  },
  "videos": {
   "KT_FOODSCAM/02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4": {
@@ -660,7 +660,7 @@
   },
   "KT_BLACKPLASTICR2/01_WHATS-LEACHING-INTO-YOUR-FOOD_68s.mp4": {
    "id": "7698344920079289631",
-   "view_count": 267,
+   "view_count": 268,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 3,
