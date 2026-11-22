@@ -1,17 +1,27 @@
 {
- "at": "2026-11-22T16:05",
+ "at": "2026-11-22T19:57",
  "account": "wb_organics",
  "profile": {
+  "video_count": 80,
   "follower_count": 88,
   "following_count": 4,
-  "likes_count": 865,
-  "video_count": 79
+  "likes_count": 874
  },
  "videos": {
+  "KT_PRESSUREFIXR2/01_THE-LIGHT-THATS-RUINING-YOUR-SLEEP_51s.mp4": {
+   "id": "7711043453781691678",
+   "view_count": 118,
+   "like_count": 3,
+   "comment_count": 0,
+   "share_count": 1,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7711043453781691678?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 52,
+   "posted": "2026-11-22T17:07"
+  },
   "KT_IMMUNEFACTSWO/01_8-OUNCES-OF-SODA-WEAKENS-YOU_42s.mp4": {
    "id": "7711004630833990942",
-   "view_count": 99,
-   "like_count": 0,
+   "view_count": 182,
+   "like_count": 6,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711004630833990942?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -30,7 +40,7 @@
   },
   "KT_FASTRESET/02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4": {
    "id": "7710742872928046349",
-   "view_count": 40,
+   "view_count": 41,
    "like_count": 2,
    "comment_count": 0,
    "share_count": 0,
