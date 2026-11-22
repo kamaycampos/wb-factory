@@ -1,0 +1,47 @@
+{
+ "source": "v4wdtni.mp4",
+ "brand": "KT_VITAMINFACT",
+ "test": false,
+ "note": "22 Nov 2026 - SECOND PASS on 'Your Nutritional Supplements Are Killing You! | The Kevin Trudeau Show' (Rumble v4wdtni). New arcs from unused minutes, WB health lane. Weekly agent.",
+ "clips": [
+  {
+   "slug": "WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C",
+   "in": 609,
+   "out": 709,
+   "start_words": "Back in the day",
+   "end_words": "Ascorbic acid is not vitamin C",
+   "hook": ["Why scurvy exposed", "your vitamin C"],
+   "send": "A mom sends this to her sister who swears by her gummy vitamins - anger at realizing the \"vitamin C\" on the label may not act like vitamin C at all.",
+   "caption": "Kevin Trudeau told a story about scurvy on his show: sailors on long voyages got it, and real citrus (oranges, lemons, limes) made it go away every time, no exceptions.\n\nHis point: ascorbic acid, the \"vitamin C\" on most supplement labels, isn't the same thing. In nature, vitamin C never travels alone - it's bonded to bioflavonoids and other cofactors a lab-made version leaves out.\n\nHis test: give someone with scurvy pure ascorbic acid instead of real citrus, and it doesn't work the same way.\n\nNext time you flip a label, does it just say \"vitamin C,\" or does it actually name the source?\n\n#kevintrudeau #vitaminc #supplementfacts #readthelabel #wholefood #healthtruth"
+  },
+  {
+   "slug": "WHY-YOUR-PILL-WONT-DISSOLVE",
+   "in": 1159,
+   "out": 1230,
+   "start_words": "You know what the number",
+   "end_words": "flushing money right down the toilet",
+   "hook": ["Why your vitamin", "won't dissolve"],
+   "trial_hooks": [
+    ["One glass test", "exposes your pill"],
+    ["Shellac coats your", "daily vitamin"],
+    ["Your pill may", "never dissolve"],
+    ["What your vitamin", "never tells you"],
+    ["A family flushed", "their vitamins away"],
+    ["Kevin Trudeau's test", "for your vitamin"],
+    ["Your vitamin is", "coated in shellac"]
+   ],
+   "send": "A friend sends this to someone who swallows a multivitamin every morning without a second thought - anxiety that their money (and the pill) is going straight through them.",
+   "caption": "Kevin Trudeau explained on his show why so many vitamin pills are coated in shellac, the same resin used on wood furniture.\n\nIt's there to help the pill survive the bottle, not to help your body absorb it. Chemical binders hold the pill's shape the same way glue does.\n\nHis simple test: drop one in a glass of water overnight. If it hasn't dissolved by morning, he says it likely didn't dissolve inside you either.\n\nHe tells of a family whose septic tank was packed with undigested pills after years of swallowing supplements whole.\n\nHave you ever tried the glass-of-water test on your own vitamins?\n\n#kevintrudeau #vitamins #supplementfacts #readthelabel #wholefood #healthtruth"
+  },
+  {
+   "slug": "THE-LABEL-TRICK-VITAMIN-MAKERS-USE",
+   "in": 2080,
+   "out": 2218,
+   "start_words": "Let's look at niacin",
+   "end_words": "never buy anything from that company ever again",
+   "hook": ["What your niacin", "label is hiding"],
+   "send": "A friend sends this to someone who takes a B-complex for energy - anger at discovering \"niacin\" on the label might be a renamed substitute.",
+   "caption": "Kevin Trudeau told a story on his show about a vitamin ingredient called niacin, and the harmless side effect some people don't like: a few minutes of flushed, hot skin.\n\nRather than keep selling real niacin, he says one company's chemists created a different substance, niacinamide, that skips the flush, then kept calling it niacin on the label.\n\nHis advice: check your own bottle. \"Niacin (as niacinamide)\" isn't the nutrient your body is asking for.\n\nWhy swap the real ingredient for one that just won't bother you?\n\n#kevintrudeau #niacin #supplementfacts #readthelabel #wholefood #healthtruth"
+  }
+ ]
+}
