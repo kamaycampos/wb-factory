@@ -3095,6 +3095,24 @@
     "What your label",
     "hides from you"
    ]
+  },
+  "ep_v4wdtni_p2/THE-LABEL-TRICK-VITAMIN-MAKERS-USE": {
+   "plan": "ep_v4wdtni_p2",
+   "source": "v4wdtni.mp4",
+   "brand": "KT_VITAMINFACT",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_THE-LABEL-TRICK-VITAMIN-MAKERS-USE_138s.mp4` - ends mid-thought on \"because\"; the spoken word was on screen in only 8 of 12 moments"
+   ],
+   "slug": "THE-LABEL-TRICK-VITAMIN-MAKERS-USE",
+   "in": 2080,
+   "out": 2218,
+   "start_words": "Let's look at niacin",
+   "end_words": "never buy anything from that company ever again",
+   "hook": [
+    "What your niacin",
+    "label is hiding"
+   ]
   }
  },
  "attempts": {
