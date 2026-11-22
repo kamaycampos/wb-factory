@@ -3168,13 +3168,27 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau compares two loaves: wheat from Italy, naturally fermented close to 48 hours, against most American and Canadian wheat, fermented for only about 8 hours.\n\nHis view: that shorter fermentation is a big reason high-gluten wheat causes so much gas, bloating and allergic reaction for so many people.\n\nHis workaround: he looks for \"product of Italy\" or \"durum wheat\" on bread and pasta labels before buying.\n\nNext time you grab a loaf, what does the label actually say?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #wheat #gluten #fermentation #readthelabel #wbdaily",
    "hook": "Your wheat: 8 hours, not 48",
    "bytes": 46179578,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T20:03",
    "cta_keyword": "HEALTH",
    "cta_variant": 5,
-   "cta_kind": "question"
+   "cta_kind": "question",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1884646995883987/",
+    "instagram": "https://www.instagram.com/reel/DgBlYzKEnuH/",
+    "youtube": "https://youtube.com/shorts/NKrZ5PjxDIc"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau compares two loaves: wheat from Italy, naturally fermented close to 48 hours, against most American and Canadian wheat, fermented for only about 8 hours.\n\nHis view: that shorter fermentation is a big reason high-gluten wheat causes so much gas, bloating and allergic reaction for so many people.\n\nHis workaround: he looks for \"product of Italy\" or \"durum wheat\" on bread and pasta labels before buying.\n\nNext time you grab a loaf, what does the label actually say?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #wheat #gluten #fermentation #readthelabel #wbdaily",
+   "posted_at": "2026-11-21T20:07"
   }
  ]
 }
