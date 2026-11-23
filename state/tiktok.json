@@ -1,27 +1,27 @@
 {
- "at": "2026-11-22T21:46",
+ "at": "2026-11-23T03:26",
  "account": "wb_organics",
  "profile": {
   "follower_count": 88,
   "following_count": 4,
-  "likes_count": 877,
-  "video_count": 80
+  "likes_count": 883,
+  "video_count": 81
  },
  "videos": {
-  "KT_PRESSUREFIXR2/01_THE-LIGHT-THATS-RUINING-YOUR-SLEEP_51s.mp4": {
+  "KT_SLEEPFILEW/02_FIVE-MINUTES-REVEALS-YOUR-SLEEP_52s.mp4": {
    "id": "7711043453781691678",
-   "view_count": 133,
-   "like_count": 4,
+   "view_count": 174,
+   "like_count": 8,
    "comment_count": 0,
-   "share_count": 1,
+   "share_count": 3,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711043453781691678?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 52,
    "posted": "2026-11-22T17:07"
   },
   "KT_IMMUNEFACTSWO/01_8-OUNCES-OF-SODA-WEAKENS-YOU_42s.mp4": {
    "id": "7711004630833990942",
-   "view_count": 214,
-   "like_count": 8,
+   "view_count": 278,
+   "like_count": 9,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711004630833990942?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -30,7 +30,7 @@
   },
   "KT_FOODSCAM/02_WHAT-ORGANIC-REALLY-MEANS-ON-A-LABEL_71s.mp4": {
    "id": "7710809928918748446",
-   "view_count": 41,
+   "view_count": 42,
    "like_count": 3,
    "comment_count": 0,
    "share_count": 0,
@@ -50,7 +50,7 @@
   },
   "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4": {
    "id": "7710459896222780686",
-   "view_count": 189,
+   "view_count": 190,
    "like_count": 5,
    "comment_count": 2,
    "share_count": 0,
@@ -60,7 +60,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 414,
+   "view_count": 417,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -140,7 +140,7 @@
   },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 370,
+   "view_count": 371,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 7,
@@ -430,7 +430,7 @@
   },
   "KT_HORMONEFIX/01_YOUR-TESTOSTERONE-BOOSTER-IS-MARKETING_116s.mp4": {
    "id": "7704873565727821069",
-   "view_count": 170,
+   "view_count": 171,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 1,
@@ -590,7 +590,7 @@
   },
   "KT_BIOHACK/01_WHY-YOUR-TESTOSTERONE-IS-DROPPING_58s.mp4": {
    "id": "7702260712034340126",
-   "view_count": 166,
+   "view_count": 167,
    "like_count": 3,
    "comment_count": 0,
    "share_count": 0,
