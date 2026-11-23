@@ -1,17 +1,27 @@
 {
- "at": "2026-11-23T14:47",
+ "at": "2026-11-23T20:27",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 89,
+  "follower_count": 91,
   "following_count": 4,
-  "likes_count": 887,
-  "video_count": 81
+  "likes_count": 890,
+  "video_count": 82
  },
  "videos": {
+  "KT_SODASCAN/02_YOUR-VEGETABLES-ARE-LOADED-WITH-PESTICIDES_59s.mp4": {
+   "id": "7711407910236032286",
+   "view_count": 32,
+   "like_count": 1,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7711407910236032286?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 59,
+   "posted": "2026-11-23T16:41"
+  },
   "KT_SLEEPFILEW/02_FIVE-MINUTES-REVEALS-YOUR-SLEEP_52s.mp4": {
    "id": "7711043453781691678",
-   "view_count": 226,
-   "like_count": 12,
+   "view_count": 243,
+   "like_count": 13,
    "comment_count": 0,
    "share_count": 3,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711043453781691678?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -40,7 +50,7 @@
   },
   "KT_FASTRESET/02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4": {
    "id": "7710742872928046349",
-   "view_count": 43,
+   "view_count": 46,
    "like_count": 2,
    "comment_count": 0,
    "share_count": 0,
@@ -130,7 +140,7 @@
   },
   "KT_SLEEPFILER2/01_WHY-YOUR-PHONE-DISRUPTS-YOUR-SLEEP_31s.mp4": {
    "id": "7709150767751482638",
-   "view_count": 313,
+   "view_count": 314,
    "like_count": 15,
    "comment_count": 0,
    "share_count": 5,
@@ -540,7 +550,7 @@
   },
   "KT_NATURALFIXR2/01_WHY-SCIENCE-CANT-FIX-YOUR-FOOD_100s.mp4": {
    "id": "7703310559554325791",
-   "view_count": 311,
+   "view_count": 312,
    "like_count": 13,
    "comment_count": 0,
    "share_count": 5,
@@ -680,7 +690,7 @@
   },
   "KT_BLACKPLASTICR2/01_WHATS-LEACHING-INTO-YOUR-FOOD_68s.mp4": {
    "id": "7698344920079289631",
-   "view_count": 268,
+   "view_count": 269,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 3,
