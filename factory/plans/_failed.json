@@ -3113,6 +3113,78 @@
     "What your niacin",
     "label is hiding"
    ]
+  },
+  "ep_v4n9vuz/WHY-MONSANTO-CORN-MAKES-YOU-FAT": {
+   "plan": "ep_v4n9vuz",
+   "source": "v4n9vuz.mp4",
+   "brand": "KT_FOODRULES",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_78s.mp4: [FAIL] 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_78s.mp4             18 captions vs the sound  median -0.00s  worst-10% 0.85s  | words captioned 99%"
+   ],
+   "slug": "WHY-MONSANTO-CORN-MAKES-YOU-FAT",
+   "in": 3480.88,
+   "out": 3561.76,
+   "start_words": "Stay away from corn",
+   "end_words": "manufactured to do",
+   "hook": [
+    "Why Monsanto corn",
+    "makes you fat"
+   ]
+  },
+  "ep_v4n9vuz/WHY-YOUR-DIET-SODA-ADDS-WEIGHT": {
+   "plan": "ep_v4n9vuz",
+   "source": "v4n9vuz.mp4",
+   "brand": "KT_FOODRULES",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_58s.mp4` - sentence starts with no stop: \"gain And\""
+   ],
+   "slug": "WHY-YOUR-DIET-SODA-ADDS-WEIGHT",
+   "in": 3697.92,
+   "out": 3765.6,
+   "start_words": "You take two people",
+   "end_words": "It does the exact opposite",
+   "hook": [
+    "Why your diet soda",
+    "adds weight"
+   ]
+  },
+  "ep_v4n9vuz/WHAT-PORK-DOES-INSIDE-YOUR-BODY": {
+   "plan": "ep_v4n9vuz",
+   "source": "v4n9vuz.mp4",
+   "brand": "KT_FOODRULES",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-PORK-DOES-INSIDE-YOUR-BODY_45s.mp4: [FAIL] 01_WHAT-PORK-DOES-INSIDE-YOUR-BODY_45s.mp4             12 captions vs the sound  median -0.00s  worst-10% 1.45s  | words captioned 96%"
+   ],
+   "slug": "WHAT-PORK-DOES-INSIDE-YOUR-BODY",
+   "in": 4132.96,
+   "out": 4175.76,
+   "start_words": "A pig eats its own feces",
+   "end_words": "Big advantage",
+   "hook": [
+    "What pork does",
+    "inside your body"
+   ]
+  },
+  "ep_v4n9vuz/WHAT-YOUR-DORITOS-LABEL-IS-HIDING": {
+   "plan": "ep_v4n9vuz",
+   "source": "v4n9vuz.mp4",
+   "brand": "KT_FOODRULES",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHAT-YOUR-DORITOS-LABEL-IS-HIDING_52s.mp4: ends off the planned words: plan ends 'because they know what this stuff does', clip ends 'because they know what this stuff'"
+   ],
+   "slug": "WHAT-YOUR-DORITOS-LABEL-IS-HIDING",
+   "in": 4801.68,
+   "out": 4861.6,
+   "start_words": "monosodium glutamate, also known as MSG",
+   "end_words": "because they know what this stuff does",
+   "hook": [
+    "What your Doritos label",
+    "is hiding"
+   ]
   }
  },
  "attempts": {

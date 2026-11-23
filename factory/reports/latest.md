@@ -1,67 +1,88 @@
-## ep_v4wdtni_p2: 3 of 3 clip(s) passed every gate
+## ep_v4n9vuz: 5 of 8 clip(s) passed every gate
 
 
-## 2026-11-22 05:06
-  note KT_VITAMINFACT/THE-LABEL-TRICK-VITAMIN-MAKERS-USE: end snapped 2218.86 -> 2219.21s (after 'never buy anything from that company ever again')
-  note KT_VITAMINFACT/THE-LABEL-TRICK-VITAMIN-MAKERS-USE: ending kept on the planner's words 'never buy anything from that company ever again' (cuts mid-sentence)
-ep_v4wdtni_p2__s1 (KT_VITAMINFACT): 1 of 1 passed pre-render gates
+## 2026-11-23 05:03
+  note KT_FOODRULES/WHAT-OIL-DOES-TO-YOUR-ARTERIES: end snapped 4732.79 -> 4732.49s (after 'stay away from trans fats and hydrogenated oil')
+  note KT_FOODRULES/WHAT-OIL-DOES-TO-YOUR-ARTERIES: ending kept on the planner's words 'stay away from trans fats and hydrogenated oil' (next line completes it)
+  note KT_FOODRULES/WHAT-YOUR-DORITOS-LABEL-IS-HIDING: end snapped 4862.11 -> 4861.67s (after 'because they know what this stuff does')
+  note KT_FOODRULES/WHAT-YOUR-DORITOS-LABEL-IS-HIDING: ending kept on the planner's words 'because they know what this stuff does' (ends on 'does')
+ep_v4n9vuz__s2 (KT_FOODRULES): 2 of 2 passed pre-render gates
 
-RENDER ep_v4wdtni_p2__s1
-  PASS 01_THE-LABEL-TRICK-VITAMIN-MAKERS-USE_138s.mp4  01_THE-LABEL-TRICK-VITAMIN-MAKERS-USE_138s.mp4         35 captions vs the sound  median +0
-       FIRST 5s : Let's look at niacin. This is another one. | LAST  8s : It is an effect that has niacin, in parentheses, as niacinamide. Throw it away and never buy anything from that company ever again.
-TEST MODE - passing clips NOT uploaded or queued: KT_VITAMINFACT
-  test clip kept in previews: TEST_KT_VITAMINFACT--01_THE-LABEL-TRICK-VITAMIN-MAKERS-USE_138s.mp4
-
-
-
-## 2026-11-22 05:16
-  note KT_VITAMINFACT/WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C: end snapped 709.93 -> 708.78s (after 'Ascorbic acid is not vitamin C')
-  note KT_VITAMINFACT/WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C: ending kept on the planner's words 'Ascorbic acid is not vitamin C' (cuts mid-sentence)
-  note KT_VITAMINFACT/WHY-YOUR-PILL-WONT-DISSOLVE: end snapped 1230.35 -> 1230.05s (after 'flushing money right down the toilet')
-  note KT_VITAMINFACT/WHY-YOUR-PILL-WONT-DISSOLVE: ending kept on the planner's words 'flushing money right down the toilet' (cuts mid-sentence)
-ep_v4wdtni_p2__s0 (KT_VITAMINFACT): 2 of 2 passed pre-render gates
-
-RENDER ep_v4wdtni_p2__s0
-  PASS 01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4  01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4           25 captions vs the sound  median +0
-       FIRST 5s : Back in the day, it was a disease called scurvy. | LAST  8s : Does this make sense? Acerbic acid is not vitamin C.
-  PASS 02_WHY-YOUR-PILL-WONT-DISSOLVE_71s.mp4  02_WHY-YOUR-PILL-WONT-DISSOLVE_71s.mp4                 23 captions vs the sound  median +0
-       FIRST 5s : You know what the number one ingredient is used to cover? Pills. | LAST  8s : They took it and it went right out the other side. Waste of money. They virtually were flushing money right down the toilet.
-TEST MODE - passing clips NOT uploaded or queued: KT_VITAMINFACT
-  test clip kept in previews: TEST_KT_VITAMINFACT--01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4
-  test clip kept in previews: TEST_KT_VITAMINFACT--02_WHY-YOUR-PILL-WONT-DISSOLVE_71s.mp4
+RENDER ep_v4n9vuz__s2
+  PASS 01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4  01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4              9 captions vs the sound  median +0.
+       FIRST 5s : Hydrogenated oils are terrible. They are trans fats. They will scar | LAST  8s : So they mess up your immune system, but they also make you depressed. So stay away from trans fats and hydrogenated oil.
+  FAIL 02_WHAT-YOUR-DORITOS-LABEL-IS-HIDING_52s.mp4: ends off the planned words: plan ends 'because they know what this stuff does', clip ends 'because they know what this stuff'
+TEST MODE - passing clips NOT uploaded or queued: KT_FOODRULES
+  test clip kept in previews: TEST_KT_FOODRULES--01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4
 
 
-- **NOT QUEUED** `01_THE-LABEL-TRICK-VITAMIN-MAKERS-USE_138s.mp4` - ends mid-thought on "because"; the spoken word was on screen in only 8 of 12 moments
 
-## ep_v64asb7_p2: 1 of 1 clip(s) passed every gate
+## 2026-11-23 05:36
+  note KT_FOODRULES/WHAT-PORK-DOES-INSIDE-YOUR-BODY: end snapped 4177.95 -> 4177.56s (after 'Big advantage')
+  note KT_FOODRULES/WHY-YOUR-SHELLFISH-MAKES-YOU-SICK: end snapped 4496.15 -> 4496.36s (after 'and the flesh was pure')
+  note KT_FOODRULES/WHY-YOUR-SHELLFISH-MAKES-YOU-SICK: ending kept on the planner's words 'and the flesh was pure' (cuts mid-sentence)
+ep_v4n9vuz__s1 (KT_FOODRULES): 2 of 2 passed pre-render gates
+
+RENDER ep_v4n9vuz__s1
+  WARP 01_WHAT-PORK-DOES-INSIDE-YOUR-BODY_45s.mp4: OES-INSIDE-YOUR-BODY_45s.mp4             12 captions vs the sound  median +0.03s  worst-10% 0.97s  | words captioned 96% - re-timing each caption once
+  FAIL 01_WHAT-PORK-DOES-INSIDE-YOUR-BODY_45s.mp4: [FAIL] 01_WHAT-PORK-DOES-INSIDE-YOUR-BODY_45s.mp4             12 captions vs the sound  median -0.00s  worst-10% 1.45s  | words captioned 96%
+  WARP 02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4: LLFISH-MAKES-YOU-SICK_130s.mp4          28 captions vs the sound  median +0.09s  worst-10% 0.88s  | words captioned 100% - re-timing each caption once
+  PASS 02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4  02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4          28 captions vs the sound  median +0
+       FIRST 5s : More people get sick from eating, quote, "bad shellfish." | LAST  8s : Because they had scales and fins, so those fish you could eat. They would filter out the toxins, and the flesh was pure.
+TEST MODE - passing clips NOT uploaded or queued: KT_FOODRULES
+  test clip kept in previews: TEST_KT_FOODRULES--02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4
 
 
-## 2026-11-22 05:07
-  note KT_FASTFACTS/THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS: end snapped 1235.15 -> 1235.40s (after 'It's a better juice, clearly')
-  note KT_FASTFACTS/THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS: ending kept on the planner's words 'It's a better juice, clearly' (cuts mid-sentence)
-ep_v64asb7_p2__s0 (KT_FASTFACTS): 1 of 1 passed pre-render gates
 
-RENDER ep_v64asb7_p2__s0
-  PASS 01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4  01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4    27 captions vs the sound  median +0
-       FIRST 5s : There are two basic kinds of juice machines. One's called a centrifugal | LAST  8s : Because there's pressure as opposed to speed and heat and friction that's making the juice. It's a better juice, clearly.
-TEST MODE - passing clips NOT uploaded or queued: KT_FASTFACTS
-  test clip kept in previews: TEST_KT_FASTFACTS--01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4
+## 2026-11-23 05:20
+  note KT_FOODRULES/WHY-YOUR-DIET-SODA-ADDS-WEIGHT: end snapped 3761.65 -> 3762.01s (after 'It does the exact opposite')
+  note KT_FOODRULES/WHY-YOUR-DIET-SODA-ADDS-WEIGHT: ending kept on the planner's words 'It does the exact opposite' (next line completes it)
+ep_v4n9vuz__s0 (KT_FOODRULES): 2 of 2 passed pre-render gates
 
+RENDER ep_v4n9vuz__s0
+  RETIME 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_78s.mp4: captions +0.73s off throughout - re-rendering once
+  WARP 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_78s.mp4: O-CORN-MAKES-YOU-FAT_78s.mp4             17 captions vs the sound  median +0.00s  worst-10% 0.74s  | words captioned 99% - re-timing each caption once
+  FAIL 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_78s.mp4: [FAIL] 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_78s.mp4             18 captions vs the sound  median -0.00s  worst-10% 0.85s  | words captioned 99%
+  RETIME 02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_58s.mp4: captions +0.45s off throughout - re-rendering once
+  PASS 02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_58s.mp4  02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_58s.mp4              15 captions vs the sound  median +0
+       FIRST 5s : You take two people. One person drinks regular coffee. | LAST  8s : And the reason you're consuming it is you think it's no calories and you think it's good for weight loss. It isn't. It does the exact opposite.
+TEST MODE - passing clips NOT uploaded or queued: KT_FOODRULES
+  test clip kept in previews: TEST_KT_FOODRULES--02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_58s.mp4
+
+
+
+## 2026-11-23 05:18
+  note KT_FOODRULES/WHY-YOUR-BREAD-FAILS-ITALYS-TEST: end snapped 4975.31 -> 4975.20s (after 'fermented for 48 hours')
+ep_v4n9vuz__s3 (KT_FOODRULES): 2 of 2 passed pre-render gates
+
+RENDER ep_v4n9vuz__s3
+  PASS 01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4  01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4            11 captions vs the sound  median +0
+       FIRST 5s : You don't want hard wheat, high glucose. | LAST  8s : It's not going to have a problem. It hasn't been genetically modified. It's not hybrid wheat, and it's been fermented for 48 hours.
+  PASS 02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s.mp4  02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s.mp4            17 captions vs the sound  median +0
+       FIRST 5s : Almost all soy now comes from Monsanto. | LAST  8s : It is a damn company because the reason that they are putting soybean oil in there because it is so damn cheap, it is not any good for you.
+TEST MODE - passing clips NOT uploaded or queued: KT_FOODRULES
+  test clip kept in previews: TEST_KT_FOODRULES--01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4
+  test clip kept in previews: TEST_KT_FOODRULES--02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s.mp4
+
+
+- **NOT QUEUED** `02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_58s.mp4` - sentence starts with no stop: "gain And"
 
 ## UPLOAD
-3 clip(s) to add:
-   KT_FASTFACTS/01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4  (107 MB)
-   KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4  (92 MB)
-   KT_VITAMINFACT/02_WHY-YOUR-PILL-WONT-DISSOLVE_71s.mp4  (68 MB)
-      + 01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s__story.mp4
-      + 01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s__yt59.mp4
-   added KT_FASTFACTS/01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4  (release media)
-      + 01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s__story.mp4
-      + 01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s__yt59.mp4
-   added KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4  (release media)
-      + 02_WHY-YOUR-PILL-WONT-DISSOLVE_71s__story.mp4
-      + 02_WHY-YOUR-PILL-WONT-DISSOLVE_71s__yt59.mp4
-   added KT_VITAMINFACT/02_WHY-YOUR-PILL-WONT-DISSOLVE_71s.mp4  (release media)
+4 clip(s) to add:
+   KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4  (46 MB)
+   KT_FOODRULES/01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4  (58 MB)
+   KT_FOODRULES/02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s.mp4  (61 MB)
+   KT_FOODRULES/02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4  (126 MB)
+   added KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4  (release media)
+      + 01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s__story.mp4
+      + 01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s__yt59.mp4
+   added KT_FOODRULES/01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4  (release media)
+      + 02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s__story.mp4
+      + 02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s__yt59.mp4
+   added KT_FOODRULES/02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s.mp4  (release media)
+      + 02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s__story.mp4
+      + 02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s__yt59.mp4
+   added KT_FOODRULES/02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4  (release media)
 
-manifest now holds 142 clips
+manifest now holds 146 clips
 commit and push state/manifest.json to let the machine see them
