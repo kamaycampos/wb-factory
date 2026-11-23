@@ -2838,14 +2838,27 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points to a real headline: the FDA moving to outlaw certain food dyes used in candy, soda and cakes.\n\nHis point, made for over 30 years before this became news: those dyes are already illegal in other countries. He says the only reason they ever made it into American food was profit, not safety.\n\nKevin Trudeau's view: a dye banned in one country and sold to kids in another tells you something about who the rules are really protecting.\n\nNext time you check a label, look for the dye, not just the sugar.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #fooddyes #labelreading #foodsafety #cleaneating #wbdaily",
    "hook": "How your candy dye got banned",
    "bytes": 39256850,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - the free-ebook end card (state/tiktok_avoid.json)"
+   },
    "media_tag": "media",
    "endcard": "ebook",
    "scheduled_at": "2026-11-23T16:40",
    "cta_keyword": "EBOOK",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1429346235853767/",
+    "instagram": "https://www.instagram.com/reel/Df2ITDaGex7/",
+    "youtube": "https://youtube.com/shorts/DbmZRh1FgHQ"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau points to a real headline: the FDA moving to outlaw certain food dyes used in candy, soda and cakes.\n\nHis point, made for over 30 years before this became news: those dyes are already illegal in other countries. He says the only reason they ever made it into American food was profit, not safety.\n\nKevin Trudeau's view: a dye banned in one country and sold to kids in another tells you something about who the rules are really protecting.\n\nNext time you check a label, look for the dye, not just the sugar.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #fooddyes #labelreading #foodsafety #cleaneating #wbdaily",
+   "posted_at": "2026-11-23T16:47"
   },
   {
    "file": "KT_CAREFACTS/02_WHAT-WATER-DOES-FOR-YOUR-BRAIN_53s.mp4",
