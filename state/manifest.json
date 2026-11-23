@@ -3292,7 +3292,11 @@
    "bytes": 45926537,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-28T14:34",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FOODRULES/01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4",
@@ -3301,7 +3305,11 @@
    "bytes": 57682070,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-28T18:04",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FOODRULES/02_WHY-SOY-LOWERS-YOUR-TESTOSTERONE_65s.mp4",
@@ -3310,7 +3318,11 @@
    "bytes": 61413729,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-29T07:42",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_FOODRULES/02_WHY-YOUR-SHELLFISH-MAKES-YOU-SICK_130s.mp4",
@@ -3319,7 +3331,11 @@
    "bytes": 125895056,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-29T11:38",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   }
  ]
 }
