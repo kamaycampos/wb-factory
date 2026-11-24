@@ -3185,6 +3185,96 @@
     "What your Doritos label",
     "is hiding"
    ]
+  },
+  "ep_v4n9vuz_r2/WHY-MONSANTO-CORN-MAKES-YOU-FAT": {
+   "plan": "ep_v4n9vuz_r2",
+   "source": "v4n9vuz.mp4",
+   "brand": "KT_FOODRULESR2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_WHY-MONSANTO-CORN-MAKES-YOU-FAT_85s.mp4: ends off the planned words: plan ends 'is making you fat', clip ends 'all the corn you can find'"
+   ],
+   "slug": "WHY-MONSANTO-CORN-MAKES-YOU-FAT",
+   "in": 3480.88,
+   "out": 3566.0,
+   "start_words": "Stay away from corn",
+   "end_words": "is making you fat",
+   "hook": [
+    "Why Monsanto corn",
+    "makes you fat"
+   ]
+  },
+  "ep_v4n9vuz_r2/WHAT-YOUR-DORITOS-LABEL-IS-HIDING": {
+   "plan": "ep_v4n9vuz_r2",
+   "source": "v4n9vuz.mp4",
+   "brand": "KT_FOODRULESR2",
+   "tries": 2,
+   "why": [
+    "FAIL 02_WHAT-YOUR-DORITOS-LABEL-IS-HIDING_55s.mp4: ends off the planned words: plan ends 'to get you physically addicted', clip ends 'in because they trying to get'"
+   ],
+   "slug": "WHAT-YOUR-DORITOS-LABEL-IS-HIDING",
+   "in": 4801.68,
+   "out": 4867.0,
+   "start_words": "monosodium glutamate, also known as MSG",
+   "end_words": "to get you physically addicted",
+   "hook": [
+    "What your Doritos label",
+    "is hiding"
+   ]
+  },
+  "ep_v4wdtni_r2/WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF": {
+   "plan": "ep_v4wdtni_r2",
+   "source": "v4wdtni.mp4",
+   "brand": "KT_PILLFACTSR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF_54s.mp4` - sentence starts with no stop: \"it It\"; word repeated: \"it It\""
+   ],
+   "slug": "WHAT-YOUR-VITAMIN-CAPSULE-IS-MADE-OF",
+   "in": 1251.0,
+   "out": 1306.0,
+   "start_words": "What kind of capsule are they using",
+   "end_words": "increase their profits",
+   "hook": [
+    "What your vitamin",
+    "capsule's made of"
+   ]
+  },
+  "ep_v4wsipz_p2/THE-FRIDGE-CARD-BREATHING-TRICK": {
+   "plan": "ep_v4wsipz_p2",
+   "source": "v4wsipz.mp4",
+   "brand": "KT_AIRFIX",
+   "tries": 1,
+   "why": [
+    "FAIL 01_THE-FRIDGE-CARD-BREATHING-TRICK_115s.mp4: [FAIL] 01_THE-FRIDGE-CARD-BREATHING-TRICK_115s.mp4            114 captions vs the sound (word-referenced: no clear pauses)  median +0.05s  worst-10% 0.85s  | words captioned 99%  UNCAPTIONED SPEECH [(30.1, 32.9)]"
+   ],
+   "slug": "THE-FRIDGE-CARD-BREATHING-TRICK",
+   "in": 1409.0,
+   "out": 1528.0,
+   "start_words": "Throughout the day, here is",
+   "end_words": "as you exhale, it goes in",
+   "hook": [
+    "The 4-step trick",
+    "for your body"
+   ]
+  },
+  "ep_v4wsipz_p2/WHY-DRUG-COMPANIES-WANT-YOU-SICK": {
+   "plan": "ep_v4wsipz_p2",
+   "source": "v4wsipz.mp4",
+   "brand": "KT_AIRFIX",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `02_WHY-DRUG-COMPANIES-WANT-YOU-SICK_71s.mp4` - opens mid-sentence on \"offered\"; two subjects together: \"You I\""
+   ],
+   "slug": "WHY-DRUG-COMPANIES-WANT-YOU-SICK",
+   "in": 2059.0,
+   "out": 2133.0,
+   "start_words": "offered millions of dollars",
+   "end_words": "want you to know about",
+   "hook": [
+    "Why drug companies",
+    "want you sick"
+   ]
   }
  },
  "attempts": {
