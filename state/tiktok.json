@@ -1,17 +1,17 @@
 {
- "at": "2026-11-24T19:08",
+ "at": "2026-11-24T22:44",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 892,
-  "video_count": 84,
   "follower_count": 91,
-  "following_count": 4
+  "following_count": 4,
+  "likes_count": 898,
+  "video_count": 84
  },
  "videos": {
   "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4": {
    "id": "7711757115651558687",
-   "view_count": 115,
-   "like_count": 2,
+   "view_count": 167,
+   "like_count": 8,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711757115651558687?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -140,7 +140,7 @@
   },
   "KT_SLEEPFILEWO/02_THE-CHEMICALS-IN-YOUR-LAUNDRY-SOAP_56s.mp4": {
    "id": "7709335804014775566",
-   "view_count": 323,
+   "view_count": 325,
    "like_count": 14,
    "comment_count": 0,
    "share_count": 1,
@@ -410,7 +410,7 @@
   },
   "KT_BLOODFLOWR4/01_WHY-YOUR-DOCTOR-PRESCRIBES-IT-ANYWAY_42s.mp4": {
    "id": "7705610229148290335",
-   "view_count": 340,
+   "view_count": 341,
    "like_count": 8,
    "comment_count": 0,
    "share_count": 1,
