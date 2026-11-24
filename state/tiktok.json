@@ -1,16 +1,16 @@
 {
- "at": "2026-11-24T00:19",
+ "at": "2026-11-24T02:07",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 890,
-  "video_count": 82,
   "follower_count": 91,
-  "following_count": 4
+  "following_count": 4,
+  "likes_count": 890,
+  "video_count": 82
  },
  "videos": {
   "KT_SODASCAN/02_YOUR-VEGETABLES-ARE-LOADED-WITH-PESTICIDES_59s.mp4": {
    "id": "7711407910236032286",
-   "view_count": 34,
+   "view_count": 36,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 0,
@@ -660,7 +660,7 @@
   },
   "KT_CHOLESTEROLR2/01_WHAT-YOUR-CHOLESTEROL-IS-REALLY-DOING_113s.mp4": {
    "id": "7699286475640179982",
-   "view_count": 2702,
+   "view_count": 2703,
    "like_count": 83,
    "comment_count": 14,
    "share_count": 33,
