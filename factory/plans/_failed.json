@@ -3275,6 +3275,42 @@
     "Why drug companies",
     "want you sick"
    ]
+  },
+  "ep_v4rcljt_p2/WHAT-TOBACCO-HID-FOR-DECADES": {
+   "plan": "ep_v4rcljt_p2",
+   "source": "v4rcljt.mp4",
+   "brand": "KT_STINKFACTS",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHAT-TOBACCO-HID-FOR-DECADES_120s.mp4: ends off the planned words: plan ends 'we'll be barraged with lawsuits', clip ends 'then we be barraged with losses'"
+   ],
+   "slug": "WHAT-TOBACCO-HID-FOR-DECADES",
+   "in": 98.0,
+   "out": 224.0,
+   "start_words": "For example, the tobacco industry",
+   "end_words": "we'll be barraged with lawsuits",
+   "hook": [
+    "What tobacco hid",
+    "about your health"
+   ]
+  },
+  "ep_v4wsipz_p2_r2/WHY-DRUG-COMPANIES-WANT-YOU-SICK": {
+   "plan": "ep_v4wsipz_p2_r2",
+   "source": "v4wsipz.mp4",
+   "brand": "KT_AIRFIXR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `02_WHY-DRUG-COMPANIES-WANT-YOU-SICK_65s.mp4` - two subjects together: \"You I\""
+   ],
+   "slug": "WHY-DRUG-COMPANIES-WANT-YOU-SICK",
+   "in": 2066.24,
+   "out": 2133.0,
+   "start_words": "They said, Kevin, you're the book",
+   "end_words": "want you to know about",
+   "hook": [
+    "Why drug companies",
+    "want you sick"
+   ]
   }
  },
  "attempts": {
