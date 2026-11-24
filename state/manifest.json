@@ -3412,7 +3412,11 @@
    "bytes": 43283016,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-28T20:12",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_FOODRULESR2/02_WHY-YOUR-DIET-SODA-ADDS-WEIGHT_51s.mp4",
@@ -3421,7 +3425,11 @@
    "bytes": 48836070,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-29T17:17",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   },
   {
    "file": "KT_VITAMINFACTR2/01_THE-LABEL-TRICK-VITAMIN-MAKERS-USE_142s.mp4",
@@ -3431,7 +3439,11 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "endcard": "ebook"
+   "endcard": "ebook",
+   "scheduled_at": "2026-11-29T14:48",
+   "cta_keyword": "EBOOK",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   }
  ]
 }
