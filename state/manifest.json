@@ -3493,7 +3493,11 @@
    "bytes": 100201315,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-30T15:09",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_BREATHRULER2/01_STRESS-HORMONE-GIVES-YOU-BELLY-FAT_45s.mp4",
@@ -3502,7 +3506,11 @@
    "bytes": 42250801,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-30T08:07",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_STINKFACTS/01_IF-YOU-STINK-YOURE-TOXIC_107s.mp4",
@@ -3511,7 +3519,11 @@
    "bytes": 99304169,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-29T20:08",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_STINKFACTS/02_WHY-DEODORANT-HIDES-YOUR-TOXINS_175s.mp4",
@@ -3520,7 +3532,11 @@
    "bytes": 158716582,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-11-30T11:55",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   }
  ]
 }
