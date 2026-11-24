@@ -1,16 +1,16 @@
 {
- "at": "2026-11-23T20:27",
+ "at": "2026-11-24T00:19",
  "account": "wb_organics",
  "profile": {
-  "follower_count": 91,
-  "following_count": 4,
   "likes_count": 890,
-  "video_count": 82
+  "video_count": 82,
+  "follower_count": 91,
+  "following_count": 4
  },
  "videos": {
   "KT_SODASCAN/02_YOUR-VEGETABLES-ARE-LOADED-WITH-PESTICIDES_59s.mp4": {
    "id": "7711407910236032286",
-   "view_count": 32,
+   "view_count": 34,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 0,
@@ -20,10 +20,10 @@
   },
   "KT_SLEEPFILEW/02_FIVE-MINUTES-REVEALS-YOUR-SLEEP_52s.mp4": {
    "id": "7711043453781691678",
-   "view_count": 243,
+   "view_count": 246,
    "like_count": 13,
    "comment_count": 0,
-   "share_count": 3,
+   "share_count": 4,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711043453781691678?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 52,
    "posted": "2026-11-22T17:07"
@@ -50,7 +50,7 @@
   },
   "KT_FASTRESET/02_THE-4-OUNCE-JUICE-FASTING-RULE_108s.mp4": {
    "id": "7710742872928046349",
-   "view_count": 46,
+   "view_count": 47,
    "like_count": 2,
    "comment_count": 0,
    "share_count": 0,
