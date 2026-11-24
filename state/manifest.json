@@ -3373,12 +3373,25 @@
    "hook": "What oil does to your arteries",
    "bytes": 45926537,
    "done": false,
-   "status": {},
+   "status": {
+    "facebook": "reel publish refused: There was a problem uploading your video file. Please try again with another file.",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T08:49",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DgIInA4CrDq/",
+    "youtube": "https://youtube.com/shorts/tTFRlI2F3FM"
+   },
+   "caption_at_post": "Kevin Trudeau points to one word on a label: hydrogenated. That's the sign of a trans fat.\n\nHis claim on the show: hydrogenated oils affect your arteries and your hormones, and he says they raise your appetite the same way some artificial sweeteners do, which is why the two often show up together in packaged snacks.\n\nHis fix: skip anything listing hydrogenated oil, and look for one made with real olive, avocado or coconut oil instead.\n\nHave you checked your own pantry for the word \"hydrogenated\" yet?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #transfats #hydrogenatedoil #readthelabel #wholefood #healthtruth",
+   "posted_at": "2026-11-24T09:11"
   },
   {
    "file": "KT_FOODRULES/01_WHY-YOUR-BREAD-FAILS-ITALYS-TEST_61s.mp4",
