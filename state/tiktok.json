@@ -1,13 +1,23 @@
 {
- "at": "2026-11-24T13:28",
+ "at": "2026-11-24T19:08",
  "account": "wb_organics",
  "profile": {
+  "likes_count": 892,
+  "video_count": 84,
   "follower_count": 91,
-  "following_count": 4,
-  "likes_count": 890,
-  "video_count": 82
+  "following_count": 4
  },
  "videos": {
+  "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4": {
+   "id": "7711757115651558687",
+   "view_count": 115,
+   "like_count": 2,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7711757115651558687?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 49,
+   "posted": "2026-11-24T15:16"
+  },
   "KT_SODASCAN/02_YOUR-VEGETABLES-ARE-LOADED-WITH-PESTICIDES_59s.mp4": {
    "id": "7711407910236032286",
    "view_count": 37,
@@ -20,7 +30,7 @@
   },
   "KT_SLEEPFILEW/02_FIVE-MINUTES-REVEALS-YOUR-SLEEP_52s.mp4": {
    "id": "7711043453781691678",
-   "view_count": 250,
+   "view_count": 252,
    "like_count": 13,
    "comment_count": 0,
    "share_count": 4,
