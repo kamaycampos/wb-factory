@@ -2828,7 +2828,7 @@
    "status": {},
    "media_tag": "media",
    "endcard": "ebook",
-   "scheduled_at": "2026-11-24T17:17",
+   "scheduled_at": "2026-11-28T11:09",
    "cta_keyword": "EBOOK",
    "cta_variant": 4,
    "cta_kind": "offer"
@@ -3349,7 +3349,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-28T11:09",
+   "scheduled_at": "2026-11-24T17:17",
    "cta_keyword": "HEALTH",
    "cta_variant": 2,
    "cta_kind": "question"
