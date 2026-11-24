@@ -1,0 +1,19 @@
+{
+ "source": "v4wsipz.mp4",
+ "brand": "KT_BREATHRULER2",
+ "test": false,
+ "note": "24 Nov 2026 - second chance, 'Your Breathing Is Making You Sick | The Kevin Trudeau Show | Ep.15' (Rumble v4wsipz). Weekly agent. Original opened mid-sentence on 'hard and protects' because 'in' (1357.72) sat too far (~10s) from where 'There's' is actually spoken near the end of that cue, outside the 9s word-search window. Moved 'in' to 1359.0, close to the real word, same start_words and same out/end_words.",
+ "clips": [
+  {
+   "slug": "STRESS-HORMONE-GIVES-YOU-BELLY-FAT",
+   "retry_of": "ep_v4wsipz/STRESS-HORMONE-GIVES-YOU-BELLY-FAT",
+   "in": 1359.0,
+   "out": 1404.32,
+   "start_words": "There's a hormone called cortisol",
+   "end_words": "by breathing correctly",
+   "hook": ["Why stress hormones", "make you fat"],
+   "send": "Someone who's tried every diet sends this to a friend stuck with stubborn belly fat: the hormone actually behind it, and the free fix Kevin names - the frustration of doing everything right and still not losing the belly.",
+   "caption": "Kevin Trudeau on the hormone behind stubborn belly fat.\n\nCortisol is your stress hormone, and just driving in traffic raises it. His claim: cortisol specifically stores fat around the belly, more than anywhere else, so bringing it down is where weight comes off first.\n\nHis fix costs nothing. Cortisol rises mainly from stress, and the biggest single lever on stress, he says, is how you breathe. Shallow, chest-first breathing keeps the stress response running. Slow it down into your belly and the hormone drops.\n\nWhat's raising your cortisol today?\n\n#kevintrudeau #cortisol #stressrelief #wbdaily #bellyfat #healthhabits"
+  }
+ ]
+}

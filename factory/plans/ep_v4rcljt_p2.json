@@ -1,0 +1,34 @@
+{
+ "source": "v4rcljt.mp4",
+ "brand": "KT_STINKFACTS",
+ "test": false,
+ "note": "24 Nov 2026 - SECOND PASS, new arcs from unused minutes of 'The Devious Tactics of Misleading Advertising | The Kevin Trudeau Show' (Rumble v4rcljt). Weekly agent. ep_v4rcljt.json already checked this episode hard and skipped the organic-label dup, the cinnamon/talcum-powder 'I was right' list (cancer/cure claim words, ~1798-1830s), the psychiatric/mass-shooting stretch and two off-lane vintage-ad reels. This pass found three clean, never-touched stretches: the tobacco industry's own cancer cover-up (right at the top of the show, before the first ad reel), Kevin's pivot mid-show to 'natural health expert' on what body odor really means (deodorant ads -> ethnic/diet variation -> toxins), and, after the skipped cancer/cure list, his separate colon-toxicity bit. Kevin names 'cancer' twice reporting tobacco's own 1950s data and a 1990s Congress admission - history, not a claim in our words, and never in the hook or caption; none touch the harsh-word ad reels.",
+ "clips": [
+  {"slug": "WHAT-TOBACCO-HID-FOR-DECADES",
+   "in": 98.0, "out": 224.0,
+   "start_words": "For example, the tobacco industry", "end_words": "we'll be barraged with lawsuits",
+   "hook": ["What tobacco hid", "about your health"],
+   "send": "A friend sends this to whoever says 'the experts would tell us if it was bad for us': the cold case of tobacco executives testifying under oath that smoking was safe while sitting on their own data proving otherwise - anger at being told a flat lie for decades.",
+   "caption": "Kevin Trudeau on tobacco's own paper trail.\n\nHis claim: by the 1950s, tobacco companies had internal research linking smoking to serious disease - and sat on it. Their own executives later testified under oath to Congress that smoking wasn't linked to any illness at all.\n\nDecades on, some finally admitted it on record: they'd had the data the whole time, and stayed quiet because of what admitting it would cost them in lawsuits.\n\nHis point: executives, politicians and media all repeated the same line, and most who repeated it never checked it themselves.\n\nWhat's one thing you were told was safe that wasn't?\n\n#kevintrudeau #healthtruth #tobaccoindustry #wbdaily #naturalhealth #wellness"},
+  {"slug": "WHY-DEODORANT-HIDES-YOUR-TOXINS",
+   "in": 1558.0, "out": 1732.0,
+   "start_words": "The question is what is causing", "end_words": "the toxins and the poisons in your body",
+   "hook": ["Why deodorant hides", "your real toxins"],
+   "send": "A friend sends this to the one who just bought a stronger deodorant: the surprising reason a smell can mean something is building up inside, not just on the skin - mild anxiety about what's really going on in your body.",
+   "caption": "Kevin Trudeau on the real reason you might still smell, even after showering.\n\nHis point: a stronger deodorant just covers the smell, it doesn't ask why it's there. A smell researcher's own work found body odor varies by diet and region - what you eat changes how you smell, not just how much you sweat.\n\nHis claim: today's worst body odor isn't the natural kind every person has. It's coming from the toxins and poisons already built up in your body.\n\nCover it up, or find out what's really loading up inside you?\n\n#kevintrudeau #toxins #naturalhealth #wbdaily #bodyodor #wellness"},
+  {"slug": "IF-YOU-STINK-YOURE-TOXIC",
+   "in": 1864.0, "out": 1970.0,
+   "start_words": "If you stink, you're toxic", "end_words": "relate to illness and disease down the road",
+   "hook": ["Why your smell", "means toxins inside"],
+   "trial_hooks": [
+    ["18 pounds trapped", "in one colon"],
+    ["Your deodorant is", "hiding real toxins"],
+    ["Smell experts proved", "diet changes odor"],
+    ["You're masking a", "real toxin problem"],
+    ["John Wayne's colon", "held 18 pounds"],
+    ["Kevin Trudeau says", "smell means toxic"],
+    ["Worms came out", "after two weeks"]
+   ],
+   "send": "A friend sends this to the one who just bought a fourth deodorant brand: the gross, impossible-to-ignore detail about what one colon held onto for decades, and what Kevin says that smell is actually telling you - disgust mixed with real worry.",
+   "caption": "Kevin Trudeau's blunt read on body odor: if you stink, you're toxic.\n\nHis claim: a bowel movement that reeks means waste has been sitting in your colon far too long, not that it's normal. He points to stories from colon-cleansing facilities, including a claim that John Wayne carried 18 pounds of impacted waste in his colon, some of it for decades.\n\nPeople who do a colon cleanse report a flatter stomach, more energy, less bloating - and less body odor, because the toxin load driving the smell is gone.\n\nHis view: that smell is a symptom, and symptoms left alone tend to catch up with you.\n\nWhat is your body trying to tell you?\n\n#kevintrudeau #toxins #guthealth #wbdaily #naturalhealth #wellness"}
+ ]}
