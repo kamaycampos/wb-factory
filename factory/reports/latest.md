@@ -1,24 +1,30 @@
-## ep_v5ao7jx_r4: 1 of 1 clip(s) passed every gate
+## ep_v55bpjb_p2: 0 of 1 clip(s) passed every gate
 
 
-## 2026-11-25 05:16
-  note KT_HYDRATEFIXR4/THE-SWEETENER-RULE-YOURE-GETTING-WRONG: end snapped 3348.99 -> 3348.62s (after 'Those are your best sweeteners')
-ep_v5ao7jx_r4__s0 (KT_HYDRATEFIXR4): 1 of 1 passed pre-render gates
+## 2026-11-25 16:57
+ep_v55bpjb_p2__s0 (KT_SWEETLIE): 1 of 1 passed pre-render gates
 
-RENDER ep_v5ao7jx_r4__s0
-  WARP 01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4: R-RULE-YOURE-GETTING-WRONG_113s.mp4     35 captions vs the sound  median +0.10s  worst-10% 0.60s  | words captioned 100% - re-timing each caption once
-  PASS 01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4  01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4     35 captions vs the sound  median +0
-       FIRST 5s : Look, ten people. | LAST  8s : Is it sugar, ideally? Honey and organic beet sugar. Those are your best sweeteners.
-TEST MODE - passing clips NOT uploaded or queued: KT_HYDRATEFIXR4
-  test clip kept in previews: TEST_KT_HYDRATEFIXR4--01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4
+RENDER ep_v55bpjb_p2__s0
+  FAIL 01_THE-HEALTHY-SWEETENER-THATS-A-SCAM_52s.mp4: ends off the planned words: plan ends 'that's horrible. It's a poison.', clip ends 'it agave that horrible to poison'
 
+
+## ep_v6uxtgp_p4_r5: 1 of 1 clip(s) passed every gate
+
+
+## 2026-11-25 17:02
+  note KT_TOXINTRUTHR5/THE-PARTIAL-FAST-PROTEIN-RULE: end snapped 1805.01 -> 1804.62s (after 'getting rid of bad cells')
+  note KT_TOXINTRUTHR5/THE-PARTIAL-FAST-PROTEIN-RULE: ending kept on the planner's words 'getting rid of bad cells' (cuts mid-sentence)
+ep_v6uxtgp_p4_r5__s0 (KT_TOXINTRUTHR5): 1 of 1 passed pre-render gates
+
+RENDER ep_v6uxtgp_p4_r5__s0
+  WARP 01_THE-PARTIAL-FAST-PROTEIN-RULE_57s.mp4: FAST-PROTEIN-RULE_57s.mp4               16 captions vs the sound  median +0.08s  worst-10% 0.71s  | words captioned 101% - re-timing each caption once
+  PASS 01_THE-PARTIAL-FAST-PROTEIN-RULE_57s.mp4  01_THE-PARTIAL-FAST-PROTEIN-RULE_57s.mp4               16 captions vs the sound  median +0
+       FIRST 5s : There is what is known now as a partial fast. | LAST  8s : If you do a partial fast, you still get some autophagy. And what that means is your body is getting rid of bad cells.
+TEST MODE - passing clips NOT uploaded or queued: KT_TOXINTRUTHR5
+  test clip kept in previews: TEST_KT_TOXINTRUTHR5--01_THE-PARTIAL-FAST-PROTEIN-RULE_57s.mp4
+
+
+- **NOT QUEUED** `01_THE-PARTIAL-FAST-PROTEIN-RULE_57s.mp4` - opens mid-sentence on "is"
 
 ## UPLOAD
-1 clip(s) to add:
-   KT_HYDRATEFIXR4/01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4  (109 MB)
-      + 01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s__story.mp4
-      + 01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s__yt59.mp4
-   added KT_HYDRATEFIXR4/01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4  (release media)
-
-manifest now holds 154 clips
-commit and push state/manifest.json to let the machine see them
+nothing new to add
