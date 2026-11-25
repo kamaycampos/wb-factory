@@ -3394,7 +3394,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261125191054C6DAB5096F6CED21086C'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261125213048621273BEC63E6A2C50AA'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T20:03",
@@ -3412,7 +3412,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-25T21:10"
+   "tiktok_wait_until": "2026-11-25T23:30"
   },
   {
    "file": "KT_FASTFACTS/01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4",
