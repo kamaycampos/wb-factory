@@ -3192,7 +3192,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611251850290000E4BE5C0CFA1F1F44'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261125211058A5742BF817C4C92B2B6A'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-19T20:26",
@@ -3210,7 +3210,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-25T20:50"
+   "tiktok_wait_until": "2026-11-25T23:10"
   },
   {
    "file": "KT_WHOLEFOODR5/01_YOUR-STOMACH-HAS-NO-TEETH_69s.mp4",
