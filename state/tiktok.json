@@ -1,11 +1,11 @@
 {
- "at": "2026-11-25T06:29",
+ "at": "2026-11-25T09:06",
  "account": "wb_organics",
  "profile": {
+  "video_count": 85,
   "follower_count": 91,
   "following_count": 4,
-  "likes_count": 912,
-  "video_count": 85
+  "likes_count": 912
  },
  "videos": {
   "unmatched/7711950976051170574": {
@@ -20,7 +20,7 @@
   },
   "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4": {
    "id": "7711757115651558687",
-   "view_count": 225,
+   "view_count": 233,
    "like_count": 20,
    "comment_count": 0,
    "share_count": 0,
@@ -110,7 +110,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 477,
+   "view_count": 478,
    "like_count": 40,
    "comment_count": 0,
    "share_count": 10,
@@ -660,7 +660,7 @@
   },
   "KT_NUTRIENTFIX/02_WHATS-STEALING-YOUR-SLEEP_66s.mp4": {
    "id": "7700398011343555853",
-   "view_count": 440,
+   "view_count": 441,
    "like_count": 29,
    "comment_count": 1,
    "share_count": 5,
