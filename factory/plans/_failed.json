@@ -3329,6 +3329,24 @@
     "The protein rule",
     "ruins your fasting"
    ]
+  },
+  "ep_v55bpjb_p2/THE-HEALTHY-SWEETENER-THATS-A-SCAM": {
+   "plan": "ep_v55bpjb_p2",
+   "source": "v55bpjb.mp4",
+   "brand": "KT_SWEETLIE",
+   "tries": 1,
+   "why": [
+    "FAIL 01_THE-HEALTHY-SWEETENER-THATS-A-SCAM_52s.mp4: ends off the planned words: plan ends 'that's horrible. It's a poison.', clip ends 'it agave that horrible to poison'"
+   ],
+   "slug": "THE-HEALTHY-SWEETENER-THATS-A-SCAM",
+   "in": 1614.2,
+   "out": 1665.2,
+   "start_words": "Common low-calorie sweetener linked to",
+   "end_words": "that's horrible. It's a poison.",
+   "hook": [
+    "The 'healthy' sweetener",
+    "tied to strokes"
+   ]
   }
  },
  "attempts": {
@@ -3368,6 +3386,6 @@
   "ep_v5h647u_r2": 3,
   "ep_v5kg9ip_r3": 3,
   "ep_v5y9n6n_r2": 2,
-  "ep_v55bpjb_p2": 1
+  "ep_v55bpjb_p2": 2
  }
 }
