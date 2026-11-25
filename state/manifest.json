@@ -2982,7 +2982,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261125221040E6FC6EDD47A0D22FB173'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112523302795EEB9BD93863436E29F'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T16:42",
@@ -2999,7 +2999,8 @@
    "posted_at": "2026-11-21T16:46",
    "tiktok_retry": true,
    "tiktok_tries": 0,
-   "tiktok_resend": true
+   "tiktok_resend": true,
+   "tiktok_wait_until": "2026-11-26T01:30"
   },
   {
    "file": "KT_HEARTFACTS/01_WHAT-YOUR-DOCTOR-MUST-PRESCRIBE_63s.mp4",
