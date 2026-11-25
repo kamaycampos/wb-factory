@@ -2893,7 +2893,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112523102335A6F1C78D409A4B4ED3'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-19T08:56",
@@ -2910,7 +2910,8 @@
    "posted_at": "2026-11-19T09:04",
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_retry": true
+   "tiktok_retry": true,
+   "tiktok_wait_until": "2026-11-26T01:10"
   },
   {
    "file": "KT_FOODPROOF/01_WHY-YOUR-SKIN-DRINKS-TOXINS-TOO_44s.mp4",
