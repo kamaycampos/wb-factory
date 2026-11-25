@@ -2723,7 +2723,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "in your TikTok inbox - open TikTok and tap post"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261125225049D544F55C6806DE34530B'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T11:39",
@@ -2737,7 +2737,8 @@
    "posted_at": "2026-11-20T11:46",
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_retry": true
+   "tiktok_retry": true,
+   "tiktok_wait_until": "2026-11-26T00:50"
   },
   {
    "file": "KT_SLEEPFILEWO/01_WHY-AMERICAN-MEN-NEED-ED-PILLS_54s.mp4",
