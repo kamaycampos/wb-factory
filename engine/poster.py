@@ -29,6 +29,7 @@ import json
 import math
 import os
 import re
+import sys
 import time
 
 import requests
@@ -1137,7 +1138,95 @@ def facebook(path, caption, public_url, clip=None):
 
 
 # ---------------------------------------------------------------------- TikTok
+def _ffmpeg():
+    """An ffmpeg this machine has: the Mac's own, the system's, or the one pip brings."""
+    import shutil
+    for c in (os.path.expanduser("~/Kamay/bin/ffmpeg"), shutil.which("ffmpeg")):
+        if c and os.path.exists(c):
+            return c
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:
+        return None
+
+
+def tiktok_cover_first(path, public_url, clip):
+    """THE TIKTOK COPY: COVER FIRST, AND BUILT TO SURVIVE TIKTOK (15 Nov / 24 Nov 2026).
+
+    15 Nov, Kamay: TikTok takes no cover for an inbox draft - it shows the FIRST FRAME. So the copy
+    that goes to TikTok opens on the designed cover for two frames (1/15 s, with silence under it),
+    then the clip exactly as it is everywhere else.
+
+    24 Nov, Kamay: "all of the new ones are stuck, they stop in the middle". Read back from TikTok
+    itself: 70-PERCENT-OF-10-MILLION froze at 0:22 to the end and ONE-GINSU-AD at 2:06, while his
+    voice ran on; our own files play clean to the last frame. So the TikTok copy is now ALWAYS
+    re-encoded the way phone editors and TikTok's transcoder handle best, cover or not: H.264
+    High 4.1, constant 30 fps, a keyframe every second, no open GOP, video capped at 8 Mb/s,
+    AAC-LC 44.1 kHz stereo, moov at the front. A smaller, regular file also downloads to his
+    phone faster when he opens the draft. TIKTOK_COVER_FIRST=off sends the clip untouched.
+    Anything going wrong returns the clip untouched: a draft is better than no draft."""
+    if os.environ.get("TIKTOK_COVER_FIRST", "on") == "off":
+        return path
+    ff = _ffmpeg()
+    if not ff:
+        return path
+    try:
+        import subprocess
+        cover = None
+        if (clip or {}).get("cover") and str(public_url).startswith("https://"):
+            cu = re.sub(r"__yt59(?=\.mp4$)", "", str(public_url))[:-4] + "__cover.jpg"
+            try:
+                cr = requests.get(cu, timeout=T)
+                if cr.status_code == 200 and len(cr.content) > 5000:
+                    cover = os.path.join("/tmp", "tt_cover_" + os.path.basename(cu))
+                    with open(cover, "wb") as fh:
+                        fh.write(cr.content)
+            except Exception:
+                cover = None
+        out = os.path.join("/tmp", "tt_" + os.path.basename(path))
+        vbase = ("scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2:black,"
+                 "setsar=1,fps=30,format=yuv420p,setpts=PTS-STARTPTS")
+        abase = "aresample=44100,aformat=sample_fmts=fltp:channel_layouts=stereo,asetpts=PTS-STARTPTS"
+        if cover:
+            n = 2 / 30.0
+            # the cover is a JPEG (full-range colour); the clip is video-range. Converted here, or the
+            # whole file gets flagged full-range and the clip's colours shift on the phone.
+            graph = (f"[1:v]scale=1080:1920:force_original_aspect_ratio=decrease:in_range=pc:out_range=tv,"
+                     f"pad=1080:1920:(ow-iw)/2:(oh-ih)/2:black,"
+                     f"setsar=1,fps=30,format=yuv420p,trim=duration={n:.4f},setpts=PTS-STARTPTS[c];"
+                     f"[0:v]{vbase}[v0];"
+                     f"[2:a]atrim=duration={n:.4f},{abase}[s];"
+                     f"[0:a]{abase}[a0];"
+                     f"[c][s][v0][a0]concat=n=2:v=1:a=1[v][a]")
+            ins = ["-i", path, "-loop", "1", "-framerate", "30", "-t", "0.2", "-i", cover,
+                   "-f", "lavfi", "-t", "0.2", "-i", "anullsrc=r=44100:cl=stereo"]
+        else:
+            graph = f"[0:v]{vbase}[v];[0:a]{abase}[a]"
+            ins = ["-i", path]
+        r = subprocess.run([ff, "-y", "-loglevel", "error", *ins,
+                            "-filter_complex", graph, "-map", "[v]", "-map", "[a]", "-r", "30", "-fps_mode", "cfr",
+                            "-c:v", "libx264", "-profile:v", "high", "-level:v", "4.1", "-preset", "medium",
+                            "-crf", "18", "-maxrate", "8M", "-bufsize", "16M",
+                            "-g", "30", "-keyint_min", "30", "-sc_threshold", "0", "-flags", "+cgop",
+                            "-pix_fmt", "yuv420p",
+                            "-color_range", "tv", "-colorspace", "bt709", "-color_primaries", "bt709", "-color_trc", "bt709",
+                            "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-ac", "2",
+                            "-movflags", "+faststart", "-shortest", out],
+                           capture_output=True, text=True, timeout=1500)
+        if r.returncode or not os.path.exists(out) or os.path.getsize(out) < 0.15 * os.path.getsize(path):
+            sys.stderr.write(f"tiktok: safe copy NOT made ({(r.stderr or '')[-160:]}) - the clip goes as it is\n")
+            return path
+        sys.stderr.write(f"tiktok: safe copy made for {os.path.basename(path)}"
+                         f"{' (cover first)' if cover else ''}\n")
+        return out
+    except Exception as x:
+        sys.stderr.write(f"tiktok: safe copy skipped ({type(x).__name__}: {x})\n")
+        return path
+
+
 def tiktok(path, caption, public_url, clip=None):
+    path = tiktok_cover_first(path, public_url, clip)   # 24 Nov 2026: the TikTok-safe copy (see above)
     (key, secret, refresh), missing = _cfg(
         "TT_CLIENT_KEY", "TT_CLIENT_SECRET", "TT_REFRESH_TOKEN",
         brand=brand_of(clip))
