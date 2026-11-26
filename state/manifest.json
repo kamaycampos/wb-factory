@@ -3336,7 +3336,7 @@
     "facebook": "posted",
     "instagram": "posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261654532205028E220D570FE2CA'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126193158D631BDFD20FF4F1D46A7'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-26T11:42",
@@ -3353,7 +3353,7 @@
    "posted_at": "2026-11-26T11:54",
    "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T18:54"
+   "tiktok_wait_until": "2026-11-26T21:31"
   },
   {
    "file": "KT_LABELWATCH/02_WHY-HYDROGENATED-OIL-HURTS-YOUR-HEART_48s.mp4",
