@@ -58,8 +58,13 @@ SERIES = os.path.join(os.path.expanduser("~/Kamay"), "kt_series.json")
 # part of your brain" tells a stranger exactly what they get. The first version
 # of this lint only looked for DIGITS and failed that hook, which was correct
 # English and correct strategy. Lint the rule, not the wording.
+# THE PROVEN SHAPES (25 Nov 2026, kt-machine kt_hooks.py): commands and call-outs win ("This is why you
+# should...", "Be careful with...", "Do these things if you..."); this lint refused them.
 DIRECT = re.compile(r"^(how|why|what|when|where|which|the|a |an |"
-                    r"one|two|three|four|five|six|seven|eight|nine|ten)\b", re.I)
+                    r"one|two|three|four|five|six|seven|eight|nine|ten|"
+                    r"this is why|be careful|do these|do this|do not|don't|never|stop|"
+                    r"smart people|rich people|successful people|healthy people|"
+                    r"if you|you |your |eat|drink|read|check)\b", re.I)
 NUMBER = re.compile(r"[\d$%]")
 RIDDLE = re.compile(r"^(some|there('s| is| are)|nobody|everyone|no one|"
                     r"this is what|it (is|was)|he |she |they |i )", re.I)
@@ -162,7 +167,7 @@ def main():
 
 
 
-MAX_WORDS = 6
+MAX_WORDS = 9   # 25 Nov 2026: the proven winners run 7-9 words (kt-machine kt_hooks.py)
 _problems_base = problems
 
 
