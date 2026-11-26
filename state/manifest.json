@@ -3050,7 +3050,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126205142381F6F26F97C5824DE25'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611262251496B5EE2084C50A82F10B8'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T17:10",
@@ -3068,7 +3068,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T22:51"
+   "tiktok_wait_until": "2026-11-27T00:51"
   },
   {
    "file": "KT_HEARTFACTS/02_WHATS-HIDING-IN-YOUR-MILK_51s.mp4",
@@ -3770,13 +3770,30 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau shares the easiest version of a habit he says helped his digestion and his waistline: a cup of ginger tea.\n\nHis simple method: one 100% organic ginger tea bag, steeped in hot water for five to ten minutes. No chopping or boiling a pot of root for twenty minutes required.\n\nHis reasoning: ginger helps digestion, helps clear the sinuses, and in his view helps the body burn fat and stimulate metabolism, on top of its vitamin C and anti-inflammatory properties.\n\nKevin Trudeau's rule: keep it simple enough that you'll actually do it daily.\n\nWould a cup of tea before bed replace something less healthy in your routine?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #gingertea #digestion #metabolism #naturalhealth #wbdaily",
    "hook": "Why ginger tea helps you burn fat",
    "bytes": 47418043,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126225510B8CB02820CF0512F3A7F'}}"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-26T17:44",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1683908380054402/",
+    "instagram": "https://www.instagram.com/reel/DgOOKOBBkSa/",
+    "youtube": "https://youtube.com/shorts/UbU3OWzixH4"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau shares the easiest version of a habit he says helped his digestion and his waistline: a cup of ginger tea.\n\nHis simple method: one 100% organic ginger tea bag, steeped in hot water for five to ten minutes. No chopping or boiling a pot of root for twenty minutes required.\n\nHis reasoning: ginger helps digestion, helps clear the sinuses, and in his view helps the body burn fat and stimulate metabolism, on top of its vitamin C and anti-inflammatory properties.\n\nKevin Trudeau's rule: keep it simple enough that you'll actually do it daily.\n\nWould a cup of tea before bed replace something less healthy in your routine?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #gingertea #digestion #metabolism #naturalhealth #wbdaily",
+   "posted_at": "2026-11-26T17:55",
+   "tiktok_retry": true,
+   "tiktok_resend": true,
+   "tiktok_wait_until": "2026-11-27T00:55"
   }
  ]
 }
