@@ -3039,7 +3039,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261131274201B8DC8BE00F15FBFB'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261351243318F6301AAF0F03F277'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T17:10",
@@ -3057,7 +3057,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T13:31"
+   "tiktok_wait_until": "2026-11-26T15:51"
   },
   {
    "file": "KT_HEARTFACTS/02_WHATS-HIDING-IN-YOUR-MILK_51s.mp4",
