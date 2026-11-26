@@ -2722,7 +2722,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261912062ABFCFD1836CF61B805C'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T11:39",
@@ -2734,10 +2734,9 @@
    },
    "caption_at_post": "Kevin Trudeau cites a doctor's claim that you'd need to eat five times as much food today to get the nutrition your grandparents got from one plate, decades ago.\n\nHis proof is one you can test yourself. Cut an onion from decades past and the whole house would smell like onion, and whoever cut it would start crying within seconds. Cut most onions today and you can chop a whole handful and barely notice a smell at all.\n\nSame with garlic: it can take eight or ten cloves now to get the flavor one clove used to carry.\n\nWhen did you last cry cutting an onion?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #nutrition #soilhealth #wbdaily #foodtruth #wholefood",
    "posted_at": "2026-11-20T11:46",
-   "tiktok_tries": 0,
+   "tiktok_tries": 1,
    "tiktok_resend": true,
-   "tiktok_retry": true,
-   "tiktok_wait_until": "2026-11-26T21:12"
+   "tiktok_at": "2026-11-26T21:32"
   },
   {
    "file": "KT_SLEEPFILEWO/01_WHY-AMERICAN-MEN-NEED-ED-PILLS_54s.mp4",
@@ -3336,7 +3335,7 @@
     "facebook": "posted",
     "instagram": "posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126193158D631BDFD20FF4F1D46A7'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611262132556E6338BF2A21BF2838C1'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-26T11:42",
@@ -3353,7 +3352,7 @@
    "posted_at": "2026-11-26T11:54",
    "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T21:31"
+   "tiktok_wait_until": "2026-11-26T23:32"
   },
   {
    "file": "KT_LABELWATCH/02_WHY-HYDROGENATED-OIL-HURTS-YOUR-HEART_48s.mp4",
