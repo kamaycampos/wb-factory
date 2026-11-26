@@ -2597,7 +2597,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126121131488AD9A7E8DB9A0127F0'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126143131BCADB7CBFFBF6706461D'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T08:51",
@@ -2612,7 +2612,7 @@
    "tiktok_tries": 0,
    "tiktok_resend": true,
    "tiktok_retry": true,
-   "tiktok_wait_until": "2026-11-26T14:11"
+   "tiktok_wait_until": "2026-11-26T16:31"
   },
   {
    "file": "KT_BREATHRULEO/02_DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY_55s.mp4",
