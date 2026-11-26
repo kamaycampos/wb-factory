@@ -3381,9 +3381,9 @@
    },
    "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau points to one line on a label: hydrogenated oil, also called trans fat.\n\nHis view: it can attach extra cholesterol to the inside of your artery wall, mess with your hormones, and even raise your appetite - the opposite of what most people expect from a \"healthy\" spread.\n\nHis fix: check peanut butter, crackers and baked goods for the word \"hydrogenated\" before they go in your cart.\n\nWhat's sitting in your pantry right now with that word on the label?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #hydrogenatedoil #transfats #readthelabel #hearthealth #wbdaily",
    "posted_at": "2026-11-25T08:10",
-   "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_tries": 0
+   "tiktok_tries": 1,
+   "tiktok_at": "2026-11-26T17:12"
   },
   {
    "file": "KT_HORMONEFACTS/01_WHAT-MCDONALDS-USED-TO-FRY-YOUR-FRIES_96s.mp4",
@@ -3461,7 +3461,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261125213048621273BEC63E6A2C50AA'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112617125693DD360EB5EEFC11E7E1'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T20:03",
@@ -3478,7 +3478,8 @@
    "posted_at": "2026-11-21T20:07",
    "tiktok_retry": true,
    "tiktok_tries": 0,
-   "tiktok_resend": true
+   "tiktok_resend": true,
+   "tiktok_wait_until": "2026-11-26T19:12"
   },
   {
    "file": "KT_FASTFACTS/01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4",
