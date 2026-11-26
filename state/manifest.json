@@ -2923,7 +2923,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126125112790CFF903C880E01343B'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126151114F2E98F278AB29608228C'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-23T19:27",
@@ -2941,7 +2941,7 @@
    "tiktok_tries": 0,
    "tiktok_resend": true,
    "tiktok_retry": true,
-   "tiktok_wait_until": "2026-11-26T14:51"
+   "tiktok_wait_until": "2026-11-26T17:11"
   },
   {
    "file": "KT_FOODPROOF/02_HOW-YOUR-FOOD-GOT-GMO-GENES_73s.mp4",
