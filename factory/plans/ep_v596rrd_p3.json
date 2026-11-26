@@ -1,0 +1,28 @@
+{
+ "source": "v596rrd.mp4",
+ "brand": "KT_SCALETRUTH",
+ "test": false,
+ "note": "26 Nov 2026 - 'How To Lose Belly Fat | The Kevin Trudeau Show | Ep. 35' (Rumble v596rrd). Weekly agent, second pass: two new arcs from the belly-fat segment's unused minutes, clear of the 3 clips already cut (1936-1992, 2101-2150, 2316-2407.2).",
+ "clips": [
+  {
+   "slug": "FORGET-THE-SCALE-TAKE-PHOTOS",
+   "in": 2540.52,
+   "out": 2609.36,
+   "start_words": "Take pictures of you",
+   "end_words": "body composition has changed",
+   "hook": ["Why your scale lies", "about losing fat"],
+   "send": "A friend stuck on a stalled scale sends this to another friend who just about gave up on their diet because 'the number won't move' - relief, and a reason to keep going.",
+   "caption": "On The Kevin Trudeau Show, Kevin Trudeau gives a simple fix for anyone frustrated with a scale that won't move: stop weighing yourself and start taking pictures instead.\n\nHis method: four photos in your underwear or a bathing suit - front, back, both sides - taken in the same spot. Repeat it 30 days later and compare.\n\nHis reasoning: muscle weighs more than fat, so the scale can stay the same while your body actually changes underneath it. Looser clothes are the real signal, not the number.\n\nKevin Trudeau's rule: forget the scale, trust the mirror and the waistband.\n\nWhen's the last time you measured progress by anything other than a number?\n\n#kevintrudeau #weightloss #bellyfat #fitness #healthylifestyle #wbdaily"
+  },
+  {
+   "slug": "THE-GINGER-TEA-THAT-BURNS-FAT",
+   "in": 2896.44,
+   "out": 2945.40,
+   "start_words": "you go on Amazon",
+   "end_words": "immune stimulating properties",
+   "hook": ["Why ginger tea helps", "you burn fat"],
+   "send": "Someone sends this to a friend who complains about bloating every night after dinner - practical relief, a tiny habit swap, not a big ask.",
+   "caption": "On The Kevin Trudeau Show, Kevin Trudeau shares the easiest version of a habit he says helped his digestion and his waistline: a cup of ginger tea.\n\nHis simple method: one 100% organic ginger tea bag, steeped in hot water for five to ten minutes. No chopping or boiling a pot of root for twenty minutes required.\n\nHis reasoning: ginger helps digestion, helps clear the sinuses, and in his view helps the body burn fat and stimulate metabolism, on top of its vitamin C and anti-inflammatory properties.\n\nKevin Trudeau's rule: keep it simple enough that you'll actually do it daily.\n\nWould a cup of tea before bed replace something less healthy in your routine?\n\n#kevintrudeau #gingertea #digestion #metabolism #naturalhealth #wbdaily"
+  }
+ ]
+}
