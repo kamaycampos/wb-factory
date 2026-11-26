@@ -1,16 +1,26 @@
 {
- "at": "2026-11-26T16:30",
+ "at": "2026-11-26T21:54",
  "account": "wb_organics",
  "profile": {
-  "likes_count": 932,
-  "video_count": 86,
   "follower_count": 93,
-  "following_count": 4
+  "following_count": 4,
+  "likes_count": 930,
+  "video_count": 86
  },
  "videos": {
+  "KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4": {
+   "id": "7712588285578726670",
+   "view_count": 32,
+   "like_count": 0,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7712588285578726670?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 97,
+   "posted": "2026-11-26T21:02"
+  },
   "unmatched/7712228404195560717": {
    "id": "7712228404195560717",
-   "view_count": 38,
+   "view_count": 42,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -20,7 +30,7 @@
   },
   "KT_PRESSUREFIXW/01_WHY-YOUR-DORITOS-RAISE-BLOOD-PRESSURE_49s.mp4": {
    "id": "7712112694576286990",
-   "view_count": 220,
+   "view_count": 221,
    "like_count": 16,
    "comment_count": 0,
    "share_count": 1,
@@ -30,7 +40,7 @@
   },
   "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4": {
    "id": "7711757115651558687",
-   "view_count": 257,
+   "view_count": 264,
    "like_count": 23,
    "comment_count": 0,
    "share_count": 0,
@@ -100,7 +110,7 @@
   },
   "unmatched/7710092417076137247": {
    "id": "7710092417076137247",
-   "view_count": 419,
+   "view_count": 420,
    "like_count": 4,
    "comment_count": 0,
    "share_count": 1,
@@ -120,7 +130,7 @@
   },
   "KT_SLEEPFILER2/02_HOW-TO-TRIGGER-YOUR-YOUTH-HORMONE_56s.mp4": {
    "id": "7709722250802449677",
-   "view_count": 479,
+   "view_count": 480,
    "like_count": 40,
    "comment_count": 0,
    "share_count": 10,
@@ -220,7 +230,7 @@
   },
   "KT_FASTRESET/01_WHAT-TO-EAT-BEFORE-YOU-FAST_54s.mp4": {
    "id": "7708530339861269790",
-   "view_count": 350,
+   "view_count": 352,
    "like_count": 18,
    "comment_count": 0,
    "share_count": 1,
