@@ -2979,7 +2979,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261732526284FBAC66561912EA62'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261951281DA9DDB8254B281FA250'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T16:42",
@@ -2997,7 +2997,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T19:32"
+   "tiktok_wait_until": "2026-11-26T21:51"
   },
   {
    "file": "KT_HEARTFACTS/01_WHAT-YOUR-DOCTOR-MUST-PRESCRIBE_63s.mp4",
@@ -3415,13 +3415,26 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau says the first lie on most packages is the word shoppers trust the most: \"natural.\"\n\nHis view: \"all natural\" carries no real weight - a package can say it and still hide dozens of additives.\n\nHis breakdown of the organic tiers: \"made with organic ingredients\" can mean as little as 10% organic, plain \"organic\" around 80%, and only \"100% organic\" gets you close to the real thing.\n\nHis rule: skip the first two and look for \"100% organic\" specifically.\n\nWhich word on your pantry shelf have you never actually checked?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #readthelabel #allnatural #organicfood #foodtruth #wbdaily",
    "hook": "Why your label lies about natural",
    "bytes": 47320686,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - medical distrust (state/tiktok_avoid.json)"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-26T14:36",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1676265027487539/",
+    "instagram": "https://www.instagram.com/reel/Df0VufHEv-i/",
+    "youtube": "https://youtube.com/shorts/7a4zJrz5Tyk"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau says the first lie on most packages is the word shoppers trust the most: \"natural.\"\n\nHis view: \"all natural\" carries no real weight - a package can say it and still hide dozens of additives.\n\nHis breakdown of the organic tiers: \"made with organic ingredients\" can mean as little as 10% organic, plain \"organic\" around 80%, and only \"100% organic\" gets you close to the real thing.\n\nHis rule: skip the first two and look for \"100% organic\" specifically.\n\nWhich word on your pantry shelf have you never actually checked?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #readthelabel #allnatural #organicfood #foodtruth #wbdaily",
+   "posted_at": "2026-11-26T14:51"
   },
   {
    "file": "KT_LABELWATCHR2/01_WHAT-MSG-DOES-TO-YOUR-APPETITE_41s.mp4",
