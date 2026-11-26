@@ -2922,7 +2922,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126151114F2E98F278AB29608228C'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-23T19:27",
@@ -2937,10 +2937,9 @@
    },
    "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau makes a simple point: your skin is your body's largest organ, and whatever touches it gets absorbed.\n\nHis list - an unfiltered shower, tap water, coffee, tea, soda, energy drinks, and conventional food all add toxins to your body, every single day, not just once.\n\nKevin Trudeau's view: toxin load is the number one driver of illness, with nutrient deficiency close behind it.\n\nStart with the shower you take without thinking about it. Would a filter change that?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #toxins #skinhealth #cleanwater #naturalhealth #wbdaily",
    "posted_at": "2026-11-23T19:30",
-   "tiktok_tries": 0,
+   "tiktok_tries": 1,
    "tiktok_resend": true,
-   "tiktok_retry": true,
-   "tiktok_wait_until": "2026-11-26T17:11"
+   "tiktok_at": "2026-11-26T17:32"
   },
   {
    "file": "KT_FOODPROOF/02_HOW-YOUR-FOOD-GOT-GMO-GENES_73s.mp4",
@@ -2980,7 +2979,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126152147531032B62FA35708F9B4'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261732526284FBAC66561912EA62'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T16:42",
@@ -2998,7 +2997,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T17:21"
+   "tiktok_wait_until": "2026-11-26T19:32"
   },
   {
    "file": "KT_HEARTFACTS/01_WHAT-YOUR-DOCTOR-MUST-PRESCRIBE_63s.mp4",
