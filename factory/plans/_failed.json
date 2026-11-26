@@ -3347,6 +3347,60 @@
     "The 'healthy' sweetener",
     "tied to strokes"
    ]
+  },
+  "ep_v55bpjb_p3/AMERICANS-TAKE-THE-MOST-DRUGS": {
+   "plan": "ep_v55bpjb_p3",
+   "source": "v55bpjb.mp4",
+   "brand": "KT_PROVENRIGHT",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_AMERICANS-TAKE-THE-MOST-DRUGS_44s.mp4` - word repeated after one: \"drugs more drugs\"; word repeated after one: \"more drugs more\""
+   ],
+   "slug": "AMERICANS-TAKE-THE-MOST-DRUGS",
+   "in": 1487.2,
+   "out": 1534.2,
+   "start_words": "Kevin was right again",
+   "end_words": "and keep an erection",
+   "hook": [
+    "Why Americans take",
+    "the most drugs"
+   ]
+  },
+  "ep_v55bpjb_p3/YOU-CAN-EAT-MEAT-AND-REACH-100": {
+   "plan": "ep_v55bpjb_p3",
+   "source": "v55bpjb.mp4",
+   "brand": "KT_PROVENRIGHT",
+   "tries": 1,
+   "why": [
+    "FAIL 02_YOU-CAN-EAT-MEAT-AND-REACH-100_61s.mp4: ends off the planned words: plan ends 'than somebody who eats meat', clip ends 'that it healthier than somebody who'"
+   ],
+   "slug": "YOU-CAN-EAT-MEAT-AND-REACH-100",
+   "in": 1717.2,
+   "out": 1778.2,
+   "start_words": "if you look at",
+   "end_words": "than somebody who eats meat",
+   "hook": [
+    "You can eat meat",
+    "and still reach 100"
+   ]
+  },
+  "ep_v58xdrp_p2/YOUR-FOOD-IS-RISKIER-THAN-CIGARETTES": {
+   "plan": "ep_v58xdrp_p2",
+   "source": "v58xdrp.mp4",
+   "brand": "KT_PESTICIDEFACTS",
+   "tries": 1,
+   "why": [
+    "NOT QUEUED** `01_YOUR-FOOD-IS-RISKIER-THAN-CIGARETTES_57s.mp4` - the spoken word was on screen in only 4 of 7 moments"
+   ],
+   "slug": "YOUR-FOOD-IS-RISKIER-THAN-CIGARETTES",
+   "in": 2865.0,
+   "out": 2922.0,
+   "start_words": "You cause it with",
+   "end_words": "cancer risk than smoking",
+   "hook": [
+    "Why your food is",
+    "riskier than cigarettes"
+   ]
   }
  },
  "attempts": {
