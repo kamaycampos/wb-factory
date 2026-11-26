@@ -1,11 +1,11 @@
 {
- "at": "2026-11-26T08:52",
+ "at": "2026-11-26T10:50",
  "account": "wb_organics",
  "profile": {
-  "following_count": 4,
   "likes_count": 931,
   "video_count": 86,
-  "follower_count": 92
+  "follower_count": 93,
+  "following_count": 4
  },
  "videos": {
   "unmatched/7712228404195560717": {
@@ -20,7 +20,7 @@
   },
   "KT_PRESSUREFIXW/01_WHY-YOUR-DORITOS-RAISE-BLOOD-PRESSURE_49s.mp4": {
    "id": "7712112694576286990",
-   "view_count": 203,
+   "view_count": 205,
    "like_count": 15,
    "comment_count": 0,
    "share_count": 0,
