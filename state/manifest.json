@@ -2597,7 +2597,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126143131BCADB7CBFFBF6706461D'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T08:51",
@@ -2609,10 +2609,9 @@
    },
    "caption_at_post": "Kevin Trudeau on something nobody teaches but every baby already knows: breathe through the nose, not the mouth.\n\nA baby never needs a course in breathing. It breathes in and out through its nose automatically, because the nose is built to filter the air before it reaches your lungs. Nose hairs physically stop particles from going in. The mouth was built for eating and drinking, not breathing.\n\nMost adults lost the habit somewhere along the way.\n\nWhich one are you, nose breather or mouth breather?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #breathing #nosebreathing #wbdaily #healthhabits #naturalhealth",
    "posted_at": "2026-11-20T09:06",
-   "tiktok_tries": 0,
+   "tiktok_tries": 1,
    "tiktok_resend": true,
-   "tiktok_retry": true,
-   "tiktok_wait_until": "2026-11-26T16:31"
+   "tiktok_at": "2026-11-26T16:52"
   },
   {
    "file": "KT_BREATHRULEO/02_DIAPHRAGM-BREATHING-OXYGENATES-YOUR-BODY_55s.mp4",
@@ -2723,7 +2722,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126145136364C899025587606EADF'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126165335EA8D61EFF3CE600F6807'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-20T11:39",
@@ -2738,7 +2737,7 @@
    "tiktok_tries": 0,
    "tiktok_resend": true,
    "tiktok_retry": true,
-   "tiktok_wait_until": "2026-11-26T16:51"
+   "tiktok_wait_until": "2026-11-26T18:53"
   },
   {
    "file": "KT_SLEEPFILEWO/01_WHY-AMERICAN-MEN-NEED-ED-PILLS_54s.mp4",
@@ -3333,13 +3332,29 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau walks through what \"processed\" actually means for milk: heated to 180 degrees for 30 minutes, then homogenized so the cream never separates.\n\nHis view: that heat also wipes out the enzymes that help your body digest it in the first place - part of why homogenized milk sits so much longer on the shelf than the raw kind ever did.\n\nHis fix: look for raw, grass-fed or non-homogenized milk where it's legally sold near you.\n\nHow long does the milk in your fridge actually last?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #milk #rawmilk #readthelabel #foodtruth #wbdaily",
    "hook": "Your milk: 180 degrees, zero enzymes",
    "bytes": 69480946,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "youtube": "posted",
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261654532205028E220D570FE2CA'}}"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-26T11:42",
    "cta_keyword": "HEALTH",
    "cta_variant": 3,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1155635927166741/",
+    "instagram": "https://www.instagram.com/reel/Df7P5n2AcYl/",
+    "youtube": "https://youtube.com/shorts/YeWuZeNxl18"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau walks through what \"processed\" actually means for milk: heated to 180 degrees for 30 minutes, then homogenized so the cream never separates.\n\nHis view: that heat also wipes out the enzymes that help your body digest it in the first place - part of why homogenized milk sits so much longer on the shelf than the raw kind ever did.\n\nHis fix: look for raw, grass-fed or non-homogenized milk where it's legally sold near you.\n\nHow long does the milk in your fridge actually last?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #milk #rawmilk #readthelabel #foodtruth #wbdaily",
+   "posted_at": "2026-11-26T11:54",
+   "tiktok_retry": true,
+   "tiktok_resend": true,
+   "tiktok_wait_until": "2026-11-26T18:54"
   },
   {
    "file": "KT_LABELWATCH/02_WHY-HYDROGENATED-OIL-HURTS-YOUR-HEART_48s.mp4",
