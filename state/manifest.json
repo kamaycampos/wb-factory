@@ -3194,7 +3194,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126155110BFE03077B6E4C80B3374'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126181125A52E95BDE6F241170ABC'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-19T07:34",
@@ -3212,7 +3212,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T17:51"
+   "tiktok_wait_until": "2026-11-26T20:11"
   },
   {
    "file": "KT_PUREWATCH/01_WHATS-REALLY-IN-YOUR-GUMMY_49s.mp4",
@@ -3392,7 +3392,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-26T17:44",
+   "scheduled_at": "2026-11-30T20:15",
    "cta_keyword": "HEALTH",
    "cta_variant": 1,
    "cta_kind": "offer"
@@ -3761,7 +3761,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-30T20:15",
+   "scheduled_at": "2026-11-26T17:44",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
    "cta_kind": "offer"
