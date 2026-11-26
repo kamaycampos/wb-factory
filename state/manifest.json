@@ -3196,7 +3196,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611261331026F68FF267437A902BD9F'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126155110BFE03077B6E4C80B3374'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-19T07:34",
@@ -3214,7 +3214,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-26T15:31"
+   "tiktok_wait_until": "2026-11-26T17:51"
   },
   {
    "file": "KT_PUREWATCH/01_WHATS-REALLY-IN-YOUR-GUMMY_49s.mp4",
