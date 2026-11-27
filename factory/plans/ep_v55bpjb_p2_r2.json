@@ -1,0 +1,18 @@
+{"source": "v55bpjb.mp4", "brand": "KT_SWEETLIER2", "test": false,
+ "note": "27 Nov 2026 - 'Tips & Tricks To Living A Better Life! | The Kevin Trudeau Show | Ep. 27' (Rumble v55bpjb). Weekly agent: retry of THE-HEALTHY-SWEETENER-THATS-A-SCAM, failed once on 'ends off the planned words' - the plan's end_words started mid-sentence ('that's horrible...') and the build's own confirm matched a scrambled short span instead. Corrected end_words to the whole sentence, exactly as spoken, for an unambiguous word-level match; same in/out, same cue.",
+ "clips": [
+  {"slug": "THE-HEALTHY-SWEETENER-THATS-A-SCAM", "in": 1614.2, "out": 1665.2,
+   "start_words": "Common low-calorie sweetener linked to",
+   "end_words": "It's not agave that's horrible. It's a poison.",
+   "retry_of": "ep_v55bpjb_p2/THE-HEALTHY-SWEETENER-THATS-A-SCAM",
+   "hook": ["The 'healthy' sweetener", "tied to strokes"],
+   "trial_hooks": [["The 'healthy' sweetener", "tied to strokes"],
+                    ["Xylitol: in your", "'healthy' food"],
+                    ["The sweetener swap", "that's a scam"],
+                    ["What's hiding in", "your organic sugar"],
+                    ["Kevin Trudeau's warning", "on 'healthy' sugar"],
+                    ["The label trick", "on your sweetener"],
+                    ["Your 'safe' sweetener", "is a poison"]],
+   "send": "Someone sends this to a friend who just swapped sugar for a 'natural' sweetener thinking it's the healthier move - anger at being sold a scam dressed up as health food.",
+   "caption": "Kevin Trudeau points to a report linking a common low-calorie sweetener, Xylitol, to heart attack and stroke - and it's often sitting inside foods marketed as \"healthy\" or organic.\n\nHis read: a lot of what passes for a healthy sweetener swap is really just marketing. Companies want to avoid the word \"sugar\" on the label, so they reach for something else instead.\n\nHis own rule: raw organic cane sugar is the sweetener he actually trusts. Agave, despite its health-food reputation, he calls a poison - not the safer choice people think it is.\n\nNext time you reach for a \"natural\" sweetener, do you actually know what's in it?\n\n#kevintrudeau #xylitol #sweeteners #labelreading #healthtruth #wbdaily"}
+ ]}

@@ -1,0 +1,18 @@
+{"source": "v58xdrp.mp4", "brand": "KT_FOODSCAMR2", "test": false,
+ "note": "27 Nov 2026 - 'How Governments & Regulatory Agencies Conspire to Harm Your Health | The Kevin Trudeau Show | Ep. 34' (Rumble v58xdrp). Weekly agent: retry of WHATS-IN-YOUR-BONELESS-WINGS, failed once on a repeated-word glitch ('I've had I've') inside the deboned-chicken/duck/breast examples further into the cut. That passage sits in the middle of the story with no clean edge around it, so moved the end earlier instead, to the punchline that was already complete on its own: he bites in and it's a chicken nugget, not a real wing. Drops the FTC/'garbage trimmings'/'they lied' reveal that followed.",
+ "clips": [
+  {"slug": "WHATS-IN-YOUR-BONELESS-WINGS", "in": 2329.0, "out": 2416.0,
+   "start_words": "There's something called boneless",
+   "end_words": "This is a chicken nugget.",
+   "retry_of": "ep_v58xdrp/WHATS-IN-YOUR-BONELESS-WINGS",
+   "hook": ["What's really", "in your wing meat"],
+   "trial_hooks": [["What's really", "in your wing meat"],
+                    ["The boneless wing", "that isn't a wing"],
+                    ["One bite exposed", "the fake wing"],
+                    ["What you're missing", "on the menu"],
+                    ["Kevin Trudeau caught", "a menu lie"],
+                    ["Kevin Trudeau's rule:", "read the name"],
+                    ["The wildest food", "switch on menus"]],
+   "send": "A friend who just ordered 'boneless wings' at a bar gets sent this before their next order, the stomach-turning surprise that it's not deboned wing meat at all.",
+   "caption": "Kevin Trudeau tells the story of a guy who orders \"boneless chicken wings\" at a restaurant, expecting real wing meat with the bones mechanically removed.\n\nHe bites in and realizes: this is a chicken nugget, not real wing meat.\n\nHis point: a name on a menu, or a label, can describe something that sounds familiar while being something else entirely.\n\nWould you have known the difference before biting in?\n\n#kevintrudeau #foodtruth #labelreading #healthtruth #naturalhealth #wbdaily"}
+ ]}
