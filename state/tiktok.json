@@ -1,16 +1,16 @@
 {
- "at": "2026-11-26T22:11",
+ "at": "2026-11-27T03:51",
  "account": "wb_organics",
  "profile": {
   "follower_count": 93,
   "following_count": 4,
-  "likes_count": 930,
+  "likes_count": 932,
   "video_count": 86
  },
  "videos": {
   "KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4": {
    "id": "7712588285578726670",
-   "view_count": 32,
+   "view_count": 35,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -20,7 +20,7 @@
   },
   "unmatched/7712228404195560717": {
    "id": "7712228404195560717",
-   "view_count": 42,
+   "view_count": 44,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -40,9 +40,9 @@
   },
   "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4": {
    "id": "7711757115651558687",
-   "view_count": 264,
-   "like_count": 23,
-   "comment_count": 0,
+   "view_count": 272,
+   "like_count": 25,
+   "comment_count": 1,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7711757115651558687?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
    "duration": 49,
@@ -360,7 +360,7 @@
   },
   "KT_RIGHTFILE/02_THE-FAKE-ORGANIC-OIL-TRICK_38s.mp4": {
    "id": "7706651903396023582",
-   "view_count": 152,
+   "view_count": 153,
    "like_count": 1,
    "comment_count": 0,
    "share_count": 0,
