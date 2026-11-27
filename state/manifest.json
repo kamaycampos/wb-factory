@@ -3335,7 +3335,7 @@
     "facebook": "posted",
     "instagram": "posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261126235210E94DB560D60F0934922A'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-26T11:42",
@@ -3350,9 +3350,9 @@
    },
    "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau walks through what \"processed\" actually means for milk: heated to 180 degrees for 30 minutes, then homogenized so the cream never separates.\n\nHis view: that heat also wipes out the enzymes that help your body digest it in the first place - part of why homogenized milk sits so much longer on the shelf than the raw kind ever did.\n\nHis fix: look for raw, grass-fed or non-homogenized milk where it's legally sold near you.\n\nHow long does the milk in your fridge actually last?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #milk #rawmilk #readthelabel #foodtruth #wbdaily",
    "posted_at": "2026-11-26T11:54",
-   "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-27T01:52"
+   "tiktok_at": "2026-11-27T03:52",
+   "tiktok_tries": 1
   },
   {
    "file": "KT_LABELWATCH/02_WHY-HYDROGENATED-OIL-HURTS-YOUR-HEART_48s.mp4",
@@ -3472,7 +3472,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611262359292DE1C49E78C3DB34A524'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611270353257FC15B2D95A88749F499'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T20:03",
@@ -3490,7 +3490,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-27T01:59"
+   "tiktok_wait_until": "2026-11-27T05:53"
   },
   {
    "file": "KT_FASTFACTS/01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4",
