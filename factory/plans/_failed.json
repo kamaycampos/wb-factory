@@ -3401,6 +3401,24 @@
     "Why your food is",
     "riskier than cigarettes"
    ]
+  },
+  "ep_v58xdrp_r2/WHATS-IN-YOUR-BONELESS-WINGS": {
+   "plan": "ep_v58xdrp_r2",
+   "source": "v58xdrp.mp4",
+   "brand": "KT_FOODSCAMR2",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHATS-IN-YOUR-BONELESS-WINGS_87s.mp4` - sentence starts with no stop: \"chicken The\""
+   ],
+   "slug": "WHATS-IN-YOUR-BONELESS-WINGS",
+   "in": 2329.0,
+   "out": 2416.0,
+   "start_words": "There's something called boneless",
+   "end_words": "This is a chicken nugget.",
+   "hook": [
+    "What's really",
+    "in your wing meat"
+   ]
   }
  },
  "attempts": {
@@ -3440,6 +3458,7 @@
   "ep_v5h647u_r2": 3,
   "ep_v5kg9ip_r3": 3,
   "ep_v5y9n6n_r2": 2,
-  "ep_v55bpjb_p2": 2
+  "ep_v55bpjb_p2": 2,
+  "ep_v55bpjb_p2_r2": 1
  }
 }

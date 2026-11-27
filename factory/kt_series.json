@@ -2570,7 +2570,8 @@
      "Why your label",
      "lies about natural"
     ],
-    "caption": "On The Kevin Trudeau Show, Kevin Trudeau says the first lie on most packages is the word shoppers trust the most: \"natural.\"\n\nHis view: \"all natural\" carries no real weight - a package can say it and still hide dozens of additives.\n\nHis breakdown of the organic tiers: \"made with organic ingredients\" can mean as little as 10% organic, plain \"organic\" around 80%, and only \"100% organic\" gets you close to the real thing.\n\nHis rule: skip the first two and look for \"100% organic\" specifically.\n\nWhich word on your pantry shelf have you never actually checked?\n\n#kevintrudeau #readthelabel #allnatural #organicfood #foodtruth #wbdaily"
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau says the first lie on most packages is the word shoppers trust the most: \"natural.\"\n\nHis view: \"all natural\" carries no real weight - a package can say it and still hide dozens of additives.\n\nHis breakdown of the organic tiers: \"made with organic ingredients\" can mean as little as 10% organic, plain \"organic\" around 80%, and only \"100% organic\" gets you close to the real thing.\n\nHis rule: skip the first two and look for \"100% organic\" specifically.\n\nWhich word on your pantry shelf have you never actually checked?\n\n#kevintrudeau #readthelabel #allnatural #organicfood #foodtruth #wbdaily",
+    "locked": true
    },
    {
     "slug": "WHY-GRASS-FED-BEEF-RAISES-TESTOSTERONE",
@@ -2902,8 +2903,32 @@
      "Why ginger tea helps",
      "you burn fat"
     ],
-    "caption": "On The Kevin Trudeau Show, Kevin Trudeau shares the easiest version of a habit he says helped his digestion and his waistline: a cup of ginger tea.\n\nHis simple method: one 100% organic ginger tea bag, steeped in hot water for five to ten minutes. No chopping or boiling a pot of root for twenty minutes required.\n\nHis reasoning: ginger helps digestion, helps clear the sinuses, and in his view helps the body burn fat and stimulate metabolism, on top of its vitamin C and anti-inflammatory properties.\n\nKevin Trudeau's rule: keep it simple enough that you'll actually do it daily.\n\nWould a cup of tea before bed replace something less healthy in your routine?\n\n#kevintrudeau #gingertea #digestion #metabolism #naturalhealth #wbdaily"
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau shares the easiest version of a habit he says helped his digestion and his waistline: a cup of ginger tea.\n\nHis simple method: one 100% organic ginger tea bag, steeped in hot water for five to ten minutes. No chopping or boiling a pot of root for twenty minutes required.\n\nHis reasoning: ginger helps digestion, helps clear the sinuses, and in his view helps the body burn fat and stimulate metabolism, on top of its vitamin C and anti-inflammatory properties.\n\nKevin Trudeau's rule: keep it simple enough that you'll actually do it daily.\n\nWould a cup of tea before bed replace something less healthy in your routine?\n\n#kevintrudeau #gingertea #digestion #metabolism #naturalhealth #wbdaily",
+    "locked": true
    }
   ]
+ },
+ "ep_v55bpjb_p3_r2": {
+  "source": "v55bpjb.mp4",
+  "brand": "KT_PROVENRIGHTR2",
+  "note": "27 Nov 2026 - 'Tips & Tricks To Living A Better Life! | The Kevin Trudeau Show | Ep. 27' (Rumble v55bpjb). Weekly agent: retry of YOU-CAN-EAT-MEAT-AND-REACH-100 only (AMERICANS-TAKE-THE-MOST-DRUGS skipped again - its payoff line is FDA-as-criminal plus a Viagra/erection punchline, the same pattern as WB's two TikTok strikes, and the 'drugs more drugs' repeat sits in the middle of that short passage with no clean edge around it). For the meat/vegan clip, the planned end ('than somebody who eats meat') landed in a scrambled span the build's own confirm couldn't match cleanly. Moved the end one clause earlier, to the sentence that already stands alone complete ('don't think that it's a healthy protocol') - also clears the harsh word 'crap' two sentences later, which would have refused the whole clip.",
+  "clips": [
+   {
+    "slug": "YOU-CAN-EAT-MEAT-AND-REACH-100",
+    "in": 1717.9,
+    "out": 1776.79,
+    "hook": [
+     "You can eat meat",
+     "and still reach 100"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points to the actual 100-year-olds living around the world - still gardening, still carrying groceries, still active - and most of them are not vegan.\n\nHis favorite example: George Burns, who smoked six cigars a day, drank three martinis, ate steak every night, and performed on stage at 100 years old. The doctors who told him to quit those habits died before he did.\n\nKevin Trudeau's point isn't \"eat whatever you want\" - it's that a vegan diet isn't automatically the healthier choice.\n\nWhat's one food rule you were taught that you've started to question?\n\n#kevintrudeau #nutrition #longevity #centenarians #healthyaging #wbdaily"
+   }
+  ]
+ },
+ "ep_v58xdrp_r2": {
+  "source": "v58xdrp.mp4",
+  "brand": "KT_FOODSCAMR2",
+  "note": "27 Nov 2026 - 'How Governments & Regulatory Agencies Conspire to Harm Your Health | The Kevin Trudeau Show | Ep. 34' (Rumble v58xdrp). Weekly agent: retry of WHATS-IN-YOUR-BONELESS-WINGS, failed once on a repeated-word glitch ('I've had I've') inside the deboned-chicken/duck/breast examples further into the cut. That passage sits in the middle of the story with no clean edge around it, so moved the end earlier instead, to the punchline that was already complete on its own: he bites in and it's a chicken nugget, not a real wing. Drops the FTC/'garbage trimmings'/'they lied' reveal that followed.",
+  "clips": []
  }
 }
