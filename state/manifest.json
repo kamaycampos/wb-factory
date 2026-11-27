@@ -3480,13 +3480,27 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau singles out soy, almost all of it grown from genetically modified seed today.\n\nHis view: soybean oil in salad dressing can lower testosterone levels, and he says it's usually there because it's the cheapest oil to use, not because it belongs in a vinaigrette.\n\nHis swap: skip the soybean, canola or safflower oil and reach for extra virgin olive oil instead.\n\nWhat oil is actually in your salad dressing?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #soy #soybeanoil #oliveoil #readthelabel #wbdaily",
    "hook": "Why soy lowers your testosterone",
    "bytes": 45660529,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "instagram_story": "story posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - GMO (state/tiktok_avoid.json)"
+   },
    "media_tag": "media",
    "scheduled_at": "2026-11-27T14:47",
    "cta_keyword": "HEALTH",
    "cta_variant": 4,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1805195607445337/",
+    "instagram": "https://www.instagram.com/reel/DgQedQMB7jN/",
+    "youtube": "https://youtube.com/shorts/BtnKnmFa-os"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau singles out soy, almost all of it grown from genetically modified seed today.\n\nHis view: soybean oil in salad dressing can lower testosterone levels, and he says it's usually there because it's the cheapest oil to use, not because it belongs in a vinaigrette.\n\nHis swap: skip the soybean, canola or safflower oil and reach for extra virgin olive oil instead.\n\nWhat oil is actually in your salad dressing?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #soy #soybeanoil #oliveoil #readthelabel #wbdaily",
+   "posted_at": "2026-11-27T14:54"
   },
   {
    "file": "KT_LABELWATCHR2/02_WHY-YOUR-BREAD-IS-FERMENTED-FOR-8-HOURS_53s.mp4",
@@ -3574,7 +3588,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611271714102D73B300F0CC940C30CF'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112719525483647467586CF5195EC9'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T19:51",
@@ -3592,7 +3606,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-27T19:14"
+   "tiktok_wait_until": "2026-11-27T21:52"
   },
   {
    "file": "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4",
