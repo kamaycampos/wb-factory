@@ -1,0 +1,18 @@
+{
+  "source": "v58xdrp.mp4",
+  "brand": "KT_ROOTCAUSE",
+  "test": false,
+  "note": "27 Nov 2026 - 'How Governments & Regulatory Agencies Conspire to Harm Your Health | The Kevin Trudeau Show | Ep. 34' (Rumble v58xdrp). Weekly agent, second pass: one new arc from the unused minutes, clear of the 3 clips already cut (2329-2496, 2865-2922, 3109-3181). Skipped the Harvard-study line right after it ('a 30-year Harvard study reveals ultra-processed food causes early death') - the audio right before it repeats 'Harvard, Harvard' and 'have it have it', the same word-repeat problem that sank a clip earlier this run, and skipped the later 'how bad are ultra-processed foods' list (3186-3226) because trimmed to a clean start it runs under the 45s floor.",
+  "clips": [
+    {
+      "slug": "THE-QUESTION-YOURE-ASKING-WRONG",
+      "in": 2754.0,
+      "out": 2801.0,
+      "start_words": "I talk about the reasons",
+      "end_words": "The real question is, what caused it",
+      "hook": ["Why your headaches aren't", "drug deficiencies"],
+      "send": "Someone who just got a new diagnosis and is already Googling for a quick fix sends this to themselves - anxiety about chasing symptoms for years without ever asking why they got sick in the first place.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out a pattern almost everyone falls into: get sick, then go straight to looking for a quick fix.\n\nHigh blood pressure. Diabetes. A headache. Most people reach for a pill without ever asking why it showed up in the first place.\n\nHis point: a headache isn't there because your body ran out of Tylenol. Every symptom has a cause, and chasing a quick fix without asking what caused it only deals with the surface.\n\nNext time something's wrong, which question do you actually ask first?\n\n#kevintrudeau #naturalhealth #healthtruth #rootcause #wellness #wbdaily"
+    }
+  ]
+}

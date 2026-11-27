@@ -1,0 +1,28 @@
+{
+  "source": "v5ao7jx.mp4",
+  "brand": "KT_HYDRATEFIXR5",
+  "test": false,
+  "note": "27 Nov 2026 - 'Government Censorship & Health Hacks That Will Change Your Life! | The Kevin Trudeau Show | Ep. 38' (Rumble v5ao7jx). Weekly agent: retry of WHAT-WATER-DID-FOR-30000-PATIENTS, failed twice (r2, r3) on the same spot - the start word search kept catching the tail of the prior sentence ('...big problems.') instead of the new one ('Your body is 70% water'), even after a 0.2s nudge. Moved the search anchor a few seconds further in to clear that boundary, and extended the end past the original cut to the fuller payoff (the actual list of pains that went away), which also fixes the clip's length.",
+  "clips": [
+    {
+      "slug": "WHAT-WATER-DID-FOR-30000-PATIENTS",
+      "in": 3593.5,
+      "out": 3654.70,
+      "start_words": "Your body is 70% water",
+      "end_words": "It's all caused by dehydration",
+      "retry_of": "ep_v5ao7jx/WHAT-WATER-DID-FOR-30000-PATIENTS",
+      "hook": ["What water does", "for your pain"],
+      "trial_hooks": [
+        ["30,000 chronic patients,", "all were dehydrated"],
+        ["The coffee habit", "draining your hydration"],
+        ["Your body is", "70 percent water"],
+        ["The glass you're", "skipping each morning"],
+        ["Dr. Stoddard's patients,", "30,000, pain gone"],
+        ["Kevin Trudeau's rule", "for chronic pain"],
+        ["One glass erased", "30,000 people's pain"]
+      ],
+      "send": "A friend with chronic joint or back pain gets sent this before their next doctor visit - anxiety that something this simple might be the fix they've been missing for years.",
+      "caption": "On The Kevin Trudeau Show, Kevin Trudeau points to a doctor named Darrell Stoddard, who worked with more than 30,000 chronic pain patients.\n\nHis finding: most of them were simply dehydrated. Once they got properly hydrated, the pain started to lift - joint pain, back pain, headaches, all of it.\n\nHis explanation: dehydration drives more pain than most people realize, and water is the first thing to check before anything else.\n\nYour body is 70% water. When was the last time you drank a full glass that wasn't coffee, tea or juice?\n\n#kevintrudeau #hydration #water #chronicpain #naturalhealth #wbdaily"
+    }
+  ]
+}
