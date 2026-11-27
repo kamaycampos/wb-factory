@@ -2608,7 +2608,8 @@
      "What hides inside",
      "your favorite chips"
     ],
-    "caption": "On The Kevin Trudeau Show, Kevin Trudeau breaks down monosodium glutamate, MSG, the flavor additive hiding in chips, fast food and \"healthy\" snack bars.\n\nHis view: MSG is an excitotoxin that can make you hungrier, thirstier and more likely to keep eating past full - which he says is exactly why it gets added in the first place.\n\nHis rule: flip the bag over. If monosodium glutamate is on the ingredient list, he skips that brand entirely.\n\nHave you checked the back of your favorite chips lately?\n\n#kevintrudeau #msg #monosodiumglutamate #readthelabel #foodadditives #wbdaily"
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau breaks down monosodium glutamate, MSG, the flavor additive hiding in chips, fast food and \"healthy\" snack bars.\n\nHis view: MSG is an excitotoxin that can make you hungrier, thirstier and more likely to keep eating past full - which he says is exactly why it gets added in the first place.\n\nHis rule: flip the bag over. If monosodium glutamate is on the ingredient list, he skips that brand entirely.\n\nHave you checked the back of your favorite chips lately?\n\n#kevintrudeau #msg #monosodiumglutamate #readthelabel #foodadditives #wbdaily",
+    "locked": true
    },
    {
     "slug": "WHY-YOUR-BREAD-IS-FERMENTED-FOR-8-HOURS",
@@ -2929,6 +2930,29 @@
   "source": "v58xdrp.mp4",
   "brand": "KT_FOODSCAMR2",
   "note": "27 Nov 2026 - 'How Governments & Regulatory Agencies Conspire to Harm Your Health | The Kevin Trudeau Show | Ep. 34' (Rumble v58xdrp). Weekly agent: retry of WHATS-IN-YOUR-BONELESS-WINGS, failed once on a repeated-word glitch ('I've had I've') inside the deboned-chicken/duck/breast examples further into the cut. That passage sits in the middle of the story with no clean edge around it, so moved the end earlier instead, to the punchline that was already complete on its own: he bites in and it's a chicken nugget, not a real wing. Drops the FTC/'garbage trimmings'/'they lied' reveal that followed.",
+  "clips": []
+ },
+ "ep_v58xdrp_p3": {
+  "source": "v58xdrp.mp4",
+  "brand": "KT_ROOTCAUSE",
+  "note": "27 Nov 2026 - 'How Governments & Regulatory Agencies Conspire to Harm Your Health | The Kevin Trudeau Show | Ep. 34' (Rumble v58xdrp). Weekly agent, second pass: one new arc from the unused minutes, clear of the 3 clips already cut (2329-2496, 2865-2922, 3109-3181). Skipped the Harvard-study line right after it ('a 30-year Harvard study reveals ultra-processed food causes early death') - the audio right before it repeats 'Harvard, Harvard' and 'have it have it', the same word-repeat problem that sank a clip earlier this run, and skipped the later 'how bad are ultra-processed foods' list (3186-3226) because trimmed to a clean start it runs under the 45s floor.",
+  "clips": [
+   {
+    "slug": "THE-QUESTION-YOURE-ASKING-WRONG",
+    "in": 2755.78,
+    "out": 2802.91,
+    "hook": [
+     "Why your headaches aren't",
+     "drug deficiencies"
+    ],
+    "caption": "On The Kevin Trudeau Show, Kevin Trudeau points out a pattern almost everyone falls into: get sick, then go straight to looking for a quick fix.\n\nHigh blood pressure. Diabetes. A headache. Most people reach for a pill without ever asking why it showed up in the first place.\n\nHis point: a headache isn't there because your body ran out of Tylenol. Every symptom has a cause, and chasing a quick fix without asking what caused it only deals with the surface.\n\nNext time something's wrong, which question do you actually ask first?\n\n#kevintrudeau #naturalhealth #healthtruth #rootcause #wellness #wbdaily"
+   }
+  ]
+ },
+ "ep_v5ao7jx_r5": {
+  "source": "v5ao7jx.mp4",
+  "brand": "KT_HYDRATEFIXR5",
+  "note": "27 Nov 2026 - 'Government Censorship & Health Hacks That Will Change Your Life! | The Kevin Trudeau Show | Ep. 38' (Rumble v5ao7jx). Weekly agent: retry of WHAT-WATER-DID-FOR-30000-PATIENTS, failed twice (r2, r3) on the same spot - the start word search kept catching the tail of the prior sentence ('...big problems.') instead of the new one ('Your body is 70% water'), even after a 0.2s nudge. Moved the search anchor a few seconds further in to clear that boundary, and extended the end past the original cut to the fuller payoff (the actual list of pains that went away), which also fixes the clip's length.",
   "clips": []
  }
 }

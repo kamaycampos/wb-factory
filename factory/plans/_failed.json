@@ -3419,6 +3419,42 @@
     "What's really",
     "in your wing meat"
    ]
+  },
+  "ep_v55bpjb_p2_r2/THE-HEALTHY-SWEETENER-THATS-A-SCAM": {
+   "plan": "ep_v55bpjb_p2_r2",
+   "source": "v55bpjb.mp4",
+   "brand": "KT_SWEETLIER2",
+   "tries": 2,
+   "why": [
+    "FAIL 01_THE-HEALTHY-SWEETENER-THATS-A-SCAM_52s.mp4: ends off the planned words: plan ends 'It's not agave that's horrible. It's a poison.', clip ends 'it agave that horrible to poison'"
+   ],
+   "slug": "THE-HEALTHY-SWEETENER-THATS-A-SCAM",
+   "in": 1614.2,
+   "out": 1665.2,
+   "start_words": "Common low-calorie sweetener linked to",
+   "end_words": "It's not agave that's horrible. It's a poison.",
+   "hook": [
+    "The 'healthy' sweetener",
+    "tied to strokes"
+   ]
+  },
+  "ep_v5ao7jx_r5/WHAT-WATER-DID-FOR-30000-PATIENTS": {
+   "plan": "ep_v5ao7jx_r5",
+   "source": "v5ao7jx.mp4",
+   "brand": "KT_HYDRATEFIXR5",
+   "tries": 2,
+   "why": [
+    "NOT QUEUED** `01_WHAT-WATER-DID-FOR-30000-PATIENTS_63s.mp4` - opens mid-sentence on \"problems.\"; stray full stop: \"away. pain\""
+   ],
+   "slug": "WHAT-WATER-DID-FOR-30000-PATIENTS",
+   "in": 3593.5,
+   "out": 3654.7,
+   "start_words": "Your body is 70% water",
+   "end_words": "It's all caused by dehydration",
+   "hook": [
+    "What water does",
+    "for your pain"
+   ]
   }
  },
  "attempts": {
@@ -3459,6 +3495,6 @@
   "ep_v5kg9ip_r3": 3,
   "ep_v5y9n6n_r2": 2,
   "ep_v55bpjb_p2": 2,
-  "ep_v55bpjb_p2_r2": 1
+  "ep_v55bpjb_p2_r2": 2
  }
 }
