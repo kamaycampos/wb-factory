@@ -3135,7 +3135,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611270752043894E464FF332D5C6145'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112710122281D83DDCFBB03504C986'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T07:33",
@@ -3153,7 +3153,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-27T09:52"
+   "tiktok_wait_until": "2026-11-27T12:12"
   },
   {
    "file": "KT_FOODFILE/02_WHAT-NO-MSG-ADDED-REALLY-MEANS_47s.mp4",
