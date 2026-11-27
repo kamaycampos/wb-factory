@@ -3788,7 +3788,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112721353891CB950265F9C722607B'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611272353475270BA4E2F1C5D2E6C8B'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-25T12:14",
@@ -3806,7 +3806,7 @@
    "tiktok_retry": true,
    "tiktok_resend": true,
    "tiktok_tries": 0,
-   "tiktok_wait_until": "2026-11-27T23:35"
+   "tiktok_wait_until": "2026-11-28T01:53"
   },
   {
    "file": "KT_SCALETRUTH/01_FORGET-THE-SCALE-TAKE-PHOTOS_69s.mp4",
