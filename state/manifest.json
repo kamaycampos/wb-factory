@@ -3540,7 +3540,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128004121723CA0B62C9011339D24'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T20:03",
@@ -3555,10 +3555,9 @@
    },
    "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau compares two loaves: wheat from Italy, naturally fermented close to 48 hours, against most American and Canadian wheat, fermented for only about 8 hours.\n\nHis view: that shorter fermentation is a big reason high-gluten wheat causes so much gas, bloating and allergic reaction for so many people.\n\nHis workaround: he looks for \"product of Italy\" or \"durum wheat\" on bread and pasta labels before buying.\n\nNext time you grab a loaf, what does the label actually say?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #wheat #gluten #fermentation #readthelabel #wbdaily",
    "posted_at": "2026-11-21T20:07",
-   "tiktok_retry": true,
-   "tiktok_tries": 0,
+   "tiktok_tries": 1,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T02:41"
+   "tiktok_at": "2026-11-28T03:53"
   },
   {
    "file": "KT_FASTFACTS/01_THE-JUICE-MACHINE-THAT-WASTES-NUTRIENTS_108s.mp4",
@@ -3614,7 +3613,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128015315E80BA95CDDEF093A4DBF'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611280354357F91EABB50912944F09B'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T19:51",
@@ -3632,7 +3631,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T03:53"
+   "tiktok_wait_until": "2026-11-28T05:54"
   },
   {
    "file": "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4",
