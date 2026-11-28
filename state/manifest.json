@@ -3443,7 +3443,7 @@
     "facebook": "posted",
     "instagram": "posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128151442586E19FB9FB0286CE662'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-27T12:04",
@@ -3458,9 +3458,9 @@
    },
    "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau says the testosterone fix most men overlook isn't a supplement - it's the beef itself.\n\nHis view: 100% grass-fed beef, from calves that never touched grain, carries far more CLA than regular beef, and CLA is tied to raising testosterone.\n\nHis story: a friend came back from three weeks in Argentina eating grass-fed beef daily and said he felt like a different person - more energy, better sleep, more drive.\n\nHis rule: look past \"grass-fed\" alone and look for \"100% grass-fed,\" since the label rules let regular beef wear the same words.\n\nWhat does the beef in your fridge actually eat?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #grassfedbeef #testosterone #readthelabel #foodtruth #wbdaily",
    "posted_at": "2026-11-27T12:16",
-   "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T17:14"
+   "tiktok_at": "2026-11-28T17:35",
+   "tiktok_tries": 1
   },
   {
    "file": "KT_HORMONEFACTS/02_WHY-YOUR-LABEL-LIES-ABOUT-NATURAL_54s.mp4",
@@ -3582,7 +3582,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128153421B56D3E0276F61D6C8184'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112817371998BFA378F6EE35762AF5'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-28T07:43",
@@ -3599,7 +3599,7 @@
    "posted_at": "2026-11-28T08:00",
    "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T17:34"
+   "tiktok_wait_until": "2026-11-28T19:37"
   },
   {
    "file": "KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4",
