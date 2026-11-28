@@ -2198,7 +2198,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-11-28T14:34",
+   "scheduled_at": "2026-12-02T08:00",
    "cta_keyword": "HEALTH",
    "cta_variant": 0,
    "cta_kind": "offer"
@@ -3642,7 +3642,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128161350868619F5B10AFD6F4575'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611281834044EC5EF36D5C7E57A1740'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T19:51",
@@ -3660,7 +3660,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T18:13"
+   "tiktok_wait_until": "2026-11-28T20:34"
   },
   {
    "file": "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4",
@@ -3978,7 +3978,7 @@
    "done": false,
    "status": {},
    "media_tag": "media",
-   "scheduled_at": "2026-12-02T08:00",
+   "scheduled_at": "2026-11-28T14:34",
    "cta_keyword": "HEALTH",
    "cta_variant": 2,
    "cta_kind": "question"
