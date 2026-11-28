@@ -3613,7 +3613,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112806131934E191B3097EB84FFFD0'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128083329C27C567AE9784959D7CA'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T19:51",
@@ -3631,7 +3631,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T08:13"
+   "tiktok_wait_until": "2026-11-28T10:33"
   },
   {
    "file": "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4",
