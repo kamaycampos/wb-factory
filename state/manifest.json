@@ -3570,7 +3570,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128130014C9C05202556A4664276D'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128153421B56D3E0276F61D6C8184'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-28T07:43",
@@ -3587,7 +3587,7 @@
    "posted_at": "2026-11-28T08:00",
    "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T15:00"
+   "tiktok_wait_until": "2026-11-28T17:34"
   },
   {
    "file": "KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4",
