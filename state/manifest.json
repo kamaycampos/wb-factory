@@ -3232,7 +3232,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611281433258BC77CA4909E8667FC45'}}"
+    "tiktok": "in your TikTok inbox - open TikTok and tap post"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-19T07:34",
@@ -3247,10 +3247,9 @@
    },
    "caption_at_post": "Kevin Trudeau's split on sweeteners: one kind is fine, the other isn't.\n\nOrganic cane sugar, in his view, was never the problem. What he warns against are the substitutes people switched to - aspartame (sold as NutraSweet), sucralose and xylitol.\n\nHe says they raise appetite instead of curbing it, and throw hormones off balance instead of protecting them.\n\nHis rule: a label leaning on an artificial sweetener instead of real sugar isn't the healthy swap it was sold as.\n\nWhich one is in your coffee or soda right now?\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #sweeteners #aspartame #labelreading #ingredients #healthtips",
    "posted_at": "2026-11-19T07:43",
-   "tiktok_retry": true,
-   "tiktok_tries": 0,
+   "tiktok_tries": 1,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T16:33"
+   "tiktok_at": "2026-11-28T16:53"
   },
   {
    "file": "KT_PUREWATCH/01_WHATS-REALLY-IN-YOUR-GUMMY_49s.mp4",
