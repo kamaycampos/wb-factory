@@ -2857,14 +2857,27 @@
    "caption": "On The Kevin Trudeau Show, Kevin Trudeau tells the story of how healthcare became a business.\n\nHis account: in the early 1900s, John D. Rockefeller noticed most people weren't going to doctors, so drug sales stayed slow. Kevin says Rockefeller helped found the American Medical Association and backed the drug companies that needed patients walking through the door.\n\nThe fix, in Kevin's telling: insurance. Get people to visit a doctor every year, and give doctors a reason to prescribe.\n\nKevin Trudeau's view: that single idea, more than a century old, still shapes why you go to the doctor today.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #healthcare #medicalhistory #naturalhealth #askquestions #wbdaily",
    "hook": "The plan behind your doctor visit",
    "bytes": 70343909,
-   "done": false,
-   "status": {},
+   "done": true,
+   "status": {
+    "facebook": "posted",
+    "instagram": "posted",
+    "youtube": "posted",
+    "tiktok": "not for TikTok - the free-ebook end card (state/tiktok_avoid.json)"
+   },
    "media_tag": "media",
    "endcard": "ebook",
    "scheduled_at": "2026-11-28T11:09",
    "cta_keyword": "EBOOK",
    "cta_variant": 4,
-   "cta_kind": "offer"
+   "cta_kind": "offer",
+   "posting": false,
+   "links": {
+    "facebook": "https://facebook.com/reel/1130180056653679/",
+    "instagram": "https://www.instagram.com/reel/DgIbBZ7ERkL/",
+    "youtube": "https://youtube.com/shorts/SVtoNwfhMnI"
+   },
+   "caption_at_post": "On The Kevin Trudeau Show, Kevin Trudeau tells the story of how healthcare became a business.\n\nHis account: in the early 1900s, John D. Rockefeller noticed most people weren't going to doctors, so drug sales stayed slow. Kevin says Rockefeller helped found the American Medical Association and backed the drug companies that needed patients walking through the door.\n\nThe fix, in Kevin's telling: insurance. Get people to visit a doctor every year, and give doctors a reason to prescribe.\n\nKevin Trudeau's view: that single idea, more than a century old, still shapes why you go to the doctor today.\n\nKevin Trudeau founded World's Best Nutritionals & Organics. Comment HEALTH and we'll DM you the link to World's Best Daily.\nFollow for the health truths nobody tells you about your food and your body.\n\n#kevintrudeau #healthcare #medicalhistory #naturalhealth #askquestions #wbdaily",
+   "posted_at": "2026-11-28T11:14"
   },
   {
    "file": "KT_CAREFACTS/02_HOW-YOUR-CANDY-DYE-GOT-BANNED_46s.mp4",
@@ -3630,7 +3643,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128131331AD820C6A5E25DF654E6C'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128161350868619F5B10AFD6F4575'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-24T19:51",
@@ -3648,7 +3661,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T15:13"
+   "tiktok_wait_until": "2026-11-28T18:13"
   },
   {
    "file": "KT_FOODRULES/01_WHAT-OIL-DOES-TO-YOUR-ARTERIES_47s.mp4",
