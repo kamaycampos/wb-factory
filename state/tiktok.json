@@ -1,11 +1,11 @@
 {
- "at": "2026-11-28T08:25",
+ "at": "2026-11-28T13:52",
  "account": "wb_organics",
  "profile": {
-  "following_count": 4,
-  "likes_count": 941,
   "video_count": 91,
-  "follower_count": 93
+  "follower_count": 93,
+  "following_count": 4,
+  "likes_count": 941
  },
  "videos": {
   "KT_SCALETRUTH/02_THE-GINGER-TEA-THAT-BURNS-FAT_47s.mp4": {
@@ -30,7 +30,7 @@
   },
   "KT_HEARTFACTS/01_WHY-YOUR-WATER-HAS-HIDDEN-CHLORINE_42s.mp4": {
    "id": "7712935190150270238",
-   "view_count": 12,
+   "view_count": 14,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -660,7 +660,7 @@
   },
   "KT_ARTERYCARER2/02_HOW-CHLORINE-GETS-IN-YOUR-SKIN_50s.mp4": {
    "id": "7702935314267983118",
-   "view_count": 323,
+   "view_count": 324,
    "like_count": 17,
    "comment_count": 0,
    "share_count": 1,
