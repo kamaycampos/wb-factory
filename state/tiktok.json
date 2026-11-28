@@ -1,16 +1,26 @@
 {
- "at": "2026-11-27T21:37",
+ "at": "2026-11-28T02:32",
  "account": "wb_organics",
  "profile": {
+  "likes_count": 941,
+  "video_count": 90,
   "follower_count": 93,
-  "following_count": 4,
-  "likes_count": 940,
-  "video_count": 89
+  "following_count": 4
  },
  "videos": {
-  "KT_FOODPROOF/01_WHY-YOUR-SKIN-DRINKS-TOXINS-TOO_44s.mp4": {
+  "KT_VITAMINFACT/02_WHY-YOUR-PILL-WONT-DISSOLVE_71s.mp4": {
+   "id": "7712978566438210830",
+   "view_count": 35,
+   "like_count": 0,
+   "comment_count": 0,
+   "share_count": 0,
+   "share_url": "https://www.tiktok.com/@wb_organics/video/7712978566438210830?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
+   "duration": 71,
+   "posted": "2026-11-27T22:16"
+  },
+  "KT_HEARTFACTS/01_WHY-YOUR-WATER-HAS-HIDDEN-CHLORINE_42s.mp4": {
    "id": "7712935190150270238",
-   "view_count": 4,
+   "view_count": 12,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -20,8 +30,8 @@
   },
   "KT_HYDRATEFIXR4/01_THE-SWEETENER-RULE-YOURE-GETTING-WRONG_113s.mp4": {
    "id": "7712874400923651358",
-   "view_count": 272,
-   "like_count": 9,
+   "view_count": 295,
+   "like_count": 10,
    "comment_count": 0,
    "share_count": 0,
    "share_url": "https://www.tiktok.com/@wb_organics/video/7712874400923651358?utm_campaign=tt4d_open_api&utm_source=sbawewz4fdz6a5db76",
@@ -40,7 +50,7 @@
   },
   "KT_VITAMINFACT/01_WHY-SCURVY-EXPOSED-YOUR-VITAMIN-C_98s.mp4": {
    "id": "7712588285578726670",
-   "view_count": 40,
+   "view_count": 42,
    "like_count": 0,
    "comment_count": 0,
    "share_count": 0,
@@ -220,7 +230,7 @@
   },
   "KT_HYDRATEFIX/01_WHY-YOUR-COFFEE-BLOCKS-YOUR-MUSCLE_163s.mp4": {
    "id": "7708897334675000590",
-   "view_count": 372,
+   "view_count": 373,
    "like_count": 21,
    "comment_count": 0,
    "share_count": 7,
@@ -430,7 +440,7 @@
   },
   "KT_SCIENCESAYS/01_WHOSE-SCIENCE-ON-YOUR-TAP-WATER_55s.mp4": {
    "id": "7706220050268704030",
-   "view_count": 268,
+   "view_count": 269,
    "like_count": 10,
    "comment_count": 2,
    "share_count": 0,
@@ -500,7 +510,7 @@
   },
   "KT_ARTERYFACTSR2/01_WHY-YOUR-MILK-NEVER-GOES-BAD_134s.mp4": {
    "id": "7705137486888013069",
-   "view_count": 197,
+   "view_count": 198,
    "like_count": 6,
    "comment_count": 0,
    "share_count": 2,
