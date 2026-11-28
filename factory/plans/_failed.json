@@ -3455,6 +3455,60 @@
     "What water does",
     "for your pain"
    ]
+  },
+  "ep_v5i1vo4_p2/WHY-CORN-IS-MAKING-YOU-FAT": {
+   "plan": "ep_v5i1vo4_p2",
+   "source": "v5i1vo4.mp4",
+   "brand": "KT_TENFOODS",
+   "tries": 1,
+   "why": [
+    "FAIL 01_WHY-CORN-IS-MAKING-YOU-FAT_128s.mp4: [FAIL] 01_WHY-CORN-IS-MAKING-YOU-FAT_128s.mp4                 41 captions vs the sound  median -0.00s  worst-10% 0.62s  | words captioned 100%"
+   ],
+   "slug": "WHY-CORN-IS-MAKING-YOU-FAT",
+   "in": 3956.4,
+   "out": 4095.54,
+   "start_words": "Stay away from corn",
+   "end_words": "Stay away from it",
+   "hook": [
+    "Why corn fattens",
+    "your body too"
+   ]
+  },
+  "ep_v5i1vo4_p2/WHAT-DIET-SODA-DOES-TO-YOU": {
+   "plan": "ep_v5i1vo4_p2",
+   "source": "v5i1vo4.mp4",
+   "brand": "KT_TENFOODS",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHAT-DIET-SODA-DOES-TO-YOU_97s.mp4: ends off the planned words: plan ends 'make you anxious, stressed, and depressed', clip ends 'us know in the comments below'"
+   ],
+   "slug": "WHAT-DIET-SODA-DOES-TO-YOU",
+   "in": 4186.5,
+   "out": 4276.86,
+   "start_words": "You take two people",
+   "end_words": "make you anxious, stressed, and depressed",
+   "hook": [
+    "What diet soda does",
+    "to you"
+   ]
+  },
+  "ep_v5i1vo4_p2/WHY-SOME-SEAFOOD-ISNT-SAFE": {
+   "plan": "ep_v5i1vo4_p2",
+   "source": "v5i1vo4.mp4",
+   "brand": "KT_TENFOODS",
+   "tries": 1,
+   "why": [
+    "FAIL 02_WHY-SOME-SEAFOOD-ISNT-SAFE_144s.mp4: [FAIL] 02_WHY-SOME-SEAFOOD-ISNT-SAFE_144s.mp4                 51 captions vs the sound  median +0.00s  worst-10% 0.61s  | words captioned 99%"
+   ],
+   "slug": "WHY-SOME-SEAFOOD-ISNT-SAFE",
+   "in": 4834.66,
+   "out": 4981.38,
+   "start_words": "Why shy away from shellfish",
+   "end_words": "the flesh was pure",
+   "hook": [
+    "Why shellfish",
+    "isn't safe for you"
+   ]
   }
  },
  "attempts": {
