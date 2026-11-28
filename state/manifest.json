@@ -3004,7 +3004,7 @@
     "instagram": "posted",
     "instagram_story": "story posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '2026112815533870D7B03AC127F96C2CA4'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '202611281813380C34A9504F1BD7799A1D'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-21T16:42",
@@ -3022,7 +3022,7 @@
    "tiktok_retry": true,
    "tiktok_tries": 0,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T17:53"
+   "tiktok_wait_until": "2026-11-28T20:13"
   },
   {
    "file": "KT_HEARTFACTS/01_WHAT-YOUR-DOCTOR-MUST-PRESCRIBE_63s.mp4",
@@ -3925,7 +3925,11 @@
    "bytes": 90705763,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-12-02T10:54",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 3,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_HYDRATEFIXR6/02_WHAT-WATER-DID-FOR-30000-PATIENTS_49s.mp4",
@@ -3934,7 +3938,11 @@
    "bytes": 47118479,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-12-01T21:08",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 1,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_TENFOODS/01_CHECK-YOUR-SHELLFISH-BEFORE-YOU-ORDER_84s.mp4",
@@ -3943,7 +3951,11 @@
    "bytes": 73611782,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-12-02T14:54",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 4,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_TENFOODS/01_WHAT-3-MONTHS-WITHOUT-PORK-DID_50s.mp4",
@@ -3952,7 +3964,11 @@
    "bytes": 43382212,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-12-01T18:06",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 0,
+   "cta_kind": "offer"
   },
   {
    "file": "KT_TENFOODS/02_WHY-HOMOGENIZED-DAIRY-SCARS-YOUR-ARTERIES_66s.mp4",
@@ -3961,7 +3977,11 @@
    "bytes": 58412528,
    "done": false,
    "status": {},
-   "media_tag": "media"
+   "media_tag": "media",
+   "scheduled_at": "2026-12-02T08:00",
+   "cta_keyword": "HEALTH",
+   "cta_variant": 2,
+   "cta_kind": "question"
   }
  ]
 }
