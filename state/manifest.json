@@ -3431,7 +3431,7 @@
     "facebook": "posted",
     "instagram": "posted",
     "youtube": "posted",
-    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128031345F7D251BB1833B8410544'}}"
+    "tiktok": "init failed 400: {'error': {'code': 'spam_risk_too_many_pending_share', 'message': 'spam_risk_too_many_pending_share', 'log_id': '20261128055346A937175656D4574FAE58'}}"
    },
    "media_tag": "media",
    "scheduled_at": "2026-11-27T12:04",
@@ -3448,7 +3448,7 @@
    "posted_at": "2026-11-27T12:16",
    "tiktok_retry": true,
    "tiktok_resend": true,
-   "tiktok_wait_until": "2026-11-28T05:13"
+   "tiktok_wait_until": "2026-11-28T07:53"
   },
   {
    "file": "KT_HORMONEFACTS/02_WHY-YOUR-LABEL-LIES-ABOUT-NATURAL_54s.mp4",
